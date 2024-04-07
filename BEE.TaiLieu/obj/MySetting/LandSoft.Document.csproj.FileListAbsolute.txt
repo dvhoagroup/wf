@@ -1,0 +1,17 @@
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Document\bin\MySetting\LandSoft.Document.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Document\bin\MySetting\LandSoft.FTP.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Document\bin\MySetting\LandSoft.Library.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Document\bin\MySetting\LandSoft.Translate.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Document\bin\MySetting\LandSoft.FTP.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Document\bin\MySetting\LandSoft.Library.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Document\bin\MySetting\LandSoft.Translate.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Document\obj\MySetting\LandSoft.TaiLieu.ctlManager.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Document\obj\MySetting\LandSoft.TaiLieu.ctlTaiLieu.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Document\obj\MySetting\LandSoft.TaiLieu.frmEdit.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Document\obj\MySetting\LandSoft.TaiLieu.frmLoaiTaiLieu.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Document\obj\MySetting\LandSoft.Document.Properties.Resources.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Document\obj\MySetting\LandSoft.Web.frmConfig.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Document\obj\MySetting\LandSoft.Web.frmDownloadFile.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Document\obj\MySetting\LandSoft.Web.frmUploadFile.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Document\obj\MySetting\LandSoft.Document.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Document\obj\MySetting\LandSoft.Document.dll

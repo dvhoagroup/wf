@@ -1,0 +1,4 @@
+D:\Projects\Software\2012\PhongPhu\Updater\obj\Release\Updater.csprojResolveAssemblyReference.cache
+D:\Projects\Software\2012\PhongPhu\Updater\obj\Release\Updater.Properties.Resources.resources
+D:\Projects\Software\2012\PhongPhu\Updater\obj\Release\Updater.UpdateVer.resources
+D:\Projects\Software\2012\PhongPhu\Updater\obj\Release\Updater.csproj.GenerateResource.Cache

@@ -1,0 +1,50 @@
+E:\Projects\Software\2014\NHOFirstHome\EncryptConnect\obj\Debug\DIP.EncryptConnect.csprojResolveAssemblyReference.cache
+E:\Projects\Software\2014\NHOFirstHome\EncryptConnect\obj\Debug\EncryptConnect.frmMain.resources
+E:\Projects\Software\2014\NHOFirstHome\EncryptConnect\obj\Debug\DIP.EncryptConnect.Properties.Resources.resources
+E:\Projects\Software\2014\NHOFirstHome\EncryptConnect\obj\Debug\DIP.EncryptConnect.csproj.GenerateResource.Cache
+E:\Projects\Software\2014\NHOFirstHome\EncryptConnect\bin\Debug\DIP.EncryptConnect.pdb
+E:\Projects\Software\2014\NHOFirstHome\EncryptConnect\obj\Debug\DIP.EncryptConnect.pdb
+E:\Projects\Software\2014\NHOFirstHome\EncryptConnect\bin\Debug\DIP.EncryptConnect.exe
+E:\Projects\Software\2014\NHOFirstHome\EncryptConnect\obj\Debug\DIP.EncryptConnect.exe
+E:\Projects\Software\2015\HungThinh\EncryptConnect\bin\Debug\DIP.EncryptConnect.exe
+E:\Projects\Software\2015\HungThinh\EncryptConnect\bin\Debug\DIP.EncryptConnect.pdb
+E:\Projects\Software\2015\HungThinh\EncryptConnect\obj\Debug\EncryptConnect.frmMain.resources
+E:\Projects\Software\2015\HungThinh\EncryptConnect\obj\Debug\DIP.EncryptConnect.Properties.Resources.resources
+E:\Projects\Software\2015\HungThinh\EncryptConnect\obj\Debug\DIP.EncryptConnect.csproj.GenerateResource.Cache
+E:\Projects\Software\2015\HungThinh\EncryptConnect\obj\Debug\DIP.EncryptConnect.exe
+E:\Projects\Software\2015\HungThinh\EncryptConnect\obj\Debug\DIP.EncryptConnect.pdb
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\EncryptConnect\bin\Debug\DIP.EncryptConnect.exe
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\EncryptConnect\bin\Debug\DIP.EncryptConnect.pdb
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\EncryptConnect\obj\Debug\EncryptConnect.frmMain.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\EncryptConnect\obj\Debug\DIP.EncryptConnect.Properties.Resources.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\EncryptConnect\obj\Debug\DIP.EncryptConnect.csproj.GenerateResource.Cache
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\EncryptConnect\obj\Debug\DIP.EncryptConnect.exe
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\EncryptConnect\obj\Debug\DIP.EncryptConnect.pdb
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\EncryptConnect\bin\Debug\DIP.EncryptConnect.exe
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\EncryptConnect\obj\Debug\EncryptConnect.frmMain.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\EncryptConnect\obj\Debug\DIP.EncryptConnect.Properties.Resources.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\EncryptConnect\obj\Debug\DIP.EncryptConnect.csproj.GenerateResource.Cache
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\EncryptConnect\obj\Debug\DIP.EncryptConnect.exe
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\EncryptConnect\obj\Debug\DIP.EncryptConnect.pdb
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\EncryptConnect\bin\Debug\DIP.EncryptConnect.pdb
+D:\BEESKY\REM\BEEREM HOABINH\EncryptConnect\bin\Debug\DIP.EncryptConnect.exe
+D:\BEESKY\REM\BEEREM HOABINH\EncryptConnect\bin\Debug\DIP.EncryptConnect.pdb
+D:\BEESKY\REM\BEEREM HOABINH\EncryptConnect\obj\Debug\EncryptConnect.frmMain.resources
+D:\BEESKY\REM\BEEREM HOABINH\EncryptConnect\obj\Debug\DIP.EncryptConnect.Properties.Resources.resources
+D:\BEESKY\REM\BEEREM HOABINH\EncryptConnect\obj\Debug\DIP.EncryptConnect.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM HOABINH\EncryptConnect\obj\Debug\DIP.EncryptConnect.exe
+D:\BEESKY\REM\BEEREM HOABINH\EncryptConnect\obj\Debug\DIP.EncryptConnect.pdb
+D:\My Job\BeeSky\BEEREM HOABINH\EncryptConnect\obj\Debug\EncryptConnect.frmMain.resources
+D:\My Job\BeeSky\BEEREM HOABINH\EncryptConnect\obj\Debug\DIP.EncryptConnect.csproj.GenerateResource.Cache
+D:\My Job\BeeSky\BEEREM HOABINH\EncryptConnect\obj\Debug\DIP.EncryptConnect.exe
+D:\My Job\BeeSky\BEEREM HOABINH\EncryptConnect\obj\Debug\DIP.EncryptConnect.pdb
+D:\My Job\BeeSky\BEEREM HOABINH\EncryptConnect\bin\Debug\DIP.EncryptConnect.exe
+D:\My Job\BeeSky\BEEREM HOABINH\EncryptConnect\bin\Debug\DIP.EncryptConnect.pdb
+D:\My Job\BeeSky\BEEREM HOABINH\EncryptConnect\obj\Debug\DIP.EncryptConnect.Properties.Resources.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\EncryptConnect\bin\Debug\DIP.EncryptConnect.exe
+D:\BEESKY\REM\BEEREM HOABINHV2\EncryptConnect\bin\Debug\DIP.EncryptConnect.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\EncryptConnect\obj\Debug\EncryptConnect.frmMain.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\EncryptConnect\obj\Debug\DIP.EncryptConnect.Properties.Resources.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\EncryptConnect\obj\Debug\DIP.EncryptConnect.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM HOABINHV2\EncryptConnect\obj\Debug\DIP.EncryptConnect.exe
+D:\BEESKY\REM\BEEREM HOABINHV2\EncryptConnect\obj\Debug\DIP.EncryptConnect.pdb

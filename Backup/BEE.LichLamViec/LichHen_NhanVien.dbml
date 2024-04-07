@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="BEEREMA_EPhat" Class="LichHen_NhanVienDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=112.213.84.23;Initial Catalog=BEEREMA_EPhat;User ID=ephat_login" SettingsObjectName="BEE.LichLamViec.Properties.Settings" SettingsPropertyName="BEEREMA_EPhatConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.LichHen_NhanVien" Member="LichHen_NhanViens">
+    <Type Name="LichHen_NhanVien">
+      <Column Name="MaLH" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MaNV" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="IsMain" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="IsNhac" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="DaNhac" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="NgayNhac" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

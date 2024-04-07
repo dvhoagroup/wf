@@ -1,0 +1,141 @@
+D:\DIPVietnam\LandSoft\HungThinh\LandSoft.DIPUserControl\obj\Debug\ResolveAssemblyReference.cache
+D:\DIPVietnam\LandSoft\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.frmDuyetV2.resources
+D:\DIPVietnam\LandSoft\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlNguoiDungTen.resources
+D:\DIPVietnam\LandSoft\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlPaymentBill.resources
+D:\DIPVietnam\LandSoft\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlPaymentHistory.resources
+D:\DIPVietnam\LandSoft\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlPhieuThanhToan.resources
+D:\DIPVietnam\LandSoft\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlReceipt.resources
+D:\DIPVietnam\LandSoft\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlTemplate.resources
+D:\DIPVietnam\LandSoft\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.frmDuyet.resources
+D:\DIPVietnam\LandSoft\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.frmSearch.resources
+D:\DIPVietnam\LandSoft\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.frmTemplate.resources
+D:\DIPVietnam\LandSoft\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.GiaoDichControl.resources
+D:\DIPVietnam\LandSoft\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.Loading_frm.resources
+D:\DIPVietnam\LandSoft\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.Properties.Resources.resources
+D:\DIPVietnam\LandSoft\HungThinh\LandSoft.DIPUserControl\obj\Debug\ResGen.read.1.tlog
+D:\DIPVietnam\LandSoft\HungThinh\LandSoft.DIPUserControl\obj\Debug\ResGen.write.1.tlog
+D:\DIPVietnam\LandSoft\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.dll.licenses
+D:\DIPVietnam\LandSoft\HungThinh\DLL\LandSoft.DIPUserControl.dll
+D:\DIPVietnam\LandSoft\HungThinh\DLL\LandSoft.DIPUserControl.pdb
+D:\DIPVietnam\LandSoft\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.dll
+D:\DIPVietnam\LandSoft\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.pdb
+D:\DIPVietnam\LandSoft\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.ctlPromotion.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.csprojResolveAssemblyReference.cache
+E:\Projects\Software\2015\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.ctlPromotion.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.frmDuyetV2.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlNguoiDungTen.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlPaymentBill.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlPaymentHistory.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlPhieuThanhToan.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlReceipt.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlTemplate.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.frmDuyet.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.frmSearch.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.frmTemplate.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.GiaoDichControl.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.Loading_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.Properties.Resources.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.csproj.GenerateResource.Cache
+E:\Projects\Software\2015\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.dll
+E:\Projects\Software\2015\HungThinh\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.pdb
+E:\Projects\Software\2015\HungThinh\DLL\LandSoft.DIPUserControl.dll
+E:\Projects\Software\2015\HungThinh\DLL\LandSoft.DIPUserControl.pdb
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.csprojResolveAssemblyReference.cache
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.ctlPromotion.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.frmDuyetV2.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlNguoiDungTen.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlPaymentBill.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlPaymentHistory.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlPhieuThanhToan.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlReceipt.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlTemplate.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.frmDuyet.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.frmSearch.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.frmTemplate.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.GiaoDichControl.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.Loading_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.Properties.Resources.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.csproj.GenerateResource.Cache
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.dll
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.pdb
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\DLL\LandSoft.DIPUserControl.dll
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\DLL\LandSoft.DIPUserControl.pdb
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.csprojResolveAssemblyReference.cache
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.ctlPromotion.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.frmDuyetV2.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlNguoiDungTen.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlPaymentBill.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlPaymentHistory.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlPhieuThanhToan.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlReceipt.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlTemplate.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.frmDuyet.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.frmSearch.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.frmTemplate.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.GiaoDichControl.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.Loading_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.Properties.Resources.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.csproj.GenerateResource.Cache
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.dll
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.pdb
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\DLL\LandSoft.DIPUserControl.dll
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\DLL\LandSoft.DIPUserControl.pdb
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.csprojResolveAssemblyReference.cache
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.ctlPromotion.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.frmDuyetV2.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlNguoiDungTen.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlPaymentBill.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlPaymentHistory.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlPhieuThanhToan.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlReceipt.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlTemplate.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.frmDuyet.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.frmSearch.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.frmTemplate.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.GiaoDichControl.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.Loading_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.Properties.Resources.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.dll
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.pdb
+D:\BEESKY\REM\BEEREM HOABINH\DLL\LandSoft.DIPUserControl.dll
+D:\BEESKY\REM\BEEREM HOABINH\DLL\LandSoft.DIPUserControl.pdb
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.csprojResolveAssemblyReference.cache
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.ctlPromotion.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.frmDuyetV2.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlNguoiDungTen.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlPaymentBill.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlPaymentHistory.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlPhieuThanhToan.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlReceipt.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlTemplate.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.frmDuyet.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.frmSearch.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.frmTemplate.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.GiaoDichControl.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.Loading_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.Properties.Resources.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.csproj.GenerateResource.Cache
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.dll.licenses
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.dll
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.csprojResolveAssemblyReference.cache
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.ctlPromotion.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.frmDuyetV2.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlNguoiDungTen.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlPaymentBill.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlPaymentHistory.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlPhieuThanhToan.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlReceipt.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.ctlTemplate.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.frmDuyet.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.frmSearch.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.frmTemplate.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.GiaoDichControl.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.DIPUserControl\obj\Debug\LandSoft.NghiepVu.Loading_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.Properties.Resources.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.DIPUserControl\obj\Debug\LandSoft.DIPUserControl.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\DLL\LandSoft.DIPUserControl.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\DLL\LandSoft.DIPUserControl.pdb

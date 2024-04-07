@@ -1,0 +1,407 @@
+﻿CREATE TABLE [dbo].[Staff_Customer](
+	[StaffID] [int] NOT NULL,
+	[CustomerID] [int] NOT NULL,
+ CONSTRAINT [PK_Staff_Customer] PRIMARY KEY CLUSTERED 
+(
+	[StaffID] ASC,
+	[CustomerID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY
+-------------------------------------
+CREATE TABLE [dbo].[KhachHang_NhatKy](
+	[MaKH] [int] NULL,
+	[MaNVDL] [int] NULL,
+	[MaNV] [int] NULL,
+	[NgayCN] [datetime] NULL
+) ON [PRIMARY]
+-------------------------------------
+Create table Invoice
+Create store Invoice
+file script Invoice
+create table khNotesTransfer
+
+add column CustomerIDF1 (pgcPhieuGiuCho) pgcPhieuGiuCho_KhachHangF1
+
+add row 48 Đổi khách hàng (Features)
+-------------------------------------
+Huyen_get...
+Xa_get.....
+-------------------------------------
+CREATE PROC [dbo].[Staff_Customer_delete]
+(
+	@StaffID int,
+	@CustomerID int
+)
+AS
+
+DELETE [Staff_Customer] WHERE StaffID = @StaffID AND CustomerID = @CustomerID
+
+if(select count(*) from [Staff_Customer] WHERE CustomerID = @CustomerID) <= 0
+	update KhachHang set MaNV = null where MaKH = @CustomerID
+else
+begin
+	declare @MaNV int
+	select top 1 @MaNV = StaffID from [Staff_Customer] WHERE CustomerID = @CustomerID order by StaffID
+	
+	update KhachHang set MaNV = @MaNV where MaKH = @CustomerID
+end
+-------------------------------------
+alter PROCEDURE [dbo].[Staff_Customer_getAllByCusID]
+	@CusID int
+as
+
+SELECT    row_number() over(Order by HoTen) as STT,    dbo.NhanVien.MaNV, dbo.NhanVien.MaSo, dbo.NhanVien.HoTen, dbo.NhanVien.NgaySinh, dbo.NhanVien.DiaChi, dbo.NhanVien.MaPB, dbo.NhanVien.MaCV, 
+                         dbo.NhanVien.MaNKD, CustomerID, 0 MaDL, '' TenDL
+FROM            dbo.Staff_Customer INNER JOIN
+                         dbo.NhanVien ON dbo.Staff_Customer.StaffID = dbo.NhanVien.MaNV
+WHERE        (dbo.Staff_Customer.CustomerID = @CusID)
+
+union all
+
+SELECT    row_number() over(Order by FullName) as STT, s.StaffID MaNV, s.Code MaSo, s.FullName HoTen, s.DateOfBirthday NgaySinh, s.Address DiaChi, s.DepartmentID MaPB, s.PositionID MaCV, 0 MaNKD, CustomerID, s.AgentID MaDL, AgentName TenDL
+FROM            dbo.aCustomer INNER JOIN
+        dbo.aStaff s ON dbo.aCustomer.StaffID = s.StaffID
+        inner join Agent dl on dl.AgentID = s.AgentID
+WHERE        (dbo.aCustomer.CustomerID = @CusID)
+-------------------------------------
+CREATE PROCEDURE [dbo].[Staff_Customer_add]
+	@StaffID int,
+	@CustomerID int
+as
+
+If(select count(*) from Staff_Customer where CustomerID = @CustomerID and StaffID = @StaffID) <= 0
+begin
+	insert into Staff_Customer(StaffID, CustomerID) values(@StaffID, @CustomerID)
+	update KhachHang set MaNV = @StaffID where MaKH = @CustomerID	
+end
+-------------------------------------
+CREATE PROCEDURE [dbo].[KhachHang_NhatKy_add]
+	@MaKH int,
+	@MaNVDL int,
+	@MaNV int
+as
+
+Insert into KhachHang_NhatKy(MaKH, MaNVDL, MaNV, NgayCN)
+Values(@MaKH, @MaNVDL, @MaNV, getdate())
+-------------------------------------
+ALTER PROCEDURE [dbo].[KhachHang_NhatKy_getByMaKH]
+	@MaKH int
+as
+
+SELECT row_number() over(order by NgayCN desc) STT, kh.NgayCN, dbo.NhanVien.HoTen HoTenNV, dbo.aStaff.FullName HoTenNVDL, dbo.Agent.AgentName TenDL, N'Cập nhật thông tin' DienGiai
+FROM     dbo.KhachHang_NhatKy kh left JOIN
+         dbo.NhanVien ON kh.MaNV = dbo.NhanVien.MaNV left JOIN
+         dbo.aStaff ON kh.MaNVDL = dbo.aStaff.StaffID left JOIN
+         dbo.Agent ON dbo.aStaff.AgentID = dbo.Agent.AgentID
+where MaKH = @MaKH
+-------------------------------------
+ALTER PROCEDURE [dbo].[KhachHang_NhatKy_getByMaKHAgent]
+	@MaKH int,
+	@MaDL int
+as
+
+SELECT row_number() over(order by NgayCN desc) STT, kh.NgayCN, dbo.NhanVien.HoTen HoTenNV, dbo.aStaff.FullName HoTenNVDL, dbo.Agent.AgentName TenDL, N'Cập nhật thông tin' DienGiai
+FROM     dbo.KhachHang_NhatKy kh left JOIN
+         dbo.NhanVien ON kh.MaNV = dbo.NhanVien.MaNV left JOIN
+         dbo.aStaff ON kh.MaNVDL = dbo.aStaff.StaffID left JOIN
+         dbo.Agent ON dbo.aStaff.AgentID = dbo.Agent.AgentID
+where MaKH = @MaKH and dbo.Agent.AgentID = @MaDL
+-------------------------------------
+create table khNotesTransfer
+-------------------------------------
+BEE.BatDongSan_updateStaff
+-------------------------------------
+KhachHang_updateStaff
+-------------------------------------
+alter PROCEDURE [dbo].[khNotesTransfer_getAll]
+	@MaKH int
+as
+
+SELECT     row_number() over(order by NgayChyen desc) STT, kh.NgayChyen NgayChuyen, nv.HoTen HoTenC, nvold.HoTen HoTenOld, case isnull(IsAgent, 0) when 0 then nvnew.HoTen else '(nvs) '+ s.FullName end HoTenNew, case isnull(IsAgent, 0) when 0 then N'Kiến Á' else AgentName end AgentName
+FROM            dbo.NhanVien nv INNER JOIN
+                dbo.khNotesTransfer kh ON nv.MaNV = kh.MaNVC
+                inner join NhanVien nvold on nvold.MaNV = kh.MaNVOld
+                left join NhanVien nvnew on nvnew.MaNV = kh.MaNVNew
+				left join aStaff s on s.StaffID = kh.MaNVNew
+				left join Agent a on a.AgentID = s.AgentID
+where kh.MaKH = @MaKH
+-------------------------------------
+CREATE PROC [dbo].[khNotesTransfer_add]
+(
+	@MaKH int,	
+	@MaNVC int,	
+	@MaNVNew int,
+	@IsAgent bit
+)
+AS
+
+Declare @STT int
+Declare @MaNVOld int
+
+Select @STT = isnull(max(STT), 0) + 2 from [khNotesTransfer] where MaKH = @MaKH
+
+Select @MaNVOld = MaNV from KhachHang where MaKH = @MaKH
+
+INSERT INTO [khNotesTransfer](MaKH, STT, MaNVC, MaNVOld, MaNVNew, NgayChyen, IsAgent)
+VALUES(@MaKH, @STT, @MaNVC, @MaNVOld, @MaNVNew, getdate(), @IsAgent)
+-------------------------------------
+create PROCEDURE [dbo].[BEE.BatDongSan_updateStaff]
+	@MaBDS nchar(12),
+	@MaNV int
+as
+
+Update BEE.BatDongSan set MaNV = @MaNV where MaBDS = @MaBDS
+
+Declare @MaKH int
+
+Select @MaKH = MaKH from BEE.BatDongSan where MaBDS = @MaBDS
+
+Update KhachHang set MaNV = @MaNV where MaKH = @MaKH
+
+exec BDS_LichSu_add @MaBDS, @MaNV, N'', N'Chuyển quyền quản lý bất động sản'
+-------------------------------------
+ALTER FUNCTION [dbo].[funGetStaff]
+	(@MaKH int, @MaNV int)
+RETURNS nvarchar(250)
+AS
+	BEGIN
+	Declare @Re nvarchar(250)
+	Declare @Name nvarchar(50)
+	Set @Re = ''
+	
+	Declare csf cursor for
+		select distinct HoTen
+		from NhanVien nv inner join Staff_Customer sc on nv.MaNV = sc.StaffID
+		where CustomerID = @MaKH and StaffID <> @MaNV
+	Open csf
+	Fetch next from csf into @Name
+	While @@fetch_status = 0
+	Begin
+		if(@Re = '')
+			set @Re = @Re + @Name
+		else
+			set @Re = @Re +'; '+ @Name
+		
+		fetch next from csf into @Name
+	End
+	Close csf
+	Deallocate csf
+	
+	RETURN isnull(@Re, '')
+	END
+-------------------------------------
+ALTER TRIGGER pgcPhieuGiuCho_forUpdate
+ON dbo.pgcPhieuGiuCho
+FOR UPDATE
+AS
+
+Begin try
+	declare @MaPGC int, @MaKH int, @MaSP int
+
+	select @MaPGC = ins.MaPGC, @MaKH = ins.MaKH, @MaSP = ins.MaSP 
+	from inserted ins inner join deleted del on del.MaPGC = ins.MaPGC where del.MaKH <> ins.MaKH
+
+	if(isnull(@MaPGC, 0) > 0)
+	begin
+		if(select count(*) from cnChuyenNhuong where MaPGC = @MaPGC) <= 0
+		begin
+			update pgcPhieuGiuCho set CustomerIDF1 = @MaKH where MaPGC = @MaPGC
+		end
+		else
+			update bdsSanPham set MaKH = @MaKH where MaSP = @MaSP and MaTT > 2
+	end
+End try
+Begin catch
+End catch
+-------------------------------------
+create table ptPhongToa
+-------------------------------------
+create PROC [dbo].[hdmbQuaTrinhThucHien_add2]
+(
+	@MaHDMB int,	
+	@NgayTH datetime,
+	@DienGiai nvarchar(300),
+	@MaNV int
+)
+AS
+
+INSERT INTO [hdmbQuaTrinhThucHien](MaHDMB, NgayTH, MaTT, DienGiai, MaNV)
+VALUES(@MaHDMB, getdate(), null, @DienGiai, @MaNV)
+-------------------------------------
+
+-------------------------------------
+19-03-2013
+-------------------------------------
+ALTER PROCEDURE [dbo].[KhachHang_getCaNhanByStaff]
+@MaNV int
+as
+
+SELECT row_number() over(order by NgayDangKy desc) as STT,        
+	MaKH, HoKH, TenKH, dbo.funcJoinBirthday(dd, MM, yyyy) NgaySinh, SoCMND, dbo.funcJoinBirthday(dd2, MM2, yyyy2) NgayCap, NoiCap, NguyenQuan, MaSoTTNCN, DTCD, DiDong, Email, ChucVu, Yahoo, MaNV, MaNKH, MaQD,
+	dbo.getDCLL(MaKH) as DiaChi, MaDA, MaLBDS, CongTy1, dbo.getDCTT(MaKH) ThuongTru
+FROM            dbo.KhachHang inner join Staff_Customer sc on sc.CustomerID = MaKH
+where IsPersonal = 1 and sc.StaffID = @MaNV
+	and IsConfirm = 1
+-------------------------------------
+ALTER PROCEDURE [dbo].[KhachHang_getCaNhanByGroup]
+@MaNV int,
+@GroupID tinyint
+as
+SELECT row_number() over(order by NgayDangKy desc) as STT,        
+	MaKH, HoKH, TenKH, dbo.funcJoinBirthday(dd, MM, yyyy) NgaySinh, kh.SoCMND, dbo.funcJoinBirthday(dd2, MM2, yyyy2) NgayCap, kh.NoiCap, kh.NguyenQuan, kh.MaSoTTNCN, kh.DTCD, kh.DiDong, kh.Email, kh.ChucVu, kh.Yahoo, kh.MaNV, kh.MaNKH, kh.MaQD, 
+	dbo.getDCLL(MaKH) as DiaChi, MaDA, MaLBDS, CongTy1, dbo.getDCTT(MaKH) ThuongTru
+FROM   dbo.KhachHang kh  inner join Staff_Customer sc on sc.CustomerID = kh.MaKH 
+	   inner join NhanVien nv on nv.MaNV = sc.StaffID
+where IsPersonal = 1 and MaNKD = @GroupID
+		and kh.IsConfirm = 1
+order by NgayDangKy desc
+
+-------------------------------------
+ALTER PROCEDURE [dbo].[KhachHang_getCaNhanByDeparment]
+@MaNV int,
+@DepID tinyint
+as
+SELECT row_number() over(order by NgayDangKy desc) as STT,   
+	MaKH, HoKH, TenKH, dbo.funcJoinBirthday(dd, MM, yyyy) NgaySinh, kh.SoCMND, dbo.funcJoinBirthday(dd2, MM2, yyyy2) NgayCap, kh.NoiCap, kh.NguyenQuan, kh.MaSoTTNCN, kh.DTCD, kh.DiDong, kh.Email, kh.ChucVu, kh.Yahoo, kh.MaNV, kh.MaNKH, kh.MaQD, 
+	dbo.getDCLL(MaKH) as DiaChi, MaDA, MaLBDS, CongTy1, dbo.getDCTT(MaKH) ThuongTru
+FROM    dbo.KhachHang kh  inner join Staff_Customer sc on sc.CustomerID = kh.MaKH 
+	   inner join NhanVien nv on nv.MaNV = sc.StaffID
+where IsPersonal = 1 and MaPB = @DepID
+	and kh.IsConfirm = 1
+order by NgayDangKy desc
+-------------------------------------
+ALTER PROCEDURE [dbo].[KhachHang_getCaNhan]
+as
+
+SELECT  row_number() over(order by NgayDangKy desc) as STT,
+	MaKH, HoKH, TenKH, dbo.funcJoinBirthday(dd, MM, yyyy) NgaySinh, SoCMND, dbo.funcJoinBirthday(dd2, MM2, yyyy2) NgayCap, NoiCap, NguyenQuan, MaSoTTNCN, DTCD, DiDong, Email, ChucVu, Yahoo, MaNV, MaNKH, MaQD, 
+	dbo.getDCLL(MaKH) as DiaChi, MaDA, MaLBDS, CongTy1, dbo.getDCTT(MaKH) ThuongTru
+FROM KhachHang
+where IsPersonal = 1
+order by NgayDangKy desc
+-------------------------------------
+ALTER PROCEDURE [dbo].[KhachHang_GiaoDich]
+	@MaKH int
+as
+
+SELECT        gc.NgayKy, gc.SoPhieu, gc.MaKH, gc.MaSP, N'Giữ chỗ' AS TenLGD, sp.KyHieu, sp.DienTichKV DienTich, sp.ThanhTien, lt.TenLoaiTien, 
+                         CASE kh.IsPersonal WHEN 1 THEN kh.HoKH + N' ' + kh.TenKH ELSE kh.TenCongTy END AS HoTenKH, N'' AS DienGiai, case isnull(gc.MaNVDL, 0) when 0 then nv.HoTen else N'(nvs) '+ FullName end HoTen, AgentName
+FROM            pgcPhieuGiuCho gc INNER JOIN
+                         bdsSanPham sp ON sp.MaSP = gc.MaSP INNER JOIN
+                         LoaiTien lt ON lt.MaLoaiTien = sp.MaLT INNER JOIN
+                         KhachHang kh ON kh.MaKH = gc.MaKH left JOIN
+                         NhanVien nv ON nv.MaNV = gc.MaNVKD left join
+						 aStaff s on s.StaffID = gc.MaNVDL left join
+						 Agent a on a.AgentID = s.AgentID
+WHERE        gc.MaKGD = 1 and kh.MaKH = @MaKH
+
+UNION
+
+SELECT        dc.NgayKy, dc.SoPhieu, gc.MaKH, gc.MaSP, N'Đặt cọc' AS TenLGD, sp.KyHieu, sp.DienTichKV DienTich, sp.ThanhTien, lt.TenLoaiTien, 
+                         CASE kh.IsPersonal WHEN 1 THEN kh.HoKH + N' ' + kh.TenKH ELSE kh.TenCongTy END HoTenKH, N'' AS DienGiai, case isnull(gc.MaNVDL, 0) when 0 then nv.HoTen else N'(nvs) '+ FullName end HoTen, AgentName
+FROM            pdcPhieuDatCoc dc INNER JOIN
+                         pgcPhieuGiuCho gc ON dc.MaPDC = gc.MaPGC INNER JOIN
+                         bdsSanPham sp ON sp.MaSP = gc.MaSP INNER JOIN
+                         LoaiTien lt ON lt.MaLoaiTien = sp.MaLT INNER JOIN
+                         KhachHang kh ON kh.MaKH = gc.MaKH left JOIN
+                         NhanVien nv ON nv.MaNV = gc.MaNVKD left join
+						 aStaff s on s.StaffID = gc.MaNVDL left join
+						 Agent a on a.AgentID = s.AgentID
+where  kh.MaKH = @MaKH
+
+UNION
+
+SELECT        vv.NgayKy, vv.SoHDVV, gc.MaKH, gc.MaSP, N'Hợp đồng vay, góp vốn' AS TenLGD, sp.KyHieu, sp.DienTichKV DienTich, sp.ThanhTien, lt.TenLoaiTien, 
+                         CASE kh.IsPersonal WHEN 1 THEN kh.HoKH + N' ' + kh.TenKH ELSE kh.TenCongTy END HoTenKH, N'' AS DienGiai, case isnull(gc.MaNVDL, 0) when 0 then nv.HoTen else N'(nvs) '+ FullName end HoTen, AgentName
+FROM            vvbhHopDong vv INNER JOIN
+                         pgcPhieuGiuCho gc ON vv.MaHDVV = gc.MaPGC INNER JOIN
+                         bdsSanPham sp ON sp.MaSP = gc.MaSP INNER JOIN
+                         LoaiTien lt ON lt.MaLoaiTien = sp.MaLT INNER JOIN
+                         KhachHang kh ON kh.MaKH = gc.MaKH left JOIN
+                         NhanVien nv ON nv.MaNV = gc.MaNVKD left join
+						 aStaff s on s.StaffID = gc.MaNVDL left join
+						 Agent a on a.AgentID = s.AgentID
+where  kh.MaKH = @MaKH
+
+UNIOn
+
+SELECT        hd.NgayKy, hd.SoHDMB, gc.MaKH, gc.MaSP, N'Hợp đồng mua bán' AS TenLGD, sp.KyHieu, sp.DienTichKV DienTich, sp.ThanhTien, lt.TenLoaiTien, 
+                         CASE kh.IsPersonal WHEN 1 THEN kh.HoKH + N' ' + kh.TenKH ELSE kh.TenCongTy END HoTenKH, N'' AS DienGiai, case isnull(gc.MaNVDL, 0) when 0 then nv.HoTen else N'(nvs) '+ FullName end HoTen, AgentName
+FROM            HopDongMuaBan hd INNER JOIN
+                         pgcPhieuGiuCho gc ON hd.MaHDMB = gc.MaPGC INNER JOIN
+                         bdsSanPham sp ON sp.MaSP = gc.MaSP INNER JOIN
+                         LoaiTien lt ON lt.MaLoaiTien = sp.MaLT INNER JOIN
+                         KhachHang kh ON kh.MaKH = gc.MaKH left JOIN
+                         NhanVien nv ON nv.MaNV = gc.MaNVKD left join
+						 aStaff s on s.StaffID = gc.MaNVDL left join
+						 Agent a on a.AgentID = s.AgentID
+where  kh.MaKH = @MaKH
+
+UNION
+
+SELECT        tl.NgayTL NgayKy, tl.SoTL, gc.MaKH, gc.MaSP, N'Thanh lý' AS TenLGD, sp.KyHieu, sp.DienTichKV DienTich, sp.ThanhTien, lt.TenLoaiTien, 
+                         CASE kh.IsPersonal WHEN 1 THEN kh.HoKH + N' ' + kh.TenKH ELSE kh.TenCongTy END HoTenKH, N'' AS DienGiai, case isnull(gc.MaNVDL, 0) when 0 then nv.HoTen else N'(nvs) '+ FullName end HoTen, AgentName
+FROM            tlbhThanhLy tl INNER JOIN
+                         pgcPhieuGiuCho gc ON tl.MaTL = gc.MaPGC INNER JOIN
+                         bdsSanPham sp ON sp.MaSP = gc.MaSP INNER JOIN
+                         LoaiTien lt ON lt.MaLoaiTien = sp.MaLT INNER JOIN
+                         KhachHang kh ON kh.MaKH = gc.MaKH left JOIN
+                         NhanVien nv ON nv.MaNV = gc.MaNVKD left join
+						 aStaff s on s.StaffID = gc.MaNVDL left join
+						 Agent a on a.AgentID = s.AgentID
+where  kh.MaKH = @MaKH
+
+UNION
+
+SELECT        bg.NgayBG NgayKy, bg.SoBG, gc.MaKH, gc.MaSP, N'Bàn giao' AS TenLGD, sp.KyHieu, sp.DienTichKV DienTich, sp.ThanhTien, lt.TenLoaiTien, 
+                         CASE kh.IsPersonal WHEN 1 THEN kh.HoKH + N' ' + kh.TenKH ELSE kh.TenCongTy END HoTenKH, N'' AS DienGiai, case isnull(gc.MaNVDL, 0) when 0 then nv.HoTen else N'(nvs) '+ FullName end HoTen, AgentName
+FROM            bgbhBanGiao bg INNER JOIN
+                         pgcPhieuGiuCho gc ON bg.MaBG = gc.MaPGC INNER JOIN
+                         bdsSanPham sp ON sp.MaSP = gc.MaSP INNER JOIN
+                         LoaiTien lt ON lt.MaLoaiTien = sp.MaLT INNER JOIN
+                         KhachHang kh ON kh.MaKH = gc.MaKH left JOIN
+                         NhanVien nv ON nv.MaNV = gc.MaNVKD left join
+						 aStaff s on s.StaffID = gc.MaNVDL left join
+						 Agent a on a.AgentID = s.AgentID
+where  kh.MaKH = @MaKH
+
+order by sp.KyHieu, NgayKy
+-------------------------------------
+ALTER PROC [dbo].[rptPhanTichTuoiNo]
+	@TuNgay datetime,
+	@DenNgay datetime,
+	@MaDA	int
+AS
+
+select ROW_NUMBER() over(order by ISNULL(hd.NgayKy, ISNULL(vv.NgayKy, isnull(dc.NgayKy, gc.NgayKy)))) as STT,
+	gc.MaPGC, da.TenDA, sp.KyHieu, kh.HoKH + N' ' + kh.TenKH as HoTenKH,
+	ISNULL(hd.SoHDMB, ISNULL(vv.SoHDVV, isnull(dc.SoPhieu, gc.SoPhieu))) as SoHD,
+	ISNULL(hd.NgayKy, ISNULL(vv.NgayKy, isnull(dc.NgayKy, gc.NgayKy))) as NgayHD,
+	(sp.ThanhTien*110/100 + gc.PhuThu - dbo.getTienCK3(gc.MaPGC, 0) - dbo.getTienCK4(gc.MaPGC, 0))*lt.TyGia/1000000 as GiaTriHD,
+	(select isnull(sum(pt.SoTien),0)/1000000 from pgcPhieuThu pt where pt.MaPGC=gc.MaPGC) as DaThu, 
+	sum(case when dbo.getSoNgayTreHan(ltt.ID, GETDATE())=0 then ltt.SoTien-dbo.getDaThu(gc.MaPGC, ltt.DotTT, ltt.SoTien) else 0 end)*lt.TyGia/1000000 as TrongHan,
+	sum(case when dbo.getSoNgayTreHan(ltt.ID, GETDATE())>0 and dbo.getSoNgayTreHan(ltt.ID, GETDATE())<31 then dbo.getSoNgayTreHan(ltt.ID, GETDATE()) else 0 end) as Qua0,
+	sum(case when dbo.getSoNgayTreHan(ltt.ID, GETDATE())>30 and dbo.getSoNgayTreHan(ltt.ID, GETDATE())<61 then dbo.getSoNgayTreHan(ltt.ID, GETDATE()) else 0 end) as Qua30,
+	sum(case when dbo.getSoNgayTreHan(ltt.ID, GETDATE())>60 and dbo.getSoNgayTreHan(ltt.ID, GETDATE())<91 then dbo.getSoNgayTreHan(ltt.ID, GETDATE()) else 0 end) as Qua60,
+	sum(case when dbo.getSoNgayTreHan(ltt.ID, GETDATE())>90 and dbo.getSoNgayTreHan(ltt.ID, GETDATE())<181 then dbo.getSoNgayTreHan(ltt.ID, GETDATE()) else 0 end) as Qua90,
+	sum(case when dbo.getSoNgayTreHan(ltt.ID, GETDATE())>180 and dbo.getSoNgayTreHan(ltt.ID, GETDATE())<361 then dbo.getSoNgayTreHan(ltt.ID, GETDATE()) else 0 end) as Qua180,
+	sum(case when dbo.getSoNgayTreHan(ltt.ID, GETDATE())>360 and dbo.getSoNgayTreHan(ltt.ID, GETDATE())<721 then dbo.getSoNgayTreHan(ltt.ID, GETDATE()) else 0 end) as Qua360,
+	sum(case when dbo.getSoNgayTreHan(ltt.ID, GETDATE())>720 then dbo.getSoNgayTreHan(ltt.ID, GETDATE()) else 0 end) as Qua720,
+	sum(case when dbo.getSoNgayTreHan(ltt.ID, GETDATE())>0 then dbo.getTienTreHan(gc.MaPGC, ltt.DotTT, ltt.SoTien - dbo.getDaThu(gc.MaPGC, ltt.DotTT, ltt.SoTien), GETDATE()) else 0 end)*lt.TyGia/1000000 as TienLai
+from pgcPhieuGiuCho gc
+	inner join bdsSanPham sp on sp.MaSP=gc.MaSP
+	inner join DuAn da on da.MaDA=sp.MaDA
+	inner join KhachHang kh on kh.MaKH=gc.MaKH
+	inner join LoaiTien lt on lt.MaLoaiTien=sp.MaLT
+	left join pgcLichThanhToan ltt on ltt.MaPGC=gc.MaPGC
+	left join pdcPhieuDatCoc dc on dc.MaPDC=gc.MaPGC
+	left join vvbhHopDong vv on vv.MaHDVV=gc.MaPGC
+	left join HopDongMuaBan hd on hd.MaHDMB=gc.MaPGC
+where (sp.MaDA=@MaDA or @MaDA is null or @MaDA=-1) 
+	and (DATEDIFF(d, @TuNgay, ISNULL(hd.NgayKy, ISNULL(vv.NgayKy, isnull(dc.NgayKy, gc.NgayKy))))>=0 or @TuNgay is null) 
+	and (DATEDIFF(d, ISNULL(hd.NgayKy, ISNULL(vv.NgayKy, isnull(dc.NgayKy, gc.NgayKy))), @DenNgay)>=0 or @DenNgay is null)
+	and (ISNULL(hd.MaTT, ISNULL(vv.MaTT, isnull(dc.MaTT, gc.MaTT))) not in (9, 10, 11))
+group by gc.MaPGC, da.TenDA, sp.KyHieu, kh.HoKH + N' ' + kh.TenKH, 
+	gc.SoPhieu, gc.NgayKy, dc.SoPhieu, dc.NgayKy, vv.SoHDVV, vv.NgayKy, hd.SoHDMB, hd.NgayKy, 
+	sp.ThanhTien, gc.PhuThu, lt.TyGia
+-------------------------------------

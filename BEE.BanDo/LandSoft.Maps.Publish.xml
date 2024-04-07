@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="E:\Projects\Website\2015\Publish\Becamex\02-03-2015-3" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="03/02/2015 10:26:32" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="02/03/2015 11:15:23" />
+    <file relUrl="styles/images/background.png" publishTime="02/28/2015 09:42:50" />
+    <file relUrl="bin/DevExpress.Web.v10.2.dll" publishTime="01/19/2013 18:54:30" />
+    <file relUrl="Default.aspx" publishTime="03/02/2015 10:24:20" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="02/03/2015 11:15:23" />
+    <file relUrl="bin/DevExpress.Web.v10.2.xml" publishTime="01/19/2013 18:54:30" />
+    <file relUrl="styles/css/style.css" publishTime="02/28/2015 09:56:06" />
+    <file relUrl="bin/LandSoft.Maps.pdb" publishTime="03/02/2015 10:26:23" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="02/03/2015 11:15:23" />
+    <file relUrl="bin/DevExpress.Data.v10.2.xml" publishTime="01/19/2013 18:54:31" />
+    <file relUrl="bin/LandSoft.Maps.dll" publishTime="03/02/2015 10:26:23" />
+    <file relUrl="bin/DevExpress.Data.v10.2.dll" publishTime="02/05/2011 15:25:18" />
+  </publishProfile>
+</publishData>

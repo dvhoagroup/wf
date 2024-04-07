@@ -1,0 +1,37 @@
+E:\Projects\Software\2013\NamCuong\LandSoft.SendMail\bin\Debug\LandSoft.SendMail.dll
+E:\Projects\Software\2013\NamCuong\LandSoft.SendMail\bin\Debug\LandSoft.SendMail.pdb
+E:\Projects\Software\2013\NamCuong\LandSoft.SendMail\obj\Debug\LandSoft.SendMail.csprojResolveAssemblyReference.cache
+E:\Projects\Software\2013\NamCuong\LandSoft.SendMail\obj\Debug\LandSoft.SendMail.ctlManager.resources
+E:\Projects\Software\2013\NamCuong\LandSoft.SendMail\obj\Debug\LandSoft.SendMail.csproj.GenerateResource.Cache
+E:\Projects\Software\2013\NamCuong\LandSoft.SendMail\obj\Debug\LandSoft.SendMail.dll
+E:\Projects\Software\2013\NamCuong\LandSoft.SendMail\obj\Debug\LandSoft.SendMail.pdb
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.SendMail\bin\Debug\LandSoft.SendMail.dll
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.SendMail\bin\Debug\LandSoft.SendMail.pdb
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.SendMail\obj\Debug\LandSoft.SendMail.ctlManager.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.SendMail\obj\Debug\LandSoft.SendMail.csproj.GenerateResource.Cache
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.SendMail\obj\Debug\LandSoft.SendMail.dll
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.SendMail\obj\Debug\LandSoft.SendMail.pdb
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.SendMail\bin\Debug\LandSoft.SendMail.dll
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.SendMail\bin\Debug\LandSoft.SendMail.pdb
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.SendMail\obj\Debug\LandSoft.SendMail.ctlManager.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.SendMail\obj\Debug\LandSoft.SendMail.csproj.GenerateResource.Cache
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.SendMail\obj\Debug\LandSoft.SendMail.dll
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.SendMail\obj\Debug\LandSoft.SendMail.pdb
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.SendMail\bin\Debug\LandSoft.SendMail.dll
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.SendMail\bin\Debug\LandSoft.SendMail.pdb
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.SendMail\obj\Debug\LandSoft.SendMail.ctlManager.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.SendMail\obj\Debug\LandSoft.SendMail.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.SendMail\obj\Debug\LandSoft.SendMail.dll
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.SendMail\obj\Debug\LandSoft.SendMail.pdb
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.SendMail\bin\Debug\LandSoft.SendMail.dll
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.SendMail\bin\Debug\LandSoft.SendMail.pdb
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.SendMail\obj\Debug\LandSoft.SendMail.ctlManager.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.SendMail\obj\Debug\LandSoft.SendMail.csproj.GenerateResource.Cache
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.SendMail\obj\Debug\LandSoft.SendMail.dll
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.SendMail\obj\Debug\LandSoft.SendMail.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.SendMail\bin\Debug\LandSoft.SendMail.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.SendMail\bin\Debug\LandSoft.SendMail.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.SendMail\obj\Debug\LandSoft.SendMail.ctlManager.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.SendMail\obj\Debug\LandSoft.SendMail.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.SendMail\obj\Debug\LandSoft.SendMail.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.SendMail\obj\Debug\LandSoft.SendMail.pdb

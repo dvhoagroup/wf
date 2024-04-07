@@ -1,0 +1,5 @@
+D:\BEESKY\REM\BEEREM HOABINHV2\EncryptConnect\bin\MySetting\DIP.EncryptConnect.exe
+D:\BEESKY\REM\BEEREM HOABINHV2\EncryptConnect\obj\MySetting\EncryptConnect.frmMain.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\EncryptConnect\obj\MySetting\DIP.EncryptConnect.Properties.Resources.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\EncryptConnect\obj\MySetting\DIP.EncryptConnect.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM HOABINHV2\EncryptConnect\obj\MySetting\DIP.EncryptConnect.exe

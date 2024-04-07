@@ -1,0 +1,193 @@
+E:\Projects\Software\2013\NamLong\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.ChoiceStaff_frm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.ChucVu_ctl.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.ChucVu_frm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.frmImport.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVienDL_ctl.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVienDL_frm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVien_ctl.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVien_frm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhomKD_ctl.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhomKD_frm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.PhongBan_ctl.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.PhongBan_frm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.Select_frm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Staff\obj\Debug\LandSoft.Staff.csproj.GenerateResource.Cache
+E:\Projects\Software\2013\NamLong\LandSoft.Staff\obj\Debug\LandSoft.Staff.Properties.Resources.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Staff\bin\Debug\LandSoft.Staff.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Staff\bin\Debug\LandSoft.Staff.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Staff\bin\Debug\LandSoft.Library.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Staff\bin\Debug\LandSoft.Library.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Staff\obj\Debug\LandSoft.Staff.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Staff\obj\Debug\LandSoft.Staff.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Staff\obj\Debug\LandSoft.Staff.csprojResolveAssemblyReference.cache
+E:\Projects\Software\2013\NamLong\LandSoft.Staff\bin\Debug\LandSoft.Translate.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Staff\bin\Debug\LandSoft.Translate.pdb
+E:\Projects\Software\2015\Becamex\DLL\LandSoft.Staff.dll
+E:\Projects\Software\2015\Becamex\DLL\LandSoft.Staff.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Staff\obj\Debug\LandSoft.Staff.csprojResolveAssemblyReference.cache
+E:\Projects\Software\2015\Becamex\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.ChoiceStaff_frm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.ChucVu_ctl.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.ChucVu_frm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.frmImport.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVienDL_ctl.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVienDL_frm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVien_ctl.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVien_frm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhomKD_ctl.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhomKD_frm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.PhongBan_ctl.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.PhongBan_frm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Staff\obj\Debug\LandSoft.Staff.Properties.Resources.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.Select_frm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Staff\obj\Debug\LandSoft.Staff.csproj.GenerateResource.Cache
+E:\Projects\Software\2015\Becamex\LandSoft.Staff\obj\Debug\LandSoft.Staff.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Staff\obj\Debug\LandSoft.Staff.pdb
+E:\Projects\Software\2015\HungThinh\DLL\LandSoft.Staff.dll
+E:\Projects\Software\2015\HungThinh\DLL\LandSoft.Staff.pdb
+E:\Projects\Software\2015\HungThinh\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.ChoiceStaff_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.ChucVu_ctl.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.ChucVu_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.frmImport.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVienDL_ctl.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVienDL_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVien_ctl.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVien_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhomKD_ctl.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhomKD_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.PhongBan_ctl.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.PhongBan_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Staff\obj\Debug\LandSoft.Staff.Properties.Resources.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.Select_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Staff\obj\Debug\LandSoft.Staff.csproj.GenerateResource.Cache
+E:\Projects\Software\2015\HungThinh\LandSoft.Staff\obj\Debug\LandSoft.Staff.dll
+E:\Projects\Software\2015\HungThinh\LandSoft.Staff\obj\Debug\LandSoft.Staff.pdb
+E:\Projects\Software\2015\HungThinh\LandSoft.Staff\obj\Debug\LandSoft.Staff.csprojResolveAssemblyReference.cache
+E:\Projects\Software\2015\HungThinh\LandSoft.Staff\obj\Debug\LandSoft.Staff.frmProcess.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\DLL\LandSoft.Staff.dll
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\DLL\LandSoft.Staff.pdb
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Staff\obj\Debug\LandSoft.Staff.csprojResolveAssemblyReference.cache
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.ChoiceStaff_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.ChucVu_ctl.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.ChucVu_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.frmImport.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Staff\obj\Debug\LandSoft.Staff.frmProcess.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVienDL_ctl.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVienDL_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVien_ctl.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVien_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhomKD_ctl.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhomKD_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.PhongBan_ctl.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.PhongBan_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Staff\obj\Debug\LandSoft.Staff.Properties.Resources.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.Select_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Staff\obj\Debug\LandSoft.Staff.csproj.GenerateResource.Cache
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Staff\obj\Debug\LandSoft.Staff.dll
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Staff\obj\Debug\LandSoft.Staff.pdb
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\DLL\LandSoft.Staff.dll
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\DLL\LandSoft.Staff.pdb
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Staff\obj\Debug\LandSoft.Staff.csprojResolveAssemblyReference.cache
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.ChoiceStaff_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.ChucVu_ctl.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.ChucVu_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.frmImport.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Staff\obj\Debug\LandSoft.Staff.frmProcess.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVienDL_ctl.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVienDL_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVien_ctl.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVien_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhomKD_ctl.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhomKD_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.PhongBan_ctl.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.PhongBan_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Staff\obj\Debug\LandSoft.Staff.Properties.Resources.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.Select_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Staff\obj\Debug\LandSoft.Staff.csproj.GenerateResource.Cache
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Staff\obj\Debug\LandSoft.Staff.dll
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Staff\obj\Debug\LandSoft.Staff.pdb
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Staff\obj\Debug\LandSoft.Staff.csprojResolveAssemblyReference.cache
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.ChoiceStaff_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.ChucVu_ctl.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.ChucVu_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.frmImport.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Staff\obj\Debug\LandSoft.Staff.frmProcess.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVienDL_ctl.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVienDL_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVien_ctl.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVien_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhomKD_ctl.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhomKD_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.PhongBan_ctl.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.PhongBan_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Staff\obj\Debug\LandSoft.Staff.Properties.Resources.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.Select_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Staff\obj\Debug\LandSoft.Staff.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM FOR AGENTV2\DLL\LandSoft.Staff.dll
+D:\BEESKY\REM\BEEREM FOR AGENTV2\DLL\LandSoft.Staff.pdb
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Staff\obj\Debug\LandSoft.Staff.dll
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Staff\obj\Debug\LandSoft.Staff.pdb
+D:\BEESKY\REM\BEEREM HOABINH\DLL\LandSoft.Staff.dll
+D:\BEESKY\REM\BEEREM HOABINH\DLL\LandSoft.Staff.pdb
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.Staff.csprojResolveAssemblyReference.cache
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.ChoiceStaff_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.ChucVu_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.ChucVu_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.frmImport.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.Staff.frmProcess.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVienDL_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVienDL_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVien_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVien_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhomKD_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhomKD_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.PhongBan_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.PhongBan_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.Staff.Properties.Resources.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.Select_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.Staff.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.Staff.dll
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.Staff.pdb
+D:\My Job\BeeSky\BEEREM HOABINH\DLL\LandSoft.Staff.dll
+D:\My Job\BeeSky\BEEREM HOABINH\DLL\LandSoft.Staff.pdb
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.Staff.csprojResolveAssemblyReference.cache
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.ChoiceStaff_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.ChucVu_ctl.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.ChucVu_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.frmImport.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.Staff.frmProcess.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVienDL_ctl.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVienDL_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVien_ctl.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVien_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhomKD_ctl.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhomKD_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.PhongBan_ctl.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.PhongBan_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.Staff.Properties.Resources.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.Select_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.Staff.csproj.GenerateResource.Cache
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.Staff.dll.licenses
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.Staff.dll
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Staff\obj\Debug\LandSoft.Staff.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\DLL\LandSoft.Staff.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\DLL\LandSoft.Staff.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.ChoiceStaff_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.ChucVu_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.ChucVu_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.frmImport.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Staff\obj\Debug\LandSoft.Staff.frmProcess.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVienDL_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVienDL_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVien_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhanVien_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhomKD_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.NhomKD_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.PhongBan_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.PhongBan_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Staff\obj\Debug\LandSoft.Staff.Properties.Resources.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.Select_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Staff\obj\Debug\LandSoft.Staff.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Staff\obj\Debug\LandSoft.Staff.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Staff\obj\Debug\LandSoft.Staff.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Staff\obj\Debug\LandSoft.NhanVien.frmSettingRegion.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Staff\obj\Debug\LandSoft.Staff.csprojResolveAssemblyReference.cache

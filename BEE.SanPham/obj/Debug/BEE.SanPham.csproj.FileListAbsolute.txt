@@ -1,0 +1,264 @@
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\ResolveAssemblyReference.cache
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\LandSoft.Product.ctlViewMaps.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\LandSoft.Product.ctlViewGeneralFormUrlV2.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\LandSoft.Product.frmFind.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\BEE.SanPham.frmImportUpdateInfoLinq.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\BEE.SanPham.frmUpdateSquare.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\BEE.SanPham.frmUpdatePrice.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\BEE.SanPham.ctlViewGeneralV2.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\BEE.SanPham.frmImportProductViewGeneral.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\BEE.SanPham.frmLoaiHangMuc.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\BEE.SanPham.ctlManager.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\BEE.SanPham.ctlManagerNew.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\BEE.SanPham.ctlViewGeneral.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\BEE.SanPham.frmChuyenQuyen.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\BEE.SanPham.frmEdit.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\BEE.SanPham.frmEditV2.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\BEE.SanPham.frmImport.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\BEE.SanPham.frmImportGCN.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\BEE.SanPham.frmImportLinq.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\BEE.SanPham.frmImportUpdate.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\BEE.SanPham.frmPhongToa.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\BEE.SanPham.frmTrangThai.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\BEE.BatDongSan.LoadiBDS_ctl.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\BEE.BatDongSan.LoaiBDS_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\ResGen.read.1.tlog
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\ResGen.write.1.tlog
+D:\My Job\BeeSky\BEEREM HOABINHV2\DLL\BEE.SanPham.dll
+D:\My Job\BeeSky\BEEREM HOABINHV2\DLL\BEE.SanPham.pdb
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\BEE.SanPham.dll
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\BEE.SanPham.pdb
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.csprojResolveAssemblyReference.cache
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\LandSoft.Product.frmFind.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.frmImportUpdateInfoLinq.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.frmUpdateSquare.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.frmUpdatePrice.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.frmImportProductViewGeneral.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.frmLoaiHangMuc.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.frmChuyenQuyen.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.frmEdit.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.frmEditV2.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.frmImport.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.frmImportGCN.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.frmImportLinq.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.frmImportUpdate.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.frmPhongToa.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.frmTrangThai.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.BatDongSan.LoadiBDS_ctl.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.BatDongSan.LoaiBDS_frm.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.pdb
+D:\BEESKY\REM\BEEREMA DEMO\DLL\BEE.SanPham.dll
+D:\BEESKY\REM\BEEREMA DEMO\DLL\BEE.SanPham.pdb
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.dll
+E:\BEESKY\REM\BEEREMA DEMO\DLL\BEE.SanPham.dll
+E:\BEESKY\REM\BEEREMA DEMO\DLL\BEE.SanPham.pdb
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.csprojResolveAssemblyReference.cache
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\LandSoft.Product.frmFind.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.frmImportUpdateInfoLinq.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.frmUpdateSquare.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.frmUpdatePrice.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.frmImportProductViewGeneral.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.frmLoaiHangMuc.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.frmChuyenQuyen.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.frmEdit.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.frmEditV2.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.frmImport.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.frmImportGCN.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.frmImportLinq.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.frmImportUpdate.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.frmPhongToa.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.frmTrangThai.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.BatDongSan.LoadiBDS_ctl.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.BatDongSan.LoaiBDS_frm.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.csproj.GenerateResource.Cache
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.dll
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Product\obj\Debug\BEE.SanPham.pdb
+D:\Dev\3. REM\BEEREMA DEMO\DLL\BEE.SanPham.dll
+D:\Dev\3. REM\BEEREMA DEMO\DLL\BEE.SanPham.pdb
+D:\Dev\3. REM\BEEREMA DEMO\BEE.SanPham\obj\Debug\BEE.SanPham.csprojResolveAssemblyReference.cache
+D:\Dev\3. REM\BEEREMA DEMO\BEE.SanPham\obj\Debug\BEEREMA.Product.frmFind.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportUpdateInfoLinq.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.SanPham\obj\Debug\BEE.SanPham.frmUpdateSquare.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.SanPham\obj\Debug\BEE.SanPham.frmUpdatePrice.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportProductViewGeneral.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.SanPham\obj\Debug\BEE.SanPham.frmLoaiHangMuc.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.SanPham\obj\Debug\BEE.SanPham.frmChuyenQuyen.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.SanPham\obj\Debug\BEE.SanPham.frmEdit.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.SanPham\obj\Debug\BEE.SanPham.frmEditV2.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.SanPham\obj\Debug\BEE.SanPham.frmImport.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportGCN.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportLinq.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportUpdate.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.SanPham\obj\Debug\BEE.SanPham.frmPhongToa.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.SanPham\obj\Debug\BEE.SanPham.frmTrangThai.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.SanPham\obj\Debug\BEE.BatDongSan.LoadiBDS_ctl.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.SanPham\obj\Debug\BEE.BatDongSan.LoaiBDS_frm.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.SanPham\obj\Debug\BEE.SanPham.csproj.GenerateResource.Cache
+D:\Dev\3. REM\BEEREMA DEMO\BEE.SanPham\obj\Debug\BEE.SanPham.dll
+D:\Dev\3. REM\BEEREMA DEMO\BEE.SanPham\obj\Debug\BEE.SanPham.pdb
+D:\Dev\3. REM\REM_HOALAND\Source\DLL\BEE.SanPham.dll
+D:\Dev\3. REM\REM_HOALAND\Source\DLL\BEE.SanPham.pdb
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.csprojResolveAssemblyReference.cache
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEEREMA.Product.frmFind.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportUpdateInfoLinq.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmUpdateSquare.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmUpdatePrice.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportProductViewGeneral.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmLoaiHangMuc.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmChuyenQuyen.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmEdit.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmEditV2.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImport.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportGCN.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportLinq.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportUpdate.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmPhongToa.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmTrangThai.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.BatDongSan.LoadiBDS_ctl.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.BatDongSan.LoaiBDS_frm.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.csproj.GenerateResource.Cache
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.dll
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.pdb
+D:\Dev\3. REM\REM_HOALAND\Source\app\BEE.SanPham.dll
+D:\Dev\3. REM\REM_HOALAND\Source\app\BEE.SanPham.pdb
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\app\BEE.SanPham.dll
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\app\BEE.SanPham.pdb
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.csprojResolveAssemblyReference.cache
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEEREMA.Product.frmFind.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportUpdateInfoLinq.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmUpdateSquare.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmUpdatePrice.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportProductViewGeneral.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmLoaiHangMuc.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmChuyenQuyen.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmEdit.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmEditV2.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImport.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportGCN.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportLinq.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportUpdate.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmPhongToa.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmTrangThai.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.BatDongSan.LoadiBDS_ctl.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.BatDongSan.LoaiBDS_frm.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.csproj.GenerateResource.Cache
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.dll
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.pdb
+F:\2017\BEEREMA\HOALAND\Source\app\BEE.SanPham.dll
+F:\2017\BEEREMA\HOALAND\Source\app\BEE.SanPham.pdb
+F:\2017\BEEREMA\HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.csprojResolveAssemblyReference.cache
+F:\2017\BEEREMA\HOALAND\Source\BEE.SanPham\obj\Debug\BEEREMA.Product.frmFind.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportUpdateInfoLinq.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmUpdateSquare.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmUpdatePrice.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportProductViewGeneral.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmLoaiHangMuc.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmChuyenQuyen.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmEdit.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmEditV2.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImport.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportGCN.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportLinq.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportUpdate.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmPhongToa.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmTrangThai.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.SanPham\obj\Debug\BEE.BatDongSan.LoadiBDS_ctl.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.SanPham\obj\Debug\BEE.BatDongSan.LoaiBDS_frm.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.csproj.GenerateResource.Cache
+F:\2017\BEEREMA\HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.dll
+F:\2017\BEEREMA\HOALAND\Source\BEE.SanPham\obj\Debug\BEE.SanPham.pdb
+F:\2017\BEEREMA\HOALAND35\Source\app\BEE.SanPham.dll
+F:\2017\BEEREMA\HOALAND35\Source\app\BEE.SanPham.pdb
+F:\2017\BEEREMA\HOALAND35\Source\BEE.SanPham\obj\Debug\BEE.SanPham.csprojResolveAssemblyReference.cache
+F:\2017\BEEREMA\HOALAND35\Source\BEE.SanPham\obj\Debug\BEEREMA.Product.frmFind.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportUpdateInfoLinq.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmUpdateSquare.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmUpdatePrice.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportProductViewGeneral.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmLoaiHangMuc.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmChuyenQuyen.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmEdit.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmEditV2.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImport.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportGCN.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportLinq.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportUpdate.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmPhongToa.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmTrangThai.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.SanPham\obj\Debug\BEE.BatDongSan.LoadiBDS_ctl.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.SanPham\obj\Debug\BEE.BatDongSan.LoaiBDS_frm.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.SanPham\obj\Debug\BEE.SanPham.csproj.GenerateResource.Cache
+F:\2017\BEEREMA\HOALAND35\Source\BEE.SanPham\obj\Debug\BEE.SanPham.dll
+F:\2017\BEEREMA\HOALAND35\Source\BEE.SanPham\obj\Debug\BEE.SanPham.pdb
+F:\2017\BEEREMA\HOLAND_SVN\Source\app\BEE.SanPham.dll
+F:\2017\BEEREMA\HOLAND_SVN\Source\app\BEE.SanPham.pdb
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.SanPham\obj\Debug\BEE.SanPham.csprojResolveAssemblyReference.cache
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.SanPham\obj\Debug\BEEREMA.Product.frmFind.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportUpdateInfoLinq.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmUpdateSquare.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmUpdatePrice.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportProductViewGeneral.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmLoaiHangMuc.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmChuyenQuyen.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmEdit.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmEditV2.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImport.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportGCN.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportLinq.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportUpdate.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmPhongToa.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmTrangThai.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.SanPham\obj\Debug\BEE.BatDongSan.LoadiBDS_ctl.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.SanPham\obj\Debug\BEE.BatDongSan.LoaiBDS_frm.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.SanPham\obj\Debug\BEE.SanPham.csproj.GenerateResource.Cache
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.SanPham\obj\Debug\BEE.SanPham.dll
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.SanPham\obj\Debug\BEE.SanPham.pdb
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.SanPham\obj\Debug\BEEREMA.Product.frmFind.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportUpdateInfoLinq.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmUpdateSquare.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmUpdatePrice.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportProductViewGeneral.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmLoaiHangMuc.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmChuyenQuyen.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmEdit.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmEditV2.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImport.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportGCN.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportLinq.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportUpdate.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmPhongToa.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmTrangThai.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.SanPham\obj\Debug\BEE.BatDongSan.LoadiBDS_ctl.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.SanPham\obj\Debug\BEE.BatDongSan.LoaiBDS_frm.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.SanPham\obj\Debug\BEE.SanPham.csproj.GenerateResource.Cache
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\app\BEE.SanPham.dll
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\app\BEE.SanPham.pdb
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.SanPham\obj\Debug\BEE.SanPham.csprojAssemblyReference.cache
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.SanPham\obj\Debug\BEE.SanPham.csproj.CoreCompileInputs.cache
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.SanPham\obj\Debug\BEE.SanPham.csproj.CopyComplete
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.SanPham\obj\Debug\BEE.SanPham.dll
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.SanPham\obj\Debug\BEE.SanPham.pdb
+D:\UPGARDE\DEV19\Source\BEE.SanPham\obj\Debug\BEE.SanPham.csprojResolveAssemblyReference.cache
+D:\UPGARDE\DEV19\Source\BEE.SanPham\obj\Debug\BEEREMA.Product.frmFind.resources
+D:\UPGARDE\DEV19\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportUpdateInfoLinq.resources
+D:\UPGARDE\DEV19\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmUpdateSquare.resources
+D:\UPGARDE\DEV19\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmUpdatePrice.resources
+D:\UPGARDE\DEV19\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportProductViewGeneral.resources
+D:\UPGARDE\DEV19\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmLoaiHangMuc.resources
+D:\UPGARDE\DEV19\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmChuyenQuyen.resources
+D:\UPGARDE\DEV19\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmEdit.resources
+D:\UPGARDE\DEV19\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmEditV2.resources
+D:\UPGARDE\DEV19\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImport.resources
+D:\UPGARDE\DEV19\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportGCN.resources
+D:\UPGARDE\DEV19\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportLinq.resources
+D:\UPGARDE\DEV19\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmImportUpdate.resources
+D:\UPGARDE\DEV19\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmPhongToa.resources
+D:\UPGARDE\DEV19\Source\BEE.SanPham\obj\Debug\BEE.SanPham.frmTrangThai.resources
+D:\UPGARDE\DEV19\Source\BEE.SanPham\obj\Debug\BEE.BatDongSan.LoadiBDS_ctl.resources
+D:\UPGARDE\DEV19\Source\BEE.SanPham\obj\Debug\BEE.BatDongSan.LoaiBDS_frm.resources
+D:\UPGARDE\DEV19\Source\BEE.SanPham\obj\Debug\BEE.SanPham.csproj.GenerateResource.Cache
+D:\UPGARDE\DEV19\Source\BEE.SanPham\obj\Debug\BEE.SanPham.dll
+D:\UPGARDE\DEV19\Source\BEE.SanPham\obj\Debug\BEE.SanPham.pdb
+D:\UPGARDE\DEV19\Source\app\BEE.SanPham.dll
+D:\UPGARDE\DEV19\Source\app\BEE.SanPham.pdb

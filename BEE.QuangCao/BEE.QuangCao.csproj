@@ -1,0 +1,820 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{52727361-1D55-414E-A9F9-6BB15FC7D771}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BEE.QuangCao</RootNamespace>
+    <AssemblyName>BEE.QuangCao</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\app\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'MySetting|AnyCPU'">
+    <OutputPath>bin\MySetting\</OutputPath>
+    <Prefer32Bit>false</Prefer32Bit>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BEE.FTP, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DLL\BEE.FTP.dll</HintPath>
+    </Reference>
+    <Reference Include="BEE.KhachHang, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\app\BEE.KhachHang.dll</HintPath>
+    </Reference>
+    <Reference Include="BEE.NgonNgu, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\app\BEE.NgonNgu.dll</HintPath>
+    </Reference>
+    <Reference Include="BEE.ThuVien, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\app\BEE.ThuVien.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Charts.v19.2.Core, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Pdf.v19.2.Core, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.RichEdit.v19.2.Export, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v19.2.Core, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v19.2, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.PivotGrid.v19.2.Core, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Office.v19.2.Core, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v19.2.Core, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.SpellChecker.v19.2.Core, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v19.2, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v19.2, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v19.2.Wizard, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v19.2, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v19.2.UI, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v19.2, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v19.2, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v19.2, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v19.2, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPivotGrid.v19.2, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v19.2.Extensions, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v19.2.Core, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.CodeParser.v19.2, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v19.2.UI, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v19.2, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Images.v19.2, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraRichEdit.v19.2, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraSpellChecker.v19.2, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DIPSMS">
+      <HintPath>..\BeeRem\bin\x86\Debug\DIPSMS.dll</HintPath>
+    </Reference>
+    <Reference Include="HTMLEditorControl">
+      <HintPath>..\BeeRem\bin\x86\Debug\HTMLEditorControl.dll</HintPath>
+    </Reference>
+    <Reference Include="LinqToExcel, Version=1.7.0.0, Culture=neutral, PublicKeyToken=9c8ea65a58f03f1f, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\BeeRem\bin\x86\Debug\LinqToExcel.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=1.2.11.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\BeeRem\bin\x86\Debug\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Remotion.Data.Linq, Version=1.13.52.2, Culture=neutral, PublicKeyToken=0669cf0452175907, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\BeeRem\bin\x86\Debug\Remotion.Data.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Care\ctlHappyBirthday.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Care\ctlHappyBirthday.designer.cs">
+      <DependentUpon>ctlHappyBirthday.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Care\ctlManager.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Care\ctlManager.designer.cs">
+      <DependentUpon>ctlManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Care\ctlManager2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Care\ctlManager2.Designer.cs">
+      <DependentUpon>ctlManager2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Care\ctlMultiBuy.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Care\ctlMultiBuy.designer.cs">
+      <DependentUpon>ctlMultiBuy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Care\frmFind.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Care\frmFind.Designer.cs">
+      <DependentUpon>frmFind.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Care\frmHappyBirthday.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Care\frmHappyBirthday.designer.cs">
+      <DependentUpon>frmHappyBirthday.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConfirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConfirm.designer.cs">
+      <DependentUpon>frmConfirm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MailV2\ctlManager.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MailV2\ctlManager.Designer.cs">
+      <DependentUpon>ctlManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MailV2\frmContentEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MailV2\frmContentEdit.Designer.cs">
+      <DependentUpon>frmContentEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MailV2\frmImportMail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MailV2\frmImportMail.Designer.cs">
+      <DependentUpon>frmImportMail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MailV2\frmSelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MailV2\frmSelect.Designer.cs">
+      <DependentUpon>frmSelect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mail\ctlCategory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Mail\ctlCategory.designer.cs">
+      <DependentUpon>ctlCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mail\ctlConfig.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Mail\ctlConfig.Designer.cs">
+      <DependentUpon>ctlConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mail\ctlReceive.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Mail\ctlReceive.designer.cs">
+      <DependentUpon>ctlReceive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mail\ctlSending.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Mail\ctlSending.designer.cs">
+      <DependentUpon>ctlSending.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mail\ctlTemplates.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Mail\ctlTemplates.designer.cs">
+      <DependentUpon>ctlTemplates.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mail\frmConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mail\frmConfig.Designer.cs">
+      <DependentUpon>frmConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mail\frmConfigReminder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mail\frmConfigReminder.designer.cs">
+      <DependentUpon>frmConfigReminder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mail\frmConfirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mail\frmConfirm.designer.cs">
+      <DependentUpon>frmConfirm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mail\frmFields.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mail\frmFields.designer.cs">
+      <DependentUpon>frmFields.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mail\frmGroupReminders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mail\frmGroupReminders.designer.cs">
+      <DependentUpon>frmGroupReminders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mail\frmReceive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mail\frmReceive.Designer.cs">
+      <DependentUpon>frmReceive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mail\frmReceiveList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mail\frmReceiveList.Designer.cs">
+      <DependentUpon>frmReceiveList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mail\frmReceiveSelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mail\frmReceiveSelect.designer.cs">
+      <DependentUpon>frmReceiveSelect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mail\frmSending.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mail\frmSending.Designer.cs">
+      <DependentUpon>frmSending.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mail\frmTemplates.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mail\frmTemplates.Designer.cs">
+      <DependentUpon>frmTemplates.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mail\frmTemplateSelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mail\frmTemplateSelect.designer.cs">
+      <DependentUpon>frmTemplateSelect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Report\Mail\rptDetail.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\Mail\rptDetail.Designer.cs">
+      <DependentUpon>rptDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\Mail\rptList.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\Mail\rptList.Designer.cs">
+      <DependentUpon>rptList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\SMS\rptDetail.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\SMS\rptDetail.Designer.cs">
+      <DependentUpon>rptDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\SMSService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="SMS\ctlCategories.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SMS\ctlCategories.designer.cs">
+      <DependentUpon>ctlCategories.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SMS\ctlCustomers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SMS\ctlCustomers.designer.cs">
+      <DependentUpon>ctlCustomers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SMS\ctlGroupReceives.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SMS\ctlGroupReceives.designer.cs">
+      <DependentUpon>ctlGroupReceives.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SMS\ctlMessage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SMS\ctlMessage.designer.cs">
+      <DependentUpon>ctlMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SMS\ctlSending.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SMS\ctlSending.designer.cs">
+      <DependentUpon>ctlSending.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SMS\ctlStatistic.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SMS\ctlStatistic.Designer.cs">
+      <DependentUpon>ctlStatistic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SMS\ctlTemplates.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SMS\ctlTemplates.designer.cs">
+      <DependentUpon>ctlTemplates.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SMS\ctlTopupHistory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SMS\ctlTopupHistory.Designer.cs">
+      <DependentUpon>ctlTopupHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SMS\frmAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SMS\frmAccount.designer.cs">
+      <DependentUpon>frmAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SMS\frmChoiceGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SMS\frmChoiceGroup.designer.cs">
+      <DependentUpon>frmChoiceGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SMS\frmChoiceTemplate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SMS\frmChoiceTemplate.designer.cs">
+      <DependentUpon>frmChoiceTemplate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SMS\frmConfigReminder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SMS\frmConfigReminder.designer.cs">
+      <DependentUpon>frmConfigReminder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SMS\frmConfirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SMS\frmConfirm.designer.cs">
+      <DependentUpon>frmConfirm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SMS\frmFields.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SMS\frmFields.designer.cs">
+      <DependentUpon>frmFields.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SMS\frmGroupReceive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SMS\frmGroupReceive.Designer.cs">
+      <DependentUpon>frmGroupReceive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SMS\frmGroupReminders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SMS\frmGroupReminders.designer.cs">
+      <DependentUpon>frmGroupReminders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SMS\frmPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SMS\frmPayment.Designer.cs">
+      <DependentUpon>frmPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SMS\frmSelectObject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SMS\frmSelectObject.Designer.cs">
+      <DependentUpon>frmSelectObject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SMS\frmSending.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SMS\frmSending.Designer.cs">
+      <DependentUpon>frmSending.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SMS\frmSendSMS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SMS\frmSendSMS.designer.cs">
+      <DependentUpon>frmSendSMS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SMS\frmSendSMS2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SMS\frmSendSMS2.designer.cs">
+      <DependentUpon>frmSendSMS2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SMS\frmTemplates.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SMS\frmTemplates.Designer.cs">
+      <DependentUpon>frmTemplates.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SMS\frmText.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SMS\frmText.Designer.cs">
+      <DependentUpon>frmText.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SMS\frmTopUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SMS\frmTopUp.Designer.cs">
+      <DependentUpon>frmTopUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Care\ctlHappyBirthday.resx">
+      <DependentUpon>ctlHappyBirthday.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Care\ctlManager.resx">
+      <DependentUpon>ctlManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Care\ctlManager2.resx">
+      <DependentUpon>ctlManager2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Care\ctlMultiBuy.resx">
+      <DependentUpon>ctlMultiBuy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Care\frmFind.resx">
+      <DependentUpon>frmFind.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Care\frmHappyBirthday.resx">
+      <DependentUpon>frmHappyBirthday.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConfirm.resx">
+      <DependentUpon>frmConfirm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MailV2\ctlManager.resx">
+      <DependentUpon>ctlManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MailV2\frmContentEdit.resx">
+      <DependentUpon>frmContentEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MailV2\frmImportMail.resx">
+      <DependentUpon>frmImportMail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MailV2\frmSelect.resx">
+      <DependentUpon>frmSelect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mail\ctlCategory.resx">
+      <DependentUpon>ctlCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mail\ctlConfig.resx">
+      <DependentUpon>ctlConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mail\ctlReceive.resx">
+      <DependentUpon>ctlReceive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mail\ctlSending.resx">
+      <DependentUpon>ctlSending.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mail\ctlTemplates.resx">
+      <DependentUpon>ctlTemplates.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mail\frmConfig.resx">
+      <DependentUpon>frmConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mail\frmConfigReminder.resx">
+      <DependentUpon>frmConfigReminder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mail\frmConfirm.resx">
+      <DependentUpon>frmConfirm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mail\frmFields.resx">
+      <DependentUpon>frmFields.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mail\frmGroupReminders.resx">
+      <DependentUpon>frmGroupReminders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mail\frmReceive.resx">
+      <DependentUpon>frmReceive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mail\frmReceiveList.resx">
+      <DependentUpon>frmReceiveList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mail\frmReceiveSelect.resx">
+      <DependentUpon>frmReceiveSelect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mail\frmSending.resx">
+      <DependentUpon>frmSending.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mail\frmTemplates.resx">
+      <DependentUpon>frmTemplates.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mail\frmTemplateSelect.resx">
+      <DependentUpon>frmTemplateSelect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\Mail\rptDetail.resx">
+      <DependentUpon>rptDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\SMS\rptDetail.resx">
+      <DependentUpon>rptDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SMS\ctlCategories.resx">
+      <DependentUpon>ctlCategories.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SMS\ctlCustomers.resx">
+      <DependentUpon>ctlCustomers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SMS\ctlGroupReceives.resx">
+      <DependentUpon>ctlGroupReceives.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SMS\ctlMessage.resx">
+      <DependentUpon>ctlMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SMS\ctlSending.resx">
+      <DependentUpon>ctlSending.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SMS\ctlStatistic.resx">
+      <DependentUpon>ctlStatistic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SMS\ctlTemplates.resx">
+      <DependentUpon>ctlTemplates.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SMS\ctlTopupHistory.resx">
+      <DependentUpon>ctlTopupHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SMS\frmAccount.resx">
+      <DependentUpon>frmAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SMS\frmChoiceGroup.resx">
+      <DependentUpon>frmChoiceGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SMS\frmChoiceTemplate.resx">
+      <DependentUpon>frmChoiceTemplate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SMS\frmConfigReminder.resx">
+      <DependentUpon>frmConfigReminder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SMS\frmConfirm.resx">
+      <DependentUpon>frmConfirm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SMS\frmFields.resx">
+      <DependentUpon>frmFields.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SMS\frmGroupReceive.resx">
+      <DependentUpon>frmGroupReceive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SMS\frmGroupReminders.resx">
+      <DependentUpon>frmGroupReminders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SMS\frmPayment.resx">
+      <DependentUpon>frmPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SMS\frmSelectObject.resx">
+      <DependentUpon>frmSelectObject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SMS\frmSending.resx">
+      <DependentUpon>frmSending.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SMS\frmSendSMS.resx">
+      <DependentUpon>frmSendSMS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SMS\frmSendSMS2.resx">
+      <DependentUpon>frmSendSMS2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SMS\frmTemplates.resx">
+      <DependentUpon>frmTemplates.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SMS\frmText.resx">
+      <DependentUpon>frmText.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SMS\frmTopUp.resx">
+      <DependentUpon>frmTopUp.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Care\Note.txt" />
+    <None Include="Resources\thanhly.png" />
+    <None Include="Resources\cancel-icon1.png" />
+    <None Include="Resources\add321.png" />
+    <None Include="Resources\document32x321.png" />
+    <None Include="Resources\refresh4.png" />
+    <None Include="Resources\add32.png" />
+    <None Include="Resources\cancel-icon.png" />
+    <None Include="Resources\document32x32.png" />
+    <None Include="Resources\User_Group1.png" />
+    <None Include="Resources\quatang48.png" />
+    <None Include="Resources\process1.png" />
+    <None Include="Resources\cart4.png" />
+    <None Include="Resources\calendar.png" />
+    <None Include="Resources\add_user.png" />
+    <None Include="Service References\SMSService\BEE.QuangCao.SMSService.BrandNames.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SMSService\BEE.QuangCao.SMSService.Messages.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SMSService\BEE.QuangCao.SMSService.TopUpHistory.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SMSService\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Service References\SMSService\configuration.svcinfo" />
+    <None Include="Service References\SMSService\configuration91.svcinfo" />
+    <None Include="Service References\SMSService\service.disco" />
+    <None Include="app.config" />
+    <None Include="Resources\waiting.png" />
+    <None Include="Resources\ventura.jpg" />
+    <None Include="Resources\users_add.png" />
+    <None Include="Resources\users_accept.png" />
+    <None Include="Resources\users.png" />
+    <None Include="Resources\user_info16.png" />
+    <None Include="Resources\user_info.png" />
+    <None Include="Resources\user_edit.png" />
+    <None Include="Resources\undo.gif" />
+    <None Include="Resources\uncheck.png" />
+    <None Include="Resources\umbrella.png" />
+    <None Include="Resources\tick.gif" />
+    <None Include="Resources\ThuTien.jpg" />
+    <None Include="Resources\ThongKe_BaoDuong.jpg" />
+    <None Include="Resources\test.png" />
+    <None Include="Resources\synchronize_basic_blue.png" />
+    <None Include="Resources\stop.gif" />
+    <None Include="Resources\Start.png" />
+    <None Include="Resources\speaker.png" />
+    <None Include="Resources\ringtone.png" />
+    <None Include="Resources\report1.jpg" />
+    <None Include="Resources\refresh_blue.gif" />
+    <None Include="Resources\Quy.png" />
+    <None Include="Resources\question_basic_blue.png" />
+    <None Include="Resources\product.png" />
+    <None Include="Resources\process_add.png" />
+    <None Include="Resources\printer.gif" />
+    <None Include="Resources\previous.png" />
+    <None Include="Resources\plus_orange.png" />
+    <None Include="Resources\phongphu_landsoft.jpg" />
+    <None Include="Resources\page.png" />
+    <None Include="Resources\Online.png" />
+    <None Include="Resources\OK.png" />
+    <None Include="Resources\Offline.png" />
+    <None Include="Resources\notebook_edit.png" />
+    <None Include="Resources\notebook_add.png" />
+    <None Include="Resources\next1.png" />
+    <None Include="Resources\next.png" />
+    <None Include="Resources\muted.png" />
+    <None Include="Resources\mega.png" />
+    <None Include="Resources\mail_send.png" />
+    <None Include="Resources\mail.png" />
+    <None Include="Resources\Luu.gif" />
+    <None Include="Resources\login20.png" />
+    <None Include="Resources\loading1.gif" />
+    <None Include="Resources\loading_purple.gif" />
+    <None Include="Resources\loading_green.gif" />
+    <None Include="Resources\loading_blue.jpg" />
+    <None Include="Resources\loading_black.gif" />
+    <None Include="Resources\loading.gif" />
+    <None Include="Resources\list1.png" />
+    <None Include="Resources\list.png" />
+    <None Include="Resources\Land-Soft.png" />
+    <None Include="Resources\Land-Soft.jpg" />
+    <None Include="Resources\information-blue.png" />
+    <None Include="Resources\information.png" />
+    <None Include="Resources\ImportXMLHS.png" />
+    <None Include="Resources\icon_new.gif" />
+    <None Include="Resources\htop.png" />
+    <None Include="Resources\home1.png" />
+    <None Include="Resources\home.png" />
+    <None Include="Resources\history.png" />
+    <None Include="Resources\Header.png" />
+    <None Include="Resources\hado_landsoft.jpg" />
+    <None Include="Resources\folder_add.png" />
+    <None Include="Resources\finished-2.png" />
+    <None Include="Resources\find-bluepng.png" />
+    <None Include="Resources\find.png" />
+    <None Include="Resources\export.gif" />
+    <None Include="Resources\edit.png" />
+    <None Include="Resources\Duyet.gif" />
+    <None Include="Resources\Dong.png" />
+    <None Include="Resources\document-new.png" />
+    <None Include="Resources\DIP_Vietnam.png" />
+    <None Include="Resources\DatCoc.png" />
+    <None Include="Resources\contract.png" />
+    <None Include="Resources\contact.png" />
+    <None Include="Resources\config-users.png" />
+    <None Include="Resources\computer.png" />
+    <None Include="Resources\check.png" />
+    <None Include="Resources\chat_1.png" />
+    <None Include="Resources\chat.png" />
+    <None Include="Resources\chart-area-up_basic_blue.png" />
+    <None Include="Resources\chart.png" />
+    <None Include="Resources\cd_add.png" />
+    <None Include="Resources\cd_accept.png" />
+    <None Include="Resources\category_settings-64.png" />
+    <None Include="Resources\Catalog.png" />
+    <None Include="Resources\cancel_red.png" />
+    <None Include="Resources\Cancel.png" />
+    <None Include="Resources\calendar_date.png" />
+    <None Include="Resources\buy_48.png" />
+    <None Include="Resources\business_user.png" />
+    <None Include="Resources\btnXoa.png" />
+    <None Include="Resources\btnSua.png" />
+    <None Include="Resources\BRC Phuoc Long%28ban nhe%29-08.jpg" />
+    <None Include="Resources\birthday.png" />
+    <None Include="Resources\bg-.jpg" />
+    <None Include="Resources\asd.png" />
+    <None Include="Resources\Alarm-Clock.gif" />
+    <None Include="Resources\add-tag48.png" />
+    <None Include="Resources\add.png" />
+    <None Include="Resources\add.gif" />
+    <None Include="Resources\140.gif" />
+    <None Include="Resources\108.gif" />
+    <None Include="Resources\094.gif" />
+    <None Include="Resources\012.gif" />
+    <None Include="Service References\SMSService\service.wsdl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="MailHand\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\SMSService\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

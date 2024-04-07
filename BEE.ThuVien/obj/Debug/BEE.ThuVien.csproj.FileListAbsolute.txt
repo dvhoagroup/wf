@@ -1,0 +1,180 @@
+D:\My Job\BeeSky\BEEREM HOABINHV2\DLL\BEE.ThuVien.dll.config
+D:\My Job\BeeSky\BEEREM HOABINHV2\DLL\BEE.ThuVien.dll
+D:\My Job\BeeSky\BEEREM HOABINHV2\DLL\BEE.ThuVien.pdb
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Library\obj\Debug\ResolveAssemblyReference.cache
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Library\obj\Debug\BEE.ThuVien.ctlManager.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Library\obj\Debug\BEE.ThuVien.Properties.Resources.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Library\obj\Debug\ResGen.read.1.tlog
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Library\obj\Debug\ResGen.write.1.tlog
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Library\obj\Debug\BEE.ThuVien.dll
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Library\obj\Debug\BEE.ThuVien.pdb
+D:\BEESKY\REM\BEEREMA DEMO\DLL\BEE.ThuVien.dll.config
+D:\BEESKY\REM\BEEREMA DEMO\DLL\BEE.ThuVien.dll
+D:\BEESKY\REM\BEEREMA DEMO\DLL\BEE.ThuVien.pdb
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Library\obj\Debug\BEE.ThuVien.ctlManager.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Library\obj\Debug\BEE.ThuVien.Properties.Resources.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Library\obj\Debug\BEE.ThuVien.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Library\obj\Debug\BEE.ThuVien.dll
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Library\obj\Debug\BEE.ThuVien.pdb
+E:\BEESKY\REM\BEEREMA DEMO\DLL\BEE.ThuVien.dll.config
+E:\BEESKY\REM\BEEREMA DEMO\DLL\BEE.ThuVien.dll
+E:\BEESKY\REM\BEEREMA DEMO\DLL\BEE.ThuVien.pdb
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Library\obj\Debug\BEE.ThuVien.csprojResolveAssemblyReference.cache
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Library\obj\Debug\BEE.ThuVien.ctlManager.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Library\obj\Debug\BEE.ThuVien.Properties.Resources.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Library\obj\Debug\BEE.ThuVien.csproj.GenerateResource.Cache
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Library\obj\Debug\BEE.ThuVien.dll
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Library\obj\Debug\BEE.ThuVien.pdb
+D:\My Job\BeeSky\REM\BEEREMA DEMO\DLL\BEE.ThuVien.dll.config
+D:\My Job\BeeSky\REM\BEEREMA DEMO\DLL\BEE.ThuVien.dll
+D:\My Job\BeeSky\REM\BEEREMA DEMO\DLL\BEE.ThuVien.pdb
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.ThuVien\obj\Debug\BEE.ThuVien.csprojResolveAssemblyReference.cache
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.ThuVien\obj\Debug\BEE.ThuVien.ctlManager.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.ThuVien\obj\Debug\BEE.ThuVien.Properties.Resources.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.ThuVien\obj\Debug\BEE.ThuVien.csproj.GenerateResource.Cache
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.ThuVien\obj\Debug\BEE.ThuVien.dll
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.ThuVien\obj\Debug\BEE.ThuVien.pdb
+D:\Dev\3. REM\BEEREMA DEMO\DLL\BEE.ThuVien.dll.config
+D:\Dev\3. REM\BEEREMA DEMO\DLL\BEE.ThuVien.dll
+D:\Dev\3. REM\BEEREMA DEMO\DLL\BEE.ThuVien.pdb
+D:\Dev\3. REM\BEEREMA DEMO\BEE.ThuVien\obj\Debug\BEE.ThuVien.ctlManager.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.ThuVien\obj\Debug\BEE.ThuVien.Properties.Resources.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.ThuVien\obj\Debug\BEE.ThuVien.csproj.GenerateResource.Cache
+D:\Dev\3. REM\BEEREMA DEMO\BEE.ThuVien\obj\Debug\BEE.ThuVien.dll
+D:\Dev\3. REM\BEEREMA DEMO\BEE.ThuVien\obj\Debug\BEE.ThuVien.pdb
+D:\Dev\3. REM\BEEREMA HOALAND\DLL\BEE.ThuVien.dll.config
+D:\Dev\3. REM\BEEREMA HOALAND\DLL\BEE.ThuVien.dll
+D:\Dev\3. REM\BEEREMA HOALAND\DLL\BEE.ThuVien.pdb
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.ThuVien\obj\Debug\BEE.ThuVien.ctlManager.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.ThuVien\obj\Debug\BEE.ThuVien.Properties.Resources.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.ThuVien\obj\Debug\BEE.ThuVien.csproj.GenerateResource.Cache
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.ThuVien\obj\Debug\BEE.ThuVien.dll
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.ThuVien\obj\Debug\BEE.ThuVien.pdb
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\DLL\BEE.ThuVien.dll.config
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\DLL\BEE.ThuVien.dll
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\DLL\BEE.ThuVien.pdb
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.ThuVien\obj\Debug\BEE.ThuVien.ctlManager.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.ThuVien\obj\Debug\BEE.ThuVien.Properties.Resources.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.ThuVien\obj\Debug\BEE.ThuVien.csproj.GenerateResource.Cache
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.ThuVien\obj\Debug\BEE.ThuVien.dll
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.ThuVien\obj\Debug\BEE.ThuVien.pdb
+D:\Dev\3. REM\BEEREMA HOALAND\Source\DLL\BEE.ThuVien.dll.config
+D:\Dev\3. REM\BEEREMA HOALAND\Source\DLL\BEE.ThuVien.dll
+D:\Dev\3. REM\BEEREMA HOALAND\Source\DLL\BEE.ThuVien.pdb
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.ThuVien\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.ctlManager.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.Properties.Resources.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.ThuVien\obj\Debug\ResGen.read.1.tlog
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.ThuVien\obj\Debug\ResGen.write.1.tlog
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.dll
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.pdb
+D:\Dev\3. REM\REM_HOALAND\Source\DLL\BEE.ThuVien.dll.config
+D:\Dev\3. REM\REM_HOALAND\Source\DLL\BEE.ThuVien.dll
+D:\Dev\3. REM\REM_HOALAND\Source\DLL\BEE.ThuVien.pdb
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.ctlManager.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.Properties.Resources.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.csproj.GenerateResource.Cache
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.dll
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.pdb
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.dll.licenses
+D:\Dev\3. REM\REM_HOALAND\Source\app\BEE.ThuVien.dll.config
+D:\Dev\3. REM\REM_HOALAND\Source\app\BEE.ThuVien.dll
+D:\Dev\3. REM\REM_HOALAND\Source\app\BEE.ThuVien.pdb
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.csprojResolveAssemblyReference.cache
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\app\BEE.ThuVien.dll.config
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\app\BEE.ThuVien.dll
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\app\BEE.ThuVien.pdb
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.csprojResolveAssemblyReference.cache
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.ctlManager.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.Properties.Resources.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.csproj.GenerateResource.Cache
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.dll.licenses
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.dll
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.pdb
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\app\BEE.ThuVien.dll.config
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\app\BEE.ThuVien.dll
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\app\BEE.ThuVien.pdb
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.csprojResolveAssemblyReference.cache
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.ctlManager.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.Properties.Resources.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.csproj.GenerateResource.Cache
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.dll.licenses
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.dll
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.pdb
+F:\2017\BEEREMA\HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.ctlManager.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.Properties.Resources.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.csproj.GenerateResource.Cache
+F:\2017\BEEREMA\HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.dll.licenses
+F:\2017\BEEREMA\HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.dll
+F:\2017\BEEREMA\HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.pdb
+F:\2017\BEEREMA\HOALAND\Source\app\BEE.ThuVien.dll.config
+F:\2017\BEEREMA\HOALAND\Source\app\BEE.ThuVien.dll
+F:\2017\BEEREMA\HOALAND\Source\app\BEE.ThuVien.pdb
+F:\2017\BEEREMA\HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.csprojResolveAssemblyReference.cache
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.ctlManager.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.Properties.Resources.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.csproj.GenerateResource.Cache
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.dll.licenses
+F:\2017\BEEREMA\HOALAND - Copy\Source\app\BEE.ThuVien.dll.config
+F:\2017\BEEREMA\HOALAND - Copy\Source\app\BEE.ThuVien.dll
+F:\2017\BEEREMA\HOALAND - Copy\Source\app\BEE.ThuVien.pdb
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.dll
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.pdb
+F:\2017\BEEREMA\HOALAND35\Source\app\BEE.ThuVien.dll.config
+F:\2017\BEEREMA\HOALAND35\Source\app\BEE.ThuVien.dll
+F:\2017\BEEREMA\HOALAND35\Source\app\BEE.ThuVien.pdb
+F:\2017\BEEREMA\HOALAND35\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.ctlManager.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.Properties.Resources.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.csproj.GenerateResource.Cache
+F:\2017\BEEREMA\HOALAND35\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.dll.licenses
+F:\2017\BEEREMA\HOALAND35\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.dll
+F:\2017\BEEREMA\HOALAND35\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.pdb
+F:\2017\BEEREMA\HOALAND35\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.csprojResolveAssemblyReference.cache
+D:\CODE FULL HOALAND\Source\app\BEE.ThuVien.dll.config
+D:\CODE FULL HOALAND\Source\app\BEE.ThuVien.dll
+D:\CODE FULL HOALAND\Source\app\BEE.ThuVien.pdb
+D:\CODE FULL HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.ctlManager.resources
+D:\CODE FULL HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.Properties.Resources.resources
+D:\CODE FULL HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.csproj.GenerateResource.Cache
+D:\CODE FULL HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.dll
+D:\CODE FULL HOALAND\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.pdb
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.ctlManager.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.Properties.Resources.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.csproj.GenerateResource.Cache
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.dll
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.pdb
+F:\2017\BEEREMA\HOLAND_SVN\Source\app\BEE.ThuVien.dll.config
+F:\2017\BEEREMA\HOLAND_SVN\Source\app\BEE.ThuVien.dll
+F:\2017\BEEREMA\HOLAND_SVN\Source\app\BEE.ThuVien.pdb
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\app\BEE.ThuVien.dll.config
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\app\BEE.ThuVien.dll
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\app\BEE.ThuVien.pdb
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.ctlManager.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.Properties.Resources.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.csproj.GenerateResource.Cache
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.dll
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.pdb
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.csprojAssemblyReference.cache
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.csproj.CoreCompileInputs.cache
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.csproj.CopyComplete
+D:\UPGARDE\DEV19\Source\app\BEE.ThuVien.dll.config
+D:\UPGARDE\DEV19\Source\app\BEE.ThuVien.dll
+D:\UPGARDE\DEV19\Source\app\BEE.ThuVien.pdb
+D:\UPGARDE\DEV19\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.ctlManager.resources
+D:\UPGARDE\DEV19\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.Properties.Resources.resources
+D:\UPGARDE\DEV19\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.csproj.GenerateResource.Cache
+D:\UPGARDE\DEV19\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.dll
+D:\UPGARDE\DEV19\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.pdb
+D:\UPGARDE\DEV19\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.csprojResolveAssemblyReference.cache
+C:\HOALAND\Source Code_winform\DEV19\Source\app\BEE.ThuVien.dll.config
+C:\HOALAND\Source Code_winform\DEV19\Source\app\BEE.ThuVien.dll
+C:\HOALAND\Source Code_winform\DEV19\Source\app\BEE.ThuVien.pdb
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.ctlManager.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.Properties.Resources.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.csproj.GenerateResource.cache
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.csproj.CoreCompileInputs.cache
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.csproj.CopyComplete
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.dll
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.pdb
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.dll.licenses
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.csprojAssemblyReference.cache

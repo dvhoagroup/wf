@@ -1,0 +1,372 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0FF27C8B-1CE5-4CA1-819D-74021F8B691F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BEE.LichLamViec</RootNamespace>
+    <AssemblyName>BEE.LichLamViec</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\app\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'MySetting|AnyCPU'">
+    <OutputPath>bin\MySetting\</OutputPath>
+    <Prefer32Bit>false</Prefer32Bit>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BEE.GhiChu, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\app\BEE.GhiChu.dll</HintPath>
+    </Reference>
+    <Reference Include="BEE.KhachHang, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\app\BEE.KhachHang.dll</HintPath>
+    </Reference>
+    <Reference Include="BEE.NgonNgu, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\app\BEE.NgonNgu.dll</HintPath>
+    </Reference>
+    <Reference Include="BEE.TaiLieu, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\app\BEE.TaiLieu.dll</HintPath>
+    </Reference>
+    <Reference Include="BEE.ThuVien, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\app\BEE.ThuVien.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Pdf.v19.2.Core, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Office.v19.2.Core, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v19.2.Core, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v19.2.Export, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v19.2.Core, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v19.2, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.SpellChecker.v19.2.Core, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v19.2, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v19.2, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v19.2, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v19.2, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v19.2, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v19.2, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v19.2.Reporting.Extensions, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v19.2, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v19.2.Core, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraScheduler.v19.2.Design, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.XtraScheduler.v19.2.Extensions, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraSpellChecker.v19.2, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Find_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Find_frm.Designer.cs">
+      <DependentUpon>Find_frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProcess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProcess.Designer.cs">
+      <DependentUpon>frmProcess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LichHen\AddNew_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LichHen\AddNew_frm.designer.cs">
+      <DependentUpon>AddNew_frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LichHen\ChuDe_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LichHen\ChuDe_frm.designer.cs">
+      <DependentUpon>ChuDe_frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LichHen\SchedulerList_ctl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LichHen\SchedulerList_ctl.designer.cs">
+      <DependentUpon>SchedulerList_ctl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LichHen\ThoiDiem_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LichHen\ThoiDiem_frm.designer.cs">
+      <DependentUpon>ThoiDiem_frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LichHen\View_ctl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LichHen\View_ctl.designer.cs">
+      <DependentUpon>View_ctl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LichHen_NhanVien.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LichHen_NhanVien.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="NhiemVu\AddNew_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhiemVu\AddNew_frm.designer.cs">
+      <DependentUpon>AddNew_frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhiemVu\frmDuyet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhiemVu\frmDuyet.designer.cs">
+      <DependentUpon>frmDuyet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhiemVu\frmTienDo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhiemVu\frmTienDo.designer.cs">
+      <DependentUpon>frmTienDo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhiemVu\List_ctl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="NhiemVu\List_ctl.designer.cs">
+      <DependentUpon>List_ctl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhiemVu\LoaiNhiemVu_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhiemVu\LoaiNhiemVu_frm.designer.cs">
+      <DependentUpon>LoaiNhiemVu_frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhiemVu\MucDo_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhiemVu\MucDo_frm.designer.cs">
+      <DependentUpon>MucDo_frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhiemVu\Rings_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhiemVu\Rings_frm.designer.cs">
+      <DependentUpon>Rings_frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhiemVu\SelectObject_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhiemVu\SelectObject_frm.designer.cs">
+      <DependentUpon>SelectObject_frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhiemVu\Select_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhiemVu\Select_frm.designer.cs">
+      <DependentUpon>Select_frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhiemVu\TinhTrang_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhiemVu\TinhTrang_frm.designer.cs">
+      <DependentUpon>TinhTrang_frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhiemVu\View_ctl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="NhiemVu\View_ctl.designer.cs">
+      <DependentUpon>View_ctl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+    <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Find_frm.resx">
+      <DependentUpon>Find_frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProcess.resx">
+      <DependentUpon>frmProcess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LichHen\AddNew_frm.resx">
+      <DependentUpon>AddNew_frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LichHen\ChuDe_frm.resx">
+      <DependentUpon>ChuDe_frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LichHen\SchedulerList_ctl.resx">
+      <DependentUpon>SchedulerList_ctl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LichHen\ThoiDiem_frm.resx">
+      <DependentUpon>ThoiDiem_frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LichHen\View_ctl.resx">
+      <DependentUpon>View_ctl.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="LichHen_NhanVien.dbml.layout">
+      <DependentUpon>LichHen_NhanVien.dbml</DependentUpon>
+    </None>
+    <EmbeddedResource Include="NhiemVu\AddNew_frm.resx">
+      <DependentUpon>AddNew_frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhiemVu\frmDuyet.resx">
+      <DependentUpon>frmDuyet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhiemVu\frmTienDo.resx">
+      <DependentUpon>frmTienDo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhiemVu\List_ctl.resx">
+      <DependentUpon>List_ctl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhiemVu\LoaiNhiemVu_frm.resx">
+      <DependentUpon>LoaiNhiemVu_frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhiemVu\MucDo_frm.resx">
+      <DependentUpon>MucDo_frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhiemVu\Rings_frm.resx">
+      <DependentUpon>Rings_frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhiemVu\SelectObject_frm.resx">
+      <DependentUpon>SelectObject_frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhiemVu\Select_frm.resx">
+      <DependentUpon>Select_frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhiemVu\TinhTrang_frm.resx">
+      <DependentUpon>TinhTrang_frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhiemVu\View_ctl.resx">
+      <DependentUpon>View_ctl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="LichHen_NhanVien.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>LichHen_NhanVien.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Resources\history.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Luu.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\finished-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ringtone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh_blue.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnXoa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stop.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

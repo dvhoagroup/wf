@@ -1,0 +1,74 @@
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Maps\obj\Debug\ResolveAssemblyReference.cache
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Maps\bin\BEE.BanDo.dll
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Maps\bin\BEE.BanDo.pdb
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Maps\bin\DevExpress.Data.v10.2.dll
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Maps\bin\DevExpress.Web.v10.2.dll
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Maps\bin\DevExpress.Data.v10.2.xml
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Maps\bin\DevExpress.Web.v10.2.xml
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Maps\obj\Debug\BEE.BanDo.dll
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Maps\obj\Debug\BEE.BanDo.pdb
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Maps\bin\BEE.BanDo.dll
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Maps\bin\BEE.BanDo.pdb
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Maps\bin\DevExpress.Data.v10.2.dll
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Maps\bin\DevExpress.Web.v10.2.dll
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Maps\bin\DevExpress.Data.v10.2.xml
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Maps\bin\DevExpress.Web.v10.2.xml
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Maps\obj\Debug\BEE.BanDo.dll
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Maps\obj\Debug\BEE.BanDo.pdb
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Maps\bin\BEE.BanDo.dll
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Maps\bin\BEE.BanDo.pdb
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Maps\bin\DevExpress.Data.v10.2.dll
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Maps\bin\DevExpress.Web.v10.2.dll
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Maps\bin\DevExpress.Data.v10.2.xml
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Maps\bin\DevExpress.Web.v10.2.xml
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Maps\obj\Debug\BEE.BanDo.csprojResolveAssemblyReference.cache
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Maps\obj\Debug\BEE.BanDo.dll
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Maps\obj\Debug\BEE.BanDo.pdb
+D:\Dev\3. REM\BEEREMA DEMO\BEE.BanDo\bin\BEE.BanDo.dll
+D:\Dev\3. REM\BEEREMA DEMO\BEE.BanDo\bin\BEE.BanDo.pdb
+D:\Dev\3. REM\BEEREMA DEMO\BEE.BanDo\bin\DevExpress.Data.v10.2.dll
+D:\Dev\3. REM\BEEREMA DEMO\BEE.BanDo\bin\DevExpress.Web.v10.2.dll
+D:\Dev\3. REM\BEEREMA DEMO\BEE.BanDo\bin\DevExpress.Data.v10.2.xml
+D:\Dev\3. REM\BEEREMA DEMO\BEE.BanDo\bin\DevExpress.Web.v10.2.xml
+D:\Dev\3. REM\BEEREMA DEMO\BEE.BanDo\obj\Debug\BEE.BanDo.csprojResolveAssemblyReference.cache
+D:\Dev\3. REM\BEEREMA DEMO\BEE.BanDo\obj\Debug\BEE.BanDo.dll
+D:\Dev\3. REM\BEEREMA DEMO\BEE.BanDo\obj\Debug\BEE.BanDo.pdb
+D:\Dev\3. REM\REM_HOALAND\Source\app\BEE.BanDo.dll.config
+D:\Dev\3. REM\REM_HOALAND\Source\app\BEE.BanDo.dll
+D:\Dev\3. REM\REM_HOALAND\Source\app\BEE.BanDo.pdb
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.BanDo\obj\Debug\BEE.BanDo.csprojResolveAssemblyReference.cache
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.BanDo\obj\Debug\BEE.BanDo.dll
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.BanDo\obj\Debug\BEE.BanDo.pdb
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\app\BEE.BanDo.dll.config
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\app\BEE.BanDo.dll
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\app\BEE.BanDo.pdb
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.BanDo\obj\Debug\BEE.BanDo.csprojResolveAssemblyReference.cache
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.BanDo\obj\Debug\BEE.BanDo.dll
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.BanDo\obj\Debug\BEE.BanDo.pdb
+F:\2017\BEEREMA\HOALAND\Source\app\BEE.BanDo.dll.config
+F:\2017\BEEREMA\HOALAND\Source\app\BEE.BanDo.dll
+F:\2017\BEEREMA\HOALAND\Source\app\BEE.BanDo.pdb
+F:\2017\BEEREMA\HOALAND\Source\BEE.BanDo\obj\Debug\BEE.BanDo.dll
+F:\2017\BEEREMA\HOALAND\Source\BEE.BanDo\obj\Debug\BEE.BanDo.pdb
+F:\2017\BEEREMA\HOALAND - Copy\Source\app\BEE.BanDo.dll
+F:\2017\BEEREMA\HOALAND - Copy\Source\app\BEE.BanDo.pdb
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.BanDo\obj\Debug\BEE.BanDo.dll
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.BanDo\obj\Debug\BEE.BanDo.pdb
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.BanDo\obj\Debug\BEE.BanDo.csprojResolveAssemblyReference.cache
+F:\2017\BEEREMA\HOLAND_SVN\Source\app\BEE.BanDo.dll.config
+F:\2017\BEEREMA\HOLAND_SVN\Source\app\BEE.BanDo.dll
+F:\2017\BEEREMA\HOLAND_SVN\Source\app\BEE.BanDo.pdb
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.BanDo\obj\Debug\BEE.BanDo.csprojResolveAssemblyReference.cache
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.BanDo\obj\Debug\BEE.BanDo.dll
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.BanDo\obj\Debug\BEE.BanDo.pdb
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\app\BEE.BanDo.dll.config
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\app\BEE.BanDo.dll
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\app\BEE.BanDo.pdb
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.BanDo\obj\Debug\BEE.BanDo.dll
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.BanDo\obj\Debug\BEE.BanDo.pdb
+D:\UPGARDE\DEV19\Source\app\BEE.BanDo.dll.config
+D:\UPGARDE\DEV19\Source\app\BEE.BanDo.dll
+D:\UPGARDE\DEV19\Source\app\BEE.BanDo.pdb
+D:\UPGARDE\DEV19\Source\BEE.BanDo\obj\Debug\BEE.BanDo.csprojResolveAssemblyReference.cache
+D:\UPGARDE\DEV19\Source\BEE.BanDo\obj\Debug\BEE.BanDo.dll
+D:\UPGARDE\DEV19\Source\BEE.BanDo\obj\Debug\BEE.BanDo.pdb

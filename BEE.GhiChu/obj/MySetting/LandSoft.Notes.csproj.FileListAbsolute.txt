@@ -1,0 +1,9 @@
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Notes\bin\MySetting\LandSoft.Notes.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Notes\bin\MySetting\LandSoft.Library.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Notes\bin\MySetting\LandSoft.Translate.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Notes\bin\MySetting\LandSoft.Library.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Notes\bin\MySetting\LandSoft.Translate.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Notes\obj\MySetting\LandSoft.Notes.ctlNoteHistory.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Notes\obj\MySetting\LandSoft.Notes.frmEdit.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Notes\obj\MySetting\LandSoft.Notes.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Notes\obj\MySetting\LandSoft.Notes.dll

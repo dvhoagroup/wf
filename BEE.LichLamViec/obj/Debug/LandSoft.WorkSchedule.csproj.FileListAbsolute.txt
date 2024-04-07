@@ -1,0 +1,234 @@
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\Smartland\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.csprojResolveAssemblyReference.cache
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\Smartland\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.Find_frm.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\Smartland\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.AddNew_frm.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\Smartland\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.ChuDe_frm.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\Smartland\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.SchedulerList_ctl.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\Smartland\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.ThoiDiem_frm.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\Smartland\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.View_ctl.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\Smartland\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.AddNew_frm.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\Smartland\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.frmDuyet.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\Smartland\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.frmTienDo.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\Smartland\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.List_ctl.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\Smartland\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.LoaiNhiemVu_frm.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\Smartland\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.MucDo_frm.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\Smartland\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.Rings_frm.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\Smartland\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.SelectObject_frm.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\Smartland\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.Select_frm.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\Smartland\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.TinhTrang_frm.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\Smartland\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.View_ctl.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\Smartland\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.Properties.Resources.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\Smartland\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.csproj.GenerateResource.Cache
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\Smartland\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.dll.licenses
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\Smartland\DLL\LandSoft.WorkSchedule.dll.config
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\Smartland\DLL\LandSoft.WorkSchedule.pdb
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\Smartland\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.dll
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\Smartland\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.pdb
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\Smartland\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.frmProcess.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.csprojResolveAssemblyReference.cache
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.Find_frm.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.frmProcess.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.AddNew_frm.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.ChuDe_frm.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.SchedulerList_ctl.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.ThoiDiem_frm.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.View_ctl.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.AddNew_frm.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.frmDuyet.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.frmTienDo.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.List_ctl.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.LoaiNhiemVu_frm.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.MucDo_frm.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.Rings_frm.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.SelectObject_frm.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.Select_frm.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.TinhTrang_frm.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.View_ctl.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.Properties.Resources.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.csproj.GenerateResource.Cache
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.dll.licenses
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.dll
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\DLL\LandSoft.WorkSchedule.dll.config
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\DLL\LandSoft.WorkSchedule.pdb
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.pdb
+E:\Projects\Software\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.csprojResolveAssemblyReference.cache
+E:\Projects\Software\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.Find_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.frmProcess.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.AddNew_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.ChuDe_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.SchedulerList_ctl.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.ThoiDiem_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.View_ctl.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.AddNew_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.frmDuyet.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.frmTienDo.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.List_ctl.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.LoaiNhiemVu_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.MucDo_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.Rings_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.SelectObject_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.Select_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.TinhTrang_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.View_ctl.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.Properties.Resources.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.csproj.GenerateResource.Cache
+E:\Projects\Software\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.pdb
+E:\Projects\Software\2015\HungThinh\DLL\LandSoft.WorkSchedule.dll.config
+E:\Projects\Software\2015\HungThinh\DLL\LandSoft.WorkSchedule.pdb
+E:\Projects\Software\2015\HungThinh\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.dll
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.csprojResolveAssemblyReference.cache
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.Find_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.frmProcess.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.AddNew_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.ChuDe_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.SchedulerList_ctl.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.ThoiDiem_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.View_ctl.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.AddNew_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.frmDuyet.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.frmTienDo.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.List_ctl.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.LoaiNhiemVu_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.MucDo_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.Rings_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.SelectObject_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.Select_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.TinhTrang_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.View_ctl.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.Properties.Resources.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.csproj.GenerateResource.Cache
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.pdb
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\DLL\LandSoft.WorkSchedule.dll.config
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\DLL\LandSoft.WorkSchedule.dll
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\DLL\LandSoft.WorkSchedule.pdb
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.dll
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\DLL\LandSoft.WorkSchedule.dll.config
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\DLL\LandSoft.WorkSchedule.dll
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\DLL\LandSoft.WorkSchedule.pdb
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.csprojResolveAssemblyReference.cache
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.Find_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.frmProcess.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.AddNew_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.ChuDe_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.SchedulerList_ctl.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.ThoiDiem_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.View_ctl.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.AddNew_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.frmDuyet.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.frmTienDo.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.List_ctl.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.LoaiNhiemVu_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.MucDo_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.Rings_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.SelectObject_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.Select_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.TinhTrang_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.View_ctl.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.Properties.Resources.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.csproj.GenerateResource.Cache
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.dll
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.pdb
+D:\BEESKY\REM\BEEREM FOR AGENTV2\DLL\LandSoft.WorkSchedule.dll.config
+D:\BEESKY\REM\BEEREM FOR AGENTV2\DLL\LandSoft.WorkSchedule.dll
+D:\BEESKY\REM\BEEREM FOR AGENTV2\DLL\LandSoft.WorkSchedule.pdb
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.csprojResolveAssemblyReference.cache
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.Find_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.frmProcess.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.AddNew_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.ChuDe_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.SchedulerList_ctl.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.ThoiDiem_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.View_ctl.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.AddNew_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.frmDuyet.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.frmTienDo.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.List_ctl.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.LoaiNhiemVu_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.MucDo_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.Rings_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.SelectObject_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.Select_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.TinhTrang_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.View_ctl.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.Properties.Resources.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.dll
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.pdb
+D:\BEESKY\REM\BEEREM HOABINH\DLL\LandSoft.WorkSchedule.dll.config
+D:\BEESKY\REM\BEEREM HOABINH\DLL\LandSoft.WorkSchedule.dll
+D:\BEESKY\REM\BEEREM HOABINH\DLL\LandSoft.WorkSchedule.pdb
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.csprojResolveAssemblyReference.cache
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.Find_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.frmProcess.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.AddNew_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.ChuDe_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.SchedulerList_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.ThoiDiem_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.View_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.AddNew_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.frmDuyet.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.frmTienDo.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.List_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.LoaiNhiemVu_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.MucDo_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.Rings_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.SelectObject_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.Select_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.TinhTrang_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.View_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.Properties.Resources.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.dll
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.pdb
+D:\My Job\BeeSky\BEEREM HOABINH\DLL\LandSoft.WorkSchedule.dll.config
+D:\My Job\BeeSky\BEEREM HOABINH\DLL\LandSoft.WorkSchedule.dll
+D:\My Job\BeeSky\BEEREM HOABINH\DLL\LandSoft.WorkSchedule.pdb
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.csprojResolveAssemblyReference.cache
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.Find_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.frmProcess.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.AddNew_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.ChuDe_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.SchedulerList_ctl.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.ThoiDiem_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.View_ctl.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.AddNew_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.frmDuyet.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.frmTienDo.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.List_ctl.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.LoaiNhiemVu_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.MucDo_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.Rings_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.SelectObject_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.Select_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.TinhTrang_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.View_ctl.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.Properties.Resources.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.csproj.GenerateResource.Cache
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.dll.licenses
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.dll
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\DLL\LandSoft.WorkSchedule.dll.config
+D:\BEESKY\REM\BEEREM HOABINHV2\DLL\LandSoft.WorkSchedule.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\DLL\LandSoft.WorkSchedule.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.Find_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.frmProcess.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.AddNew_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.ChuDe_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.SchedulerList_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.ThoiDiem_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.LichHen.View_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.AddNew_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.frmDuyet.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.frmTienDo.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.List_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.LoaiNhiemVu_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.MucDo_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.Rings_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.SelectObject_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.Select_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.TinhTrang_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.CongViec.NhiemVu.View_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.Properties.Resources.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.WorkSchedule\obj\Debug\LandSoft.WorkSchedule.csprojResolveAssemblyReference.cache

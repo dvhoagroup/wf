@@ -1,0 +1,1775 @@
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\ResolveAssemblyReference.cache
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.CongNo.ctlBanHang.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.CongNo.ctlDaily.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.CongNo.ctlManager.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.CongNo.ctlThanhLy.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.CongNo.frmConfirm.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.CongNo.frmEdit.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.CongNo.frmHenTra.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.CongNo.frmReply.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.CongNo.frmSelect.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.CongNo.GiaHan.ctlManager.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.CongNo.GiaHan.frmEdit.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.CongNo.NhacNo_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.CongNo.Preview_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.CongNo.ctlManagerGeneral.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.Properties.Resources.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\ResGen.read.1.tlog
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\ResGen.write.1.tlog
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.HDMG.Duyet_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.HDMG.HDMoiGioi_ctl.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.HDMG.HDMoiGioi_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.Import.frmGiaoDich.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.Import.frmPhieuThu.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.KyGui.Duyet_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.KyGui.KyGui_ctl.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.KyGui.KyGui_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.AddTemplate_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.BieuMau_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.Chart_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.Content_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.HappyBirthdaySetting_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.HappyBirthday_ctl.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.NhacNoSetting_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.SearchCustomer_ctl.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.SendMail_ctl.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.Template_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoThue.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManager.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Ban.frmEdit.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Ban.frmImport.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Ban.frmReply.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Ban.frmSend.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.BieuMau.ctlManager.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.BieuMau.frmEdit.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.frmCaiDatNhanMailCV.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.ctlDatCoc.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.frmCaiDatLoc.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.frmCapDo.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.frmCapDoChon.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.frmDatCoc.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.frmDuyet.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.frmNguon.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.frmSend.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.GiaoDich.ctlManager.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmDuyet.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmEdit.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerCanThue.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManager.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Mua.frmEdit.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Mua.frmReply.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Mua.frmSend.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmEdit.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.NguoiMG.ctlManager.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmImport.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.XuLy.frmXuLy.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.XuLy.ctlManager.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.XuLy.frmEdit.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.AddFeature_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.AddForm_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.FormFeature_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.Forms_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_ctl.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_ctl.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.Power_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.Staff_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.ThongBao.AlertDestroy_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.ThongBao.Alert_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.ThongBao.Expires_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.XNCN.XacNhanChuyenNhuong_ctl.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.XNCN.XacNhanChuyenNhuong_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\DLL\BEE.HoatDong.dll.config
+D:\My Job\BeeSky\BEEREM HOABINHV2\DLL\BEE.HoatDong.dll
+D:\My Job\BeeSky\BEEREM HOABINHV2\DLL\BEE.HoatDong.pdb
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.dll
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\BEE.HoatDong.pdb
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.csprojResolveAssemblyReference.cache
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.CongNo.ctlBanHang.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.CongNo.ctlDaily.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.CongNo.ctlManager.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.CongNo.ctlThanhLy.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.CongNo.frmConfirm.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.CongNo.frmEdit.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.CongNo.frmHenTra.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.CongNo.frmReply.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.CongNo.frmSelect.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.CongNo.GiaHan.ctlManager.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.CongNo.GiaHan.frmEdit.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.CongNo.NhacNo_frm.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.CongNo.Preview_frm.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.CongNo.ctlManagerGeneral.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.HDMG.Duyet_frm.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.HDMG.HDMoiGioi_ctl.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.HDMG.HDMoiGioi_frm.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Import.frmGiaoDich.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Import.frmPhieuThu.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.KyGui.Duyet_frm.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.KyGui.KyGui_ctl.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.KyGui.KyGui_frm.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.AddTemplate_frm.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.BieuMau_frm.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.Chart_frm.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.Content_frm.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.HappyBirthdaySetting_frm.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.HappyBirthday_ctl.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.NhacNoSetting_frm.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.SearchCustomer_ctl.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.SendMail_ctl.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.Template_frm.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoThue.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManager.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Ban.frmEdit.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Ban.frmImport.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Ban.frmReply.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Ban.frmSend.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.BieuMau.ctlManager.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.BieuMau.frmEdit.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.frmCaiDatNhanMailCV.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.ctlDatCoc.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.frmCaiDatLoc.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.frmCapDo.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.frmCapDoChon.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.frmDatCoc.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.frmDuyet.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.frmNguon.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.frmSend.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.GiaoDich.ctlManager.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmDuyet.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmEdit.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerCanThue.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManager.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Mua.frmEdit.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Mua.frmReply.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Mua.frmSend.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmEdit.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.NguoiMG.ctlManager.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmImport.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.XuLy.frmXuLy.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.XuLy.ctlManager.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.XuLy.frmEdit.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.AddFeature_frm.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.AddForm_frm.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.FormFeature_frm.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.Forms_frm.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_ctl.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_frm.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_ctl.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_frm.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.Power_frm.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.Staff_frm.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Properties.Resources.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.ThongBao.AlertDestroy_frm.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.ThongBao.Alert_frm.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.ThongBao.Expires_frm.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.XNCN.XacNhanChuyenNhuong_ctl.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.XNCN.XacNhanChuyenNhuong_frm.resources
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.pdb
+D:\BEESKY\REM\BEEREM DEMO\DLL\BEE.HoatDong.dll.config
+D:\BEESKY\REM\BEEREM DEMO\DLL\BEE.HoatDong.dll
+D:\BEESKY\REM\BEEREM DEMO\DLL\BEE.HoatDong.pdb
+D:\BEESKY\REM\BEEREM DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.dll
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Import.frmGiaoDich.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Import.frmPhieuThu.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.KyGui.Duyet_frm.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.KyGui.KyGui_ctl.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.KyGui.KyGui_frm.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.AddTemplate_frm.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.BieuMau_frm.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.Chart_frm.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.Content_frm.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.HappyBirthdaySetting_frm.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.HappyBirthday_ctl.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.NhacNoSetting_frm.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.SearchCustomer_ctl.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.SendMail_ctl.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.Template_frm.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoThue.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManager.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Ban.frmEdit.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Ban.frmImport.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Ban.frmReply.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Ban.frmSend.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.BieuMau.ctlManager.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.BieuMau.frmEdit.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.frmCaiDatNhanMailCV.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.ctlDatCoc.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.frmCaiDatLoc.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.frmCapDo.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.frmCapDoChon.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.frmDatCoc.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.frmDuyet.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.frmNguon.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.frmSend.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.GiaoDich.ctlManager.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmDuyet.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmEdit.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerCanThue.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManager.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Mua.frmEdit.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Mua.frmReply.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Mua.frmSend.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmEdit.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.NguoiMG.ctlManager.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmImport.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.XuLy.frmXuLy.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.XuLy.ctlManager.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.XuLy.frmEdit.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.AddFeature_frm.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.AddForm_frm.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.FormFeature_frm.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.Forms_frm.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_ctl.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_frm.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_ctl.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_frm.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.Power_frm.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.Staff_frm.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Properties.Resources.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.pdb
+D:\BEESKY\REM\BEEREMA DEMO\DLL\BEE.HoatDong.dll.config
+D:\BEESKY\REM\BEEREMA DEMO\DLL\BEE.HoatDong.dll
+D:\BEESKY\REM\BEEREMA DEMO\DLL\BEE.HoatDong.pdb
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.dll
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Ban.frmXuLy.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.frmCaiMailNhan.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Mua.frmXuLy.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.csprojResolveAssemblyReference.cache
+E:\BEESKY\REM\BEEREMA DEMO\DLL\BEE.HoatDong.dll.config
+E:\BEESKY\REM\BEEREMA DEMO\DLL\BEE.HoatDong.dll
+E:\BEESKY\REM\BEEREMA DEMO\DLL\BEE.HoatDong.pdb
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.csprojResolveAssemblyReference.cache
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Import.frmGiaoDich.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Import.frmPhieuThu.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.KyGui.Duyet_frm.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.KyGui.KyGui_ctl.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.KyGui.KyGui_frm.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.AddTemplate_frm.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.BieuMau_frm.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.Chart_frm.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.Content_frm.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.HappyBirthdaySetting_frm.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.HappyBirthday_ctl.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.NhacNoSetting_frm.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.SearchCustomer_ctl.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.SendMail_ctl.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Maketing.Template_frm.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManager.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoThue.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Ban.frmEdit.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Ban.frmImport.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Ban.frmReply.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Ban.frmSend.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Ban.frmXuLy.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.BieuMau.ctlManager.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.BieuMau.frmEdit.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.ctlDatCoc.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.frmCaiDatLoc.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.frmCaiDatNhanMailCV.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.frmCaiMailNhan.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.frmCapDo.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.frmCapDoChon.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.frmDatCoc.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.frmDuyet.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.frmNguon.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.frmSend.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.GiaoDich.ctlManager.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmDuyet.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmEdit.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManager.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerCanThue.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Mua.frmEdit.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Mua.frmReply.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Mua.frmSend.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.Mua.frmXuLy.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.NguoiMG.ctlManager.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmEdit.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmImport.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.XuLy.ctlManager.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.XuLy.frmEdit.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.MGL.XuLy.frmXuLy.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.AddFeature_frm.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.AddForm_frm.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.FormFeature_frm.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.Forms_frm.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_ctl.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_frm.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_ctl.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_frm.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.Power_frm.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.PhanQuyen.Staff_frm.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.Properties.Resources.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.csproj.GenerateResource.Cache
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.dll
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Operation\obj\Debug\BEE.HoatDong.pdb
+D:\My Job\BeeSky\REM\BEEREMA DEMO\DLL\BEE.HoatDong.dll.config
+D:\My Job\BeeSky\REM\BEEREMA DEMO\DLL\BEE.HoatDong.dll
+D:\My Job\BeeSky\REM\BEEREMA DEMO\DLL\BEE.HoatDong.pdb
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.Import.frmGiaoDich.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.Import.frmPhieuThu.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.Duyet_frm.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.KyGui_ctl.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.KyGui_frm.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.AddTemplate_frm.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.BieuMau_frm.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Chart_frm.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Content_frm.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.HappyBirthdaySetting_frm.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.HappyBirthday_ctl.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.NhacNoSetting_frm.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.SearchCustomer_ctl.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.SendMail_ctl.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Template_frm.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManager.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoThue.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmEdit.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmImport.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmReply.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmSend.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmXuLy.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.BieuMau.ctlManager.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.BieuMau.frmEdit.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.ctlDatCoc.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiDatLoc.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiDatNhanMailCV.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiMailNhan.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCapDo.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCapDoChon.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmDatCoc.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmDuyet.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmNguon.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmSend.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.ctlManager.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmDuyet.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmEdit.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManager.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerCanThue.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmEdit.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmReply.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmSend.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmXuLy.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.ctlManager.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmEdit.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmImport.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.ctlManager.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.frmEdit.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.frmXuLy.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.AddFeature_frm.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.AddForm_frm.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.FormFeature_frm.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Forms_frm.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_ctl.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_frm.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_ctl.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_frm.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Power_frm.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Staff_frm.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.Properties.Resources.resources
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.GenerateResource.Cache
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.dll
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.pdb
+D:\My Job\BeeSky\REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.csprojResolveAssemblyReference.cache
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.csprojResolveAssemblyReference.cache
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.Import.frmGiaoDich.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.Import.frmPhieuThu.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.Duyet_frm.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.KyGui_ctl.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.KyGui_frm.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.AddTemplate_frm.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.BieuMau_frm.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Chart_frm.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Content_frm.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.HappyBirthdaySetting_frm.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.HappyBirthday_ctl.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.NhacNoSetting_frm.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.SearchCustomer_ctl.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.SendMail_ctl.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Template_frm.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManager.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoThue.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmEdit.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmImport.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmReply.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmSend.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmXuLy.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.BieuMau.ctlManager.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.BieuMau.frmEdit.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.ctlDatCoc.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiDatLoc.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiDatNhanMailCV.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiMailNhan.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCapDo.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCapDoChon.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmDatCoc.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmDuyet.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmNguon.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmSend.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.ctlManager.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmDuyet.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmEdit.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManager.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerCanThue.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmEdit.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmReply.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmSend.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmXuLy.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.ctlManager.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmEdit.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmImport.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.ctlManager.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.frmEdit.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.frmXuLy.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.AddFeature_frm.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.AddForm_frm.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.FormFeature_frm.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Forms_frm.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_ctl.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_frm.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_ctl.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_frm.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Power_frm.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Staff_frm.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.GenerateResource.Cache
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.dll
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.pdb
+D:\Dev\3. REM\BEEREMA DEMO\DLL\BEE.HoatDong.dll.config
+D:\Dev\3. REM\BEEREMA DEMO\DLL\BEE.HoatDong.dll
+D:\Dev\3. REM\BEEREMA DEMO\BEE.HoatDong\obj\Debug\BEE.HoatDong.Properties.Resources.resources
+D:\Dev\3. REM\BEEREMA DEMO\DLL\BEE.HoatDong.pdb
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\DLL\BEE.HoatDong.dll.config
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\DLL\BEE.HoatDong.dll
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\DLL\BEE.HoatDong.pdb
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.ResolveComReference.cache
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.Import.frmGiaoDich.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.Import.frmPhieuThu.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.Duyet_frm.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.KyGui_ctl.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.KyGui_frm.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.AddTemplate_frm.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.BieuMau_frm.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Chart_frm.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Content_frm.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.HappyBirthdaySetting_frm.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.HappyBirthday_ctl.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.NhacNoSetting_frm.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.SearchCustomer_ctl.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.SendMail_ctl.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Template_frm.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoXoaCT.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManager.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoThue.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoXoa.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmAnhbds.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmCaiDatThuTu.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmDuong.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmEdit.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmImport.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmLocTinh.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmPhanQuyen.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmReply.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmSend.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmThoiGian.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmVideo.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmXuLy.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.BieuMau.ctlManager.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.BieuMau.frmEdit.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.ctlDatCoc.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiDatLoc.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiDatNhanMailCV.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiMailNhan.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCapDo.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCapDoChon.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmDatCoc.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmDuyet.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmNguon.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmSend.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.ctlManager.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmDuyet.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmEdit.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerChoXoaCT.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManager.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerCanThue.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerChoXoa.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmCaiDatThuTu.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmEdit.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmImport.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmPhanQuyen.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmReply.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmSend.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmXuLy.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.ctlManager.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmEdit.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmImport.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.ctlManager.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.frmEdit.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.frmXuLy.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.AddFeature_frm.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.AddForm_frm.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.FormFeature_frm.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Forms_frm.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_ctl.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_frm.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_ctl.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_frm.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Power_frm.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Staff_frm.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.Properties.Resources.resources
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.GenerateResource.Cache
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.dll
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.pdb
+D:\Dev\3. REM\BEEREMA HOALANDV2\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.csprojResolveAssemblyReference.cache
+D:\Dev\3. REM\BEEREMA HOALAND\DLL\BEE.HoatDong.dll.config
+D:\Dev\3. REM\BEEREMA HOALAND\DLL\BEE.HoatDong.dll
+D:\Dev\3. REM\BEEREMA HOALAND\DLL\BEE.HoatDong.pdb
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.ResolveComReference.cache
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.Import.frmGiaoDich.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.Import.frmPhieuThu.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.Duyet_frm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.KyGui_ctl.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.KyGui_frm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.AddTemplate_frm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.BieuMau_frm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Chart_frm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Content_frm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.HappyBirthdaySetting_frm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.HappyBirthday_ctl.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.NhacNoSetting_frm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.SearchCustomer_ctl.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.SendMail_ctl.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Template_frm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoXoaCT.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManager.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoThue.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoXoa.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmAnhbds.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmCaiDatThuTu.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmDuong.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmEdit.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmImport.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmLocTinh.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmPhanQuyen.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmReply.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmSend.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmThoiGian.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmVideo.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmXuLy.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.BieuMau.ctlManager.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.BieuMau.frmEdit.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.ctlDatCoc.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiDatLoc.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiDatNhanMailCV.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiMailNhan.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCapDo.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCapDoChon.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmDatCoc.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmDuyet.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmNguon.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmSend.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.ctlManager.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmDuyet.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmEdit.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerChoXoaCT.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManager.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerCanThue.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerChoXoa.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmCaiDatThuTu.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmEdit.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmImport.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmPhanQuyen.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmReply.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmSend.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmXuLy.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.ctlManager.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmEdit.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmImport.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.ctlManager.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.frmEdit.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.frmXuLy.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.AddFeature_frm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.AddForm_frm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.FormFeature_frm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Forms_frm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_ctl.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_frm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_ctl.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_frm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Power_frm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Staff_frm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.Properties.Resources.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.GenerateResource.Cache
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.dll
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.pdb
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.HoatDong\obj\Debug\BEE.HoatDong.csprojResolveAssemblyReference.cache
+D:\Dev\3. REM\BEEREMA HOALAND\Source\DLL\BEE.HoatDong.dll.config
+D:\Dev\3. REM\BEEREMA HOALAND\Source\DLL\BEE.HoatDong.dll
+D:\Dev\3. REM\BEEREMA HOALAND\Source\DLL\BEE.HoatDong.pdb
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.ResolveComReference.cache
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Import.frmGiaoDich.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Import.frmPhieuThu.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.Duyet_frm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.KyGui_ctl.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.KyGui_frm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.AddTemplate_frm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.BieuMau_frm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Chart_frm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Content_frm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.HappyBirthdaySetting_frm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.HappyBirthday_ctl.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.NhacNoSetting_frm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.SearchCustomer_ctl.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.SendMail_ctl.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Template_frm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoXoaCT.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManager.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoThue.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoXoa.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmAnhbds.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmCaiDatThuTu.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmDuong.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmEdit.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmImport.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmLocTinh.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmPhanQuyen.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmReply.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmSend.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmThoiGian.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmVideo.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmXuLy.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.BieuMau.ctlManager.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.BieuMau.frmEdit.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.ctlDatCoc.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiDatLoc.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiDatNhanMailCV.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiMailNhan.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCapDo.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCapDoChon.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmDatCoc.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmDuyet.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmNguon.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmSend.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.ctlManager.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmDuyet.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmEdit.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerChoXoaCT.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManager.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerCanThue.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerChoXoa.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmCaiDatThuTu.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmEdit.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmImport.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmPhanQuyen.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmReply.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmSend.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmXuLy.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.ctlManager.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmEdit.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmImport.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.ctlManager.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.frmEdit.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.frmXuLy.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.AddFeature_frm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.AddForm_frm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.FormFeature_frm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Forms_frm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_ctl.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_frm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_ctl.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_frm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Power_frm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Staff_frm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Properties.Resources.resources
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\ResGen.read.1.tlog
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\ResGen.write.1.tlog
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.dll
+D:\Dev\3. REM\BEEREMA HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.pdb
+D:\Dev\3. REM\REM_HOALAND\Source\DLL\BEE.HoatDong.dll.config
+D:\Dev\3. REM\REM_HOALAND\Source\DLL\BEE.HoatDong.dll
+D:\Dev\3. REM\REM_HOALAND\Source\DLL\BEE.HoatDong.pdb
+D:\Dev\3. REM\REM_HOALAND\Source\app\BEE.HoatDong.dll.config
+D:\Dev\3. REM\REM_HOALAND\Source\app\BEE.HoatDong.dll
+D:\Dev\3. REM\REM_HOALAND\Source\app\BEE.HoatDong.pdb
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.ResolveComReference.cache
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Import.frmGiaoDich.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Import.frmPhieuThu.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.Duyet_frm.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.KyGui_ctl.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.KyGui_frm.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.AddTemplate_frm.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.BieuMau_frm.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Chart_frm.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Content_frm.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.HappyBirthdaySetting_frm.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.HappyBirthday_ctl.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.NhacNoSetting_frm.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.SearchCustomer_ctl.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.SendMail_ctl.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Template_frm.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoXoaCT.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManager.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoThue.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoXoa.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmAnhbds.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmCaiDatThuTu.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmDuong.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmEdit.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmImport.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmLocTinh.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmPhanQuyen.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmReply.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmSend.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmThoiGian.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmVideo.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmXuLy.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.BieuMau.ctlManager.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.BieuMau.frmEdit.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.ctlDatCoc.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiDatLoc.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiDatNhanMailCV.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiMailNhan.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCapDo.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCapDoChon.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmDatCoc.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmDuyet.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmNguon.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmSend.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.ctlManager.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmDuyet.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmEdit.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerChoXoaCT.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManager.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerCanThue.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerChoXoa.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmCaiDatThuTu.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmEdit.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmImport.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmPhanQuyen.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmReply.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmSend.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmXuLy.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.ctlManager.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmEdit.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmImport.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.ThongTinGui.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.ctlManager.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.frmEdit.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.frmXuLy.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.AddFeature_frm.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.AddForm_frm.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.FormFeature_frm.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Forms_frm.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_ctl.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_frm.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_ctl.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_frm.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Power_frm.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Staff_frm.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Properties.Resources.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.GenerateResource.Cache
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.dll.licenses
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.dll
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.pdb
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csprojResolveAssemblyReference.cache
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\app\BEE.HoatDong.dll.config
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\app\BEE.HoatDong.dll
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\app\BEE.HoatDong.pdb
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.ResolveComReference.cache
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Import.frmGiaoDich.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Import.frmPhieuThu.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.Duyet_frm.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.KyGui_ctl.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.KyGui_frm.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.AddTemplate_frm.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.BieuMau_frm.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Chart_frm.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Content_frm.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.HappyBirthdaySetting_frm.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.HappyBirthday_ctl.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.NhacNoSetting_frm.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.SearchCustomer_ctl.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.SendMail_ctl.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Template_frm.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoXoaCT.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManager.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoThue.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoXoa.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmAnhbds.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmCaiDatThuTu.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmDuong.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmEdit.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmImport.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmLocTinh.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmPhanQuyen.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmReply.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmSend.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmThoiGian.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmVideo.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmXuLy.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.BieuMau.ctlManager.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.BieuMau.frmEdit.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.ctlDatCoc.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiDatLoc.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiDatNhanMailCV.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiMailNhan.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCapDo.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCapDoChon.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmDatCoc.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmDuyet.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmNguon.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmSend.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.ctlManager.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmDuyet.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmEdit.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerChoXoaCT.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManager.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerCanThue.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerChoXoa.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmCaiDatThuTu.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmEdit.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmImport.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmPhanQuyen.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmReply.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmSend.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmXuLy.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.ctlManager.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmEdit.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmImport.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.ThongTinGui.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.ctlManager.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.frmEdit.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.frmXuLy.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.AddFeature_frm.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.AddForm_frm.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.FormFeature_frm.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Forms_frm.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_ctl.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_frm.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_ctl.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_frm.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Power_frm.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Staff_frm.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Properties.Resources.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.GenerateResource.Cache
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.dll.licenses
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.dll
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.pdb
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\app\BEE.HoatDong.dll.config
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\app\BEE.HoatDong.dll
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\app\BEE.HoatDong.pdb
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csprojResolveAssemblyReference.cache
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.ResolveComReference.cache
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Import.frmGiaoDich.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Import.frmPhieuThu.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.Duyet_frm.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.KyGui_ctl.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.KyGui_frm.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.AddTemplate_frm.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.BieuMau_frm.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Chart_frm.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Content_frm.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.HappyBirthdaySetting_frm.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.HappyBirthday_ctl.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.NhacNoSetting_frm.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.SearchCustomer_ctl.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.SendMail_ctl.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Template_frm.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoXoaCT.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManager.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoThue.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoXoa.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmAnhbds.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmCaiDatThuTu.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmDuong.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmEdit.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmImport.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmLocTinh.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmPhanQuyen.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmReply.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmSend.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmThoiGian.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmVideo.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmXuLy.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.BieuMau.ctlManager.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.BieuMau.frmEdit.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.ctlDatCoc.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiDatLoc.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiDatNhanMailCV.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiMailNhan.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCapDo.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCapDoChon.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmDatCoc.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmDuyet.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmNguon.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmSend.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.ctlManager.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmDuyet.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmEdit.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerChoXoaCT.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManager.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerCanThue.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerChoXoa.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmCaiDatThuTu.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmEdit.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmImport.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmPhanQuyen.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmReply.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmSend.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmXuLy.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.ctlManager.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmEdit.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmImport.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.ThongTinGui.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.ctlManager.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.frmEdit.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.frmXuLy.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.AddFeature_frm.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.AddForm_frm.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.FormFeature_frm.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Forms_frm.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_ctl.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_frm.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_ctl.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_frm.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Power_frm.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Staff_frm.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Properties.Resources.resources
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.GenerateResource.Cache
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.dll.licenses
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.dll
+I:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.pdb
+F:\2017\BEEREMA\HOALAND\Source\app\BEE.HoatDong.dll.config
+F:\2017\BEEREMA\HOALAND\Source\app\BEE.HoatDong.dll
+F:\2017\BEEREMA\HOALAND\Source\app\BEE.HoatDong.pdb
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csprojResolveAssemblyReference.cache
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.ResolveComReference.cache
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Import.frmGiaoDich.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Import.frmPhieuThu.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.Duyet_frm.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.KyGui_ctl.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.KyGui_frm.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.AddTemplate_frm.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.BieuMau_frm.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Chart_frm.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Content_frm.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.HappyBirthdaySetting_frm.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.HappyBirthday_ctl.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.NhacNoSetting_frm.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.SearchCustomer_ctl.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.SendMail_ctl.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Template_frm.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoXoaCT.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManager.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoThue.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoXoa.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmAnhbds.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmCaiDatThuTu.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmDuong.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmEdit.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmImport.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmLocTinh.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmPhanQuyen.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmReply.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmSend.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmThoiGian.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmVideo.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmXuLy.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.BieuMau.ctlManager.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.BieuMau.frmEdit.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.ctlDatCoc.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiDatLoc.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiDatNhanMailCV.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiMailNhan.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCapDo.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCapDoChon.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmDatCoc.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmDuyet.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmNguon.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmSend.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.ctlManager.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmDuyet.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmEdit.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerChoXoaCT.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManager.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerCanThue.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerChoXoa.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmCaiDatThuTu.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmEdit.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmImport.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmPhanQuyen.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmReply.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmSend.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmXuLy.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.ctlManager.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmEdit.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmImport.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.ThongTinGui.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.ctlManager.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.frmEdit.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.frmXuLy.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.AddFeature_frm.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.AddForm_frm.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.FormFeature_frm.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Forms_frm.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_ctl.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_frm.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_ctl.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_frm.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Power_frm.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Staff_frm.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Properties.Resources.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.GenerateResource.Cache
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.dll
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.pdb
+F:\2017\BEEREMA\HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.dll.licenses
+F:\2017\BEEREMA\HOALAND - Copy\Source\app\BEE.HoatDong.dll.config
+F:\2017\BEEREMA\HOALAND - Copy\Source\app\BEE.HoatDong.dll
+F:\2017\BEEREMA\HOALAND - Copy\Source\app\BEE.HoatDong.pdb
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csprojResolveAssemblyReference.cache
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.ResolveComReference.cache
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Import.frmGiaoDich.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Import.frmPhieuThu.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.Duyet_frm.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.KyGui_ctl.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.KyGui_frm.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.AddTemplate_frm.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.BieuMau_frm.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Chart_frm.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Content_frm.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.HappyBirthdaySetting_frm.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.HappyBirthday_ctl.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.NhacNoSetting_frm.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.SearchCustomer_ctl.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.SendMail_ctl.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Template_frm.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoXoaCT.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManager.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoThue.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoXoa.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmAnhbds.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmCaiDatThuTu.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmDuong.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmEdit.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmImport.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmLocTinh.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmPhanQuyen.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmReply.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmSend.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmThoiGian.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmVideo.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmXuLy.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.BieuMau.ctlManager.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.BieuMau.frmEdit.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.ctlDatCoc.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiDatLoc.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiDatNhanMailCV.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiMailNhan.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCapDo.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCapDoChon.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmDatCoc.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmDuyet.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmNguon.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmSend.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.ctlManager.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmDuyet.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmEdit.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerChoXoaCT.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManager.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerCanThue.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerChoXoa.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmCaiDatThuTu.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmEdit.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmImport.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmPhanQuyen.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmReply.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmSend.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmXuLy.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.ctlManager.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmEdit.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmImport.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.ThongTinGui.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.ctlManager.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.frmEdit.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.frmXuLy.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.AddFeature_frm.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.AddForm_frm.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.FormFeature_frm.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Forms_frm.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_ctl.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_frm.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_ctl.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_frm.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Power_frm.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Staff_frm.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Properties.Resources.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.GenerateResource.Cache
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.dll
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.pdb
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.frmtest.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.dll.licenses
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.ResolveComReference.cache
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.frmtest.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Import.frmGiaoDich.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Import.frmPhieuThu.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.Duyet_frm.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.KyGui_ctl.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.KyGui_frm.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.AddTemplate_frm.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.BieuMau_frm.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Chart_frm.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Content_frm.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.HappyBirthdaySetting_frm.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.HappyBirthday_ctl.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.NhacNoSetting_frm.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.SearchCustomer_ctl.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.SendMail_ctl.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Template_frm.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoXoaCT.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManager.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoThue.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoXoa.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmAnhbds.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmCaiDatThuTu.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmDuong.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmEdit.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmImport.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmLocTinh.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmPhanQuyen.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmReply.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmSend.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmThoiGian.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmVideo.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmXuLy.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.BieuMau.ctlManager.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.BieuMau.frmEdit.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.ctlDatCoc.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiDatLoc.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiDatNhanMailCV.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiMailNhan.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCapDo.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCapDoChon.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmDatCoc.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmDuyet.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmNguon.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmSend.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.ctlManager.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmDuyet.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmEdit.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerChoXoaCT.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManager.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerCanThue.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerChoXoa.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmCaiDatThuTu.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmEdit.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmImport.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmPhanQuyen.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmReply.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmSend.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmXuLy.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.ctlManager.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmEdit.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmImport.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.ThongTinGui.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.ctlManager.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.frmEdit.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.frmXuLy.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.AddFeature_frm.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.AddForm_frm.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.FormFeature_frm.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Forms_frm.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_ctl.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_frm.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_ctl.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_frm.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Power_frm.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Staff_frm.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Properties.Resources.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.GenerateResource.Cache
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.dll.licenses
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.dll
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.pdb
+F:\2017\BEEREMA\HOALAND35\Source\app\BEE.HoatDong.dll.config
+F:\2017\BEEREMA\HOALAND35\Source\app\BEE.HoatDong.dll
+F:\2017\BEEREMA\HOALAND35\Source\app\BEE.HoatDong.pdb
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmSendSMS.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmOther.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmChuyenDoi.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csprojResolveAssemblyReference.cache
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmOther.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmChuyenDoiMT.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.frmLoaiThu.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.ctlManager.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.ctlManagerChiTiet.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.frmDichVu.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.frmDV.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.frmEdit.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.LichSu.ctlManager.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\Interop.WMPLib.dll
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\AxInterop.WMPLib.dll
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.ResolveComReference.cache
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.BaoCao.ctlManager.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.BaoCao.frmReportTotalCall.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.BaoCao.frmReportCall.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.frmtest.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Import.frmGiaoDich.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Import.frmPhieuThu.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.Duyet_frm.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.KyGui_ctl.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.KyGui_frm.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.AddTemplate_frm.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.BieuMau_frm.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Chart_frm.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Content_frm.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.HappyBirthdaySetting_frm.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.HappyBirthday_ctl.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.NhacNoSetting_frm.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.SearchCustomer_ctl.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.SendMail_ctl.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Template_frm.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoXoaCT.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManager.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoThue.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoXoa.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmAnhbds.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmCaiDatThuTu.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmDuong.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmEdit.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmImport.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmLocTinh.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmOther.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmPhanQuyen.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmReply.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmSend.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmThoiGian.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmVideo.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmViewVideo.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmXuLy.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.BieuMau.ctlManager.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.BieuMau.frmEdit.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmChuyenDoiMT.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmChuyenDoi.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmSendSMS.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.ctlDatCoc.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiDatLoc.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiDatNhanMailCV.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiMailNhan.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCapDo.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCapDoChon.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmDatCoc.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmDuyet.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmNguon.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmSend.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.ctlManager.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmDuyet.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmEdit.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.LichSu.ctlManager.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmMatch.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmOther.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerChoXoaCT.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManager.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerCanThue.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerChoXoa.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmCaiDatThuTu.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmEdit.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmImport.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmPhanQuyen.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmReply.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmSend.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmXuLy.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.ctlManager.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.ctlManagerChiTiet.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.frmDichVu.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.frmDV.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.frmEdit.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.frmLoaiThu.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.ctlManager.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmEdit.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmImport.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.ThongTinGui.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.ctlManager.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.frmEdit.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.frmXuLy.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.AddFeature_frm.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.AddForm_frm.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.FormFeature_frm.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Forms_frm.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_ctl.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_frm.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_ctl.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_frm.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Power_frm.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Staff_frm.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Properties.Resources.resources
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.GenerateResource.Cache
+D:\CODE FULL HOALAND\Source\app\BEE.HoatDong.dll.config
+D:\CODE FULL HOALAND\Source\app\BEE.HoatDong.dll
+D:\CODE FULL HOALAND\Source\app\BEE.HoatDong.pdb
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.dll
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.pdb
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csprojResolveAssemblyReference.cache
+D:\CODE FULL HOALAND\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.dll.licenses
+F:\2017\BEEREMA\HOLAND_SVN\Source\app\BEE.HoatDong.dll.config
+F:\2017\BEEREMA\HOLAND_SVN\Source\app\BEE.HoatDong.dll
+F:\2017\BEEREMA\HOLAND_SVN\Source\app\BEE.HoatDong.pdb
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csprojResolveAssemblyReference.cache
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\Interop.WMPLib.dll
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\AxInterop.WMPLib.dll
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.ResolveComReference.cache
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.BaoCao.ctlManager.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.BaoCao.frmReportTotalCall.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.BaoCao.frmReportCall.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.frmtest.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Import.frmGiaoDich.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Import.frmPhieuThu.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.Duyet_frm.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.KyGui_ctl.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.KyGui_frm.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.AddTemplate_frm.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.BieuMau_frm.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Chart_frm.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Content_frm.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.HappyBirthdaySetting_frm.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.HappyBirthday_ctl.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.NhacNoSetting_frm.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.SearchCustomer_ctl.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.SendMail_ctl.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Template_frm.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoXoaCT.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManager.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoThue.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoXoa.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmAnhbds.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmCaiDatThuTu.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmDuong.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmEdit.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmImport.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmLocTinh.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmOther.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmPhanQuyen.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmReply.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmSend.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmThoiGian.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmVideo.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmViewVideo.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmXuLy.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.BieuMau.ctlManager.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.BieuMau.frmEdit.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmChuyenDoiMT.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmChuyenDoi.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmSendSMS.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.ctlDatCoc.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiDatLoc.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiDatNhanMailCV.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiMailNhan.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCapDo.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCapDoChon.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmDatCoc.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmDuyet.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmNguon.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmSend.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.ctlManager.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmDuyet.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmEdit.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.LichSu.ctlManager.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmMatch.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmOther.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerChoXoaCT.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManager.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerCanThue.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerChoXoa.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmCaiDatThuTu.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmEdit.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmImport.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmPhanQuyen.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmReply.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmSend.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmXuLy.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.ctlManager.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.ctlManagerChiTiet.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.frmDichVu.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.frmDV.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.frmEdit.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.frmLoaiThu.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.ctlManager.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmEdit.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmImport.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.ThongTinGui.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.ctlManager.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.frmEdit.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.frmXuLy.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.AddFeature_frm.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.AddForm_frm.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.FormFeature_frm.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Forms_frm.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_ctl.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_frm.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_ctl.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_frm.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Power_frm.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Staff_frm.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Properties.Resources.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.GenerateResource.Cache
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.dll.licenses
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.dll
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.pdb
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\Interop.WMPLib.dll
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\AxInterop.WMPLib.dll
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.ResolveComReference.cache
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.BaoCao.ctlManager.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.BaoCao.frmReportTotalCall.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.BaoCao.frmReportCall.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.frmtest.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Import.frmGiaoDich.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Import.frmPhieuThu.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.Duyet_frm.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.KyGui_ctl.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.KyGui_frm.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.AddTemplate_frm.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.BieuMau_frm.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Chart_frm.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Content_frm.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.HappyBirthdaySetting_frm.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.HappyBirthday_ctl.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.NhacNoSetting_frm.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.SearchCustomer_ctl.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.SendMail_ctl.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Template_frm.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoXoaCT.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManager.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoThue.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoXoa.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmAnhbds.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmCaiDatThuTu.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmDuong.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmEdit.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmImport.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmLocTinh.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmOther.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmPhanQuyen.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmReply.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmSend.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmThoiGian.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmVideo.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmViewVideo.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmXuLy.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.BieuMau.ctlManager.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.BieuMau.frmEdit.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmChuyenDoiMT.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmChuyenDoi.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmSendSMS.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.ctlDatCoc.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiDatLoc.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiDatNhanMailCV.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiMailNhan.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCapDo.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCapDoChon.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmDatCoc.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmDuyet.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmNguon.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmSend.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.ctlManager.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmDuyet.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmEdit.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.LichSu.ctlManager.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmMatch.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmOther.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerChoXoaCT.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManager.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerCanThue.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerChoXoa.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmCaiDatThuTu.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmEdit.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmImport.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmPhanQuyen.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmReply.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmSend.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmXuLy.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.ctlManager.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.ctlManagerChiTiet.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.frmDichVu.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.frmDV.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.frmEdit.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.frmLoaiThu.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.ctlManager.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmEdit.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmImport.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.ThongTinGui.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.ctlManager.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.frmEdit.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.frmXuLy.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.AddFeature_frm.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.AddForm_frm.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.FormFeature_frm.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Forms_frm.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_ctl.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_frm.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_ctl.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_frm.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Power_frm.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Staff_frm.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Properties.Resources.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.GenerateResource.Cache
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.dll.licenses
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\app\BEE.HoatDong.dll.config
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\app\BEE.HoatDong.dll
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\app\BEE.HoatDong.pdb
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.dll
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.pdb
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csprojResolveAssemblyReference.cache
+D:\UPGARDE\DEV19\Source\app\BEE.HoatDong.dll.config
+D:\UPGARDE\DEV19\Source\app\BEE.HoatDong.dll
+D:\UPGARDE\DEV19\Source\app\BEE.HoatDong.pdb
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\Interop.WMPLib.dll
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\AxInterop.WMPLib.dll
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.ResolveComReference.cache
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.BaoCao.ctlManager.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.BaoCao.frmReportCall2.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.BaoCao.frmReportTotalDealProcessing.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.BaoCao.frmReportDealProcessing.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.BaoCao.frmReportTotalCall.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.BaoCao.frmReportCall.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.frmtest.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Import.frmGiaoDich.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Import.frmPhieuThu.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.Duyet_frm.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.KyGui_ctl.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.KyGui_frm.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.AddTemplate_frm.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.BieuMau_frm.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Chart_frm.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Content_frm.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.HappyBirthdaySetting_frm.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.HappyBirthday_ctl.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.NhacNoSetting_frm.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.SearchCustomer_ctl.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.SendMail_ctl.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Template_frm.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoXoaCT.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManager.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoThue.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoXoa.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmAnhbds.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmCaiDatThuTu.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmDuong.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmEdit.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmImport.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmLocTinh.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmOther.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmPhanQuyen.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmReply.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmSend.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmThoiGian.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmVideo.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmViewMedia.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmViewVideo.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmXuLy.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.BieuMau.ctlManager.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.BieuMau.frmEdit.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmChuyenDoiMT.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmChuyenDoi.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmSendSMS.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.ctlDatCoc.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiDatLoc.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiDatNhanMailCV.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiMailNhan.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCapDo.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCapDoChon.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmDatCoc.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmDuyet.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmNguon.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmSend.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.ctlManager.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmDuyet.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmEdit.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.LichSu.ctlManager.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmMatch.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmOther.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerChoXoaCT.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManager.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerCanThue.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerChoXoa.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmCaiDatThuTu.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmEdit.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmImport.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmPhanQuyen.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmReply.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmSend.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmXuLy.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.ctlManager.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.ctlManagerChiTiet.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.frmDichVu.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.frmDV.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.frmEdit.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.frmLoaiThu.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.ctlManager.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmEdit.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmImport.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.ctlTrangThaiDG.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmTrangThaiGD.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.PhieuThu.frmEdit.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.SDK.PhotoViewer.Form1.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\PhotoViewer.Form2.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.SDK.PhotoViewer.PhotoEditor.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.ThongTinGui.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.ctlManager.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.frmEdit.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.frmXuLy.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyenAgency.Permission_ctl.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyenAgency.Permission_frm.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyenAgency.Power_frm.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyenAgency.Staff_frm.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.AddFeature_frm.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.AddForm_frm.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.FormFeature_frm.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Forms_frm.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_ctl.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_frm.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_ctl.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_frm.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Power_frm.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Staff_frm.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Properties.Resources.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.GenerateResource.Cache
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.dll.licenses
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.dll
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.pdb
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\PhotoViewer.Form3S3.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmSyncQueue.resources
+D:\UPGARDE\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csprojResolveAssemblyReference.cache
+C:\HOALAND\Source Code_winform\DEV19\Source\app\BEE.HoatDong.dll.config
+C:\HOALAND\Source Code_winform\DEV19\Source\app\BEE.HoatDong.dll
+C:\HOALAND\Source Code_winform\DEV19\Source\app\BEE.HoatDong.pdb
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\Interop.WMPLib.dll
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\AxInterop.WMPLib.dll
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.ResolveComReference.cache
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.BaoCao.ctlManager.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.BaoCao.frmReportCall2.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.BaoCao.frmReportTotalDealProcessing.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.BaoCao.frmReportDealProcessing.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.BaoCao.frmReportTotalCall.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.BaoCao.frmReportCall.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.frmtest.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Import.frmGiaoDich.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Import.frmPhieuThu.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.Duyet_frm.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.KyGui_ctl.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.KyGui.KyGui_frm.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.AddTemplate_frm.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.BieuMau_frm.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Chart_frm.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Content_frm.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.HappyBirthdaySetting_frm.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.HappyBirthday_ctl.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.NhacNoSetting_frm.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.SearchCustomer_ctl.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.SendMail_ctl.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Maketing.Template_frm.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoXoaCT.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManager.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoThue.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.ctlManagerChoXoa.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmAnhbds.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmCaiDatThuTu.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmDuong.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmEdit.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmImport.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmLocTinh.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmOther.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmPhanQuyen.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmReply.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmSend.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmSyncQueue.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmThoiGian.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmVideo.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmViewMedia.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmViewVideo.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmXuLy.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.BieuMau.ctlManager.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.BieuMau.frmEdit.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmChuyenDoiMT.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmChuyenDoi.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmSendSMS.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.ctlDatCoc.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiDatLoc.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiDatNhanMailCV.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCaiMailNhan.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCapDo.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmCapDoChon.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmDatCoc.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmDuyet.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmNguon.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmSend.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.ctlManager.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmDuyet.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.GiaoDich.frmEdit.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.LichSu.ctlManager.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmMatch.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmOther.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerChoXoaCT.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManager.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerCanThue.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.ctlManagerChoXoa.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmCaiDatThuTu.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmEdit.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmImport.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmPhanQuyen.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmReply.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmSend.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.frmXuLy.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.ctlManager.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.ctlManagerChiTiet.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.frmDichVu.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.frmDV.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.frmEdit.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Mua.GiaoDich.frmLoaiThu.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.ctlManager.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmEdit.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.NguoiMG.frmImport.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.ctlTrangThaiDG.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmTrangThaiGD.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.PhieuThu.frmEdit.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.SDK.PhotoViewer.Form1.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\PhotoViewer.Form2.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\PhotoViewer.Form3S3.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.SDK.PhotoViewer.PhotoEditor.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.ThongTinGui.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.ctlManager.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.frmEdit.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.XuLy.frmXuLy.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyenAgency.Permission_ctl.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyenAgency.Permission_frm.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyenAgency.Power_frm.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyenAgency.Staff_frm.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.AddFeature_frm.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.AddForm_frm.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.FormFeature_frm.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Forms_frm.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_ctl.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Modules_frm.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_ctl.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Permission_frm.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Power_frm.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.PhanQuyen.Staff_frm.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.Properties.Resources.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.GenerateResource.cache
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.dll.licenses
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.CoreCompileInputs.cache
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.CopyComplete
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.dll
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.pdb
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Setting.frmTrangThaiBDS.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Setting.ctlTrangThaiBDSv2.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Setting.frmTrangThaiBDSv2.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Setting.ctlTrangThaiMT.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Setting.frmTrangThaiMT.resources
+C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\UPGARDE\DEV19\Source\app\CrawlerWebNew.dll
+D:\UPGARDE\DEV19\Source\app\CrawlerWebNew.pdb
+D:\UPGARDE\DEV19\Source\CrawlerWebNew\obj\Debug\CrawlerWebNew.csprojResolveAssemblyReference.cache
+D:\UPGARDE\DEV19\Source\CrawlerWebNew\obj\Debug\CrawlerWebNew.Category.ctlManager.resources
+D:\UPGARDE\DEV19\Source\CrawlerWebNew\obj\Debug\CrawlerWebNew.ctlNew.resources
+D:\UPGARDE\DEV19\Source\CrawlerWebNew\obj\Debug\CrawlerWebNew.frmGetNews.resources
+D:\UPGARDE\DEV19\Source\CrawlerWebNew\obj\Debug\CrawlerWebNew.frmChuyenMuc.resources
+D:\UPGARDE\DEV19\Source\CrawlerWebNew\obj\Debug\CrawlerWebNew.csproj.GenerateResource.Cache
+D:\UPGARDE\DEV19\Source\CrawlerWebNew\obj\Debug\CrawlerWebNew.dll
+D:\UPGARDE\DEV19\Source\CrawlerWebNew\obj\Debug\CrawlerWebNew.pdb

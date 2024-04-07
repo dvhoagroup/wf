@@ -1,0 +1,885 @@
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.Operation.csprojResolveAssemblyReference.cache
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlBanHang.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlDaily.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlManager.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlThanhLy.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmConfirm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmEdit.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmHenTra.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmReply.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmSelect.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.GiaHan.ctlManager.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.GiaHan.frmEdit.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.NhacNo_frm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.Preview_frm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.HDMG.Duyet_frm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.HDMG.HDMoiGioi_ctl.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.HDMG.HDMoiGioi_frm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Import.frmGiaoDich.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Import.frmPhieuThu.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.KyGui.Duyet_frm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.KyGui.KyGui_ctl.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.KyGui.KyGui_frm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.AddTemplate_frm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.BieuMau_frm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.Chart_frm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.Content_frm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.HappyBirthdaySetting_frm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.HappyBirthday_ctl.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.NhacNoSetting_frm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.SearchCustomer_ctl.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.SendMail_ctl.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.Template_frm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.ctlManager.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmEdit.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmImport.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmReply.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmSend.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.BieuMau.ctlManager.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.BieuMau.frmEdit.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.ctlDatCoc.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmCapDo.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmCapDoChon.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmDatCoc.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmDuyet.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmNguon.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.GiaoDich.ctlManager.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.GiaoDich.frmDuyet.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.GiaoDich.frmEdit.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.ctlManager.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.frmEdit.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.frmReply.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.frmSend.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.AddFeature_frm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.AddForm_frm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.FormFeature_frm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Forms_frm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Modules_ctl.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Modules_frm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Permission_ctl.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Permission_frm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Power_frm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Staff_frm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.ThongBao.AlertDestroy_frm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.ThongBao.Alert_frm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.ThongBao.Expires_frm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.XNCN.XacNhanChuyenNhuong_ctl.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.XNCN.XacNhanChuyenNhuong_frm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.Operation.csproj.GenerateResource.Cache
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.Operation.Properties.Resources.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.Operation.dll.config
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.Operation.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.Operation.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\HTMLEditorControl.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.BDS.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.Customer.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.Document.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.Library.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.Marketing.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.Other.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.Policy.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.Project.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.Report.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.Staff.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LinqToExcel.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.WorkSchedule.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\DIPSMS.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\AxInterop.SHDocVw.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\Remotion.Data.Linq.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\log4net.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.Notes.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\Interop.SHDocVw.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.BDS.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.Customer.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.Document.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.Library.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.Marketing.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.Other.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.Policy.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.Project.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.Report.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.Staff.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LinqToExcel.xml
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.WorkSchedule.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.Notes.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.Operation.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\obj\Debug\LandSoft.Operation.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.CashBook.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.DIPUserControl.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.Handover.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.Invoice.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.StepByStep.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.CashBook.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.DIPUserControl.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.Handover.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.Invoice.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.StepByStep.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.PaymentList.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.PaymentList.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.Operation.Contract.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.Operation.Transfer.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.Operation.Contract.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.Operation.Transfer.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.FTP.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Operation\bin\Debug\LandSoft.FTP.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.Operation.csprojResolveAssemblyReference.cache
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlBanHang.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlDaily.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlManager.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlThanhLy.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmConfirm.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmEdit.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmHenTra.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmReply.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmSelect.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.GiaHan.ctlManager.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.GiaHan.frmEdit.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.NhacNo_frm.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.Preview_frm.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.HDMG.Duyet_frm.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.HDMG.HDMoiGioi_ctl.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.HDMG.HDMoiGioi_frm.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Import.frmGiaoDich.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Import.frmPhieuThu.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.KyGui.Duyet_frm.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.KyGui.KyGui_ctl.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.KyGui.KyGui_frm.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.AddTemplate_frm.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.BieuMau_frm.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.Chart_frm.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.Content_frm.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.HappyBirthdaySetting_frm.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.HappyBirthday_ctl.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.NhacNoSetting_frm.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.SearchCustomer_ctl.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.SendMail_ctl.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.Template_frm.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.ctlManager.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmEdit.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmImport.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmReply.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmSend.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.BieuMau.ctlManager.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.BieuMau.frmEdit.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.ctlDatCoc.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmCapDo.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmCapDoChon.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmDatCoc.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmDuyet.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmNguon.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.GiaoDich.ctlManager.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.GiaoDich.frmDuyet.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.GiaoDich.frmEdit.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.ctlManager.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.frmEdit.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.frmReply.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.frmSend.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.AddFeature_frm.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.AddForm_frm.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.FormFeature_frm.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Forms_frm.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Modules_ctl.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Modules_frm.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Permission_ctl.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Permission_frm.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Power_frm.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Staff_frm.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.Operation.Properties.Resources.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.ThongBao.AlertDestroy_frm.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.ThongBao.Alert_frm.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.ThongBao.Expires_frm.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.XNCN.XacNhanChuyenNhuong_ctl.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.XNCN.XacNhanChuyenNhuong_frm.resources
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.Operation.csproj.GenerateResource.Cache
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Operation.dll.config
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Operation.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Operation.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\HTMLEditorControl.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.BDS.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.CashBook.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Customer.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.DIPUserControl.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Document.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Handover.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Invoice.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Library.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Marketing.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Operation.Contract.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Operation.Transfer.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Other.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.PaymentList.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Policy.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Project.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Report.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Staff.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.StepByStep.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Translate.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.SynchronizeSUN.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\CustomizeColumn.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.WorkSchedule.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LinqToExcel.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.FTP.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\DIPSMS.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Operation.Appendix.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Operation.Change.Product.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\AxInterop.SHDocVw.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\SunSystemsConnectClient.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Notes.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\Remotion.Data.Linq.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\log4net.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\Interop.SHDocVw.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.BDS.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.CashBook.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Customer.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.DIPUserControl.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Document.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Handover.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Invoice.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Library.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Marketing.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Operation.Contract.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Other.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.PaymentList.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Policy.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Project.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Report.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Staff.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.StepByStep.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Operation.Transfer.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Translate.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.SynchronizeSUN.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\CustomizeColumn.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.WorkSchedule.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LinqToExcel.xml
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.FTP.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Operation.Appendix.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Operation.Change.Product.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Operation\bin\Debug\LandSoft.Notes.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.Operation.dll
+E:\Projects\Software\2014\Demo\LandSoft.Operation\obj\Debug\LandSoft.Operation.pdb
+E:\Projects\Software\2015\Becamex\DLL\LandSoft.Operation.dll.config
+E:\Projects\Software\2015\Becamex\DLL\LandSoft.Operation.dll
+E:\Projects\Software\2015\Becamex\DLL\LandSoft.Operation.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.Operation.csprojResolveAssemblyReference.cache
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlBanHang.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlDaily.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlManager.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlThanhLy.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmConfirm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmEdit.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmHenTra.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmReply.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmSelect.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.GiaHan.ctlManager.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.GiaHan.frmEdit.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.NhacNo_frm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.Preview_frm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.HDMG.Duyet_frm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.HDMG.HDMoiGioi_ctl.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.HDMG.HDMoiGioi_frm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Import.frmGiaoDich.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Import.frmPhieuThu.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.KyGui.Duyet_frm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.KyGui.KyGui_ctl.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.KyGui.KyGui_frm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.AddTemplate_frm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.BieuMau_frm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.Chart_frm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.Content_frm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.HappyBirthdaySetting_frm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.HappyBirthday_ctl.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.NhacNoSetting_frm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.SearchCustomer_ctl.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.SendMail_ctl.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.Template_frm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.ctlManager.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmEdit.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmImport.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmReply.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmSend.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.BieuMau.ctlManager.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.BieuMau.frmEdit.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.ctlDatCoc.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmCapDo.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmCapDoChon.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmDatCoc.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmDuyet.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmNguon.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.GiaoDich.ctlManager.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.GiaoDich.frmDuyet.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.GiaoDich.frmEdit.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.ctlManager.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.frmEdit.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.frmReply.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.frmSend.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.AddFeature_frm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.AddForm_frm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.FormFeature_frm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Forms_frm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Modules_ctl.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Modules_frm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Permission_ctl.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Permission_frm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Power_frm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Staff_frm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.Operation.Properties.Resources.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.ThongBao.AlertDestroy_frm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.ThongBao.Alert_frm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.ThongBao.Expires_frm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.XNCN.XacNhanChuyenNhuong_ctl.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.XNCN.XacNhanChuyenNhuong_frm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.Operation.csproj.GenerateResource.Cache
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.Operation.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Operation\obj\Debug\LandSoft.Operation.pdb
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.Operation.csprojResolveAssemblyReference.cache
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlBanHang.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlDaily.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlManager.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlThanhLy.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmConfirm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmEdit.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmHenTra.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmReply.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmSelect.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.GiaHan.ctlManager.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.GiaHan.frmEdit.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.NhacNo_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.Preview_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.HDMG.Duyet_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.HDMG.HDMoiGioi_ctl.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.HDMG.HDMoiGioi_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Import.frmGiaoDich.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Import.frmPhieuThu.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.KyGui.Duyet_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.KyGui.KyGui_ctl.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.KyGui.KyGui_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.AddTemplate_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.BieuMau_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.Chart_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.Content_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.HappyBirthdaySetting_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.HappyBirthday_ctl.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.NhacNoSetting_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.SearchCustomer_ctl.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.SendMail_ctl.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.Template_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.ctlManager.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmEdit.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmImport.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmReply.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmSend.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.BieuMau.ctlManager.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.BieuMau.frmEdit.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.ctlDatCoc.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmCapDo.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmCapDoChon.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmDatCoc.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmDuyet.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmNguon.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.GiaoDich.ctlManager.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.GiaoDich.frmDuyet.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.GiaoDich.frmEdit.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.ctlManager.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.frmEdit.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.frmReply.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.frmSend.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.AddFeature_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.AddForm_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.FormFeature_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Forms_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Modules_ctl.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Modules_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Permission_ctl.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Permission_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Power_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Staff_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.Operation.Properties.Resources.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.ThongBao.AlertDestroy_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.ThongBao.Alert_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.ThongBao.Expires_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.XNCN.XacNhanChuyenNhuong_ctl.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.XNCN.XacNhanChuyenNhuong_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.Operation.csproj.GenerateResource.Cache
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlManagerGeneral.resources
+E:\Projects\Software\2015\HungThinh\DLL\LandSoft.Operation.dll.config
+E:\Projects\Software\2015\HungThinh\DLL\LandSoft.Operation.dll
+E:\Projects\Software\2015\HungThinh\DLL\LandSoft.Operation.pdb
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.Operation.dll
+E:\Projects\Software\2015\HungThinh\LandSoft.Operation\obj\Debug\LandSoft.Operation.pdb
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.Operation.csprojResolveAssemblyReference.cache
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlBanHang.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlDaily.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlManager.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlThanhLy.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmConfirm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmEdit.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmHenTra.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmReply.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmSelect.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.GiaHan.ctlManager.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.GiaHan.frmEdit.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.NhacNo_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.Preview_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlManagerGeneral.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.HDMG.Duyet_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.HDMG.HDMoiGioi_ctl.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.HDMG.HDMoiGioi_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Import.frmGiaoDich.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Import.frmPhieuThu.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.KyGui.Duyet_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.KyGui.KyGui_ctl.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.KyGui.KyGui_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.AddTemplate_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.BieuMau_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.Chart_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.Content_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.HappyBirthdaySetting_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.HappyBirthday_ctl.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.NhacNoSetting_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.SearchCustomer_ctl.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.SendMail_ctl.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.Template_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.ctlManager.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmEdit.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmImport.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmReply.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmSend.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.BieuMau.ctlManager.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.BieuMau.frmEdit.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.ctlDatCoc.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmCapDo.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmCapDoChon.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmDatCoc.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmDuyet.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmNguon.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.GiaoDich.ctlManager.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.GiaoDich.frmDuyet.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.GiaoDich.frmEdit.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.ctlManager.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.frmEdit.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.frmReply.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.frmSend.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.AddFeature_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.AddForm_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.FormFeature_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Forms_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Modules_ctl.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Modules_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Permission_ctl.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Permission_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Power_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Staff_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.Operation.Properties.Resources.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.ThongBao.AlertDestroy_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.ThongBao.Alert_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.ThongBao.Expires_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.XNCN.XacNhanChuyenNhuong_ctl.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.XNCN.XacNhanChuyenNhuong_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.Operation.csproj.GenerateResource.Cache
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.Operation.pdb
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\DLL\LandSoft.Operation.dll.config
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\DLL\LandSoft.Operation.dll
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\DLL\LandSoft.Operation.pdb
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Operation\obj\Debug\LandSoft.Operation.dll
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.Operation.csprojResolveAssemblyReference.cache
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlBanHang.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlDaily.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlManager.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlThanhLy.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmConfirm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmEdit.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmHenTra.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmReply.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmSelect.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.GiaHan.ctlManager.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.GiaHan.frmEdit.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.NhacNo_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.Preview_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlManagerGeneral.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.HDMG.Duyet_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.HDMG.HDMoiGioi_ctl.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.HDMG.HDMoiGioi_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Import.frmGiaoDich.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Import.frmPhieuThu.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.KyGui.Duyet_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.KyGui.KyGui_ctl.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.KyGui.KyGui_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.AddTemplate_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.BieuMau_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.Chart_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.Content_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.HappyBirthdaySetting_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.HappyBirthday_ctl.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.NhacNoSetting_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.SearchCustomer_ctl.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.SendMail_ctl.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.Template_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.ctlManager.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmEdit.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmImport.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmReply.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmSend.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.BieuMau.ctlManager.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.BieuMau.frmEdit.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.ctlDatCoc.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmCapDo.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmCapDoChon.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmDatCoc.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmDuyet.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmNguon.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.GiaoDich.ctlManager.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.GiaoDich.frmDuyet.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.GiaoDich.frmEdit.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.ctlManager.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.frmEdit.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.frmReply.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.frmSend.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.AddFeature_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.AddForm_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.FormFeature_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Forms_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Modules_ctl.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Modules_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Permission_ctl.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Permission_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Power_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Staff_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.Operation.Properties.Resources.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.ThongBao.AlertDestroy_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.ThongBao.Alert_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.ThongBao.Expires_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.XNCN.XacNhanChuyenNhuong_ctl.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.XNCN.XacNhanChuyenNhuong_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.Operation.csproj.GenerateResource.Cache
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.Operation.pdb
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\DLL\LandSoft.Operation.dll.config
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\DLL\LandSoft.Operation.dll
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\DLL\LandSoft.Operation.pdb
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Operation\obj\Debug\LandSoft.Operation.dll
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.Operation.csprojResolveAssemblyReference.cache
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlBanHang.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlDaily.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlManager.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlThanhLy.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmConfirm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmEdit.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmHenTra.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmReply.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmSelect.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.GiaHan.ctlManager.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.GiaHan.frmEdit.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.NhacNo_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.Preview_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlManagerGeneral.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.HDMG.Duyet_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.HDMG.HDMoiGioi_ctl.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.HDMG.HDMoiGioi_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Import.frmGiaoDich.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Import.frmPhieuThu.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.KyGui.Duyet_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.KyGui.KyGui_ctl.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.KyGui.KyGui_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.AddTemplate_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.BieuMau_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.Chart_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.Content_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.HappyBirthdaySetting_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.HappyBirthday_ctl.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.NhacNoSetting_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.SearchCustomer_ctl.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.SendMail_ctl.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.Template_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.ctlManager.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmEdit.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmImport.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmReply.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmSend.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.BieuMau.ctlManager.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.BieuMau.frmEdit.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.ctlDatCoc.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmCaiDatLoc.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmCapDo.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmCapDoChon.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmDatCoc.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmDuyet.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmNguon.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.GiaoDich.ctlManager.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.GiaoDich.frmDuyet.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.GiaoDich.frmEdit.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.ctlManager.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.frmEdit.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.frmReply.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.frmSend.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.XuLy.frmXuLy.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.XuLy.ctlManager.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.XuLy.frmEdit.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.AddFeature_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.AddForm_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.FormFeature_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Forms_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Modules_ctl.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Modules_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Permission_ctl.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Permission_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Power_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Staff_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.Operation.Properties.Resources.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.ThongBao.AlertDestroy_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.ThongBao.Alert_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.ThongBao.Expires_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.XNCN.XacNhanChuyenNhuong_ctl.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.XNCN.XacNhanChuyenNhuong_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.Operation.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM FOR AGENTV2\DLL\LandSoft.Operation.dll.config
+D:\BEESKY\REM\BEEREM FOR AGENTV2\DLL\LandSoft.Operation.dll
+D:\BEESKY\REM\BEEREM FOR AGENTV2\DLL\LandSoft.Operation.pdb
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.Operation.dll
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.Operation.pdb
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmCaiDatNhanMailCV.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlBanHang.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlDaily.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlManager.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlThanhLy.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmConfirm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmEdit.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmHenTra.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmReply.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmSelect.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.GiaHan.ctlManager.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.GiaHan.frmEdit.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.NhacNo_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.Preview_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlManagerGeneral.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.HDMG.Duyet_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.HDMG.HDMoiGioi_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.HDMG.HDMoiGioi_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Import.frmGiaoDich.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Import.frmPhieuThu.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.KyGui.Duyet_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.KyGui.KyGui_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.KyGui.KyGui_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.AddTemplate_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.BieuMau_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.Chart_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.Content_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.HappyBirthdaySetting_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.HappyBirthday_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.NhacNoSetting_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.SearchCustomer_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.SendMail_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.Template_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.ctlManager.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmEdit.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmImport.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmReply.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmSend.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.BieuMau.ctlManager.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.BieuMau.frmEdit.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmCaiDatNhanMailCV.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.ctlDatCoc.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmCaiDatLoc.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmCapDo.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmCapDoChon.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmDatCoc.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmDuyet.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmNguon.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.GiaoDich.ctlManager.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.GiaoDich.frmDuyet.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.GiaoDich.frmEdit.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.ctlManager.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.frmEdit.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.frmReply.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.frmSend.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.XuLy.frmXuLy.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.XuLy.ctlManager.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.XuLy.frmEdit.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.AddFeature_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.AddForm_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.FormFeature_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Forms_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Modules_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Modules_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Permission_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Permission_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Power_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Staff_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.Operation.Properties.Resources.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.ThongBao.AlertDestroy_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.ThongBao.Alert_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.ThongBao.Expires_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.XNCN.XacNhanChuyenNhuong_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.XNCN.XacNhanChuyenNhuong_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.Operation.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.Operation.dll
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.Operation.pdb
+D:\BEESKY\REM\BEEREM HOABINH\DLL\LandSoft.Operation.dll.config
+D:\BEESKY\REM\BEEREM HOABINH\DLL\LandSoft.Operation.dll
+D:\BEESKY\REM\BEEREM HOABINH\DLL\LandSoft.Operation.pdb
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmImport.frmImport.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.ctlNew.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.Operation.csprojResolveAssemblyReference.cache
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.Operation.csprojResolveAssemblyReference.cache
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlBanHang.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlDaily.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlManager.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlThanhLy.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmConfirm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmEdit.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmHenTra.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmReply.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmSelect.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.GiaHan.ctlManager.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.GiaHan.frmEdit.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.NhacNo_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.Preview_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlManagerGeneral.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.HDMG.Duyet_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.HDMG.HDMoiGioi_ctl.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.HDMG.HDMoiGioi_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Import.frmGiaoDich.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Import.frmPhieuThu.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.KyGui.Duyet_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.KyGui.KyGui_ctl.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.KyGui.KyGui_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.AddTemplate_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.BieuMau_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.Chart_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.Content_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.HappyBirthdaySetting_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.HappyBirthday_ctl.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.NhacNoSetting_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.SearchCustomer_ctl.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.SendMail_ctl.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.Template_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.ctlManager.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmEdit.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmImport.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmReply.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmSend.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.BieuMau.ctlManager.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.BieuMau.frmEdit.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.ctlNew.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmCaiDatNhanMailCV.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.ctlDatCoc.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmCaiDatLoc.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmCapDo.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmCapDoChon.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmDatCoc.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmDuyet.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmNguon.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.GiaoDich.ctlManager.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.GiaoDich.frmDuyet.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.GiaoDich.frmEdit.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.ctlManager.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.frmEdit.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.frmReply.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.frmSend.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmImport.frmImport.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.XuLy.frmXuLy.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.XuLy.ctlManager.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.XuLy.frmEdit.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.AddFeature_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.AddForm_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.FormFeature_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Forms_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Modules_ctl.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Modules_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Permission_ctl.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Permission_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Power_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Staff_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.Operation.Properties.Resources.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.ThongBao.AlertDestroy_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.ThongBao.Alert_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.ThongBao.Expires_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.XNCN.XacNhanChuyenNhuong_ctl.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.XNCN.XacNhanChuyenNhuong_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.Operation.csproj.GenerateResource.Cache
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.Operation.dll.licenses
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Operation\obj\Debug\LandSoft.Operation.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\DLL\LandSoft.Operation.dll.config
+D:\BEESKY\REM\BEEREM HOABINHV2\DLL\LandSoft.Operation.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\DLL\LandSoft.Operation.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlBanHang.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlDaily.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlManager.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlThanhLy.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmConfirm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmEdit.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmHenTra.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmReply.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.frmSelect.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.GiaHan.ctlManager.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.GiaHan.frmEdit.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.NhacNo_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.Preview_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.CongNo.ctlManagerGeneral.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.HDMG.Duyet_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.HDMG.HDMoiGioi_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.HDMG.HDMoiGioi_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Import.frmGiaoDich.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Import.frmPhieuThu.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.KyGui.Duyet_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.KyGui.KyGui_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.KyGui.KyGui_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.AddTemplate_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.BieuMau_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.Chart_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.Content_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.HappyBirthdaySetting_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.HappyBirthday_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.NhacNoSetting_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.SearchCustomer_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.SendMail_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.Maketing.Template_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.ctlManagerChoThue.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.ctlManager.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmEdit.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmImport.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmReply.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Ban.frmSend.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.BieuMau.ctlManager.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.BieuMau.frmEdit.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmCaiDatNhanMailCV.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.ctlDatCoc.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmCaiDatLoc.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmCapDo.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmCapDoChon.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmDatCoc.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmDuyet.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmNguon.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.frmSend.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.GiaoDich.ctlManager.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.GiaoDich.frmDuyet.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.GiaoDich.frmEdit.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.ctlManagerCanThue.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.ctlManager.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.frmEdit.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.frmReply.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.Mua.frmSend.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.NguoiMG.frmEdit.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.NguoiMG.ctlManager.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.NguoiMG.frmImport.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.XuLy.frmXuLy.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.XuLy.ctlManager.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.MGL.XuLy.frmEdit.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.AddFeature_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.AddForm_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.FormFeature_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Forms_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Modules_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Modules_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Permission_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Permission_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Power_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.PhanQuyen.Staff_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.Operation.Properties.Resources.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.ThongBao.AlertDestroy_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.ThongBao.Alert_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.ThongBao.Expires_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.XNCN.XacNhanChuyenNhuong_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.NghiepVu.XNCN.XacNhanChuyenNhuong_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.Operation.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.Operation.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.Operation.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Operation\obj\Debug\LandSoft.Operation.csprojResolveAssemblyReference.cache

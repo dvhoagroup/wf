@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BEE.SoQuy", "BEE.SoQuy.csproj", "{FE1F3F5C-901E-4DCC-A138-8CE77B0F414F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BEE.CONGCU", "..\BEE.CONGCU\BEE.CONGCU.csproj", "{7F0C57EB-F797-4CE9-839B-7F39E2304391}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		MySetting|Any CPU = MySetting|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE1F3F5C-901E-4DCC-A138-8CE77B0F414F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE1F3F5C-901E-4DCC-A138-8CE77B0F414F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE1F3F5C-901E-4DCC-A138-8CE77B0F414F}.MySetting|Any CPU.ActiveCfg = MySetting|Any CPU
+		{FE1F3F5C-901E-4DCC-A138-8CE77B0F414F}.MySetting|Any CPU.Build.0 = MySetting|Any CPU
+		{FE1F3F5C-901E-4DCC-A138-8CE77B0F414F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE1F3F5C-901E-4DCC-A138-8CE77B0F414F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F0C57EB-F797-4CE9-839B-7F39E2304391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F0C57EB-F797-4CE9-839B-7F39E2304391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F0C57EB-F797-4CE9-839B-7F39E2304391}.MySetting|Any CPU.ActiveCfg = MySetting|Any CPU
+		{7F0C57EB-F797-4CE9-839B-7F39E2304391}.MySetting|Any CPU.Build.0 = MySetting|Any CPU
+		{7F0C57EB-F797-4CE9-839B-7F39E2304391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F0C57EB-F797-4CE9-839B-7F39E2304391}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

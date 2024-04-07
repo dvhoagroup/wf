@@ -1,0 +1,115 @@
+E:\Projects\Software\2012\KienA\LandSoft.Library\bin\Debug\LandSoft.Library.dll.config
+E:\Projects\Software\2012\KienA\LandSoft.Library\bin\Debug\LandSoft.Library.dll
+E:\Projects\Software\2012\KienA\LandSoft.Library\bin\Debug\LandSoft.Library.pdb
+E:\Projects\Software\2012\KienA\LandSoft.Library\obj\Debug\LandSoft.Library.dll
+E:\Projects\Software\2012\KienA\LandSoft.Library\obj\Debug\LandSoft.Library.pdb
+E:\Projects\Software\2013\NamCuong\LandSoft.Library\obj\Debug\LandSoft.Library.dll
+E:\Projects\Software\2013\NamCuong\LandSoft.Library\obj\Debug\LandSoft.Library.pdb
+E:\Projects\Software\2013\NamCuong\LandSoft.Library\bin\Debug\LandSoft.Library.dll.config
+E:\Projects\Software\2013\NamCuong\LandSoft.Library\bin\Debug\LandSoft.Library.dll
+E:\Projects\Software\2013\NamCuong\LandSoft.Library\bin\Debug\LandSoft.Library.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Library\obj\Debug\LandSoft.Library.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Library\obj\Debug\LandSoft.Library.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Library\obj\Debug\LandSoft.Library.Properties.Resources.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Library\obj\Debug\LandSoft.Library.csproj.GenerateResource.Cache
+E:\Projects\Software\2013\NamLong\LandSoft.Library\bin\Debug\LandSoft.Library.dll.config
+E:\Projects\Software\2013\NamLong\LandSoft.Library\bin\Debug\LandSoft.Library.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Library\bin\Debug\LandSoft.Library.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Library\obj\Debug\LandSoft.Library.csprojResolveAssemblyReference.cache
+E:\Projects\Software\2014\Demo\LandSoft.Library\obj\Debug\LandSoft.Library.Properties.Resources.resources
+E:\Projects\Software\2014\Demo\LandSoft.Library\obj\Debug\LandSoft.Library.csproj.GenerateResource.Cache
+E:\Projects\Software\2014\Demo\LandSoft.Library\bin\Debug\LandSoft.Library.dll.config
+E:\Projects\Software\2014\Demo\LandSoft.Library\bin\Debug\LandSoft.Library.dll
+E:\Projects\Software\2014\Demo\LandSoft.Library\bin\Debug\LandSoft.Library.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Library\obj\Debug\LandSoft.Library.dll
+E:\Projects\Software\2014\Demo\LandSoft.Library\obj\Debug\LandSoft.Library.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Library\obj\Debug\LandSoft.Library.csprojResolveAssemblyReference.cache
+E:\Projects\Software\2014\DemoCapital\LandSoft.Library\bin\Debug\LandSoft.Library.dll.config
+E:\Projects\Software\2014\DemoCapital\LandSoft.Library\bin\Debug\LandSoft.Library.dll
+E:\Projects\Software\2014\DemoCapital\LandSoft.Library\bin\Debug\LandSoft.Library.pdb
+E:\Projects\Software\2014\DemoCapital\LandSoft.Library\obj\Debug\LandSoft.Library.csprojResolveAssemblyReference.cache
+E:\Projects\Software\2014\DemoCapital\LandSoft.Library\obj\Debug\LandSoft.Library.Properties.Resources.resources
+E:\Projects\Software\2014\DemoCapital\LandSoft.Library\obj\Debug\LandSoft.Library.csproj.GenerateResource.Cache
+E:\Projects\Software\2014\DemoCapital\LandSoft.Library\obj\Debug\LandSoft.Library.dll
+E:\Projects\Software\2014\DemoCapital\LandSoft.Library\obj\Debug\LandSoft.Library.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Library\bin\Debug\LandSoft.Library.dll.config
+E:\Projects\Software\2015\Becamex\LandSoft.Library\bin\Debug\LandSoft.Library.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Library\bin\Debug\LandSoft.Library.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Library\obj\Debug\LandSoft.Library.Properties.Resources.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Library\obj\Debug\LandSoft.Library.csproj.GenerateResource.Cache
+E:\Projects\Software\2015\Becamex\LandSoft.Library\obj\Debug\LandSoft.Library.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Library\obj\Debug\LandSoft.Library.pdb
+E:\Projects\Software\2015\Becamex\DLL\LandSoft.Library.dll.config
+E:\Projects\Software\2015\Becamex\DLL\LandSoft.Library.dll
+E:\Projects\Software\2015\Becamex\DLL\LandSoft.Library.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Library\obj\Debug\LandSoft.Library.ctlManager.resources
+E:\Projects\Software\2015\HungThinh\DLL\LandSoft.Library.dll.config
+E:\Projects\Software\2015\HungThinh\DLL\LandSoft.Library.dll
+E:\Projects\Software\2015\HungThinh\DLL\LandSoft.Library.pdb
+E:\Projects\Software\2015\HungThinh\LandSoft.Library\obj\Debug\LandSoft.Library.ctlManager.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Library\obj\Debug\LandSoft.Library.Properties.Resources.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Library\obj\Debug\LandSoft.Library.csproj.GenerateResource.Cache
+E:\Projects\Software\2015\HungThinh\LandSoft.Library\obj\Debug\LandSoft.Library.dll
+E:\Projects\Software\2015\HungThinh\LandSoft.Library\obj\Debug\LandSoft.Library.pdb
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\DLL\LandSoft.Library.dll.config
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\DLL\LandSoft.Library.dll
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\DLL\LandSoft.Library.pdb
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.Library\obj\Debug\LandSoft.Library.csprojResolveAssemblyReference.cache
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.Library\obj\Debug\LandSoft.Library.ctlManager.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.Library\obj\Debug\LandSoft.Library.Properties.Resources.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.Library\obj\Debug\LandSoft.Library.csproj.GenerateResource.Cache
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.Library\obj\Debug\LandSoft.Library.dll
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.Library\obj\Debug\LandSoft.Library.pdb
+E:\Projects\Software\2015\HungThinh\LandSoft.Library\obj\Debug\LandSoft.Library.csprojResolveAssemblyReference.cache
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\DLL\LandSoft.Library.dll.config
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\DLL\LandSoft.Library.dll
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\DLL\LandSoft.Library.pdb
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Library\obj\Debug\LandSoft.Library.csprojResolveAssemblyReference.cache
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Library\obj\Debug\LandSoft.Library.ctlManager.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Library\obj\Debug\LandSoft.Library.Properties.Resources.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Library\obj\Debug\LandSoft.Library.csproj.GenerateResource.Cache
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Library\obj\Debug\LandSoft.Library.dll
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Library\obj\Debug\LandSoft.Library.pdb
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\DLL\LandSoft.Library.dll.config
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\DLL\LandSoft.Library.dll
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\DLL\LandSoft.Library.pdb
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Library\obj\Debug\LandSoft.Library.ctlManager.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Library\obj\Debug\LandSoft.Library.Properties.Resources.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Library\obj\Debug\LandSoft.Library.csproj.GenerateResource.Cache
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Library\obj\Debug\LandSoft.Library.dll
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Library\obj\Debug\LandSoft.Library.pdb
+D:\BEESKY\REM\BEEREM FOR AGENTV2\DLL\LandSoft.Library.dll.config
+D:\BEESKY\REM\BEEREM FOR AGENTV2\DLL\LandSoft.Library.dll
+D:\BEESKY\REM\BEEREM FOR AGENTV2\DLL\LandSoft.Library.pdb
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Library\obj\Debug\LandSoft.Library.ctlManager.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Library\obj\Debug\LandSoft.Library.Properties.Resources.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Library\obj\Debug\LandSoft.Library.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Library\obj\Debug\LandSoft.Library.dll
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Library\obj\Debug\LandSoft.Library.pdb
+D:\BEESKY\REM\BEEREM HOABINH\DLL\LandSoft.Library.dll.config
+D:\BEESKY\REM\BEEREM HOABINH\DLL\LandSoft.Library.dll
+D:\BEESKY\REM\BEEREM HOABINH\DLL\LandSoft.Library.pdb
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Library\obj\Debug\LandSoft.Library.ctlManager.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Library\obj\Debug\LandSoft.Library.Properties.Resources.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Library\obj\Debug\LandSoft.Library.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Library\obj\Debug\LandSoft.Library.dll
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Library\obj\Debug\LandSoft.Library.pdb
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Library\obj\Debug\LandSoft.Library.csprojResolveAssemblyReference.cache
+D:\My Job\BeeSky\BEEREM HOABINH\DLL\LandSoft.Library.dll.config
+D:\My Job\BeeSky\BEEREM HOABINH\DLL\LandSoft.Library.dll
+D:\My Job\BeeSky\BEEREM HOABINH\DLL\LandSoft.Library.pdb
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Library\obj\Debug\LandSoft.Library.csprojResolveAssemblyReference.cache
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Library\obj\Debug\LandSoft.Library.ctlManager.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Library\obj\Debug\LandSoft.Library.Properties.Resources.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Library\obj\Debug\LandSoft.Library.csproj.GenerateResource.Cache
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Library\obj\Debug\LandSoft.Library.dll.licenses
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Library\obj\Debug\LandSoft.Library.dll
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Library\obj\Debug\LandSoft.Library.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\DLL\LandSoft.Library.dll.config
+D:\BEESKY\REM\BEEREM HOABINHV2\DLL\LandSoft.Library.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\DLL\LandSoft.Library.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Library\obj\Debug\LandSoft.Library.ctlManager.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Library\obj\Debug\LandSoft.Library.Properties.Resources.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Library\obj\Debug\LandSoft.Library.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Library\obj\Debug\LandSoft.Library.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Library\obj\Debug\LandSoft.Library.pdb

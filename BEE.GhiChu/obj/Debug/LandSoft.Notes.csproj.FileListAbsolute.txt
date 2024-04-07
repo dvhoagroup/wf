@@ -1,0 +1,60 @@
+E:\Projects\Software\2013\NamLong\LandSoft.Notes\obj\Debug\LandSoft.Notes.csprojResolveAssemblyReference.cache
+E:\Projects\Software\2013\NamLong\LandSoft.Notes\obj\Debug\LandSoft.Notes.ctlNoteHistory.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Notes\obj\Debug\LandSoft.Notes.frmEdit.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Notes\obj\Debug\LandSoft.Notes.csproj.GenerateResource.Cache
+E:\Projects\Software\2013\NamLong\LandSoft.Notes\bin\Debug\LandSoft.Notes.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Notes\bin\Debug\LandSoft.Notes.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Notes\bin\Debug\LandSoft.Library.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Notes\bin\Debug\LandSoft.Library.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Notes\obj\Debug\LandSoft.Notes.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Notes\obj\Debug\LandSoft.Notes.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Notes\bin\Debug\LandSoft.Translate.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Notes\bin\Debug\LandSoft.Translate.pdb
+E:\Projects\Software\2015\Becamex\DLL\LandSoft.Notes.dll
+E:\Projects\Software\2015\Becamex\DLL\LandSoft.Notes.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Notes\obj\Debug\LandSoft.Notes.csprojResolveAssemblyReference.cache
+E:\Projects\Software\2015\Becamex\LandSoft.Notes\obj\Debug\LandSoft.Notes.ctlNoteHistory.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Notes\obj\Debug\LandSoft.Notes.frmEdit.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Notes\obj\Debug\LandSoft.Notes.csproj.GenerateResource.Cache
+E:\Projects\Software\2015\Becamex\LandSoft.Notes\obj\Debug\LandSoft.Notes.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Notes\obj\Debug\LandSoft.Notes.pdb
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\DLL\LandSoft.Notes.dll
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\DLL\LandSoft.Notes.pdb
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Notes\obj\Debug\LandSoft.Notes.ctlNoteHistory.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Notes\obj\Debug\LandSoft.Notes.frmEdit.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Notes\obj\Debug\LandSoft.Notes.csproj.GenerateResource.Cache
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Notes\obj\Debug\LandSoft.Notes.dll
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Notes\obj\Debug\LandSoft.Notes.pdb
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\DLL\LandSoft.Notes.dll
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\DLL\LandSoft.Notes.pdb
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Notes\obj\Debug\LandSoft.Notes.csprojResolveAssemblyReference.cache
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Notes\obj\Debug\LandSoft.Notes.ctlNoteHistory.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Notes\obj\Debug\LandSoft.Notes.frmEdit.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Notes\obj\Debug\LandSoft.Notes.csproj.GenerateResource.Cache
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Notes\obj\Debug\LandSoft.Notes.dll
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Notes\obj\Debug\LandSoft.Notes.pdb
+D:\BEESKY\REM\BEEREM HOABINH\DLL\LandSoft.Notes.dll
+D:\BEESKY\REM\BEEREM HOABINH\DLL\LandSoft.Notes.pdb
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Notes\obj\Debug\LandSoft.Notes.csprojResolveAssemblyReference.cache
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Notes\obj\Debug\LandSoft.Notes.ctlNoteHistory.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Notes\obj\Debug\LandSoft.Notes.frmEdit.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Notes\obj\Debug\LandSoft.Notes.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Notes\obj\Debug\LandSoft.Notes.dll
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Notes\obj\Debug\LandSoft.Notes.pdb
+D:\My Job\BeeSky\BEEREM HOABINH\DLL\LandSoft.Notes.dll
+D:\My Job\BeeSky\BEEREM HOABINH\DLL\LandSoft.Notes.pdb
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Notes\obj\Debug\LandSoft.Notes.csprojResolveAssemblyReference.cache
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Notes\obj\Debug\LandSoft.Notes.ctlNoteHistory.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Notes\obj\Debug\LandSoft.Notes.frmEdit.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Notes\obj\Debug\LandSoft.Notes.csproj.GenerateResource.Cache
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Notes\obj\Debug\LandSoft.Notes.dll.licenses
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Notes\obj\Debug\LandSoft.Notes.dll
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Notes\obj\Debug\LandSoft.Notes.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\DLL\LandSoft.Notes.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\DLL\LandSoft.Notes.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Notes\obj\Debug\LandSoft.Notes.csprojResolveAssemblyReference.cache
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Notes\obj\Debug\LandSoft.Notes.ctlNoteHistory.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Notes\obj\Debug\LandSoft.Notes.frmEdit.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Notes\obj\Debug\LandSoft.Notes.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Notes\obj\Debug\LandSoft.Notes.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Notes\obj\Debug\LandSoft.Notes.pdb

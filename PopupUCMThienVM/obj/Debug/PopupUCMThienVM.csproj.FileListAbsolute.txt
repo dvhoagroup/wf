@@ -1,0 +1,81 @@
+C:\Users\Admin\Desktop\VOIP-ZYCCO\decode\PopupUCMThienVM\bin\Debug\PopupUCMThienVM.dll
+C:\Users\Admin\Desktop\VOIP-ZYCCO\decode\PopupUCMThienVM\bin\Debug\PopupUCMThienVM.pdb
+C:\Users\Admin\Desktop\VOIP-ZYCCO\decode\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.dll
+C:\Users\Admin\Desktop\VOIP-ZYCCO\decode\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.pdb
+F:\2017\BEEREM\EPACIFIC\Bee.Modules\PopupUCMThienVM\bin\Debug\PopupUCMThienVM.dll
+F:\2017\BEEREM\EPACIFIC\Bee.Modules\PopupUCMThienVM\bin\Debug\PopupUCMThienVM.pdb
+F:\2017\BEEREM\EPACIFIC\Bee.Modules\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.dll
+F:\2017\BEEREM\EPACIFIC\Bee.Modules\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.pdb
+F:\2017\BEEREM\EPACIFIC\app\PopupUCMThienVM.dll
+F:\2017\BEEREM\EPACIFIC\app\PopupUCMThienVM.pdb
+D:\NAM 2016\3.REMCDT\EPACIFIC\app\PopupUCMThienVM.dll
+D:\NAM 2016\3.REMCDT\EPACIFIC\app\PopupUCMThienVM.pdb
+D:\NAM 2016\3.REMCDT\EPACIFIC\Bee.Modules\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.dll
+D:\NAM 2016\3.REMCDT\EPACIFIC\Bee.Modules\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.pdb
+F:\2017\BEEREM\EPACIFIC3\app\PopupUCMThienVM.dll
+F:\2017\BEEREM\EPACIFIC3\app\PopupUCMThienVM.pdb
+F:\2017\BEEREM\EPACIFIC3\Bee.Modules\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.dll
+F:\2017\BEEREM\EPACIFIC3\Bee.Modules\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.pdb
+F:\2017\BEEREM\EPACIFIC3\Bee.Modules\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.csprojResolveAssemblyReference.cache
+F:\2017\BEECRM\app\PopupUCMThienVM.dll
+F:\2017\BEECRM\app\PopupUCMThienVM.pdb
+F:\2017\BEECRM\ANHQUOC\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.dll
+F:\2017\BEECRM\ANHQUOC\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.pdb
+F:\2017\BEECRM\ANHQUOC\BEECRM\bin\Debug\PopupUCMThienVM.dll
+F:\2017\BEECRM\ANHQUOC\BEECRM\bin\Debug\PopupUCMThienVM.pdb
+F:\2017\BEECRM\VINACOST\BEECRM\bin\Debug\PopupUCMThienVM.dll
+F:\2017\BEECRM\VINACOST\BEECRM\bin\Debug\PopupUCMThienVM.pdb
+F:\2017\BEECRM\VINACOST\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.dll
+F:\2017\BEECRM\VINACOST\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.pdb
+F:\2017\WEBSITE\BEEVOIP\BEEPOS\bin\PopupUCMThienVM.dll
+F:\2017\WEBSITE\BEEVOIP\BEEPOS\bin\PopupUCMThienVM.pdb
+F:\2017\WEBSITE\BEEVOIP\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.csprojResolveAssemblyReference.cache
+F:\2017\WEBSITE\BEEVOIP\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.dll
+F:\2017\WEBSITE\BEEVOIP\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.pdb
+F:\2017\WEBSITE\BEELS_BACTOM\BEEPOS\bin\PopupUCMThienVM.dll
+F:\2017\WEBSITE\BEELS_BACTOM\BEEPOS\bin\PopupUCMThienVM.pdb
+F:\2017\WEBSITE\BEELS_BACTOM\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.dll
+F:\2017\WEBSITE\BEELS_BACTOM\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.pdb
+C:\Users\Admin\Downloads\Using SignalR in WinForms and WPF\C#\WinFormsServer\bin\Debug\PopupUCMThienVM.dll
+C:\Users\Admin\Downloads\Using SignalR in WinForms and WPF\C#\WinFormsServer\bin\Debug\PopupUCMThienVM.pdb
+C:\Users\Admin\Downloads\Using SignalR in WinForms and WPF\C#\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.dll
+C:\Users\Admin\Downloads\Using SignalR in WinForms and WPF\C#\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.pdb
+C:\Users\Admin\Downloads\Using SignalR in WinForms and WPF\C#\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.csprojResolveAssemblyReference.cache
+F:\2017\SIGNALR_VOIP\Using SignalR in WinForms and WPF\C#\WinFormsServer\bin\Debug\PopupUCMThienVM.dll
+F:\2017\SIGNALR_VOIP\Using SignalR in WinForms and WPF\C#\WinFormsServer\bin\Debug\PopupUCMThienVM.pdb
+F:\2017\SIGNALR_VOIP\Using SignalR in WinForms and WPF\C#\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.csprojResolveAssemblyReference.cache
+F:\2017\SIGNALR_VOIP\Using SignalR in WinForms and WPF\C#\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.dll
+F:\2017\SIGNALR_VOIP\Using SignalR in WinForms and WPF\C#\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.pdb
+F:\2017\SIGNALR_VOIP\HOALAND\C#\WinFormsServer\bin\Debug\PopupUCMThienVM.dll
+F:\2017\SIGNALR_VOIP\HOALAND\C#\WinFormsServer\bin\Debug\PopupUCMThienVM.pdb
+F:\2017\SIGNALR_VOIP\HOALAND\C#\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.csprojResolveAssemblyReference.cache
+F:\2017\SIGNALR_VOIP\HOALAND\C#\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.dll
+F:\2017\SIGNALR_VOIP\HOALAND\C#\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.pdb
+F:\2017\BEEREMA\HOALAND\Source\WinFormsServer\bin\Debug\PopupUCMThienVM.dll
+F:\2017\BEEREMA\HOALAND\Source\WinFormsServer\bin\Debug\PopupUCMThienVM.pdb
+F:\2017\BEEREMA\HOALAND\Source\app\PopupUCMThienVM.dll
+F:\2017\BEEREMA\HOALAND\Source\app\PopupUCMThienVM.pdb
+F:\2017\BEEREMA\HOALAND\Source\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.dll
+F:\2017\BEEREMA\HOALAND\Source\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.pdb
+F:\2017\BEEREMA\HOALAND - Copy\Source\app\PopupUCMThienVM.dll
+F:\2017\BEEREMA\HOALAND - Copy\Source\app\PopupUCMThienVM.pdb
+F:\2017\BEEREMA\HOALAND - Copy\Source\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.dll
+F:\2017\BEEREMA\HOALAND - Copy\Source\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.pdb
+F:\2017\BEEREMA\HOALAND35\Source\app\PopupUCMThienVM.dll
+F:\2017\BEEREMA\HOALAND35\Source\app\PopupUCMThienVM.pdb
+F:\2017\BEEREMA\HOALAND35\Source\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.dll
+F:\2017\BEEREMA\HOALAND35\Source\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.pdb
+F:\2017\BEEREMA\HOLAND_SVN\Source\app\PopupUCMThienVM.dll
+F:\2017\BEEREMA\HOLAND_SVN\Source\app\PopupUCMThienVM.pdb
+F:\2017\BEEREMA\HOLAND_SVN\Source\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.dll
+F:\2017\BEEREMA\HOLAND_SVN\Source\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.pdb
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\app\PopupUCMThienVM.dll
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\app\PopupUCMThienVM.pdb
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.dll
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.pdb
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.csprojAssemblyReference.cache
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.csproj.CoreCompileInputs.cache
+D:\UPGARDE\DEV19\Source\app\PopupUCMThienVM.dll
+D:\UPGARDE\DEV19\Source\app\PopupUCMThienVM.pdb
+D:\UPGARDE\DEV19\Source\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.dll
+D:\UPGARDE\DEV19\Source\PopupUCMThienVM\obj\Debug\PopupUCMThienVM.pdb

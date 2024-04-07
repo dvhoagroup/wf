@@ -1,0 +1,57 @@
+D:\Win\EncryptConnect\EncryptConnect\bin\Debug\EncryptConnect.exe
+D:\Win\EncryptConnect\EncryptConnect\bin\Debug\EncryptConnect.pdb
+D:\Win\EncryptConnect\EncryptConnect\obj\Debug\ResolveAssemblyReference.cache
+D:\Win\EncryptConnect\EncryptConnect\obj\Debug\EncryptConnect.Form1.resources
+D:\Win\EncryptConnect\EncryptConnect\obj\Debug\EncryptConnect.Properties.Resources.resources
+D:\Win\EncryptConnect\EncryptConnect\obj\Debug\EncryptConnect.csproj.GenerateResource.Cache
+D:\Win\EncryptConnect\EncryptConnect\obj\Debug\EncryptConnect.exe
+D:\Win\EncryptConnect\EncryptConnect\obj\Debug\EncryptConnect.pdb
+E:\Phan mem\EncryptConnect\EncryptConnect\obj\Debug\EncryptConnect.exe
+E:\Phan mem\EncryptConnect\EncryptConnect\obj\Debug\EncryptConnect.pdb
+E:\Phan mem\EncryptConnect\EncryptConnect\bin\Debug\EncryptConnect.exe
+E:\Phan mem\EncryptConnect\EncryptConnect\bin\Debug\EncryptConnect.pdb
+E:\Phan mem\EncryptConnect\EncryptConnect\obj\Debug\ResolveAssemblyReference.cache
+E:\Phan mem\EncryptConnect\EncryptConnect\obj\Debug\EncryptConnect.Form1.resources
+E:\Phan mem\EncryptConnect\EncryptConnect\obj\Debug\EncryptConnect.Properties.Resources.resources
+E:\Phan mem\EncryptConnect\EncryptConnect\obj\Debug\EncryptConnect.csproj.GenerateResource.Cache
+E:\Phan mem\EncryptConnects\EncryptConnect\EncryptConnect\obj\Debug\EncryptConnect.exe
+E:\Phan mem\EncryptConnects\EncryptConnect\EncryptConnect\obj\Debug\EncryptConnect.pdb
+E:\Phan mem\EncryptConnects\EncryptConnect\EncryptConnect\bin\Debug\EncryptConnect.exe
+E:\Phan mem\EncryptConnects\EncryptConnect\EncryptConnect\bin\Debug\EncryptConnect.pdb
+E:\Phan mem\EncryptConnects\EncryptConnect\EncryptConnect\obj\Debug\ResolveAssemblyReference.cache
+E:\Phan mem\EncryptConnects\EncryptConnect\EncryptConnect\obj\Debug\EncryptConnect.Form1.resources
+E:\Phan mem\EncryptConnects\EncryptConnect\EncryptConnect\obj\Debug\EncryptConnect.Properties.Resources.resources
+E:\Phan mem\EncryptConnects\EncryptConnect\EncryptConnect\obj\Debug\EncryptConnect.csproj.GenerateResource.Cache
+D:\Asus\Phan mem\EncryptConnects\EncryptConnect\EncryptConnect\obj\Debug\EncryptConnect.exe
+D:\Asus\Phan mem\EncryptConnects\EncryptConnect\EncryptConnect\obj\Debug\EncryptConnect.pdb
+D:\Asus\Phan mem\EncryptConnects\EncryptConnect\EncryptConnect\bin\Debug\EncryptConnect.exe
+D:\Asus\Phan mem\EncryptConnects\EncryptConnect\EncryptConnect\bin\Debug\EncryptConnect.pdb
+D:\Asus\Phan mem\EncryptConnects\EncryptConnect\EncryptConnect\obj\Debug\ResolveAssemblyReference.cache
+D:\Asus\Phan mem\EncryptConnects\EncryptConnect\EncryptConnect\obj\Debug\EncryptConnect.Form1.resources
+D:\Asus\Phan mem\EncryptConnects\EncryptConnect\EncryptConnect\obj\Debug\EncryptConnect.Properties.Resources.resources
+D:\Asus\Phan mem\EncryptConnects\EncryptConnect\EncryptConnect\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Asus\Phan mem\EncryptConnects\EncryptConnect\EncryptConnect\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Asus\Phan mem\EncryptConnects\Vietremax\EncryptConnect\obj\Debug\EncryptConnect.exe
+D:\Asus\Phan mem\EncryptConnects\Vietremax\EncryptConnect\obj\Debug\EncryptConnect.pdb
+E:\Projects\Software\EncryptConnects\Vietremax\EncryptConnect\obj\Debug\EncryptConnect.exe
+E:\Projects\Software\EncryptConnects\Vietremax\EncryptConnect\obj\Debug\EncryptConnect.pdb
+E:\Projects\Software\EncryptConnects\Vietremax\EncryptConnect\bin\Debug\EncryptConnect.exe
+E:\Projects\Software\EncryptConnects\Vietremax\EncryptConnect\bin\Debug\EncryptConnect.pdb
+E:\Projects\Software\EncryptConnects\Vietremax\EncryptConnect\obj\Debug\EncryptConnect.Form1.resources
+E:\Projects\Software\EncryptConnects\Vietremax\EncryptConnect\obj\Debug\EncryptConnect.Properties.Resources.resources
+E:\Projects\Software\EncryptConnects\Vietremax\EncryptConnect\obj\Debug\EncryptConnect.csproj.GenerateResource.Cache
+E:\Projects\Software\EncryptConnects\NamThien\EncryptConnect\obj\Debug\EncryptConnect.exe
+E:\Projects\Software\EncryptConnects\NamThien\EncryptConnect\obj\Debug\EncryptConnect.pdb
+E:\Projects\Software\EncryptConnects\NamThien\EncryptConnect\bin\Debug\EncryptConnect.exe
+E:\Projects\Software\EncryptConnects\NamThien\EncryptConnect\bin\Debug\EncryptConnect.pdb
+E:\Projects\Software\EncryptConnects\NamThien\EncryptConnect\obj\Debug\EncryptConnect.Properties.Resources.resources
+E:\Projects\Software\EncryptConnects\NamThien\EncryptConnect\obj\Debug\EncryptConnect.csproj.GenerateResource.Cache
+E:\Projects\Software\EncryptConnects\NamThien\EncryptConnect\obj\Debug\EncryptConnect.frmMain.resources
+E:\Projects\Software\2014\NHOFirstHome\EncryptConnect\bin\Debug\EncryptConnect.exe
+E:\Projects\Software\2014\NHOFirstHome\EncryptConnect\bin\Debug\EncryptConnect.pdb
+E:\Projects\Software\2014\NHOFirstHome\EncryptConnect\obj\Debug\EncryptConnect.csprojResolveAssemblyReference.cache
+E:\Projects\Software\2014\NHOFirstHome\EncryptConnect\obj\Debug\EncryptConnect.frmMain.resources
+E:\Projects\Software\2014\NHOFirstHome\EncryptConnect\obj\Debug\EncryptConnect.Properties.Resources.resources
+E:\Projects\Software\2014\NHOFirstHome\EncryptConnect\obj\Debug\EncryptConnect.csproj.GenerateResource.Cache
+E:\Projects\Software\2014\NHOFirstHome\EncryptConnect\obj\Debug\EncryptConnect.exe
+E:\Projects\Software\2014\NHOFirstHome\EncryptConnect\obj\Debug\EncryptConnect.pdb

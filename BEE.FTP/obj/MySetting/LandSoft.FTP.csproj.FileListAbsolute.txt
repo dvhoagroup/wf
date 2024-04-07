@@ -1,0 +1,9 @@
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.FTP\bin\MySetting\LandSoft.FTP.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.FTP\bin\MySetting\LandSoft.Library.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.FTP\bin\MySetting\LandSoft.Library.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.FTP\obj\MySetting\LandSoft.FTP.frmDownloadFileToLocal.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.FTP\obj\MySetting\LandSoft.FTP.frmConfig.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.FTP\obj\MySetting\LandSoft.FTP.frmDownloadFile.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.FTP\obj\MySetting\LandSoft.FTP.frmUploadFile.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.FTP\obj\MySetting\LandSoft.FTP.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.FTP\obj\MySetting\LandSoft.FTP.dll

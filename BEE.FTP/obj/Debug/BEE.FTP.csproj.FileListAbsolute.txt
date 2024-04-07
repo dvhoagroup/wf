@@ -1,0 +1,137 @@
+D:\My Job\BeeSky\BEEREM HOABINHV2\DLL\BEE.FTP.dll
+D:\My Job\BeeSky\BEEREM HOABINHV2\DLL\BEE.FTP.pdb
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.FTP\obj\Debug\ResolveAssemblyReference.cache
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.FTP\obj\Debug\BEE.FTP.frmDownloadFileToLocal.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.FTP\obj\Debug\BEE.FTP.frmConfig.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.FTP\obj\Debug\BEE.FTP.frmDownloadFile.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.FTP\obj\Debug\BEE.FTP.frmUploadFile.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.FTP\obj\Debug\ResGen.read.1.tlog
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.FTP\obj\Debug\ResGen.write.1.tlog
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.FTP\obj\Debug\BEE.FTP.dll
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.FTP\obj\Debug\BEE.FTP.pdb
+D:\BEESKY\REM\BEEREMA DEMO\DLL\BEE.FTP.dll
+D:\BEESKY\REM\BEEREMA DEMO\DLL\BEE.FTP.pdb
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.FTP\obj\Debug\BEE.FTP.csprojResolveAssemblyReference.cache
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.FTP\obj\Debug\BEE.FTP.frmDownloadFileToLocal.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.FTP\obj\Debug\BEE.FTP.frmConfig.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.FTP\obj\Debug\BEE.FTP.frmDownloadFile.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.FTP\obj\Debug\BEE.FTP.frmUploadFile.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.FTP\obj\Debug\BEE.FTP.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.FTP\obj\Debug\BEE.FTP.dll
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.FTP\obj\Debug\BEE.FTP.pdb
+E:\BEESKY\REM\BEEREMA DEMO\DLL\BEE.FTP.dll
+E:\BEESKY\REM\BEEREMA DEMO\DLL\BEE.FTP.pdb
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.FTP\obj\Debug\BEE.FTP.csprojResolveAssemblyReference.cache
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.FTP\obj\Debug\BEE.FTP.frmDownloadFileToLocal.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.FTP\obj\Debug\BEE.FTP.frmConfig.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.FTP\obj\Debug\BEE.FTP.frmDownloadFile.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.FTP\obj\Debug\BEE.FTP.frmUploadFile.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.FTP\obj\Debug\BEE.FTP.csproj.GenerateResource.Cache
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.FTP\obj\Debug\BEE.FTP.dll
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.FTP\obj\Debug\BEE.FTP.pdb
+D:\Dev\3. REM\BEEREMA DEMO\DLL\BEE.FTP.dll
+D:\Dev\3. REM\BEEREMA DEMO\DLL\BEE.FTP.pdb
+D:\Dev\3. REM\BEEREMA DEMO\BEE.FTP\obj\Debug\BEE.FTP.csprojResolveAssemblyReference.cache
+D:\Dev\3. REM\BEEREMA DEMO\BEE.FTP\obj\Debug\BEE.FTP.frmDownloadFileToLocal.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.FTP\obj\Debug\BEE.FTP.frmConfig.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.FTP\obj\Debug\BEE.FTP.frmDownloadFile.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.FTP\obj\Debug\BEE.FTP.frmUploadFile.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.FTP\obj\Debug\BEE.FTP.csproj.GenerateResource.Cache
+D:\Dev\3. REM\BEEREMA DEMO\BEE.FTP\obj\Debug\BEE.FTP.dll
+D:\Dev\3. REM\BEEREMA DEMO\BEE.FTP\obj\Debug\BEE.FTP.pdb
+D:\Dev\3. REM\BEEREMA HOALAND\DLL\BEE.FTP.dll
+D:\Dev\3. REM\BEEREMA HOALAND\DLL\BEE.FTP.pdb
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.FTP\obj\Debug\BEE.FTP.csprojResolveAssemblyReference.cache
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.FTP\obj\Debug\BEE.FTP.frmDownloadFileToLocal.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.FTP\obj\Debug\BEE.FTP.frmConfig.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.FTP\obj\Debug\BEE.FTP.frmDownloadFile.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.FTP\obj\Debug\BEE.FTP.frmUploadFile.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.FTP\obj\Debug\BEE.FTP.csproj.GenerateResource.Cache
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.FTP\obj\Debug\BEE.FTP.dll
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.FTP\obj\Debug\BEE.FTP.pdb
+D:\Dev\3. REM\REM_HOALAND\Source\DLL\BEE.FTP.dll
+D:\Dev\3. REM\REM_HOALAND\Source\DLL\BEE.FTP.pdb
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.FTP\obj\Debug\BEE.FTP.frmDownloadFileToLocal.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.FTP\obj\Debug\BEE.FTP.frmConfig.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.FTP\obj\Debug\BEE.FTP.frmDownloadFile.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.FTP\obj\Debug\BEE.FTP.frmUploadFile.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.FTP\obj\Debug\BEE.FTP.csproj.GenerateResource.Cache
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.FTP\obj\Debug\BEE.FTP.dll.licenses
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.FTP\obj\Debug\BEE.FTP.dll
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.FTP\obj\Debug\BEE.FTP.pdb
+D:\Dev\3. REM\REM_HOALAND\Source\app\BEE.FTP.dll
+D:\Dev\3. REM\REM_HOALAND\Source\app\BEE.FTP.pdb
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.FTP\obj\Debug\BEE.FTP.csprojResolveAssemblyReference.cache
+F:\2017\BEEREMA\HOALAND\Source\BEE.FTP\obj\Debug\BEE.FTP.frmDownloadFileToLocal.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.FTP\obj\Debug\BEE.FTP.frmConfig.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.FTP\obj\Debug\BEE.FTP.frmDownloadFile.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.FTP\obj\Debug\BEE.FTP.frmUploadFile.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.FTP\obj\Debug\BEE.FTP.csproj.GenerateResource.Cache
+F:\2017\BEEREMA\HOALAND\Source\BEE.FTP\obj\Debug\BEE.FTP.dll.licenses
+F:\2017\BEEREMA\HOALAND\Source\BEE.FTP\obj\Debug\BEE.FTP.dll
+F:\2017\BEEREMA\HOALAND\Source\BEE.FTP\obj\Debug\BEE.FTP.pdb
+F:\2017\BEEREMA\HOALAND\Source\app\BEE.FTP.dll
+F:\2017\BEEREMA\HOALAND\Source\app\BEE.FTP.pdb
+F:\2017\BEEREMA\HOALAND\Source\BEE.FTP\obj\Debug\BEE.FTP.csprojResolveAssemblyReference.cache
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.FTP\obj\Debug\BEE.FTP.csprojResolveAssemblyReference.cache
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.FTP\obj\Debug\BEE.FTP.frmDownloadFileToLocal.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.FTP\obj\Debug\BEE.FTP.frmConfig.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.FTP\obj\Debug\BEE.FTP.frmDownloadFile.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.FTP\obj\Debug\BEE.FTP.frmUploadFile.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.FTP\obj\Debug\BEE.FTP.csproj.GenerateResource.Cache
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.FTP\obj\Debug\BEE.FTP.dll.licenses
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.FTP\obj\Debug\BEE.FTP.pdb
+F:\2017\BEEREMA\HOALAND35\Source\app\BEE.FTP.dll
+F:\2017\BEEREMA\HOALAND35\Source\app\BEE.FTP.pdb
+F:\2017\BEEREMA\HOALAND35\Source\BEE.FTP\obj\Debug\BEE.FTP.csprojResolveAssemblyReference.cache
+F:\2017\BEEREMA\HOALAND35\Source\BEE.FTP\obj\Debug\BEE.FTP.frmDownloadFileToLocal.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.FTP\obj\Debug\BEE.FTP.frmConfig.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.FTP\obj\Debug\BEE.FTP.frmDownloadFile.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.FTP\obj\Debug\BEE.FTP.frmUploadFile.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.FTP\obj\Debug\BEE.FTP.csproj.GenerateResource.Cache
+F:\2017\BEEREMA\HOALAND35\Source\BEE.FTP\obj\Debug\BEE.FTP.dll.licenses
+F:\2017\BEEREMA\HOALAND35\Source\BEE.FTP\obj\Debug\BEE.FTP.dll
+F:\2017\BEEREMA\HOALAND35\Source\BEE.FTP\obj\Debug\BEE.FTP.pdb
+D:\CODE FULL HOALAND\Source\app\BEE.FTP.dll
+D:\CODE FULL HOALAND\Source\app\BEE.FTP.pdb
+D:\CODE FULL HOALAND\Source\BEE.FTP\obj\Debug\BEE.FTP.frmDownloadFileToLocal.resources
+D:\CODE FULL HOALAND\Source\BEE.FTP\obj\Debug\BEE.FTP.frmConfig.resources
+D:\CODE FULL HOALAND\Source\BEE.FTP\obj\Debug\BEE.FTP.frmDownloadFile.resources
+D:\CODE FULL HOALAND\Source\BEE.FTP\obj\Debug\BEE.FTP.frmUploadFile.resources
+D:\CODE FULL HOALAND\Source\BEE.FTP\obj\Debug\BEE.FTP.csproj.GenerateResource.Cache
+D:\CODE FULL HOALAND\Source\BEE.FTP\obj\Debug\BEE.FTP.dll
+D:\CODE FULL HOALAND\Source\BEE.FTP\obj\Debug\BEE.FTP.pdb
+F:\2017\BEEREMA\HOLAND_SVN\Source\app\BEE.FTP.dll
+F:\2017\BEEREMA\HOLAND_SVN\Source\app\BEE.FTP.pdb
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.FTP\obj\Debug\BEE.FTP.frmDownloadFileToLocal.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.FTP\obj\Debug\BEE.FTP.frmConfig.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.FTP\obj\Debug\BEE.FTP.frmDownloadFile.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.FTP\obj\Debug\BEE.FTP.frmUploadFile.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.FTP\obj\Debug\BEE.FTP.csproj.GenerateResource.Cache
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.FTP\obj\Debug\BEE.FTP.dll
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.FTP\obj\Debug\BEE.FTP.pdb
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.FTP\obj\Debug\BEE.FTP.frmDownloadFileToLocal.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.FTP\obj\Debug\BEE.FTP.frmConfig.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.FTP\obj\Debug\BEE.FTP.frmDownloadFile.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.FTP\obj\Debug\BEE.FTP.frmUploadFile.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.FTP\obj\Debug\BEE.FTP.csproj.GenerateResource.Cache
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.FTP\obj\Debug\BEE.FTP.dll.licenses
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\app\BEE.FTP.dll
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\app\BEE.FTP.pdb
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.FTP\obj\Debug\BEE.FTP.csprojAssemblyReference.cache
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.FTP\obj\Debug\BEE.FTP.csproj.CoreCompileInputs.cache
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.FTP\obj\Debug\BEE.FTP.csproj.CopyComplete
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.FTP\obj\Debug\BEE.FTP.dll
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.FTP\obj\Debug\BEE.FTP.pdb
+D:\UPGARDE\DEV19\Source\app\BEE.FTP.dll
+D:\UPGARDE\DEV19\Source\app\BEE.FTP.pdb
+D:\UPGARDE\DEV19\Source\BEE.FTP\obj\Debug\BEE.FTP.frmDownloadFileToLocal.resources
+D:\UPGARDE\DEV19\Source\BEE.FTP\obj\Debug\BEE.FTP.frmConfig.resources
+D:\UPGARDE\DEV19\Source\BEE.FTP\obj\Debug\BEE.FTP.frmDownloadFile.resources
+D:\UPGARDE\DEV19\Source\BEE.FTP\obj\Debug\BEE.FTP.frmUploadFile.resources
+D:\UPGARDE\DEV19\Source\BEE.FTP\obj\Debug\BEE.FTP.csproj.GenerateResource.Cache
+D:\UPGARDE\DEV19\Source\BEE.FTP\obj\Debug\BEE.FTP.dll.licenses
+D:\UPGARDE\DEV19\Source\BEE.FTP\obj\Debug\BEE.FTP.dll
+D:\UPGARDE\DEV19\Source\BEE.FTP\obj\Debug\BEE.FTP.pdb
+D:\UPGARDE\DEV19\Source\BEE.FTP\obj\Debug\BEE.FTP.csprojResolveAssemblyReference.cache
+D:\UPGARDE\DEV19\Source\BEE.FTP\obj\Debug\BEE.FTP.frmConfigRecord.resources

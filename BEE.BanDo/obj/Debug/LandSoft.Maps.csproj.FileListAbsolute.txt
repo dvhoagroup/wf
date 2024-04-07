@@ -1,0 +1,59 @@
+E:\Projects\Software\2015\Becamex\LandSoft.Maps\bin\LandSoft.Maps.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Maps\bin\LandSoft.Maps.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Maps\obj\Debug\LandSoft.Maps.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Maps\obj\Debug\LandSoft.Maps.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Maps\bin\DevExpress.Data.v10.2.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Maps\bin\DevExpress.Web.v10.2.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Maps\bin\DevExpress.Data.v10.2.xml
+E:\Projects\Software\2015\Becamex\LandSoft.Maps\bin\DevExpress.Web.v10.2.xml
+E:\Projects\Software\2015\Becamex\LandSoft.Maps\obj\Debug\LandSoft.Maps.csprojResolveAssemblyReference.cache
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Maps\bin\LandSoft.Maps.dll
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Maps\bin\LandSoft.Maps.pdb
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Maps\bin\DevExpress.Data.v10.2.dll
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Maps\bin\DevExpress.Web.v10.2.dll
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Maps\bin\DevExpress.Data.v10.2.xml
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Maps\bin\DevExpress.Web.v10.2.xml
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Maps\obj\Debug\LandSoft.Maps.dll
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Maps\obj\Debug\LandSoft.Maps.pdb
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Maps\obj\Debug\LandSoft.Maps.csprojResolveAssemblyReference.cache
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Maps\bin\LandSoft.Maps.dll
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Maps\bin\LandSoft.Maps.pdb
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Maps\bin\DevExpress.Data.v10.2.dll
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Maps\bin\DevExpress.Web.v10.2.dll
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Maps\bin\DevExpress.Data.v10.2.xml
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Maps\bin\DevExpress.Web.v10.2.xml
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Maps\obj\Debug\LandSoft.Maps.dll
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Maps\obj\Debug\LandSoft.Maps.pdb
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Maps\bin\LandSoft.Maps.dll
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Maps\bin\LandSoft.Maps.pdb
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Maps\bin\DevExpress.Data.v10.2.dll
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Maps\bin\DevExpress.Web.v10.2.dll
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Maps\bin\DevExpress.Data.v10.2.xml
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Maps\bin\DevExpress.Web.v10.2.xml
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Maps\obj\Debug\LandSoft.Maps.csprojResolveAssemblyReference.cache
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Maps\obj\Debug\LandSoft.Maps.dll
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Maps\obj\Debug\LandSoft.Maps.pdb
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Maps\bin\LandSoft.Maps.dll
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Maps\bin\LandSoft.Maps.pdb
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Maps\bin\DevExpress.Data.v10.2.dll
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Maps\bin\DevExpress.Web.v10.2.dll
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Maps\bin\DevExpress.Data.v10.2.xml
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Maps\bin\DevExpress.Web.v10.2.xml
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Maps\obj\Debug\LandSoft.Maps.dll
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Maps\obj\Debug\LandSoft.Maps.pdb
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Maps\bin\LandSoft.Maps.dll
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Maps\bin\LandSoft.Maps.pdb
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Maps\bin\DevExpress.Data.v10.2.dll
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Maps\bin\DevExpress.Web.v10.2.dll
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Maps\bin\DevExpress.Data.v10.2.xml
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Maps\bin\DevExpress.Web.v10.2.xml
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Maps\obj\Debug\LandSoft.Maps.dll
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Maps\obj\Debug\LandSoft.Maps.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Maps\bin\LandSoft.Maps.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Maps\bin\LandSoft.Maps.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Maps\bin\DevExpress.Data.v10.2.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Maps\bin\DevExpress.Web.v10.2.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Maps\bin\DevExpress.Data.v10.2.xml
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Maps\bin\DevExpress.Web.v10.2.xml
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Maps\obj\Debug\LandSoft.Maps.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Maps\obj\Debug\LandSoft.Maps.pdb

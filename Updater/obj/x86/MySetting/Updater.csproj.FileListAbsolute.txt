@@ -1,0 +1,7 @@
+D:\BEESKY\REM\BEEREM HOABINHV2\Updater\bin\x86\MySetting\Updater.exe.config
+D:\BEESKY\REM\BEEREM HOABINHV2\Updater\bin\x86\MySetting\Updater.exe
+D:\BEESKY\REM\BEEREM HOABINHV2\Updater\bin\x86\MySetting\ICSharpCode.SharpZipLib.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\Updater\obj\x86\MySetting\Updater.Properties.Resources.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\Updater\obj\x86\MySetting\Updater.UpdateVer.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\Updater\obj\x86\MySetting\Updater.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM HOABINHV2\Updater\obj\x86\MySetting\Updater.exe

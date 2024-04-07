@@ -1,0 +1,415 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Text;
+using System.Windows.Forms;
+using DevExpress.XtraEditors;
+using System.Linq;
+using BEE.ThuVien;
+using BEEREMA;
+
+namespace BEE.SanPham
+{
+    public partial class frmEdit : DevExpress.XtraEditors.XtraForm
+    {
+        public int MaSP;
+        public bool IsSave;
+
+        MasterDataContext db = new MasterDataContext();
+        bdsSanPham objSP;
+
+        public frmEdit()
+        {
+            InitializeComponent();
+        }
+
+        private void frmEdit_Load(object sender, EventArgs e)
+        {
+            lookDuAn.Properties.DataSource = db.DuAns.Select(p => new { p.MaDA, p.TenDA });
+            lookNVKD.Properties.DataSource = db.NhanViens.Select(p => new { p.MaNV, p.HoTen });
+            lookLoaiTien.Properties.DataSource = db.LoaiTiens;
+            lookLoaiBDS.Properties.DataSource = db.LoaiBDs;
+            lookHuong.Properties.DataSource = db.PhuongHuongs;
+            lookPhapLy.Properties.DataSource = db.PhapLies;
+            cmbTienIch.Properties.DataSource = db.TienIches;
+            lookLoaiDuong.Properties.DataSource = db.LoaiDuongs;
+
+            if (this.MaSP != 0)
+            {
+                objSP = db.bdsSanPhams.Single(p => p.MaSP == this.MaSP);
+                txtKyHieu.EditValue = objSP.KyHieu;
+                lookDuAn.EditValue = objSP.MaDA;
+                lookKhu.EditValue = objSP.MaKhu;
+                lookPhanKhu.EditValue = objSP.MaPK;
+                txtMaLo.EditValue = objSP.MaLo;
+                txtTenDuong.EditValue = objSP.TenDuong;
+                lookLoaiBDS.EditValue = objSP.MaLBDS;
+                lookHuong.EditValue = objSP.MaHuong;
+                lookPhapLy.EditValue = objSP.MaPL;
+                lookLoaiDuong.EditValue = objSP.MaLD;
+
+                spinDienTichXD.EditValue = objSP.DienTichXD;
+                spinDonGiaXD.EditValue = objSP.DonGiaXD;
+                spinThanhTienXD.EditValue = objSP.ThanhTienXD;
+                spinDienTichKV.EditValue = objSP.DienTichKV;
+                spinDonGiaKV.EditValue = objSP.DonGiaKV;
+                spinThanhTienKV.EditValue = objSP.ThanhTienKV;
+                spinVAT.EditValue = objSP.TyLeVAT ?? 0;
+                spinTyLeMG.EditValue = objSP.TyLeMG ?? 0;
+                spinPhiMG.EditValue = objSP.PhiMG ?? 0;
+                lookLoaiTien.EditValue = objSP.MaLT;
+
+                spinPhongKHach.EditValue = objSP.PhongKhach;
+                spinPhongNgu.EditValue = objSP.PhongNgu;
+                spinPhongTam.EditValue = objSP.PhongTam;
+                spinDuongRong.EditValue = objSP.DuongRong;
+                spinSoTang.EditValue = objSP.SoTang;
+                spinSoDot.EditValue = objSP.DotTT ?? 0;
+                spinNgangKV.EditValue = objSP.NgangKV;
+                spinDaiKV.EditValue = objSP.DaiKV;
+                spinNoHauKV.EditValue = objSP.SauKV;
+                spinNgangXD.EditValue = objSP.NgangXD;
+                spinDaiXD.EditValue = objSP.DaiXD;
+                spinNoHauXD.EditValue = objSP.SauXD;
+                txtDienGiai.EditValue = objSP.DienGiai;
+                lookNVKD.EditValue = objSP.MaNVKD;
+                txtNhomKH.Text = objSP.NhomKH;
+                txtTinhTrangXD.Text = objSP.TinhTrangXD;
+                txtGCNQSDD.Text = objSP.GCNQSDD;
+                txtSoVSGCN.Text = objSP.SoVaoSoGCN;
+                txtSoThua.Text = objSP.SoThua;
+                txtDiaChiNha.Text = objSP.DiaChiNha;
+                if (objSP.NgayKyGCN != null)
+                    dateNgayKyGCN.DateTime = objSP.NgayKyGCN.Value;
+
+                if (objSP.MaTT > 2)
+                    rdbTrangThai.Enabled = false;
+                else
+                    rdbTrangThai.EditValue = objSP.MaTT;
+                //Tien ich
+                string tienIch = "";
+                foreach (bdsTienIch t in objSP.bdsTienIches)
+                    tienIch += t.MaTI + ", ";
+                tienIch = tienIch.TrimEnd(' ').TrimEnd(',');
+                cmbTienIch.SetEditValue(tienIch);
+                //hang muc
+                gcHangMuc.DataSource = objSP.bdsHangMucs;
+                spinTienSDDat.EditValue = objSP.TienSDDat ?? 0;
+                spinGiaTriQuyetToan.EditValue = objSP.GiaTriQuyetToan ?? 0;
+                spinGiaTriDuToan.EditValue = objSP.GiaTriDuToan ?? 0;
+            }
+            else
+            {
+                lookLoaiTien.ItemIndex = 0;
+                lookNVKD.EditValue = BEE.ThuVien.Common.StaffID;
+                SetAddNew();
+            }
+        }
+
+        void SetEnableControl(bool enabel)
+        {
+            txtKyHieu.Enabled = enabel;
+            lookDuAn.Enabled = enabel;
+            lookKhu.Enabled = enabel;
+            lookPhanKhu.Enabled = enabel;
+            txtMaLo.Enabled = enabel;
+            txtTenDuong.Enabled = enabel;
+            lookLoaiBDS.Enabled = enabel;
+            lookHuong.Enabled = enabel;
+            lookPhapLy.Enabled = enabel;
+
+            lookLoaiDuong.Enabled = enabel;
+            spinDienTichXD.Enabled = enabel;
+            spinDonGiaXD.Enabled = enabel;
+            spinThanhTienXD.Enabled = enabel;
+            spinDienTichKV.Enabled = enabel;
+            spinDonGiaKV.Enabled = enabel;
+            spinThanhTienKV.Enabled = enabel;
+            spinTyLeMG.Enabled = enabel;
+            spinPhiMG.Enabled = enabel;
+            lookLoaiTien.Enabled = enabel;
+            
+            spinPhongKHach.Enabled = enabel;
+            spinPhongNgu.Enabled = enabel;
+            spinPhongTam.Enabled = enabel;
+            spinDuongRong.Enabled = enabel;
+            spinSoTang.Enabled = enabel;
+            spinSoDot.Enabled = enabel;
+            spinNgangKV.Enabled = enabel;
+            spinDaiKV.Enabled = enabel;
+            spinNoHauKV.Enabled = enabel;
+            spinNgangXD.Enabled = enabel;
+            spinDaiXD.Enabled = enabel;
+            spinNoHauXD.Enabled = enabel;
+            cmbTienIch.Enabled = enabel;
+            lookNVKD.Enabled = enabel;
+            txtGCNQSDD.Enabled = enabel;
+            txtNhomKH.Enabled = enabel;
+            txtDiaChiNha.Enabled = enabel;
+            txtSoThua.Enabled = enabel;
+            txtSoVSGCN.Enabled = enabel;
+            dateNgayKyGCN.Enabled = enabel;
+            txtTinhTrangXD.Enabled = enabel;
+            if (objSP.MaTT < 3)
+                rdbTrangThai.Enabled = enabel;
+            txtDienGiai.Enabled = enabel;
+            //nut chuc nang
+            itemThem.Enabled = !enabel;
+            itemSua.Enabled = !enabel;
+            itemLuu.Enabled = enabel;
+            itemHoan.Enabled = enabel;
+            //
+            itemXoa.Enabled = this.MaSP != 0;
+            //
+            gcHangMuc.Enabled = enabel;
+        }
+
+        void SetAddNew()
+        {
+            this.MaSP = 0;
+            objSP = new bdsSanPham();
+            string kyHieu = "";
+            db.bdsSanPham_TaoKyHieu(ref kyHieu);
+            txtKyHieu.EditValue = kyHieu;
+            txtMaLo.EditValue = null;
+            rdbTrangThai.SelectedIndex = 0;
+            spinVAT.EditValue = 10;
+            objSP.MaTT = 1;
+            gcHangMuc.DataSource = objSP.bdsHangMucs;
+        }
+
+        private void itemThem_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            SetAddNew();
+            SetEnableControl(true);
+        }
+
+        private void itemSua_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            SetEnableControl(true);
+        }
+
+        private void itemLuu_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            try
+            {
+                #region Rang buoc
+                if (txtKyHieu.Text.Trim() == "")
+                {
+                    DialogBox.Error("Vui lòng nhập [Mã sản phẩm], xin cảm ơn.");
+                    txtKyHieu.Focus();
+                    return;
+                }
+                //else
+                //{
+                //    var count = db.bdsSanPhams.Where(p => p.KyHieu == txtKyHieu.Text.Trim() & p.MaSP != this.MaSP).Count();
+                //    if (count > 0)
+                //    {
+                //        DialogBox.Error("Ký hiệu <" + txtKyHieu.Text + "> đã có trong hệ thống. Vui lòng nhập lại.");
+                //        txtKyHieu.Focus();
+                //        return;
+                //    }
+                //}
+
+                if (lookDuAn.Text == "")
+                {
+                    DialogBox.Error("Vui lòng chọn [Dự án], xin cảm ơn.");
+                    lookDuAn.Focus();
+                    return;
+                }
+
+                if (lookLoaiBDS.Text == "")
+                {
+                    DialogBox.Error("Vui lòng chọn [Loại bất động sản], xin cảm ơn.");
+                    lookLoaiBDS.Focus();
+                    return;
+                }
+                #endregion
+
+                objSP.KyHieu = txtKyHieu.Text;
+                objSP.MaLBDS = (short?)lookLoaiBDS.EditValue;
+                objSP.MaDA = (int)lookDuAn.EditValue;
+                objSP.MaKhu = (int?)lookKhu.EditValue;
+                objSP.MaPK = (int?)lookPhanKhu.EditValue;
+                objSP.MaLo = txtMaLo.Text;
+                objSP.TenDuong = txtTenDuong.Text;
+                objSP.MaHuong = (short?)lookHuong.EditValue;
+                objSP.MaPL = (short?)lookPhapLy.EditValue;
+                objSP.MaLD = (short?)lookLoaiDuong.EditValue;
+
+                objSP.DienTichXD = spinDienTichXD.Value;
+                objSP.DonGiaXD = spinDonGiaXD.Value;
+                objSP.ThanhTienXD = spinThanhTienXD.Value;
+                objSP.DienTichKV = spinDienTichKV.Value;
+                objSP.DonGiaKV = spinDonGiaKV.Value;
+                objSP.ThanhTienKV = spinThanhTienKV.Value;
+                objSP.ThanhTienHM = objSP.bdsHangMucs.Sum(p => p.ThanhTien).GetValueOrDefault();
+                objSP.ThanhTien = objSP.ThanhTienXD + objSP.ThanhTienKV + objSP.ThanhTienHM;
+                objSP.TyLeVAT = spinVAT.Value;
+                objSP.GiaTriDuToan = spinGiaTriDuToan.Value;
+                objSP.GiaTriQuyetToan = spinGiaTriQuyetToan.Value;
+                objSP.TienSDDat = spinTienSDDat.Value;
+                if (spinTyLeMG.Value >= 0)
+                {
+                    objSP.TyLeMG = spinTyLeMG.Value;
+                    objSP.PhiMG = objSP.ThanhTien * objSP.TyLeMG / 100;
+                }
+                else
+                {
+                    objSP.PhiMG = spinPhiMG.Value;
+                    try
+                    {
+                        objSP.TyLeMG = objSP.PhiMG / objSP.ThanhTien * 100;
+                    }
+                    catch { }
+                }
+                objSP.MaLT = (byte)lookLoaiTien.EditValue;
+
+                objSP.PhongKhach = Convert.ToByte(spinPhongKHach.Value);
+                objSP.PhongNgu = Convert.ToByte(spinPhongNgu.Value);
+                objSP.PhongTam = Convert.ToByte(spinPhongTam.Value);
+                objSP.DuongRong = spinDuongRong.Value;
+                objSP.SoTang = Convert.ToByte(spinSoTang.Value);
+                objSP.DotTT = Convert.ToByte(spinSoDot.Value);
+                objSP.NgangKV = spinNgangKV.Value;
+                objSP.DaiKV = spinDaiKV.Value;
+                objSP.SauKV = spinNoHauKV.Value;
+                objSP.NgangXD = spinNgangXD.Value;
+                objSP.DaiXD = spinDaiXD.Value;
+                objSP.SauXD = spinNoHauXD.Value;
+                //Tien ich
+                objSP.bdsTienIches.Clear();
+                string[] ts = cmbTienIch.Properties.GetCheckedItems().ToString().Split(',');
+                if (ts[0] != "")
+                {
+                    foreach (var i in ts)
+                    {
+                        bdsTienIch objTI = new bdsTienIch();
+                        objTI.MaTI = byte.Parse(i);
+                        objSP.bdsTienIches.Add(objTI);
+                    }
+                }
+                objSP.MaNVKD = (int)lookNVKD.EditValue;
+                if (objSP.MaTT < 3)
+                    objSP.MaTT = (byte)rdbTrangThai.EditValue;
+                objSP.MaNVKT = BEE.ThuVien.Common.StaffID;
+                objSP.NgayCN = DateTime.Now;
+                objSP.MaNVCN = BEE.ThuVien.Common.StaffID;
+                objSP.DienGiai = txtDienGiai.Text;
+                objSP.GCNQSDD = txtGCNQSDD.Text.Trim();
+                objSP.TinhTrangXD = txtTinhTrangXD.Text.Trim();
+                objSP.NhomKH = txtNhomKH.Text.Trim();
+                objSP.SoVaoSoGCN = txtSoVSGCN.Text.Trim();
+                objSP.SoThua = txtSoThua.Text.Trim();
+                objSP.DiaChiNha = txtDiaChiNha.Text.Trim();
+                if (dateNgayKyGCN.DateTime.Year != 1)
+                    objSP.NgayKyGCN = dateNgayKyGCN.DateTime;
+                else
+                    objSP.NgayKyGCN = null;
+
+                if (this.MaSP == 0)
+                {
+                    objSP.NgayNhap = DateTime.Now;
+                    db.bdsSanPhams.InsertOnSubmit(objSP);
+                }
+
+                db.SubmitChanges();
+
+                this.MaSP = objSP.MaSP;
+                this.IsSave = true;
+                //SetEnableControl(false);
+                this.Close();
+            }
+            catch (Exception ex)
+            {
+                DialogBox.Error(ex.Message);
+            }
+        }
+
+        private void itemHoan_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            SetEnableControl(false);
+        }
+
+        private void itemDong_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            this.Close();
+        }
+
+        private void spinDienTichXD_EditValueChanged(object sender, EventArgs e)
+        {
+            spinThanhTienXD.Value = spinDonGiaXD.Value * spinDienTichXD.Value;
+        }
+
+        private void spinDonGiaXD_EditValueChanged(object sender, EventArgs e)
+        {
+            spinThanhTienXD.Value = spinDonGiaXD.Value * spinDienTichXD.Value;
+        }
+
+        private void spinDienTichKV_EditValueChanged(object sender, EventArgs e)
+        {
+            spinThanhTienKV.Value = spinDonGiaKV.Value * spinDienTichKV.Value;
+        }
+
+        private void spinDonGiaKV_EditValueChanged(object sender, EventArgs e)
+        {
+            spinThanhTienKV.Value = spinDonGiaKV.Value * spinDienTichKV.Value;
+        }
+
+        decimal getTongGiaTri()
+        {
+            decimal tien = spinThanhTienXD.Value + spinThanhTienKV.Value;
+            for (int i = 0; i < grvHangMuc.RowCount - 1; i++)
+                tien += (decimal)grvHangMuc.GetRowCellValue(i, "ThanhTien");
+            return tien;
+        }
+
+        private void spinTyLeMG_EditValueChanged(object sender, EventArgs e)
+        {
+            decimal phiMG = getTongGiaTri() * spinTyLeMG.Value / 100;
+            if (phiMG != spinPhiMG.Value)
+                spinPhiMG.Value = phiMG;
+        }
+
+        private void spinPhiMG_EditValueChanged(object sender, EventArgs e)
+        {
+            decimal tyLeMG = (spinPhiMG.Value / getTongGiaTri()) * 100;
+            if (tyLeMG != spinTyLeMG.Value)
+                spinTyLeMG.Value = tyLeMG;
+        }
+
+        private void spinSoLuognHM_EditValueChanged(object sender, EventArgs e)
+        {
+            SpinEdit s = (SpinEdit)sender;
+            decimal? donGia = (decimal?)grvHangMuc.GetFocusedRowCellValue("DonGia");
+            grvHangMuc.SetFocusedRowCellValue("ThanhTien", s.Value * donGia.GetValueOrDefault());
+        }
+
+        private void spinDonGiaHM_EditValueChanged(object sender, EventArgs e)
+        {
+            SpinEdit s = (SpinEdit)sender;
+            decimal? sonLuong = (decimal?)grvHangMuc.GetFocusedRowCellValue("SoLuong");
+            grvHangMuc.SetFocusedRowCellValue("ThanhTien", s.Value * sonLuong.GetValueOrDefault());
+        }
+
+        private void grvHangMuc_KeyUp(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Delete)
+            {
+                grvHangMuc.DeleteSelectedRows();
+            }
+        }
+
+        private void lookDuAn_EditValueChanged(object sender, EventArgs e)
+        {
+            lookKhu.Properties.DataSource = db.Khus.Where(p => p.MaDA == (int?)lookDuAn.EditValue).OrderBy(p=>p.STT);
+        }
+
+        private void lookKhu_EditValueChanged(object sender, EventArgs e)
+        {
+            lookPhanKhu.Properties.DataSource = db.PhanKhus.Where(p => p.MaKhu == (int?)lookKhu.EditValue).OrderBy(p => p.STT);
+        }
+    }
+}

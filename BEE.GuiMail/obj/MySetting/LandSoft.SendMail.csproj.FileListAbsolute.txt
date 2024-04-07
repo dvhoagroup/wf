@@ -1,0 +1,4 @@
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.SendMail\bin\MySetting\LandSoft.SendMail.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.SendMail\obj\MySetting\LandSoft.SendMail.ctlManager.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.SendMail\obj\MySetting\LandSoft.SendMail.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.SendMail\obj\MySetting\LandSoft.SendMail.dll

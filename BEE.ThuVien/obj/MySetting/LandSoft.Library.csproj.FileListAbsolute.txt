@@ -1,0 +1,6 @@
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Library\bin\MySetting\LandSoft.Library.dll.config
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Library\bin\MySetting\LandSoft.Library.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Library\obj\MySetting\LandSoft.Library.ctlManager.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Library\obj\MySetting\LandSoft.Library.Properties.Resources.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Library\obj\MySetting\LandSoft.Library.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Library\obj\MySetting\LandSoft.Library.dll

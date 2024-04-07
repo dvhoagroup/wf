@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11.375, 22.5" name="Master">
+  <DataContextMoniker Name="/MasterDataContext" />
+  <nestedChildShapes>
+    <classShape Id="dee2a258-4107-4a90-8c94-80594537b882" absoluteBounds="6.625, 3, 2, 16.385805664062502">
+      <DataClassMoniker Name="/MasterDataContext/KhachHang" />
+      <nestedChildShapes>
+        <elementListCompartment Id="03ec025d-cb47-4486-a519-d88b43a505fe" absoluteBounds="6.64, 3.46, 1.9700000000000002, 15.8258056640625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="74974bbc-3aa5-40ba-8f42-959da517138d" absoluteBounds="1.25, 0.875, 2, 6.0015283203125">
+      <DataClassMoniker Name="/MasterDataContext/DuAn" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6a4f0628-98b6-4359-a815-3c729b851cfb" absoluteBounds="1.2650000000000001, 1.335, 1.9700000000000002, 5.4415283203125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3d149dcb-7069-41fb-b402-547e9a2ca2f8" absoluteBounds="9.125, 0.875, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/MasterDataContext/Khu" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6800b984-1d18-4d42-927f-7c68c064c26c" absoluteBounds="9.14, 1.335, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.25 : 0.875); (2.25 : 0.25); (6.375 : 0.25); (6.375 : 2.52089680989583); (8.75 : 2.52089680989583); (8.75 : 1.95274983723958); (9.125 : 1.95274983723958)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/MasterDataContext/DuAn/DuAn_Khu" />
+      <nodes>
+        <classShapeMoniker Id="74974bbc-3aa5-40ba-8f42-959da517138d" />
+        <classShapeMoniker Id="3d149dcb-7069-41fb-b402-547e9a2ca2f8" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="93ab1217-9c1c-4cff-b240-9eb4c5a71b8c" absoluteBounds="6.625, 0.5, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/MasterDataContext/bdsTrangThai" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a8f17c47-85d8-4d88-bb2e-177b79a2da36" absoluteBounds="6.64, 0.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="03d3dea0-bea6-456d-a57b-a85f98d9c778" absoluteBounds="3.875, 0.5, 2, 21.770245768229167">
+      <DataClassMoniker Name="/MasterDataContext/bdsSanPham" />
+      <nestedChildShapes>
+        <elementListCompartment Id="89b007d5-7ce2-4f36-a6a8-f26bf58dc500" absoluteBounds="3.89, 0.96, 1.9700000000000002, 21.210245768229164" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(6.625 : 1.38544840494792); (5.875 : 1.38544840494792)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/MasterDataContext/bdsTrangThai/bdsTrangThai_bdsSanPham" />
+      <nodes>
+        <classShapeMoniker Id="93ab1217-9c1c-4cff-b240-9eb4c5a71b8c" />
+        <classShapeMoniker Id="03d3dea0-bea6-456d-a57b-a85f98d9c778" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.25 : 3.87576416015625); (3.875 : 3.87576416015625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/MasterDataContext/DuAn/DuAn_bdsSanPham" />
+      <nodes>
+        <classShapeMoniker Id="74974bbc-3aa5-40ba-8f42-959da517138d" />
+        <classShapeMoniker Id="03d3dea0-bea6-456d-a57b-a85f98d9c778" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(6.625 : 11.1929028320313); (5.875 : 11.1929028320313)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/MasterDataContext/KhachHang/KhachHang_bdsSanPham" />
+      <nodes>
+        <classShapeMoniker Id="dee2a258-4107-4a90-8c94-80594537b882" />
+        <classShapeMoniker Id="03d3dea0-bea6-456d-a57b-a85f98d9c778" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(9.125 : 2.79169840494792); (5.875 : 2.79169840494792)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/MasterDataContext/Khu/Khu_bdsSanPham" />
+      <nodes>
+        <classShapeMoniker Id="3d149dcb-7069-41fb-b402-547e9a2ca2f8" />
+        <classShapeMoniker Id="03d3dea0-bea6-456d-a57b-a85f98d9c778" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="9a6ea847-3e01-4594-8c67-d8096caef908" absoluteBounds="9.125, 3.375, 2, 7.5399397786458326">
+      <DataClassMoniker Name="/MasterDataContext/NhanVien" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2e27c761-83ae-4dec-aaf3-2ccb28132ba1" absoluteBounds="9.14, 3.835, 1.9700000000000002, 6.979939778645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(10.125 : 10.9149397786458); (10.125 : 20.8592757161458); (5.875 : 20.8592757161458)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/MasterDataContext/NhanVien/NhanVien_bdsSanPham" />
+      <nodes>
+        <classShapeMoniker Id="9a6ea847-3e01-4594-8c67-d8096caef908" />
+        <classShapeMoniker Id="03d3dea0-bea6-456d-a57b-a85f98d9c778" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(9.5937475 : 10.9149397786458); (9.5937475 : 20.1225381901042); (5.875 : 20.1225381901042)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/MasterDataContext/NhanVien/NhanVien_bdsSanPham1" />
+      <nodes>
+        <classShapeMoniker Id="9a6ea847-3e01-4594-8c67-d8096caef908" />
+        <classShapeMoniker Id="03d3dea0-bea6-456d-a57b-a85f98d9c778" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,80 @@
+E:\Projects\Software\2013\NamLong\LandSoft.Translate\bin\Debug\LandSoft.Translate.dll.config
+E:\Projects\Software\2013\NamLong\LandSoft.Translate\bin\Debug\LandSoft.Translate.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Translate\bin\Debug\LandSoft.Translate.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Translate\bin\Debug\LandSoft.Library.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Translate\bin\Debug\LandSoft.Library.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Translate\obj\Debug\LandSoft.Translate.frmLanguage.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Translate\obj\Debug\LandSoft.Translate.frmTranslate.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Translate\obj\Debug\LandSoft.Translate.csproj.GenerateResource.Cache
+E:\Projects\Software\2013\NamLong\LandSoft.Translate\obj\Debug\LandSoft.Translate.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Translate\obj\Debug\LandSoft.Translate.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Translate\obj\Debug\LandSoft.Translate.csprojResolveAssemblyReference.cache
+E:\Projects\Software\2014\Demo\LandSoft.Translate\obj\Debug\LandSoft.Translate.csprojResolveAssemblyReference.cache
+E:\Projects\Software\2014\Demo\LandSoft.Translate\obj\Debug\LandSoft.Translate.frmLanguage.resources
+E:\Projects\Software\2014\Demo\LandSoft.Translate\obj\Debug\LandSoft.Translate.frmTranslate.resources
+E:\Projects\Software\2014\Demo\LandSoft.Translate\obj\Debug\LandSoft.Translate.csproj.GenerateResource.Cache
+E:\Projects\Software\2014\Demo\LandSoft.Translate\bin\Debug\LandSoft.Translate.dll.config
+E:\Projects\Software\2014\Demo\LandSoft.Translate\bin\Debug\LandSoft.Translate.dll
+E:\Projects\Software\2014\Demo\LandSoft.Translate\bin\Debug\LandSoft.Translate.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Translate\bin\Debug\LandSoft.Library.dll
+E:\Projects\Software\2014\Demo\LandSoft.Translate\bin\Debug\LandSoft.Library.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Translate\obj\Debug\LandSoft.Translate.dll
+E:\Projects\Software\2014\Demo\LandSoft.Translate\obj\Debug\LandSoft.Translate.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Translate\bin\Debug\LandSoft.Translate.dll.config
+E:\Projects\Software\2015\Becamex\LandSoft.Translate\bin\Debug\LandSoft.Translate.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Translate\bin\Debug\LandSoft.Translate.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Translate\bin\Debug\LandSoft.Library.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Translate\bin\Debug\LandSoft.Library.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Translate\obj\Debug\LandSoft.Translate.frmLanguage.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Translate\obj\Debug\LandSoft.Translate.frmTranslate.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Translate\obj\Debug\LandSoft.Translate.csproj.GenerateResource.Cache
+E:\Projects\Software\2015\Becamex\LandSoft.Translate\obj\Debug\LandSoft.Translate.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Translate\obj\Debug\LandSoft.Translate.pdb
+E:\Projects\Software\2015\Becamex\DLL\LandSoft.Translate.dll.config
+E:\Projects\Software\2015\Becamex\DLL\LandSoft.Translate.dll
+E:\Projects\Software\2015\Becamex\DLL\LandSoft.Translate.pdb
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\DLL\LandSoft.Translate.dll.config
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\DLL\LandSoft.Translate.dll
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\DLL\LandSoft.Translate.pdb
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Translate\obj\Debug\LandSoft.Translate.frmLanguage.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Translate\obj\Debug\LandSoft.Translate.frmTranslate.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Translate\obj\Debug\LandSoft.Translate.csproj.GenerateResource.Cache
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Translate\obj\Debug\LandSoft.Translate.dll
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Translate\obj\Debug\LandSoft.Translate.pdb
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\DLL\LandSoft.Translate.dll.config
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\DLL\LandSoft.Translate.dll
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\DLL\LandSoft.Translate.pdb
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Translate\obj\Debug\LandSoft.Translate.csprojResolveAssemblyReference.cache
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Translate\obj\Debug\LandSoft.Translate.frmLanguage.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Translate\obj\Debug\LandSoft.Translate.frmTranslate.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Translate\obj\Debug\LandSoft.Translate.csproj.GenerateResource.Cache
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Translate\obj\Debug\LandSoft.Translate.dll
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Translate\obj\Debug\LandSoft.Translate.pdb
+D:\BEESKY\REM\BEEREM HOABINH\DLL\LandSoft.Translate.dll.config
+D:\BEESKY\REM\BEEREM HOABINH\DLL\LandSoft.Translate.dll
+D:\BEESKY\REM\BEEREM HOABINH\DLL\LandSoft.Translate.pdb
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Translate\obj\Debug\LandSoft.Translate.csprojResolveAssemblyReference.cache
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Translate\obj\Debug\LandSoft.Translate.frmLanguage.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Translate\obj\Debug\LandSoft.Translate.frmTranslate.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Translate\obj\Debug\LandSoft.Translate.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Translate\obj\Debug\LandSoft.Translate.dll
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Translate\obj\Debug\LandSoft.Translate.pdb
+D:\My Job\BeeSky\BEEREM HOABINH\DLL\LandSoft.Translate.dll.config
+D:\My Job\BeeSky\BEEREM HOABINH\DLL\LandSoft.Translate.dll
+D:\My Job\BeeSky\BEEREM HOABINH\DLL\LandSoft.Translate.pdb
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Translate\obj\Debug\LandSoft.Translate.csprojResolveAssemblyReference.cache
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Translate\obj\Debug\LandSoft.Translate.frmLanguage.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Translate\obj\Debug\LandSoft.Translate.frmTranslate.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Translate\obj\Debug\LandSoft.Translate.csproj.GenerateResource.Cache
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Translate\obj\Debug\LandSoft.Translate.dll.licenses
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Translate\obj\Debug\LandSoft.Translate.dll
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Translate\obj\Debug\LandSoft.Translate.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\DLL\LandSoft.Translate.dll.config
+D:\BEESKY\REM\BEEREM HOABINHV2\DLL\LandSoft.Translate.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\DLL\LandSoft.Translate.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Translate\obj\Debug\LandSoft.Translate.csprojResolveAssemblyReference.cache
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Translate\obj\Debug\LandSoft.Translate.frmLanguage.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Translate\obj\Debug\LandSoft.Translate.frmTranslate.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Translate\obj\Debug\LandSoft.Translate.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Translate\obj\Debug\LandSoft.Translate.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Translate\obj\Debug\LandSoft.Translate.pdb

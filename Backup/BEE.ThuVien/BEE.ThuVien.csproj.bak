@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2C799FCC-763E-411D-A615-5779D50A65A1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BEE.ThuVien</RootNamespace>
+    <AssemblyName>BEE.ThuVien</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\app\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'MySetting|AnyCPU'">
+    <OutputPath>bin\MySetting\</OutputPath>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Charts.v10.2.Core, Version=10.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v10.2, Version=10.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v10.2, Version=10.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v10.2, Version=10.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v10.2, Version=10.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v10.2.UI, Version=10.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v10.2, Version=10.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v10.2, Version=10.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v10.2, Version=10.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v10.2, Version=10.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v10.2, Version=10.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.WindowsAPICodePack">
+      <HintPath>..\..\..\DLL\Microsoft.WindowsAPICodePack.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.WindowsAPICodePack.Shell">
+      <HintPath>..\..\..\DLL\Microsoft.WindowsAPICodePack.Shell.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Codes\AccessDataCls.cs" />
+    <Compile Include="App_Codes\ActionDataCls.cs" />
+    <Compile Include="App_Codes\BaoKimPayment.cs" />
+    <Compile Include="App_Codes\BatDongSanCls.cs" />
+    <Compile Include="App_Codes\bdsLichSuThayDoiDTCls.cs" />
+    <Compile Include="App_Codes\bdsNotesTransferCls.cs" />
+    <Compile Include="App_Codes\bdsPhongToaCls.cs" />
+    <Compile Include="App_Codes\BDS_TienIchCls.cs" />
+    <Compile Include="App_Codes\BieuMauCls.cs" />
+    <Compile Include="App_Codes\BlocksCls.cs" />
+    <Compile Include="App_Codes\ChiTieuBanHangCls.cs" />
+    <Compile Include="App_Codes\ChucVuCls.cs" />
+    <Compile Include="App_Codes\ChuDeCls.cs" />
+    <Compile Include="App_Codes\ChuyenQuyenBDSCls.cs" />
+    <Compile Include="App_Codes\ChuyenQuyenKHCls.cs" />
+    <Compile Include="App_Codes\cmdExcel.cs" />
+    <Compile Include="App_Codes\CommonCls.cs" />
+    <Compile Include="App_Codes\ConfigMailCls.cs" />
+    <Compile Include="App_Codes\Convert.cs" />
+    <Compile Include="App_Codes\ConvertDateTimeCls.cs" />
+    <Compile Include="App_Codes\DaiLyCls.cs" />
+    <Compile Include="App_Codes\DaiLy_DangKyCls.cs" />
+    <Compile Include="App_Codes\DialogBox.cs" />
+    <Compile Include="App_Codes\dlMucDoYeuCauCls.cs" />
+    <Compile Include="App_Codes\dlYeuCauHoTroCls.cs" />
+    <Compile Include="App_Codes\DonViChietKhauCls.cs" />
+    <Compile Include="App_Codes\DonViTinhCls.cs" />
+    <Compile Include="App_Codes\DuAnCls.cs" />
+    <Compile Include="App_Codes\DuAn_BieuMauCls.cs" />
+    <Compile Include="App_Codes\DuAn_LichThanhToanCls.cs" />
+    <Compile Include="App_Codes\DuAn_TienDoCls.cs" />
+    <Compile Include="Master.designer.cs">
+      <DependentUpon>Master.dbml</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="SecurityClass\EncDec.cs" />
+    <Compile Include="App_Codes\FeaturesCls.cs" />
+    <Compile Include="App_Codes\FormFeaturesCls.cs" />
+    <Compile Include="App_Codes\FormsCls.cs" />
+    <Compile Include="App_Codes\FTPCls.cs" />
+    <Compile Include="App_Codes\GiayXacNhanCls.cs" />
+    <Compile Include="App_Codes\gxnGiaiNganCls.cs" />
+    <Compile Include="App_Codes\gxnLichSuCapCls.cs" />
+    <Compile Include="App_Codes\hdChuyenNhuongCls.cs" />
+    <Compile Include="App_Codes\hdcnLichThanhToanCls.cs" />
+    <Compile Include="App_Codes\hdcnNhacNoCls.cs" />
+    <Compile Include="App_Codes\hdcnPhieuChiCls.cs" />
+    <Compile Include="App_Codes\hdcnPhieuThuCls.cs" />
+    <Compile Include="App_Codes\hdcnQuaTrinhThucHienCls.cs" />
+    <Compile Include="App_Codes\hdGopVonCls.cs" />
+    <Compile Include="App_Codes\hdGTGTChiTietCls.cs" />
+    <Compile Include="App_Codes\hdgvLichThanhToanCls.cs" />
+    <Compile Include="App_Codes\hdgvNhacNoCls.cs" />
+    <Compile Include="App_Codes\hdgvPhieuChiCls.cs" />
+    <Compile Include="App_Codes\hdgvPhieuThuCls.cs" />
+    <Compile Include="App_Codes\hdgvQuaTrinhThucHienCls.cs" />
+    <Compile Include="App_Codes\hdgvThanhLyCls.cs" />
+    <Compile Include="App_Codes\hdgvTinhTrangCls.cs" />
+    <Compile Include="App_Codes\hdmbBieuMauCls.cs" />
+    <Compile Include="App_Codes\hdmbLichThanhToanCls.cs" />
+    <Compile Include="App_Codes\hdmbQuaTrinhThucHienCls.cs" />
+    <Compile Include="App_Codes\hdmbThanhLyCls.cs" />
+    <Compile Include="App_Codes\hdmbTinhTrangCls.cs" />
+    <Compile Include="App_Codes\hdmgQuaTrinhThucHienCls.cs" />
+    <Compile Include="App_Codes\hdmgTinhTrangCls.cs" />
+    <Compile Include="App_Codes\hdMoiGioiCls.cs" />
+    <Compile Include="App_Codes\hdTinhTrangCls.cs" />
+    <Compile Include="App_Codes\HinhThucNhacNoCls.cs" />
+    <Compile Include="App_Codes\HinhThucThongBaoCls.cs" />
+    <Compile Include="App_Codes\HoaDonGTGTCls.cs" />
+    <Compile Include="App_Codes\HopDongMuaBanCls.cs" />
+    <Compile Include="App_Codes\HuyenCls.cs" />
+    <Compile Include="App_Codes\KeHoachBanHangCls.cs" />
+    <Compile Include="App_Codes\KhachHangCls.cs" />
+    <Compile Include="App_Codes\KhachHang_GhiChuCls.cs" />
+    <Compile Include="App_Codes\khbhLichThanhToanCls.cs" />
+    <Compile Include="App_Codes\khbh_BDSCls.cs" />
+    <Compile Include="App_Codes\khNotesTransferCls.cs" />
+    <Compile Include="App_Codes\KhuCls.cs" />
+    <Compile Include="App_Codes\KyBaoCaoCls.cs" />
+    <Compile Include="App_Codes\KyKinhDoanhCls.cs" />
+    <Compile Include="App_Codes\LichHenCls.cs" />
+    <Compile Include="App_Codes\LichHen_ChuDeCls.cs" />
+    <Compile Include="App_Codes\LichHen_ThoiDiemCls.cs" />
+    <Compile Include="App_Codes\LoaiBDSCls.cs" />
+    <Compile Include="App_Codes\LoaiCVCls.cs" />
+    <Compile Include="App_Codes\LoaiDACls.cs" />
+    <Compile Include="App_Codes\LoaiGiaoDichCls.cs" />
+    <Compile Include="App_Codes\LoaiHinhKDCls.cs" />
+    <Compile Include="App_Codes\LoaiTienCls.cs" />
+    <Compile Include="App_Codes\LoCls.cs" />
+    <Compile Include="App_Codes\LongDuongCls.cs" />
+    <Compile Include="App_Codes\lttLichSuCapNhatCls.cs" />
+    <Compile Include="App_Codes\MailProviderCls.cs" />
+    <Compile Include="App_Codes\MauThiepCls.cs" />
+    <Compile Include="App_Codes\ModulesCls.cs" />
+    <Compile Include="App_Codes\MusicCls.cs" />
+    <Compile Include="App_Codes\NganHangCls.cs" />
+    <Compile Include="App_Codes\NgheNghiepCls.cs" />
+    <Compile Include="App_Codes\NguoiDaiDienCls.cs" />
+    <Compile Include="App_Codes\NguoiMoiGioiCls.cs" />
+    <Compile Include="App_Codes\NhanVienCls.cs" />
+    <Compile Include="App_Codes\NhanVienDaiLyCls.cs" />
+    <Compile Include="App_Codes\NhiemVuCls.cs" />
+    <Compile Include="App_Codes\NhiemVu_loaiCls.cs" />
+    <Compile Include="App_Codes\NhiemVu_MucDoCls.cs" />
+    <Compile Include="App_Codes\NhiemVu_NhanVienCls.cs" />
+    <Compile Include="App_Codes\NhiemVu_TinhTrangCls.cs" />
+    <Compile Include="App_Codes\NhomKHCls.cs" />
+    <Compile Include="App_Codes\NhomKinhDoanhCls.cs" />
+    <Compile Include="App_Codes\pdcChuyenNhuongCls.cs" />
+    <Compile Include="App_Codes\pdcPhieuDatCocCls.cs" />
+    <Compile Include="App_Codes\pdcQuaTrinhThucHienCls.cs" />
+    <Compile Include="App_Codes\pdcThanhLyCls.cs" />
+    <Compile Include="App_Codes\pdcTinhTrangCls.cs" />
+    <Compile Include="App_Codes\pdkgdHinhAnhCls.cs" />
+    <Compile Include="App_Codes\pdkgdQuaTrinhThucHienCls.cs" />
+    <Compile Include="App_Codes\pdkgdTinhTrangCls.cs" />
+    <Compile Include="App_Codes\pdkgd_TienIchCls.cs" />
+    <Compile Include="App_Codes\pdkGiaoDichCls.cs" />
+    <Compile Include="App_Codes\pdkPhieuDangKyCls.cs" />
+    <Compile Include="App_Codes\pdkQuaTrinhThucHienCls.cs" />
+    <Compile Include="App_Codes\PermissionsCls.cs" />
+    <Compile Include="App_Codes\pgcLichThanhToanCls.cs" />
+    <Compile Include="App_Codes\pgcNhacNoCls.cs" />
+    <Compile Include="App_Codes\pgcPhieuChiCls.cs" />
+    <Compile Include="App_Codes\pgcPhieuGiuChoCls.cs" />
+    <Compile Include="App_Codes\pgcPhieuThuChiTietCls.cs" />
+    <Compile Include="App_Codes\pgcPhieuThuCls.cs" />
+    <Compile Include="App_Codes\pgcQuaTrinhThucHienCls.cs" />
+    <Compile Include="App_Codes\pgcTinhTrangCls.cs" />
+    <Compile Include="App_Codes\pgdNhatKyXuLyCls.cs" />
+    <Compile Include="App_Codes\PhanKhuCls.cs" />
+    <Compile Include="App_Codes\PhapLyCls.cs" />
+    <Compile Include="App_Codes\PhongBanCls.cs" />
+    <Compile Include="App_Codes\PhuongHuongCls.cs" />
+    <Compile Include="App_Codes\PhuongThucXuLyCls.cs" />
+    <Compile Include="App_Codes\pkgChiTietCls.cs" />
+    <Compile Include="App_Codes\pkgPhieuKyGuiCls.cs" />
+    <Compile Include="App_Codes\pkgQuaTrinhThucHienCls.cs" />
+    <Compile Include="App_Codes\pkgTinhTrangCls.cs" />
+    <Compile Include="App_Codes\QuyDanhCls.cs" />
+    <Compile Include="App_Codes\QuyTacDanhSoCls.cs" />
+    <Compile Include="App_Codes\RecordCls.cs" />
+    <Compile Include="App_Codes\ResizeImage.cs" />
+    <Compile Include="App_Codes\SendMailCls.cs" />
+    <Compile Include="App_Codes\SetDefaultCls.cs" />
+    <Compile Include="App_Codes\SetHappyBirthdayCls.cs" />
+    <Compile Include="App_Codes\ShowDataByCls.cs" />
+    <Compile Include="App_Codes\SmsConfig.cs" />
+    <Compile Include="App_Codes\SqlCommon.cs" />
+    <Compile Include="App_Codes\Staff_CustomerAgentCls.cs" />
+    <Compile Include="App_Codes\Staff_CustomerCls.cs" />
+    <Compile Include="App_Codes\TaiKhoanCls.cs" />
+    <Compile Include="App_Codes\TangNhaCls.cs" />
+    <Compile Include="App_Codes\ThoiDiemLienHeCls.cs" />
+    <Compile Include="App_Codes\TienIchCls.cs" />
+    <Compile Include="App_Codes\TienTeCls.cs" />
+    <Compile Include="App_Codes\TinhCls.cs" />
+    <Compile Include="App_Codes\TinhTrangBDSCls.cs" />
+    <Compile Include="App_Codes\ViTriCls.cs" />
+    <Compile Include="App_Codes\WebBrowserCls.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="App_Codes\XaCls.cs" />
+    <Compile Include="App_Codes\XacNhanChuyenNhuongCls.cs" />
+    <Compile Include="Common.cs" />
+    <Compile Include="ctlManager.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctlManager.designer.cs">
+      <DependentUpon>ctlManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerSchedule.cs" />
+    <Compile Include="MasterDataContext.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="ReportSetting.cs" />
+    <Compile Include="SendStatus.cs" />
+    <Compile Include="WindowsMessageHelper.cs" />
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+    <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Master.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>Master.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Master.dbml.layout">
+      <DependentUpon>Master.dbml</DependentUpon>
+    </None>
+    <EmbeddedResource Include="ctlManager.resx">
+      <DependentUpon>ctlManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

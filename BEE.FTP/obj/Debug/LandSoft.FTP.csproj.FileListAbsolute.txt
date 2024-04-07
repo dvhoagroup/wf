@@ -1,0 +1,80 @@
+E:\Projects\Software\2013\NamLong\LandSoft.FTP\obj\Debug\LandSoft.FTP.csprojResolveAssemblyReference.cache
+E:\Projects\Software\2013\NamLong\LandSoft.FTP\obj\Debug\LandSoft.FTP.frmConfig.resources
+E:\Projects\Software\2013\NamLong\LandSoft.FTP\obj\Debug\LandSoft.FTP.frmDownloadFile.resources
+E:\Projects\Software\2013\NamLong\LandSoft.FTP\obj\Debug\LandSoft.FTP.frmUploadFile.resources
+E:\Projects\Software\2013\NamLong\LandSoft.FTP\obj\Debug\LandSoft.FTP.csproj.GenerateResource.Cache
+E:\Projects\Software\2013\NamLong\LandSoft.FTP\bin\Debug\LandSoft.FTP.dll
+E:\Projects\Software\2013\NamLong\LandSoft.FTP\bin\Debug\LandSoft.FTP.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.FTP\bin\Debug\LandSoft.Library.dll
+E:\Projects\Software\2013\NamLong\LandSoft.FTP\bin\Debug\LandSoft.Library.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.FTP\obj\Debug\LandSoft.FTP.dll
+E:\Projects\Software\2013\NamLong\LandSoft.FTP\obj\Debug\LandSoft.FTP.pdb
+E:\Projects\Software\2015\Becamex\DLL\LandSoft.FTP.dll
+E:\Projects\Software\2015\Becamex\DLL\LandSoft.FTP.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.FTP\obj\Debug\LandSoft.FTP.csprojResolveAssemblyReference.cache
+E:\Projects\Software\2015\Becamex\LandSoft.FTP\obj\Debug\LandSoft.FTP.frmConfig.resources
+E:\Projects\Software\2015\Becamex\LandSoft.FTP\obj\Debug\LandSoft.FTP.frmDownloadFile.resources
+E:\Projects\Software\2015\Becamex\LandSoft.FTP\obj\Debug\LandSoft.FTP.frmUploadFile.resources
+E:\Projects\Software\2015\Becamex\LandSoft.FTP\obj\Debug\LandSoft.FTP.csproj.GenerateResource.Cache
+E:\Projects\Software\2015\Becamex\LandSoft.FTP\obj\Debug\LandSoft.FTP.dll
+E:\Projects\Software\2015\Becamex\LandSoft.FTP\obj\Debug\LandSoft.FTP.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.FTP\obj\Debug\LandSoft.FTP.frmDownloadFileToLocal.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\DLL\LandSoft.FTP.dll
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\DLL\LandSoft.FTP.pdb
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.FTP\obj\Debug\LandSoft.FTP.frmDownloadFileToLocal.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.FTP\obj\Debug\LandSoft.FTP.frmConfig.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.FTP\obj\Debug\LandSoft.FTP.frmDownloadFile.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.FTP\obj\Debug\LandSoft.FTP.frmUploadFile.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.FTP\obj\Debug\LandSoft.FTP.csproj.GenerateResource.Cache
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.FTP\obj\Debug\LandSoft.FTP.dll
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.FTP\obj\Debug\LandSoft.FTP.pdb
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\DLL\LandSoft.FTP.dll
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\DLL\LandSoft.FTP.pdb
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.FTP\obj\Debug\LandSoft.FTP.csprojResolveAssemblyReference.cache
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.FTP\obj\Debug\LandSoft.FTP.frmDownloadFileToLocal.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.FTP\obj\Debug\LandSoft.FTP.frmConfig.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.FTP\obj\Debug\LandSoft.FTP.frmDownloadFile.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.FTP\obj\Debug\LandSoft.FTP.frmUploadFile.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.FTP\obj\Debug\LandSoft.FTP.csproj.GenerateResource.Cache
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.FTP\obj\Debug\LandSoft.FTP.dll
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.FTP\obj\Debug\LandSoft.FTP.pdb
+D:\BEESKY\REM\BEEREM FOR AGENTV2\DLL\LandSoft.FTP.dll
+D:\BEESKY\REM\BEEREM FOR AGENTV2\DLL\LandSoft.FTP.pdb
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.FTP\obj\Debug\LandSoft.FTP.csprojResolveAssemblyReference.cache
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.FTP\obj\Debug\LandSoft.FTP.frmDownloadFileToLocal.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.FTP\obj\Debug\LandSoft.FTP.frmConfig.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.FTP\obj\Debug\LandSoft.FTP.frmDownloadFile.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.FTP\obj\Debug\LandSoft.FTP.frmUploadFile.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.FTP\obj\Debug\LandSoft.FTP.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.FTP\obj\Debug\LandSoft.FTP.dll
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.FTP\obj\Debug\LandSoft.FTP.pdb
+D:\BEESKY\REM\BEEREM HOABINH\DLL\LandSoft.FTP.dll
+D:\BEESKY\REM\BEEREM HOABINH\DLL\LandSoft.FTP.pdb
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.FTP\obj\Debug\LandSoft.FTP.csprojResolveAssemblyReference.cache
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.FTP\obj\Debug\LandSoft.FTP.frmDownloadFileToLocal.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.FTP\obj\Debug\LandSoft.FTP.frmConfig.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.FTP\obj\Debug\LandSoft.FTP.frmDownloadFile.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.FTP\obj\Debug\LandSoft.FTP.frmUploadFile.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.FTP\obj\Debug\LandSoft.FTP.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.FTP\obj\Debug\LandSoft.FTP.dll
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.FTP\obj\Debug\LandSoft.FTP.pdb
+D:\My Job\BeeSky\BEEREM HOABINH\DLL\LandSoft.FTP.dll
+D:\My Job\BeeSky\BEEREM HOABINH\DLL\LandSoft.FTP.pdb
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.FTP\obj\Debug\LandSoft.FTP.csprojResolveAssemblyReference.cache
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.FTP\obj\Debug\LandSoft.FTP.frmDownloadFileToLocal.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.FTP\obj\Debug\LandSoft.FTP.frmConfig.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.FTP\obj\Debug\LandSoft.FTP.frmDownloadFile.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.FTP\obj\Debug\LandSoft.FTP.frmUploadFile.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.FTP\obj\Debug\LandSoft.FTP.csproj.GenerateResource.Cache
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.FTP\obj\Debug\LandSoft.FTP.dll.licenses
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.FTP\obj\Debug\LandSoft.FTP.dll
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.FTP\obj\Debug\LandSoft.FTP.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\DLL\LandSoft.FTP.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\DLL\LandSoft.FTP.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.FTP\obj\Debug\LandSoft.FTP.frmDownloadFileToLocal.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.FTP\obj\Debug\LandSoft.FTP.frmConfig.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.FTP\obj\Debug\LandSoft.FTP.frmDownloadFile.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.FTP\obj\Debug\LandSoft.FTP.frmUploadFile.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.FTP\obj\Debug\LandSoft.FTP.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.FTP\obj\Debug\LandSoft.FTP.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.FTP\obj\Debug\LandSoft.FTP.pdb

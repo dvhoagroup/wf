@@ -1,0 +1,860 @@
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\ResolveAssemblyReference.cache
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Care.ctlHappyBirthday.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Care.ctlManager.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Care.ctlManager2.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Care.ctlMultiBuy.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Care.frmFind.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Care.frmHappyBirthday.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.frmConfirm.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.MailV2.ctlManager.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.MailV2.frmContentEdit.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.MailV2.frmImportMail.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.MailV2.frmSelect.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.ctlCategory.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.ctlConfig.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.ctlReceive.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.ctlSending.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.ctlTemplates.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmConfig.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmConfigReminder.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmConfirm.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmFields.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmGroupReminders.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmReceive.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmReceiveList.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmReceiveSelect.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmSending.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmTemplates.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmTemplateSelect.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Properties.Resources.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Report.Mail.rptDetail.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Report.SMS.rptDetail.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.ctlCategories.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.ctlCustomers.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.ctlGroupReceivesSMS.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.ctlMessage.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.ctlSendingSMS.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.ctlStatistic.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.ctlTemplatesSMS.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.ctlTopupHistory.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmAccount.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmChoiceGroup.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmChoiceTemplate.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmConfigReminder.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmConfirm.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmFields.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmGroupReceive.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmGroupReminders.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmPayment.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmSelectObject.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmSending.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmSendSMS.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmSendSMS2.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmTemplates.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmText.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmTopUp.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\ResGen.read.1.tlog
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\ResGen.write.1.tlog
+D:\My Job\BeeSky\BEEREM HOABINHV2\DLL\BEE.QuangCao.dll.config
+D:\My Job\BeeSky\BEEREM HOABINHV2\DLL\BEE.QuangCao.dll
+D:\My Job\BeeSky\BEEREM HOABINHV2\DLL\BEE.QuangCao.pdb
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.dll
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\BEE.QuangCao.pdb
+D:\My Job\BeeSky\BEEREMA DEMO\DLL\BEE.QuangCao.dll.config
+D:\My Job\BeeSky\BEEREMA DEMO\DLL\BEE.QuangCao.dll
+D:\My Job\BeeSky\BEEREMA DEMO\DLL\BEE.QuangCao.pdb
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\ResolveAssemblyReference.cache
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Care.ctlHappyBirthday.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Care.ctlManager.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Care.ctlManager2.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Care.ctlMultiBuy.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Care.frmFind.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Care.frmHappyBirthday.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.frmConfirm.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.MailV2.ctlManager.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.MailV2.frmContentEdit.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.MailV2.frmImportMail.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.MailV2.frmSelect.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.ctlCategory.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.ctlConfig.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.ctlReceive.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.ctlSending.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.ctlTemplates.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmConfig.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmConfigReminder.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmConfirm.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmFields.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmGroupReminders.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmReceive.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmReceiveList.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmReceiveSelect.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmSending.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmTemplates.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmTemplateSelect.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Properties.Resources.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Report.Mail.rptDetail.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Report.SMS.rptDetail.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.ctlCategories.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.ctlCustomers.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.ctlGroupReceivesSMS.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.ctlMessage.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.ctlSendingSMS.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.ctlStatistic.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.ctlTemplatesSMS.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.ctlTopupHistory.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmAccount.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmChoiceGroup.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmChoiceTemplate.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmConfigReminder.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmConfirm.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmFields.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmGroupReceive.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmGroupReminders.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmPayment.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmSelectObject.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmSending.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmSendSMS.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmSendSMS2.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmTemplates.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmText.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmTopUp.resources
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\ResGen.read.1.tlog
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\ResGen.write.1.tlog
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.dll
+D:\My Job\BeeSky\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.pdb
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.csprojResolveAssemblyReference.cache
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Care.ctlHappyBirthday.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Care.ctlManager.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Care.ctlManager2.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Care.ctlMultiBuy.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Care.frmFind.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Care.frmHappyBirthday.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.frmConfirm.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.MailV2.ctlManager.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.MailV2.frmContentEdit.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.MailV2.frmImportMail.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.MailV2.frmSelect.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.ctlCategory.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.ctlConfig.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.ctlReceive.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.ctlSending.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.ctlTemplates.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmConfig.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmConfigReminder.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmConfirm.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmFields.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmGroupReminders.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmReceive.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmReceiveList.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmReceiveSelect.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmSending.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmTemplates.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmTemplateSelect.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Properties.Resources.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Report.Mail.rptDetail.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Report.SMS.rptDetail.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.ctlCategories.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.ctlCustomers.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.ctlGroupReceivesSMS.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.ctlMessage.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.ctlSendingSMS.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.ctlStatistic.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.ctlTemplatesSMS.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.ctlTopupHistory.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmAccount.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmChoiceGroup.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmChoiceTemplate.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmConfigReminder.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmConfirm.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmFields.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmGroupReceive.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmGroupReminders.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmPayment.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmSelectObject.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmSending.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmSendSMS.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmSendSMS2.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmTemplates.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmText.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmTopUp.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.pdb
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.dll
+D:\BEESKY\REM\BEEREMA DEMO\DLL\BEE.QuangCao.dll.config
+D:\BEESKY\REM\BEEREMA DEMO\DLL\BEE.QuangCao.dll
+D:\BEESKY\REM\BEEREMA DEMO\DLL\BEE.QuangCao.pdb
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.csprojResolveAssemblyReference.cache
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Care.ctlHappyBirthday.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Care.ctlManager.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Care.ctlManager2.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Care.ctlMultiBuy.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Care.frmFind.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Care.frmHappyBirthday.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.frmConfirm.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.MailV2.ctlManager.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.MailV2.frmContentEdit.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.MailV2.frmImportMail.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.MailV2.frmSelect.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.ctlCategory.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.ctlConfig.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.ctlReceive.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.ctlSending.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.ctlTemplates.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmConfig.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmConfigReminder.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmConfirm.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmFields.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmGroupReminders.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmReceive.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmReceiveList.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmReceiveSelect.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmSending.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmTemplates.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Mail.frmTemplateSelect.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Properties.Resources.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Report.Mail.rptDetail.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.Report.SMS.rptDetail.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.ctlCategories.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.ctlCustomers.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.ctlGroupReceivesSMS.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.ctlMessage.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.ctlSendingSMS.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.ctlStatistic.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.ctlTemplatesSMS.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.ctlTopupHistory.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmAccount.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmChoiceGroup.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmChoiceTemplate.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmConfigReminder.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmConfirm.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmFields.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmGroupReceive.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmGroupReminders.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmPayment.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmSelectObject.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmSending.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmSendSMS.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmSendSMS2.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmTemplates.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmText.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.SMS.frmTopUp.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.csproj.GenerateResource.Cache
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.dll
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Marketing\obj\Debug\BEE.QuangCao.pdb
+E:\BEESKY\REM\BEEREMA DEMO\DLL\BEE.QuangCao.dll.config
+E:\BEESKY\REM\BEEREMA DEMO\DLL\BEE.QuangCao.dll
+E:\BEESKY\REM\BEEREMA DEMO\DLL\BEE.QuangCao.pdb
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.csprojResolveAssemblyReference.cache
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlHappyBirthday.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlManager.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlManager2.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlMultiBuy.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.frmFind.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.frmHappyBirthday.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.frmConfirm.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.ctlManager.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.frmContentEdit.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.frmImportMail.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.frmSelect.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlCategory.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlConfig.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlReceive.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlSending.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlTemplates.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmConfig.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmConfigReminder.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmConfirm.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmFields.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmGroupReminders.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmReceive.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmReceiveList.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmReceiveSelect.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmSending.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmTemplates.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmTemplateSelect.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.Report.Mail.rptDetail.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.Report.SMS.rptDetail.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlCategories.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlCustomers.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlGroupReceivesSMS.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlMessage.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlSendingSMS.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlStatistic.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlTemplatesSMS.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlTopupHistory.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmAccount.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmChoiceGroup.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmChoiceTemplate.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmConfigReminder.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmConfirm.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmFields.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmGroupReceive.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmGroupReminders.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmPayment.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSelectObject.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSending.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSendSMS.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSendSMS2.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmTemplates.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmText.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmTopUp.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.csproj.GenerateResource.Cache
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.dll
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.pdb
+D:\Dev\3. REM\BEEREMA DEMO\BEE.QuangCao\obj\Debug\BEE.QuangCao.Properties.Resources.resources
+D:\Dev\3. REM\BEEREMA DEMO\DLL\BEE.QuangCao.dll.config
+D:\Dev\3. REM\BEEREMA DEMO\DLL\BEE.QuangCao.dll
+D:\Dev\3. REM\BEEREMA DEMO\DLL\BEE.QuangCao.pdb
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.csprojResolveAssemblyReference.cache
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlHappyBirthday.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlManager.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlManager2.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlMultiBuy.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.frmFind.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.frmHappyBirthday.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.frmConfirm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.ctlManager.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.frmContentEdit.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.frmImportMail.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.frmSelect.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlCategory.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlConfig.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlReceive.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlSending.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlTemplates.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmConfig.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmConfigReminder.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmConfirm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmFields.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmGroupReminders.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmReceive.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmReceiveList.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmReceiveSelect.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmSending.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmTemplates.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmTemplateSelect.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.Properties.Resources.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.Report.Mail.rptDetail.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.Report.SMS.rptDetail.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlCategories.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlCustomers.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlGroupReceivesSMS.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlMessage.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlSendingSMS.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlStatistic.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlTemplatesSMS.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlTopupHistory.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmAccount.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmChoiceGroup.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmChoiceTemplate.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmConfigReminder.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmConfirm.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmFields.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmGroupReceive.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmGroupReminders.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmPayment.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSelectObject.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSending.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSendSMS.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSendSMS2.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmTemplates.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmText.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmTopUp.resources
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.csproj.GenerateResource.Cache
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.dll
+D:\Dev\3. REM\BEEREMA HOALAND\BEE.QuangCao\obj\Debug\BEE.QuangCao.pdb
+D:\Dev\3. REM\BEEREMA HOALAND\DLL\BEE.QuangCao.dll.config
+D:\Dev\3. REM\BEEREMA HOALAND\DLL\BEE.QuangCao.dll
+D:\Dev\3. REM\BEEREMA HOALAND\DLL\BEE.QuangCao.pdb
+D:\Dev\3. REM\REM_HOALAND\Source\app\BEE.QuangCao.dll.config
+D:\Dev\3. REM\REM_HOALAND\Source\app\BEE.QuangCao.dll
+D:\Dev\3. REM\REM_HOALAND\Source\app\BEE.QuangCao.pdb
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlHappyBirthday.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlManager.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlManager2.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlMultiBuy.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.frmFind.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.frmHappyBirthday.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.frmConfirm.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.ctlManager.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.frmContentEdit.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.frmImportMail.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.frmSelect.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlCategory.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlConfig.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlReceive.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlSending.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlTemplates.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmConfig.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmConfigReminder.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmConfirm.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmFields.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmGroupReminders.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmReceive.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmReceiveList.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmReceiveSelect.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmSending.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmTemplates.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmTemplateSelect.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Properties.Resources.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Report.Mail.rptDetail.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Report.SMS.rptDetail.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlCategories.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlCustomers.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlGroupReceivesSMS.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlMessage.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlSendingSMS.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlStatistic.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlTemplatesSMS.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlTopupHistory.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmAccount.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmChoiceGroup.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmChoiceTemplate.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmConfigReminder.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmConfirm.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmFields.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmGroupReceive.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmGroupReminders.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmPayment.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSelectObject.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSending.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSendSMS.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSendSMS2.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmTemplates.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmText.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmTopUp.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.csproj.GenerateResource.Cache
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.dll
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.pdb
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.dll.licenses
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.csprojResolveAssemblyReference.cache
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\app\BEE.QuangCao.dll.config
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\app\BEE.QuangCao.dll
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\app\BEE.QuangCao.pdb
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.csprojResolveAssemblyReference.cache
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlHappyBirthday.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlManager.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlManager2.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlMultiBuy.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.frmFind.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.frmHappyBirthday.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.frmConfirm.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.ctlManager.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.frmContentEdit.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.frmImportMail.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.frmSelect.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlCategory.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlConfig.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlReceive.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlSending.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlTemplates.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmConfig.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmConfigReminder.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmConfirm.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmFields.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmGroupReminders.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmReceive.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmReceiveList.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmReceiveSelect.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmSending.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmTemplates.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmTemplateSelect.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Properties.Resources.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Report.Mail.rptDetail.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Report.SMS.rptDetail.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlCategories.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlCustomers.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlGroupReceivesSMS.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlMessage.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlSendingSMS.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlStatistic.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlTemplatesSMS.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlTopupHistory.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmAccount.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmChoiceGroup.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmChoiceTemplate.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmConfigReminder.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmConfirm.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmFields.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmGroupReceive.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmGroupReminders.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmPayment.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSelectObject.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSending.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSendSMS.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSendSMS2.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmTemplates.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmText.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmTopUp.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.csproj.GenerateResource.Cache
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.dll.licenses
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.dll
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.pdb
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.csprojResolveAssemblyReference.cache
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlHappyBirthday.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlManager.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlManager2.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlMultiBuy.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.frmFind.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.frmHappyBirthday.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.frmConfirm.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.ctlManager.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.frmContentEdit.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.frmImportMail.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.frmSelect.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlCategory.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlConfig.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlReceive.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlSending.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlTemplates.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmConfig.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmConfigReminder.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmConfirm.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmFields.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmGroupReminders.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmReceive.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmReceiveList.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmReceiveSelect.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmSending.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmTemplates.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmTemplateSelect.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Properties.Resources.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Report.Mail.rptDetail.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Report.SMS.rptDetail.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlCategories.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlCustomers.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlGroupReceivesSMS.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlMessage.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlSendingSMS.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlStatistic.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlTemplatesSMS.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlTopupHistory.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmAccount.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmChoiceGroup.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmChoiceTemplate.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmConfigReminder.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmConfirm.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmFields.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmGroupReceive.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmGroupReminders.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmPayment.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSelectObject.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSending.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSendSMS.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSendSMS2.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmTemplates.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmText.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmTopUp.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.csproj.GenerateResource.Cache
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.dll.licenses
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.dll
+F:\2017\BEEREMA\HOALAND\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.pdb
+F:\2017\BEEREMA\HOALAND\Source\app\BEE.QuangCao.dll.config
+F:\2017\BEEREMA\HOALAND\Source\app\BEE.QuangCao.dll
+F:\2017\BEEREMA\HOALAND\Source\app\BEE.QuangCao.pdb
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.csprojResolveAssemblyReference.cache
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlHappyBirthday.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlManager.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlManager2.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlMultiBuy.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.frmFind.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.frmHappyBirthday.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.frmConfirm.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.ctlManager.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.frmContentEdit.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.frmImportMail.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.frmSelect.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlCategory.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlConfig.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlReceive.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlSending.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlTemplates.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmConfig.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmConfigReminder.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmConfirm.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmFields.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmGroupReminders.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmReceive.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmReceiveList.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmReceiveSelect.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmSending.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmTemplates.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmTemplateSelect.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Properties.Resources.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Report.Mail.rptDetail.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Report.SMS.rptDetail.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlCategories.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlCustomers.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlGroupReceivesSMS.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlMessage.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlSendingSMS.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlStatistic.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlTemplatesSMS.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlTopupHistory.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmAccount.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmChoiceGroup.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmChoiceTemplate.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmConfigReminder.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmConfirm.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmFields.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmGroupReceive.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmGroupReminders.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmPayment.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSelectObject.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSending.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSendSMS.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSendSMS2.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmTemplates.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmText.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmTopUp.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.csproj.GenerateResource.Cache
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.dll.licenses
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.csprojResolveAssemblyReference.cache
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlHappyBirthday.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlManager.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlManager2.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlMultiBuy.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.frmFind.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.frmHappyBirthday.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.frmConfirm.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.ctlManager.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.frmContentEdit.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.frmImportMail.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.frmSelect.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlCategory.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlConfig.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlReceive.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlSending.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlTemplates.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmConfig.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmConfigReminder.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmConfirm.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmFields.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmGroupReminders.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmReceive.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmReceiveList.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmReceiveSelect.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmSending.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmTemplates.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmTemplateSelect.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Properties.Resources.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Report.Mail.rptDetail.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Report.SMS.rptDetail.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlCategories.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlCustomers.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlGroupReceivesSMS.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlMessage.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlSendingSMS.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlStatistic.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlTemplatesSMS.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlTopupHistory.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmAccount.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmChoiceGroup.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmChoiceTemplate.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmConfigReminder.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmConfirm.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmFields.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmGroupReceive.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmGroupReminders.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmPayment.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSelectObject.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSending.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSendSMS.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSendSMS2.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmTemplates.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmText.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmTopUp.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.csproj.GenerateResource.Cache
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.dll.licenses
+F:\2017\BEEREMA\HOALAND35\Source\app\BEE.QuangCao.dll.config
+F:\2017\BEEREMA\HOALAND35\Source\app\BEE.QuangCao.dll
+F:\2017\BEEREMA\HOALAND35\Source\app\BEE.QuangCao.pdb
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.dll
+F:\2017\BEEREMA\HOALAND35\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.pdb
+F:\2017\BEEREMA\HOLAND_SVN\Source\app\BEE.QuangCao.dll.config
+F:\2017\BEEREMA\HOLAND_SVN\Source\app\BEE.QuangCao.dll
+F:\2017\BEEREMA\HOLAND_SVN\Source\app\BEE.QuangCao.pdb
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.csprojResolveAssemblyReference.cache
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlHappyBirthday.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlManager.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlManager2.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlMultiBuy.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.frmFind.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.frmHappyBirthday.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.frmConfirm.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.ctlManager.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.frmContentEdit.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.frmImportMail.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.frmSelect.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlCategory.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlConfig.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlReceive.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlSending.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlTemplates.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmConfig.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmConfigReminder.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmConfirm.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmFields.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmGroupReminders.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmReceive.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmReceiveList.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmReceiveSelect.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmSending.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmTemplates.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmTemplateSelect.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Properties.Resources.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Report.Mail.rptDetail.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Report.SMS.rptDetail.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlCategories.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlCustomers.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlGroupReceivesSMS.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlMessage.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlSendingSMS.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlStatistic.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlTemplatesSMS.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlTopupHistory.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmAccount.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmChoiceGroup.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmChoiceTemplate.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmConfigReminder.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmConfirm.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmFields.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmGroupReceive.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmGroupReminders.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmPayment.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSelectObject.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSending.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSendSMS.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSendSMS2.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmTemplates.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmText.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmTopUp.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.csproj.GenerateResource.Cache
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.dll.licenses
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.dll
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.pdb
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlHappyBirthday.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlManager.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlManager2.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlMultiBuy.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.frmFind.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.frmHappyBirthday.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.frmConfirm.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.ctlManager.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.frmContentEdit.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.frmImportMail.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.frmSelect.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlCategory.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlConfig.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlReceive.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlSending.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlTemplates.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmConfig.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmConfigReminder.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmConfirm.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmFields.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmGroupReminders.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmReceive.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmReceiveList.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmReceiveSelect.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmSending.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmTemplates.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmTemplateSelect.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Properties.Resources.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Report.Mail.rptDetail.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Report.SMS.rptDetail.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlCategories.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlCustomers.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlGroupReceivesSMS.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlMessage.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlSendingSMS.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlStatistic.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlTemplatesSMS.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlTopupHistory.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmAccount.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmChoiceGroup.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmChoiceTemplate.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmConfigReminder.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmConfirm.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmFields.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmGroupReceive.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmGroupReminders.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmPayment.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSelectObject.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSending.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSendSMS.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSendSMS2.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmTemplates.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmText.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmTopUp.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.csproj.GenerateResource.cache
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.dll.licenses
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.csproj.CoreCompileInputs.cache
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\app\BEE.QuangCao.dll.config
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\app\BEE.QuangCao.dll
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\app\BEE.QuangCao.pdb
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.csproj.CopyComplete
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.dll
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.pdb
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.csprojAssemblyReference.cache
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.csprojResolveAssemblyReference.cache
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlHappyBirthday.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlManager.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlManager2.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.ctlMultiBuy.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.frmFind.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Care.frmHappyBirthday.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.frmConfirm.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.ctlManager.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.frmContentEdit.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.frmImportMail.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.MailV2.frmSelect.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlCategory.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlConfig.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlReceive.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlSending.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.ctlTemplates.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmConfig.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmConfigReminder.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmConfirm.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmFields.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmGroupReminders.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmReceive.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmReceiveList.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmReceiveSelect.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmSending.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmTemplates.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Mail.frmTemplateSelect.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Properties.Resources.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Report.Mail.rptDetail.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.Report.SMS.rptDetail.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlCategories.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlCustomers.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlGroupReceivesSMS.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlMessage.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlSendingSMS.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlStatistic.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlTemplatesSMS.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.ctlTopupHistory.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmAccount.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmChoiceGroup.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmChoiceTemplate.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmConfigReminder.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmConfirm.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmFields.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmGroupReceive.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmGroupReminders.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmPayment.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSelectObject.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSending.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSendSMS.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmSendSMS2.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmTemplates.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmText.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.SMS.frmTopUp.resources
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.csproj.GenerateResource.Cache
+D:\UPGARDE\DEV19\Source\app\BEE.QuangCao.dll.config
+D:\UPGARDE\DEV19\Source\app\BEE.QuangCao.dll
+D:\UPGARDE\DEV19\Source\app\BEE.QuangCao.pdb
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.dll
+D:\UPGARDE\DEV19\Source\BEE.QuangCao\obj\Debug\BEE.QuangCao.pdb

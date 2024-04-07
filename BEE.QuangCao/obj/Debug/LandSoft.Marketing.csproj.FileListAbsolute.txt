@@ -1,0 +1,530 @@
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.csprojResolveAssemblyReference.cache
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlHappyBirthday.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlManager.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlManager2.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlMultiBuy.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.frmFind.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.frmHappyBirthday.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlCategory.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlConfig.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlReceive.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlSending.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlTemplates.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmConfig.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmConfigReminder.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmConfirm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmFields.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmGroupReminders.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmReceive.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmReceiveList.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmReceiveSelect.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmSending.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmTemplates.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmTemplateSelect.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlCategories.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlCustomers.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlGroupReceivesSMS.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlMessage.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlSendingSMS.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlStatistic.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlTemplatesSMS.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlTopupHistory.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmAccount.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmChoiceGroup.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmChoiceTemplate.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmConfigReminder.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmConfirm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmFields.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmGroupReceive.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmGroupReminders.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmPayment.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSelectObject.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSending.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSendSMS.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSendSMS2.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmTemplates.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmText.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmTopUp.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.csproj.GenerateResource.Cache
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Properties.Resources.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.frmConfirm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Report.Mail.rptDetail.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Report.SMS.rptDetail.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\bin\Debug\LandSoft.Marketing.dll.config
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\bin\Debug\LandSoft.Marketing.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\bin\Debug\LandSoft.Marketing.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\bin\Debug\DIPSMS.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\bin\Debug\HTMLEditorControl.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\bin\Debug\LandSoft.Document.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\bin\Debug\LandSoft.Library.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\bin\Debug\AxInterop.SHDocVw.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\bin\Debug\Interop.SHDocVw.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\bin\Debug\LandSoft.Document.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\bin\Debug\LandSoft.Library.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\bin\Debug\LandSoft.Translate.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\bin\Debug\LandSoft.FTP.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\bin\Debug\LandSoft.Translate.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Marketing\bin\Debug\LandSoft.FTP.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlHappyBirthday.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlManager.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlManager2.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlMultiBuy.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.frmFind.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.frmHappyBirthday.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.frmConfirm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlCategory.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlConfig.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlReceive.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlSending.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlTemplates.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmConfig.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmConfigReminder.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmConfirm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmFields.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmGroupReminders.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmReceive.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmReceiveList.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmReceiveSelect.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmSending.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmTemplates.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmTemplateSelect.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Properties.Resources.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Report.Mail.rptDetail.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Report.SMS.rptDetail.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlCategories.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlCustomers.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlGroupReceivesSMS.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlMessage.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlSendingSMS.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlStatistic.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlTemplatesSMS.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlTopupHistory.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmAccount.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmChoiceGroup.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmChoiceTemplate.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmConfigReminder.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmConfirm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmFields.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmGroupReceive.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmGroupReminders.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmPayment.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSelectObject.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSending.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSendSMS.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSendSMS2.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmTemplates.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmText.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmTopUp.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.csproj.GenerateResource.Cache
+E:\Projects\Software\2015\Becamex\DLL\LandSoft.Marketing.dll.config
+E:\Projects\Software\2015\Becamex\DLL\LandSoft.Marketing.dll
+E:\Projects\Software\2015\Becamex\DLL\LandSoft.Marketing.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.csprojResolveAssemblyReference.cache
+E:\Projects\Software\2015\HungThinh\DLL\LandSoft.Marketing.dll.config
+E:\Projects\Software\2015\HungThinh\DLL\LandSoft.Marketing.dll
+E:\Projects\Software\2015\HungThinh\DLL\LandSoft.Marketing.pdb
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.csprojResolveAssemblyReference.cache
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlHappyBirthday.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlManager.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlManager2.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlMultiBuy.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.frmFind.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.frmHappyBirthday.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.frmConfirm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlCategory.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlConfig.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlReceive.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlSending.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlTemplates.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmConfig.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmConfigReminder.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmConfirm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmFields.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmGroupReminders.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmReceive.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmReceiveList.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmReceiveSelect.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmSending.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmTemplates.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmTemplateSelect.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Properties.Resources.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Report.Mail.rptDetail.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Report.SMS.rptDetail.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlCategories.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlCustomers.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlGroupReceivesSMS.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlMessage.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlSendingSMS.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlStatistic.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlTemplatesSMS.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlTopupHistory.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmAccount.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmChoiceGroup.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmChoiceTemplate.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmConfigReminder.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmConfirm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmFields.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmGroupReceive.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmGroupReminders.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmPayment.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSelectObject.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSending.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSendSMS.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSendSMS2.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmTemplates.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmText.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmTopUp.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.csproj.GenerateResource.Cache
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.dll
+E:\Projects\Software\2015\HungThinh\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.pdb
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\DLL\LandSoft.Marketing.dll.config
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\DLL\LandSoft.Marketing.dll
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\DLL\LandSoft.Marketing.pdb
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.csprojResolveAssemblyReference.cache
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlHappyBirthday.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlManager.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlManager2.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlMultiBuy.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.frmFind.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.frmHappyBirthday.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.frmConfirm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlCategory.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlConfig.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlReceive.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlSending.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlTemplates.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmConfig.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmConfigReminder.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmConfirm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmFields.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmGroupReminders.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmReceive.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmReceiveList.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmReceiveSelect.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmSending.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmTemplates.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmTemplateSelect.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Properties.Resources.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Report.Mail.rptDetail.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Report.SMS.rptDetail.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlCategories.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlCustomers.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlGroupReceivesSMS.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlMessage.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlSendingSMS.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlStatistic.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlTemplatesSMS.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlTopupHistory.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmAccount.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmChoiceGroup.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmChoiceTemplate.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmConfigReminder.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmConfirm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmFields.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmGroupReceive.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmGroupReminders.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmPayment.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSelectObject.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSending.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSendSMS.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSendSMS2.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmTemplates.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmText.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmTopUp.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.csproj.GenerateResource.Cache
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.dll
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.pdb
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\DLL\LandSoft.Marketing.dll.config
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\DLL\LandSoft.Marketing.dll
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\DLL\LandSoft.Marketing.pdb
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.csprojResolveAssemblyReference.cache
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlHappyBirthday.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlManager.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlManager2.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlMultiBuy.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.frmFind.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.frmHappyBirthday.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.frmConfirm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlCategory.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlConfig.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlReceive.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlSending.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlTemplates.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmConfig.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmConfigReminder.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmConfirm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmFields.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmGroupReminders.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmReceive.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmReceiveList.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmReceiveSelect.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmSending.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmTemplates.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmTemplateSelect.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Properties.Resources.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Report.Mail.rptDetail.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Report.SMS.rptDetail.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlCategories.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlCustomers.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlGroupReceivesSMS.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlMessage.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlSendingSMS.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlStatistic.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlTemplatesSMS.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlTopupHistory.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmAccount.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmChoiceGroup.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmChoiceTemplate.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmConfigReminder.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmConfirm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmFields.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmGroupReceive.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmGroupReminders.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmPayment.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSelectObject.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSending.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSendSMS.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSendSMS2.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmTemplates.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmText.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmTopUp.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.csproj.GenerateResource.Cache
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.dll
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.pdb
+D:\BEESKY\REM\BEEREM FOR AGENTV2\DLL\LandSoft.Marketing.dll.config
+D:\BEESKY\REM\BEEREM FOR AGENTV2\DLL\LandSoft.Marketing.dll
+D:\BEESKY\REM\BEEREM FOR AGENTV2\DLL\LandSoft.Marketing.pdb
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.csprojResolveAssemblyReference.cache
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlHappyBirthday.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlManager.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlManager2.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlMultiBuy.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.frmFind.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.frmHappyBirthday.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.frmConfirm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlCategory.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlConfig.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlReceive.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlSending.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlTemplates.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmConfig.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmConfigReminder.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmConfirm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmFields.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmGroupReminders.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmReceive.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmReceiveList.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmReceiveSelect.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmSending.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmTemplates.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmTemplateSelect.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Properties.Resources.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Report.Mail.rptDetail.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Report.SMS.rptDetail.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlCategories.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlCustomers.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlGroupReceivesSMS.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlMessage.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlSendingSMS.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlStatistic.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlTemplatesSMS.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlTopupHistory.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmAccount.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmChoiceGroup.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmChoiceTemplate.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmConfigReminder.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmConfirm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmFields.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmGroupReceive.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmGroupReminders.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmPayment.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSelectObject.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSending.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSendSMS.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSendSMS2.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmTemplates.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmText.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmTopUp.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.dll
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.pdb
+D:\BEESKY\REM\BEEREM HOABINH\DLL\LandSoft.Marketing.dll.config
+D:\BEESKY\REM\BEEREM HOABINH\DLL\LandSoft.Marketing.dll
+D:\BEESKY\REM\BEEREM HOABINH\DLL\LandSoft.Marketing.pdb
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.csprojResolveAssemblyReference.cache
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlHappyBirthday.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlManager.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlManager2.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlMultiBuy.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.frmFind.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.frmHappyBirthday.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.frmConfirm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlCategory.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlConfig.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlReceive.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlSending.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlTemplates.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmConfig.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmConfigReminder.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmConfirm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmFields.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmGroupReminders.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmReceive.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmReceiveList.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmReceiveSelect.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmSending.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmTemplates.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmTemplateSelect.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Properties.Resources.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Report.Mail.rptDetail.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Report.SMS.rptDetail.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlCategories.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlCustomers.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlGroupReceivesSMS.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlMessage.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlSendingSMS.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlStatistic.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlTemplatesSMS.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlTopupHistory.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmAccount.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmChoiceGroup.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmChoiceTemplate.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmConfigReminder.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmConfirm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmFields.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmGroupReceive.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmGroupReminders.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmPayment.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSelectObject.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSending.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSendSMS.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSendSMS2.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmTemplates.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmText.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmTopUp.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.dll
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.pdb
+D:\My Job\BeeSky\BEEREM HOABINH\DLL\LandSoft.Marketing.dll.config
+D:\My Job\BeeSky\BEEREM HOABINH\DLL\LandSoft.Marketing.dll
+D:\My Job\BeeSky\BEEREM HOABINH\DLL\LandSoft.Marketing.pdb
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.csprojResolveAssemblyReference.cache
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlHappyBirthday.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlManager.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlManager2.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlMultiBuy.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.frmFind.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.frmHappyBirthday.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.frmConfirm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlCategory.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlConfig.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlReceive.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlSending.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlTemplates.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmConfig.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmConfigReminder.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmConfirm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmFields.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmGroupReminders.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmReceive.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmReceiveList.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmReceiveSelect.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmSending.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmTemplates.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmTemplateSelect.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Properties.Resources.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Report.Mail.rptDetail.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Report.SMS.rptDetail.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlCategories.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlCustomers.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlGroupReceivesSMS.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlMessage.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlSendingSMS.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlStatistic.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlTemplatesSMS.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlTopupHistory.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmAccount.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmChoiceGroup.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmChoiceTemplate.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmConfigReminder.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmConfirm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmFields.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmGroupReceive.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmGroupReminders.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmPayment.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSelectObject.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSending.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSendSMS.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSendSMS2.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmTemplates.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmText.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmTopUp.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.csproj.GenerateResource.Cache
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.dll.licenses
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.dll
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\DLL\LandSoft.Marketing.dll.config
+D:\BEESKY\REM\BEEREM HOABINHV2\DLL\LandSoft.Marketing.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\DLL\LandSoft.Marketing.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlHappyBirthday.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlManager.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlManager2.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.ctlMultiBuy.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.frmFind.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Care.frmHappyBirthday.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.frmConfirm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlCategory.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlConfig.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlReceive.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlSending.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.ctlTemplates.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmConfig.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmConfigReminder.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmConfirm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmFields.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmGroupReminders.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmReceive.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmReceiveList.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmReceiveSelect.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmSending.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmTemplates.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Mail.frmTemplateSelect.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Properties.Resources.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Report.Mail.rptDetail.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.Report.SMS.rptDetail.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlCategories.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlCustomers.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlGroupReceivesSMS.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlMessage.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlSendingSMS.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlStatistic.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlTemplatesSMS.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.ctlTopupHistory.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmAccount.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmChoiceGroup.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmChoiceTemplate.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmConfigReminder.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmConfirm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmFields.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmGroupReceive.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmGroupReminders.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmPayment.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSelectObject.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSending.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSendSMS.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmSendSMS2.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmTemplates.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmText.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.SMS.frmTopUp.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.MailV2.frmContentEdit.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.MailV2.frmImportMail.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.MailV2.frmSelect.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.MailV2.ctlManager.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Marketing\obj\Debug\LandSoft.Marketing.csprojResolveAssemblyReference.cache

@@ -1,0 +1,518 @@
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Product.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Product.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\CustomizeColumn.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.CashBook.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Library.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Operation.Contract.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Operation.Deposit.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Operation.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Operation.PlaceHolder.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Operation.Transfer.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Policy.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LinqToExcel.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\log4net.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\Remotion.Data.Linq.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\Remotion.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\Remotion.Interfaces.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Document.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.DIPUserControl.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Invoice.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.StepByStep.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Project.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Customer.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Other.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.SynchronizeSUN.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Handover.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Operation.Appendix.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Operation.Change.Product.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.PaymentList.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\HTMLEditorControl.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Marketing.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Report.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.BDS.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.FTP.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Staff.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.WorkSchedule.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\AxInterop.SHDocVw.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\DIPSMS.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Notes.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\Interop.SHDocVw.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\CustomizeColumn.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.CashBook.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Library.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Operation.Contract.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Operation.Deposit.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Operation.PlaceHolder.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Operation.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Policy.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Operation.Transfer.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LinqToExcel.xml
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Document.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.DIPUserControl.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Invoice.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.StepByStep.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Project.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Customer.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Other.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.SynchronizeSUN.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Handover.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Operation.Appendix.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Operation.Change.Product.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.PaymentList.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Marketing.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Report.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.BDS.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.FTP.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Staff.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.WorkSchedule.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Notes.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Product\obj\Debug\LandSoft.Product.csprojResolveAssemblyReference.cache
+E:\Projects\Software\2013\NamLong\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmUpdatePrice.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlViewGeneralV2.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportProductViewGeneral.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmLoaiHangMuc.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlManager.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlManagerNew.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlViewGeneral.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmChuyenQuyen.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmEdit.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmEditV2.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImport.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportGCN.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportLinq.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportUpdate.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmPhongToa.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmTrangThai.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Product\obj\Debug\LandSoft.BDS.LoadiBDS_ctl.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Product\obj\Debug\LandSoft.BDS.LoaiBDS_frm.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Product\obj\Debug\LandSoft.Product.csproj.GenerateResource.Cache
+E:\Projects\Software\2013\NamLong\LandSoft.Product\obj\Debug\LandSoft.Product.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\obj\Debug\LandSoft.Product.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\SunSystemsConnectClient.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Translate.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Product\bin\Debug\LandSoft.Translate.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmUpdateSquare.resources
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Product.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Product.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\CustomizeColumn.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.CashBook.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Library.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Operation.Contract.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Operation.Deposit.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Operation.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Operation.PlaceHolder.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Operation.Transfer.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Policy.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Translate.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LinqToExcel.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\log4net.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\Remotion.Data.Linq.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\Remotion.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\Remotion.Interfaces.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.SynchronizeSUN.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Document.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.DIPUserControl.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Invoice.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.StepByStep.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Customer.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Project.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Handover.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Operation.Appendix.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Operation.Change.Product.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Other.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.PaymentList.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\HTMLEditorControl.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Marketing.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Report.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.BDS.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\SunSystemsConnectClient.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.FTP.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Staff.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.WorkSchedule.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\AxInterop.SHDocVw.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\DIPSMS.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Notes.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\Interop.SHDocVw.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\CustomizeColumn.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.CashBook.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Library.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Operation.Contract.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Operation.Deposit.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Operation.PlaceHolder.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Operation.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Policy.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Operation.Transfer.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Translate.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LinqToExcel.xml
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.SynchronizeSUN.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Document.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.DIPUserControl.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Invoice.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.StepByStep.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Customer.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Project.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Handover.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Operation.Appendix.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Operation.Change.Product.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Other.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.PaymentList.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Marketing.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Report.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.BDS.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.FTP.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Staff.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.WorkSchedule.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Product\bin\Debug\LandSoft.Notes.pdb
+E:\Projects\Software\2014\Demo\LandSoft.Product\obj\Debug\LandSoft.Product.csprojResolveAssemblyReference.cache
+E:\Projects\Software\2014\Demo\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmUpdateSquare.resources
+E:\Projects\Software\2014\Demo\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmUpdatePrice.resources
+E:\Projects\Software\2014\Demo\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlViewGeneralV2.resources
+E:\Projects\Software\2014\Demo\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportProductViewGeneral.resources
+E:\Projects\Software\2014\Demo\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmLoaiHangMuc.resources
+E:\Projects\Software\2014\Demo\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlManager.resources
+E:\Projects\Software\2014\Demo\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlManagerNew.resources
+E:\Projects\Software\2014\Demo\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlViewGeneral.resources
+E:\Projects\Software\2014\Demo\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmChuyenQuyen.resources
+E:\Projects\Software\2014\Demo\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmEdit.resources
+E:\Projects\Software\2014\Demo\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmEditV2.resources
+E:\Projects\Software\2014\Demo\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImport.resources
+E:\Projects\Software\2014\Demo\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportGCN.resources
+E:\Projects\Software\2014\Demo\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportLinq.resources
+E:\Projects\Software\2014\Demo\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportUpdate.resources
+E:\Projects\Software\2014\Demo\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmPhongToa.resources
+E:\Projects\Software\2014\Demo\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmTrangThai.resources
+E:\Projects\Software\2014\Demo\LandSoft.Product\obj\Debug\LandSoft.BDS.LoadiBDS_ctl.resources
+E:\Projects\Software\2014\Demo\LandSoft.Product\obj\Debug\LandSoft.BDS.LoaiBDS_frm.resources
+E:\Projects\Software\2014\Demo\LandSoft.Product\obj\Debug\LandSoft.Product.csproj.GenerateResource.Cache
+E:\Projects\Software\2014\Demo\LandSoft.Product\obj\Debug\LandSoft.Product.dll
+E:\Projects\Software\2014\Demo\LandSoft.Product\obj\Debug\LandSoft.Product.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmUpdateSquare.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmUpdatePrice.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlViewGeneralV2.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportProductViewGeneral.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmLoaiHangMuc.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlManager.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlManagerNew.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlViewGeneral.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmChuyenQuyen.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmEdit.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmEditV2.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImport.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportGCN.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportLinq.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportUpdate.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmPhongToa.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmTrangThai.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Product\obj\Debug\LandSoft.BDS.LoadiBDS_ctl.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Product\obj\Debug\LandSoft.BDS.LoaiBDS_frm.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Product\obj\Debug\LandSoft.Product.csproj.GenerateResource.Cache
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Product.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Product.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\CustomizeColumn.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.CashBook.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Library.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Operation.Contract.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Operation.Deposit.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Operation.PlaceHolder.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Operation.Transfer.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Policy.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Translate.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LinqToExcel.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\log4net.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\Remotion.Data.Linq.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\Remotion.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\Remotion.Interfaces.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.SynchronizeSUN.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Document.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.DIPUserControl.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Invoice.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.StepByStep.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Customer.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Project.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Handover.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Operation.Appendix.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Operation.Change.Product.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Other.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.PaymentList.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\HTMLEditorControl.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Marketing.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Report.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.BDS.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\SunSystemsConnectClient.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.FTP.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Staff.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.WorkSchedule.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\AxInterop.SHDocVw.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\DIPSMS.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Notes.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\Interop.SHDocVw.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\CustomizeColumn.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.CashBook.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Library.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Operation.Contract.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Operation.Deposit.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Operation.PlaceHolder.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Policy.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Operation.Transfer.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Translate.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LinqToExcel.xml
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.SynchronizeSUN.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Document.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.DIPUserControl.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Invoice.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.StepByStep.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Customer.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Project.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Handover.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Operation.Appendix.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Operation.Change.Product.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Other.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.PaymentList.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Marketing.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Report.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.BDS.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.FTP.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Staff.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.WorkSchedule.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Product\bin\Debug\LandSoft.Notes.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Product\obj\Debug\LandSoft.Product.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Product\obj\Debug\LandSoft.Product.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Product\obj\Debug\LandSoft.Product.ctlViewGeneralFormUrlV2.resources
+E:\Projects\Software\2015\Becamex\DLL\LandSoft.Product.dll
+E:\Projects\Software\2015\Becamex\DLL\LandSoft.Product.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Product\obj\Debug\LandSoft.Product.frmFind.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Product\obj\Debug\LandSoft.Product.ctlViewMaps.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Product\obj\Debug\LandSoft.Product.csprojResolveAssemblyReference.cache
+E:\Projects\Software\2015\Becamex\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportUpdateInfoLinq.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Product\obj\Debug\LandSoft.Product.dll.licenses
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.Product.csprojResolveAssemblyReference.cache
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.Product.ctlViewMaps.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.Product.ctlViewGeneralFormUrlV2.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.Product.frmFind.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportUpdateInfoLinq.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmUpdateSquare.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmUpdatePrice.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlViewGeneralV2.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportProductViewGeneral.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmLoaiHangMuc.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlManager.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlManagerNew.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlViewGeneral.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmChuyenQuyen.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmEdit.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmEditV2.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImport.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportGCN.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportLinq.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportUpdate.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmPhongToa.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmTrangThai.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.BDS.LoadiBDS_ctl.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.BDS.LoaiBDS_frm.resources
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.Product.csproj.GenerateResource.Cache
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.Product.dll
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.Product.pdb
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\DLL\LandSoft.Product.dll
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\DLL\LandSoft.Product.pdb
+D:\DIP-Huynh Nhat Canh\LandSoft\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.Product.dll.licenses
+E:\Projects\Software\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.Product.csprojResolveAssemblyReference.cache
+E:\Projects\Software\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.Product.ctlViewMaps.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.Product.ctlViewGeneralFormUrlV2.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.Product.frmFind.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportUpdateInfoLinq.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmUpdateSquare.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmUpdatePrice.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlViewGeneralV2.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportProductViewGeneral.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmLoaiHangMuc.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlManager.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlManagerNew.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlViewGeneral.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmChuyenQuyen.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmEdit.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmEditV2.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImport.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportGCN.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportLinq.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportUpdate.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmPhongToa.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmTrangThai.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.BDS.LoadiBDS_ctl.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.BDS.LoaiBDS_frm.resources
+E:\Projects\Software\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.Product.csproj.GenerateResource.Cache
+E:\Projects\Software\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.Product.dll
+E:\Projects\Software\2015\HungThinh\LandSoft.Product\obj\Debug\LandSoft.Product.pdb
+E:\Projects\Software\2015\HungThinh\DLL\LandSoft.Product.dll
+E:\Projects\Software\2015\HungThinh\DLL\LandSoft.Product.pdb
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Product\obj\Debug\LandSoft.Product.csprojResolveAssemblyReference.cache
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Product\obj\Debug\LandSoft.Product.ctlViewMaps.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Product\obj\Debug\LandSoft.Product.ctlViewGeneralFormUrlV2.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Product\obj\Debug\LandSoft.Product.frmFind.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportUpdateInfoLinq.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmUpdateSquare.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmUpdatePrice.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlViewGeneralV2.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportProductViewGeneral.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmLoaiHangMuc.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlManager.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlManagerNew.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlViewGeneral.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmChuyenQuyen.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmEdit.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmEditV2.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImport.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportGCN.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportLinq.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportUpdate.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmPhongToa.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmTrangThai.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Product\obj\Debug\LandSoft.BDS.LoadiBDS_ctl.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Product\obj\Debug\LandSoft.BDS.LoaiBDS_frm.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Product\obj\Debug\LandSoft.Product.csproj.GenerateResource.Cache
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\DLL\LandSoft.Product.dll
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\DLL\LandSoft.Product.pdb
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Product\obj\Debug\LandSoft.Product.dll
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Product\obj\Debug\LandSoft.Product.pdb
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Product\obj\Debug\LandSoft.Product.csprojResolveAssemblyReference.cache
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Product\obj\Debug\LandSoft.Product.ctlViewMaps.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Product\obj\Debug\LandSoft.Product.ctlViewGeneralFormUrlV2.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Product\obj\Debug\LandSoft.Product.frmFind.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportUpdateInfoLinq.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmUpdateSquare.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmUpdatePrice.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlViewGeneralV2.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportProductViewGeneral.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmLoaiHangMuc.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlManager.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlManagerNew.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlViewGeneral.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmChuyenQuyen.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmEdit.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmEditV2.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImport.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportGCN.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportLinq.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportUpdate.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmPhongToa.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmTrangThai.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Product\obj\Debug\LandSoft.BDS.LoadiBDS_ctl.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Product\obj\Debug\LandSoft.BDS.LoaiBDS_frm.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Product\obj\Debug\LandSoft.Product.csproj.GenerateResource.Cache
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Product\obj\Debug\LandSoft.Product.dll
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Product\obj\Debug\LandSoft.Product.pdb
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\DLL\LandSoft.Product.dll
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\DLL\LandSoft.Product.pdb
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Product\obj\Debug\LandSoft.Product.csprojResolveAssemblyReference.cache
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Product\obj\Debug\LandSoft.Product.ctlViewMaps.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Product\obj\Debug\LandSoft.Product.ctlViewGeneralFormUrlV2.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Product\obj\Debug\LandSoft.Product.frmFind.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportUpdateInfoLinq.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmUpdateSquare.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmUpdatePrice.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlViewGeneralV2.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportProductViewGeneral.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmLoaiHangMuc.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlManager.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlManagerNew.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlViewGeneral.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmChuyenQuyen.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmEdit.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmEditV2.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImport.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportGCN.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportLinq.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportUpdate.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmPhongToa.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmTrangThai.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Product\obj\Debug\LandSoft.BDS.LoadiBDS_ctl.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Product\obj\Debug\LandSoft.BDS.LoaiBDS_frm.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Product\obj\Debug\LandSoft.Product.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Product\obj\Debug\LandSoft.Product.dll
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Product\obj\Debug\LandSoft.Product.pdb
+D:\BEESKY\REM\BEEREM FOR AGENTV2\DLL\LandSoft.Product.dll
+D:\BEESKY\REM\BEEREM FOR AGENTV2\DLL\LandSoft.Product.pdb
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.Product.csprojResolveAssemblyReference.cache
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.Product.ctlViewMaps.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.Product.ctlViewGeneralFormUrlV2.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.Product.frmFind.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportUpdateInfoLinq.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmUpdateSquare.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmUpdatePrice.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlViewGeneralV2.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportProductViewGeneral.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmLoaiHangMuc.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlManager.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlManagerNew.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlViewGeneral.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmChuyenQuyen.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmEdit.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmEditV2.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImport.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportGCN.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportLinq.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportUpdate.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmPhongToa.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmTrangThai.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.BDS.LoadiBDS_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.BDS.LoaiBDS_frm.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.Product.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.Product.pdb
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.Product.dll
+D:\BEESKY\REM\BEEREM HOABINH\DLL\LandSoft.Product.dll
+D:\BEESKY\REM\BEEREM HOABINH\DLL\LandSoft.Product.pdb
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.Product.csprojResolveAssemblyReference.cache
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.Product.ctlViewMaps.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.Product.ctlViewGeneralFormUrlV2.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.Product.frmFind.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportUpdateInfoLinq.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmUpdateSquare.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmUpdatePrice.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlViewGeneralV2.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportProductViewGeneral.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmLoaiHangMuc.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlManager.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlManagerNew.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlViewGeneral.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmChuyenQuyen.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmEdit.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmEditV2.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImport.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportGCN.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportLinq.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportUpdate.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmPhongToa.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmTrangThai.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.BDS.LoadiBDS_ctl.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.BDS.LoaiBDS_frm.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.Product.csproj.GenerateResource.Cache
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.Product.dll.licenses
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Product\obj\Debug\LandSoft.Product.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\LandSoft.Product.csprojResolveAssemblyReference.cache
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\LandSoft.Product.ctlViewMaps.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\LandSoft.Product.ctlViewGeneralFormUrlV2.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\LandSoft.Product.frmFind.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportUpdateInfoLinq.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmUpdateSquare.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmUpdatePrice.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlViewGeneralV2.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportProductViewGeneral.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmLoaiHangMuc.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlManager.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlManagerNew.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.ctlViewGeneral.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmChuyenQuyen.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmEdit.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmEditV2.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImport.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportGCN.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportLinq.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmImportUpdate.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmPhongToa.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\LandSoft.SanPham.frmTrangThai.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\LandSoft.BDS.LoadiBDS_ctl.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\LandSoft.BDS.LoaiBDS_frm.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\LandSoft.Product.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM HOABINHV2\DLL\LandSoft.Product.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\DLL\LandSoft.Product.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\LandSoft.Product.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Product\obj\Debug\LandSoft.Product.pdb

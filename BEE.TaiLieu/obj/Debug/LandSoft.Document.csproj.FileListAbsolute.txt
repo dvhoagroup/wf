@@ -1,0 +1,118 @@
+E:\Projects\Software\2013\NamLong\LandSoft.Document\obj\Debug\LandSoft.Document.csprojResolveAssemblyReference.cache
+E:\Projects\Software\2013\NamLong\LandSoft.Document\obj\Debug\LandSoft.TaiLieu.ctlManager.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Document\obj\Debug\LandSoft.TaiLieu.ctlTaiLieu.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Document\obj\Debug\LandSoft.TaiLieu.frmEdit.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Document\obj\Debug\LandSoft.TaiLieu.frmLoaiTaiLieu.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Document\obj\Debug\LandSoft.Document.csproj.GenerateResource.Cache
+E:\Projects\Software\2013\NamLong\LandSoft.Document\obj\Debug\LandSoft.Web.frmConfig.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Document\obj\Debug\LandSoft.Web.frmDownloadFile.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Document\obj\Debug\LandSoft.Web.frmUploadFile.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Document\bin\Debug\LandSoft.Document.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Document\bin\Debug\LandSoft.Document.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Document\bin\Debug\LandSoft.Library.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Document\bin\Debug\LandSoft.Library.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Document\obj\Debug\LandSoft.Document.Properties.Resources.resources
+E:\Projects\Software\2013\NamLong\LandSoft.Document\obj\Debug\LandSoft.Document.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Document\obj\Debug\LandSoft.Document.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Document\bin\Debug\LandSoft.FTP.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Document\bin\Debug\LandSoft.FTP.pdb
+E:\Projects\Software\2013\NamLong\LandSoft.Document\bin\Debug\LandSoft.Translate.dll
+E:\Projects\Software\2013\NamLong\LandSoft.Document\bin\Debug\LandSoft.Translate.pdb
+E:\Projects\Software\2015\Becamex\DLL\LandSoft.Document.dll
+E:\Projects\Software\2015\Becamex\DLL\LandSoft.Document.pdb
+E:\Projects\Software\2015\Becamex\LandSoft.Document\obj\Debug\LandSoft.Document.csprojResolveAssemblyReference.cache
+E:\Projects\Software\2015\Becamex\LandSoft.Document\obj\Debug\LandSoft.TaiLieu.ctlManager.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Document\obj\Debug\LandSoft.TaiLieu.ctlTaiLieu.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Document\obj\Debug\LandSoft.TaiLieu.frmEdit.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Document\obj\Debug\LandSoft.TaiLieu.frmLoaiTaiLieu.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Document\obj\Debug\LandSoft.Document.Properties.Resources.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Document\obj\Debug\LandSoft.Web.frmConfig.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Document\obj\Debug\LandSoft.Web.frmDownloadFile.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Document\obj\Debug\LandSoft.Web.frmUploadFile.resources
+E:\Projects\Software\2015\Becamex\LandSoft.Document\obj\Debug\LandSoft.Document.csproj.GenerateResource.Cache
+E:\Projects\Software\2015\Becamex\LandSoft.Document\obj\Debug\LandSoft.Document.dll
+E:\Projects\Software\2015\Becamex\LandSoft.Document\obj\Debug\LandSoft.Document.pdb
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\DLL\LandSoft.Document.dll
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\DLL\LandSoft.Document.pdb
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Document\obj\Debug\LandSoft.TaiLieu.ctlManager.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Document\obj\Debug\LandSoft.TaiLieu.ctlTaiLieu.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Document\obj\Debug\LandSoft.TaiLieu.frmEdit.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Document\obj\Debug\LandSoft.TaiLieu.frmLoaiTaiLieu.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Document\obj\Debug\LandSoft.Document.Properties.Resources.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Document\obj\Debug\LandSoft.Web.frmConfig.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Document\obj\Debug\LandSoft.Web.frmDownloadFile.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Document\obj\Debug\LandSoft.Web.frmUploadFile.resources
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Document\obj\Debug\LandSoft.Document.csproj.GenerateResource.Cache
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Document\obj\Debug\LandSoft.Document.dll
+D:\DIP\SOURSES2\Code2015\DatXanhMienBac\LandSoft.Document\obj\Debug\LandSoft.Document.pdb
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\DLL\LandSoft.Document.dll
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\DLL\LandSoft.Document.pdb
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Document\obj\Debug\LandSoft.Document.csprojResolveAssemblyReference.cache
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Document\obj\Debug\LandSoft.TaiLieu.ctlManager.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Document\obj\Debug\LandSoft.TaiLieu.ctlTaiLieu.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Document\obj\Debug\LandSoft.TaiLieu.frmEdit.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Document\obj\Debug\LandSoft.TaiLieu.frmLoaiTaiLieu.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Document\obj\Debug\LandSoft.Document.Properties.Resources.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Document\obj\Debug\LandSoft.Web.frmConfig.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Document\obj\Debug\LandSoft.Web.frmDownloadFile.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Document\obj\Debug\LandSoft.Web.frmUploadFile.resources
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Document\obj\Debug\LandSoft.Document.csproj.GenerateResource.Cache
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Document\obj\Debug\LandSoft.Document.dll
+D:\DIP\SOURSES2\Code2015\LandSoft_HBI\LandSoft.Document\obj\Debug\LandSoft.Document.pdb
+D:\BEESKY\REM\BEEREM FOR AGENTV2\DLL\LandSoft.Document.dll
+D:\BEESKY\REM\BEEREM FOR AGENTV2\DLL\LandSoft.Document.pdb
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Document\obj\Debug\LandSoft.Document.csprojResolveAssemblyReference.cache
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Document\obj\Debug\LandSoft.TaiLieu.ctlManager.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Document\obj\Debug\LandSoft.TaiLieu.ctlTaiLieu.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Document\obj\Debug\LandSoft.TaiLieu.frmEdit.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Document\obj\Debug\LandSoft.TaiLieu.frmLoaiTaiLieu.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Document\obj\Debug\LandSoft.Document.Properties.Resources.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Document\obj\Debug\LandSoft.Web.frmConfig.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Document\obj\Debug\LandSoft.Web.frmDownloadFile.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Document\obj\Debug\LandSoft.Web.frmUploadFile.resources
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Document\obj\Debug\LandSoft.Document.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Document\obj\Debug\LandSoft.Document.dll
+D:\BEESKY\REM\BEEREM FOR AGENTV2\LandSoft.Document\obj\Debug\LandSoft.Document.pdb
+D:\BEESKY\REM\BEEREM HOABINH\DLL\LandSoft.Document.dll
+D:\BEESKY\REM\BEEREM HOABINH\DLL\LandSoft.Document.pdb
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Document\obj\Debug\LandSoft.Document.csprojResolveAssemblyReference.cache
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Document\obj\Debug\LandSoft.TaiLieu.ctlManager.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Document\obj\Debug\LandSoft.TaiLieu.ctlTaiLieu.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Document\obj\Debug\LandSoft.TaiLieu.frmEdit.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Document\obj\Debug\LandSoft.TaiLieu.frmLoaiTaiLieu.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Document\obj\Debug\LandSoft.Document.Properties.Resources.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Document\obj\Debug\LandSoft.Web.frmConfig.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Document\obj\Debug\LandSoft.Web.frmDownloadFile.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Document\obj\Debug\LandSoft.Web.frmUploadFile.resources
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Document\obj\Debug\LandSoft.Document.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Document\obj\Debug\LandSoft.Document.dll
+D:\BEESKY\REM\BEEREM HOABINH\LandSoft.Document\obj\Debug\LandSoft.Document.pdb
+D:\My Job\BeeSky\BEEREM HOABINH\DLL\LandSoft.Document.dll
+D:\My Job\BeeSky\BEEREM HOABINH\DLL\LandSoft.Document.pdb
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Document\obj\Debug\LandSoft.Document.csprojResolveAssemblyReference.cache
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Document\obj\Debug\LandSoft.TaiLieu.ctlManager.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Document\obj\Debug\LandSoft.TaiLieu.ctlTaiLieu.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Document\obj\Debug\LandSoft.TaiLieu.frmEdit.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Document\obj\Debug\LandSoft.TaiLieu.frmLoaiTaiLieu.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Document\obj\Debug\LandSoft.Document.Properties.Resources.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Document\obj\Debug\LandSoft.Web.frmConfig.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Document\obj\Debug\LandSoft.Web.frmDownloadFile.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Document\obj\Debug\LandSoft.Web.frmUploadFile.resources
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Document\obj\Debug\LandSoft.Document.csproj.GenerateResource.Cache
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Document\obj\Debug\LandSoft.Document.dll.licenses
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Document\obj\Debug\LandSoft.Document.dll
+D:\My Job\BeeSky\BEEREM HOABINH\LandSoft.Document\obj\Debug\LandSoft.Document.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\DLL\LandSoft.Document.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\DLL\LandSoft.Document.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Document\obj\Debug\LandSoft.TaiLieu.ctlManager.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Document\obj\Debug\LandSoft.TaiLieu.ctlTaiLieu.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Document\obj\Debug\LandSoft.TaiLieu.frmEdit.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Document\obj\Debug\LandSoft.TaiLieu.frmLoaiTaiLieu.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Document\obj\Debug\LandSoft.Document.Properties.Resources.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Document\obj\Debug\LandSoft.Web.frmConfig.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Document\obj\Debug\LandSoft.Web.frmDownloadFile.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Document\obj\Debug\LandSoft.Web.frmUploadFile.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Document\obj\Debug\LandSoft.Document.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Document\obj\Debug\LandSoft.Document.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Document\obj\Debug\LandSoft.Document.pdb
+D:\BEESKY\REM\BEEREM HOABINHV2\LandSoft.Document\obj\Debug\LandSoft.Document.csprojResolveAssemblyReference.cache

@@ -1,0 +1,92 @@
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Notes\obj\Debug\ResolveAssemblyReference.cache
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Notes\obj\Debug\BEE.GhiChu.ctlNoteHistory.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Notes\obj\Debug\BEE.GhiChu.frmEdit.resources
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Notes\obj\Debug\ResGen.read.1.tlog
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Notes\obj\Debug\ResGen.write.1.tlog
+D:\My Job\BeeSky\BEEREM HOABINHV2\DLL\BEE.GhiChu.dll
+D:\My Job\BeeSky\BEEREM HOABINHV2\DLL\BEE.GhiChu.pdb
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Notes\obj\Debug\BEE.GhiChu.dll
+D:\My Job\BeeSky\BEEREM HOABINHV2\LandSoft.Notes\obj\Debug\BEE.GhiChu.pdb
+D:\BEESKY\REM\BEEREMA DEMO\DLL\BEE.GhiChu.dll
+D:\BEESKY\REM\BEEREMA DEMO\DLL\BEE.GhiChu.pdb
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Notes\obj\Debug\BEE.GhiChu.csprojResolveAssemblyReference.cache
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Notes\obj\Debug\BEE.GhiChu.ctlNoteHistory.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Notes\obj\Debug\BEE.GhiChu.frmEdit.resources
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Notes\obj\Debug\BEE.GhiChu.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Notes\obj\Debug\BEE.GhiChu.dll
+D:\BEESKY\REM\BEEREMA DEMO\LandSoft.Notes\obj\Debug\BEE.GhiChu.pdb
+E:\BEESKY\REM\BEEREMA DEMO\DLL\BEE.GhiChu.dll
+E:\BEESKY\REM\BEEREMA DEMO\DLL\BEE.GhiChu.pdb
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Notes\obj\Debug\BEE.GhiChu.csprojResolveAssemblyReference.cache
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Notes\obj\Debug\BEE.GhiChu.ctlNoteHistory.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Notes\obj\Debug\BEE.GhiChu.frmEdit.resources
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Notes\obj\Debug\BEE.GhiChu.csproj.GenerateResource.Cache
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Notes\obj\Debug\BEE.GhiChu.dll
+E:\BEESKY\REM\BEEREMA DEMO\LandSoft.Notes\obj\Debug\BEE.GhiChu.pdb
+D:\Dev\3. REM\BEEREMA DEMO\DLL\BEE.GhiChu.dll
+D:\Dev\3. REM\BEEREMA DEMO\DLL\BEE.GhiChu.pdb
+D:\Dev\3. REM\BEEREMA DEMO\BEE.GhiChu\obj\Debug\BEE.GhiChu.csprojResolveAssemblyReference.cache
+D:\Dev\3. REM\BEEREMA DEMO\BEE.GhiChu\obj\Debug\BEE.GhiChu.ctlNoteHistory.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.GhiChu\obj\Debug\BEE.GhiChu.frmEdit.resources
+D:\Dev\3. REM\BEEREMA DEMO\BEE.GhiChu\obj\Debug\BEE.GhiChu.csproj.GenerateResource.Cache
+D:\Dev\3. REM\BEEREMA DEMO\BEE.GhiChu\obj\Debug\BEE.GhiChu.dll
+D:\Dev\3. REM\BEEREMA DEMO\BEE.GhiChu\obj\Debug\BEE.GhiChu.pdb
+D:\Dev\3. REM\REM_HOALAND\Source\app\BEE.GhiChu.dll
+D:\Dev\3. REM\REM_HOALAND\Source\app\BEE.GhiChu.pdb
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.csprojResolveAssemblyReference.cache
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.ctlNoteHistory.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.frmEdit.resources
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.csproj.GenerateResource.Cache
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.dll
+D:\Dev\3. REM\REM_HOALAND\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.pdb
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\app\BEE.GhiChu.dll
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\app\BEE.GhiChu.pdb
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.csprojResolveAssemblyReference.cache
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.ctlNoteHistory.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.frmEdit.resources
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.csproj.GenerateResource.Cache
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.dll
+F:\BEESKY\Dev\3. REM\REM_HOALAND\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.pdb
+F:\2017\BEEREMA\HOALAND\Source\app\BEE.GhiChu.dll
+F:\2017\BEEREMA\HOALAND\Source\app\BEE.GhiChu.pdb
+F:\2017\BEEREMA\HOALAND\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.ctlNoteHistory.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.frmEdit.resources
+F:\2017\BEEREMA\HOALAND\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.csproj.GenerateResource.Cache
+F:\2017\BEEREMA\HOALAND\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.dll
+F:\2017\BEEREMA\HOALAND\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.pdb
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.ctlNoteHistory.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.frmEdit.resources
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.csproj.GenerateResource.Cache
+F:\2017\BEEREMA\HOALAND - Copy\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.pdb
+F:\2017\BEEREMA\HOALAND35\Source\app\BEE.GhiChu.dll
+F:\2017\BEEREMA\HOALAND35\Source\app\BEE.GhiChu.pdb
+F:\2017\BEEREMA\HOALAND35\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.ctlNoteHistory.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.frmEdit.resources
+F:\2017\BEEREMA\HOALAND35\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.csproj.GenerateResource.Cache
+F:\2017\BEEREMA\HOALAND35\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.dll
+F:\2017\BEEREMA\HOALAND35\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.pdb
+F:\2017\BEEREMA\HOLAND_SVN\Source\app\BEE.GhiChu.dll
+F:\2017\BEEREMA\HOLAND_SVN\Source\app\BEE.GhiChu.pdb
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.ctlNoteHistory.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.frmEdit.resources
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.csproj.GenerateResource.Cache
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.dll
+F:\2017\BEEREMA\HOLAND_SVN\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.pdb
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\app\BEE.GhiChu.dll
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\app\BEE.GhiChu.pdb
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.ctlNoteHistory.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.frmEdit.resources
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.csproj.GenerateResource.Cache
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.dll
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.pdb
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.csproj.CoreCompileInputs.cache
+F:\2017\BEEREMA\HOALAND_FULL\FW46\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.csproj.CopyComplete
+D:\UPGARDE\DEV19\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.csprojResolveAssemblyReference.cache
+D:\UPGARDE\DEV19\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.ctlNoteHistory.resources
+D:\UPGARDE\DEV19\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.frmEdit.resources
+D:\UPGARDE\DEV19\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.csproj.GenerateResource.Cache
+D:\UPGARDE\DEV19\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.dll.licenses
+D:\UPGARDE\DEV19\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.dll
+D:\UPGARDE\DEV19\Source\BEE.GhiChu\obj\Debug\BEE.GhiChu.pdb
+D:\UPGARDE\DEV19\Source\app\BEE.GhiChu.dll
+D:\UPGARDE\DEV19\Source\app\BEE.GhiChu.pdb

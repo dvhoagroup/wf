@@ -1,0 +1,10 @@
+D:\BEESKY\REM\BEEREM HOABINHV2\NewReports\bin\MySetting\NewReports.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\NewReports\bin\MySetting\LandSoft.Library.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\NewReports\bin\MySetting\LandSoft.Translate.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\NewReports\obj\MySetting\NewReports.ctlThongKeKhachHang.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\NewReports\obj\MySetting\NewReports.ctlThongKeGiaoDich.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\NewReports\obj\MySetting\NewReports.Form1.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\NewReports\obj\MySetting\NewReports.XtraReport1.resources
+D:\BEESKY\REM\BEEREM HOABINHV2\NewReports\obj\MySetting\BeeReports.csproj.GenerateResource.Cache
+D:\BEESKY\REM\BEEREM HOABINHV2\NewReports\obj\MySetting\NewReports.dll
+D:\BEESKY\REM\BEEREM HOABINHV2\NewReports\obj\MySetting\BeeReports.csprojResolveAssemblyReference.cache

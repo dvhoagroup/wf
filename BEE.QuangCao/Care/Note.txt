@@ -1,0 +1,23 @@
+﻿* Store Procedure
+- KhachHang_getBirthday
+- CareCustomer_getByCustomerID
+- AlertCongNo_update
+
+
+* Tables
+- careCategory
+- careCustomer
+- careProssess
+- careStatus
+- alter SMSListOfRecipients, SMSListWaitSending, mailReceiveList, mailSendingList: CareID (int)
+
+* Triggers
+- CareCustomer_forInsert
+- mailSendingList_forUpdate
+- SMSListWaitSending_forUpdate
+
+* Functions
+- funcCheckIsGift
+
+* C#
+- BEE.QuangCao.SMS.ctlGroupReceivesSMS

@@ -1,0 +1,1282 @@
+﻿body
+{
+    font-size: 12px;
+    font-family: Tahoma;    
+}
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.project-tower
+{
+    height: 70px;
+    position: relative;
+    width: 2950px;
+}
+
+.project-tower .project
+{
+    position:absolute;
+    top: 5px;
+    left: 50px;
+    font-size: 20px;
+    font-family: Calibri;
+    font-weight: bold;
+    background-color: #0070c0;
+    width: 390px;
+    height: 30px;
+    line-height: 30px;
+    color: #fff;
+    text-align: center;
+}
+
+.project-tower .tower
+{
+    position:absolute;
+    top: 5px;
+    right: 50px;
+    font-size: 20px;
+    font-family: Calibri;
+    font-weight: bold;
+    background-color: #0070c0;
+    width: 120px;
+    height: 30px;
+    line-height: 30px;
+    color: #fff;
+    text-align: center;
+}
+
+.project-tower .towerB
+{
+    position:absolute;
+    top: 5px;
+    left: 1670px;
+    font-size: 20px;
+    font-family: Calibri;
+    font-weight: bold;
+    background-color: #0070c0;
+    width: 120px;
+    height: 30px;
+    line-height: 30px;
+    color: #fff;
+    text-align: center;
+}
+
+.project-tower .date
+{
+    position:absolute;
+    top: 5px;
+    left: 500px;
+    font-size: 16px;
+    font-family: Calibri;
+    font-weight: bold;
+    background-color: #0070c0;
+    width: 120px;
+    height: 30px;
+    line-height: 30px;
+    color: #fff;
+    text-align: center;
+}
+
+.project-tower .print
+{
+    position:absolute;
+    top: 5px;
+    left: 630px;
+    font-size: 16px;
+    font-family: Calibri;
+    font-weight: bold;
+    background-color: #0070c0;
+    width: 120px;
+    height: 30px;
+    line-height: 30px;
+    color: #fff;
+    text-align: center;
+    cursor: pointer
+}
+
+.tower-separator
+{
+    width: 40px;
+    height: 60px;
+    float: left;
+}
+
+.floor
+{
+    margin: 1px;
+    margin-right: 10px;
+    margin-left: 5px;
+    width: 30px;
+    float: left;
+    height: 186px;
+    line-height: 183px;
+    border: 1px solid #000;
+    text-align: center;
+}
+
+.floor-not-use
+{
+    margin: 1px;
+    margin-right: 10px;
+    margin-left: 5px;
+    width: 30px;
+    float: left;
+    height: 60px;
+    line-height: 60px;
+    border: 1px solid #000;
+    text-align: center;
+}
+
+.itemBox 
+{
+    border: 1px solid #000;
+    behavior: url(PIE.htc);
+    text-align: left;
+    width: 130px;
+    height: 186px;
+    line-height: 30px;
+    float: left;
+    margin: 1px;
+    text-align: center;
+    position: relative;
+    z-index: 999;
+}
+
+.itemBox .booking
+{
+    position: absolute;
+    left: 0;
+    bottom: 20px;
+    display: none;
+    z-index: 1000;
+    height: 41px;
+    line-height: 41px;
+    width: 125px;
+    background: url('../images/background.png');
+    padding-left: 5px;
+    color: #fff;
+    font-weight: bold;
+}
+
+.itemBox .booking a
+{
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+}
+
+.itemBox .booking a:hover
+{
+    display: inline-block;
+    text-decoration: none;
+    color: orange;
+}
+
+.itemBox:hover .booking
+{
+    position: absolute;
+    left: 0;
+    bottom: 20px;
+    display: block;
+    z-index: 1000;
+}
+
+.itemBox .caption
+{
+    background: #000;
+    height: 20px;
+    line-height: 20px;
+    position: relative
+}
+
+.itemBox .caption .no
+{
+    background: #000;
+    width: 65px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    line-height: 20px;
+    color: #fff;
+    font-weight: bold
+}
+
+.itemBox .caption .type
+{
+    background: #000;
+    width: 64px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    border-left: 1px #fff solid;
+    height: 20px;
+    line-height: 20px;
+    color: #fff;
+    font-weight: bold
+}
+
+.itemBox .area-br
+{
+    height: 20px;
+    line-height: 20px;
+    position: relative;
+    border-bottom: 1px #000 solid;
+}
+
+.itemBox .area-br .area
+{
+    width: 65px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 20px;
+    line-height: 20px;
+}
+
+.itemBox .area-br .br
+{
+    width: 64px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    border-left: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+}
+
+.itemBox .price
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+}
+
+.itemBox .discount-year
+{
+    height: 20px;
+    line-height: 20px;
+    position: relative;
+    border-bottom: 1px #000 solid;
+}
+
+.itemBox .discount-year .discount
+{
+    width: 65px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 20px;
+    line-height: 20px;
+}
+
+.itemBox .discount-year .discount-y
+{
+    width: 65px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 20px;
+    line-height: 20px;
+    color: Red;
+}
+
+.itemBox .discount-year .year
+{
+    width: 64px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    border-left: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+}
+
+.itemBox .discountprice
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+}
+
+.itemBox .discountprice-sale
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+    background-color: #00ffff
+}
+
+.itemBox .discountprice-da
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+    background-color: orange
+}
+
+.itemBox .discountprice-spa
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+    background-color: red;
+    color: #fff
+}
+
+.itemBox .status
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+}
+
+.itemBox .status-sale
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+    background-color: #00ffff
+}
+
+.itemBox .status-da
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+    background-color: orange
+}
+
+.itemBox .status-spa
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+    background-color: red;
+    color: #fff
+}
+
+.itemBox .customer
+{
+    border-bottom: 1px #000 solid;
+    height: 40px;
+    line-height: 40px;
+}
+
+.itemBox .customer-sale
+{
+    border-bottom: 1px #000 solid;
+    height: 40px;
+    line-height: 40px;
+    background-color: #00ffff
+}
+
+.itemBox .customer-da
+{
+    border-bottom: 1px #000 solid;
+    height: 40px;
+    line-height: 40px;
+    background-color: orange
+}
+
+.itemBox .customer-spa
+{
+    border-bottom: 1px #000 solid;
+    height: 40px;
+    line-height: 40px;
+    background-color: red;
+    color: #fff
+}
+
+.itemBox .cate-customer
+{
+    height: 20px;
+    line-height: 20px;
+}
+
+.itemBox .cate-customer-sale
+{
+    height: 20px;
+    line-height: 20px;
+    background-color: #00ffff
+}
+
+.itemBox .cate-customer-da
+{
+    height: 20px;
+    line-height: 20px;
+    background-color: orange
+}
+
+.itemBox .cate-customer-spa
+{
+    height: 20px;
+    line-height: 20px;
+    background-color: red;
+    color: #fff
+}
+
+.itemBox .not-use
+{
+    margin-top: 80px;
+    font-weight: bold
+}
+
+/*-------------Box not use Size --------------*/
+.itemBox-not-use
+{
+    border: 1px solid #000;
+    behavior: url(PIE.htc);
+    text-align: left;
+    width: 130px;
+    height: 60px;
+    line-height: 60px;
+    float: left;
+    margin: 1px;
+    text-align: center;
+}
+
+.itemBox-not-use .not-use
+{
+    font-weight: bold
+}
+        
+/*-------------Size 1.5--------------*/
+.itemBox15 
+{
+    border: 1px solid #000;
+    behavior: url(PIE.htc);
+    text-align: left;
+    width: 197px;
+    height: 186px;
+    line-height: 30px;
+    float: left;
+    margin: 1px;
+    text-align: center;
+}
+
+.itemBox15 .caption
+{
+    background: #000;
+    height: 20px;
+    line-height: 20px;
+    position: relative
+}
+
+.itemBox15 .caption .no
+{
+    background: #000;
+    width: 97px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    line-height: 20px;
+    color: #fff;
+    font-weight: bold
+}
+
+.itemBox15 .caption .type
+{
+    background: #000;
+    width: 96px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    border-left: 1px #fff solid;
+    height: 20px;
+    line-height: 20px;
+    color: #fff;
+    font-weight: bold
+}
+
+.itemBox15 .area-br
+{
+    height: 20px;
+    line-height: 20px;
+    position: relative;
+    border-bottom: 1px #000 solid;
+}
+
+.itemBox15 .area-br .area
+{
+    width: 97px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 20px;
+    line-height: 20px;
+}
+
+.itemBox15 .area-br .br
+{
+    width: 96px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    border-left: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+}
+
+.itemBox15 .price
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+}
+
+.itemBox15 .discount-year
+{
+    height: 20px;
+    line-height: 20px;
+    position: relative;
+    border-bottom: 1px #000 solid;
+}
+
+.itemBox15 .discount-year .discount
+{
+    width: 97px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 20px;
+    line-height: 20px;
+}
+
+.itemBox15 .discount-year .year
+{
+    width: 96px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    border-left: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+}
+
+.itemBox15 .discountprice
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+}
+
+.itemBox15 .discountprice-sale
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+    background-color: #00ffff
+}
+
+.itemBox15 .discountprice-da
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+    background-color: orange
+}
+
+.itemBox15 .discountprice-spa
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+    background-color: red;
+    color: #fff
+}
+
+.itemBox15 .status
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+}
+
+.itemBox15 .status-sale
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+    background-color: #00ffff
+}
+
+.itemBox15 .status-da
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+    background-color: orange
+}
+
+.itemBox15 .status-spa
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+    background-color: red;
+    color: #fff
+}
+
+.itemBox15 .customer
+{
+    border-bottom: 1px #000 solid;
+    height: 40px;
+    line-height: 40px;
+}
+
+.itemBox15 .customer-sale
+{
+    border-bottom: 1px #000 solid;
+    height: 40px;
+    line-height: 40px;
+    background-color: #00ffff
+}
+
+.itemBox15 .customer-da
+{
+    border-bottom: 1px #000 solid;
+    height: 40px;
+    line-height: 40px;
+    background-color: orange
+}
+
+.itemBox15 .customer-spa
+{
+    border-bottom: 1px #000 solid;
+    height: 40px;
+    line-height: 40px;
+    background-color: red;
+    color: #fff
+}
+
+.itemBox15 .cate-customer
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+}
+
+.itemBox15 .cate-customer-sale
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+    background-color: #00ffff
+}
+
+.itemBox15 .cate-customer-da
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+    background-color: orange
+}
+
+.itemBox15 .cate-customer-spa
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+    background-color: red;
+    color: #fff
+}
+
+.itemBox15 .not-use
+{
+    margin-top: 80px;
+    font-weight: bold
+}
+
+/*-------------Box not use Size 1.5--------------*/
+.itemBox-not-use15
+{
+    border: 1px solid #000;
+    behavior: url(PIE.htc);
+    text-align: left;
+    width: 197px;
+    height: 60px;
+    line-height: 60px;
+    float: left;
+    margin: 1px;
+    text-align: center;
+}
+
+.itemBox-not-use15 .not-use
+{
+    font-weight: bold
+}
+
+/*-------------Size 2--------------*/
+.itemBox2 
+{
+    border: 1px solid #000;
+    behavior: url(PIE.htc);
+    text-align: left;
+    width: 264px;
+    height: 186px;
+    line-height: 30px;
+    float: left;
+    margin: 1px;
+    text-align: center;
+}
+
+.itemBox2 .caption
+{
+    background: #000;
+    height: 20px;
+    line-height: 20px;
+    position: relative
+}
+
+.itemBox2 .caption .no
+{
+    background: #000;
+    width: 130px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    line-height: 20px;
+    color: #fff;
+    font-weight: bold
+}
+
+.itemBox2 .caption .type
+{
+    background: #000;
+    width: 129px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    border-left: 1px #fff solid;
+    height: 20px;
+    line-height: 20px;
+    color: #fff;
+    font-weight: bold
+}
+
+.itemBox2 .area-br
+{
+    height: 20px;
+    line-height: 20px;
+    position: relative;
+    border-bottom: 1px #000 solid;
+}
+
+.itemBox2 .area-br .area
+{
+    width: 130px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 20px;
+    line-height: 20px;
+}
+
+.itemBox2 .area-br .br
+{
+    width: 129px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    border-left: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+}
+
+.itemBox2 .price
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+}
+
+.itemBox2 .discount-year
+{
+    height: 20px;
+    line-height: 20px;
+    position: relative;
+    border-bottom: 1px #000 solid;
+}
+
+.itemBox2 .discount-year .discount
+{
+    width: 130px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 20px;
+    line-height: 20px;
+}
+
+.itemBox2 .discount-year .year
+{
+    width: 129px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    border-left: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+}
+
+.itemBox2 .discountprice
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+}
+
+.itemBox2 .discountprice-sale
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+    background-color: #00ffff
+}
+
+.itemBox2 .discountprice-da
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+    background-color: orange
+}
+
+.itemBox2 .discountprice-spa
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+    background-color: red;
+    color: #fff
+}
+
+.itemBox2 .status
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+}
+
+.itemBox2 .status-sale
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+    background-color: #00ffff
+}
+
+.itemBox2 .status-da
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+    background-color: orange
+}
+
+.itemBox2 .status-spa
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+    background-color: red;
+    color: #fff
+}
+
+.itemBox2 .customer
+{
+    border-bottom: 1px #000 solid;
+    height: 40px;
+    line-height: 40px;
+}
+
+.itemBox2 .customer-sale
+{
+    border-bottom: 1px #000 solid;
+    height: 40px;
+    line-height: 40px;
+    background-color: #00ffff
+}
+
+.itemBox2 .customer-da
+{
+    border-bottom: 1px #000 solid;
+    height: 40px;
+    line-height: 40px;
+    background-color: orange
+}
+
+.itemBox2 .customer-spa
+{
+    border-bottom: 1px #000 solid;
+    height: 40px;
+    line-height: 40px;
+    background-color: red;
+    color: #fff
+}
+
+.itemBox2 .cate-customer
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+}
+
+.itemBox2 .cate-customer-sale
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+    background-color: #00ffff
+}
+
+.itemBox2 .cate-customer-da
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+    background-color: orange
+}
+
+.itemBox2 .cate-customer-spa
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+    background-color: red;
+    color: #fff
+}
+
+.itemBox2 .not-use
+{
+    margin-top: 80px;
+    font-weight: bold
+}
+
+/*-------------Box not use Size 2--------------*/
+.itemBox-not-use2
+{
+    border: 1px solid #000;
+    behavior: url(PIE.htc);
+    text-align: left;
+    width: 264px;
+    height: 60px;
+    line-height: 60px;
+    float: left;
+    margin: 1px;
+    text-align: center;
+}
+
+.itemBox-not-use2 .not-use
+{
+    font-weight: bold
+}
+
+/*-------------Size 3--------------*/
+.itemBox3 
+{
+    border: 1px solid #000;
+    behavior: url(PIE.htc);
+    text-align: left;
+    width: 398px;
+    height: 186px;
+    line-height: 30px;
+    float: left;
+    margin: 1px;
+    text-align: center;
+}
+
+.itemBox3 .caption
+{
+    background: #000;
+    height: 20px;
+    line-height: 20px;
+    position: relative
+}
+
+.itemBox3 .caption .no
+{
+    background: #000;
+    width: 195px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    line-height: 20px;
+    color: #fff;
+    font-weight: bold
+}
+
+.itemBox3 .caption .type
+{
+    background: #000;
+    width: 194px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    border-left: 1px #fff solid;
+    height: 20px;
+    line-height: 20px;
+    color: #fff;
+    font-weight: bold
+}
+
+.itemBox3 .area-br
+{
+    height: 20px;
+    line-height: 20px;
+    position: relative;
+    border-bottom: 1px #000 solid;
+}
+
+.itemBox3 .area-br .area
+{
+    width: 195px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 20px;
+    line-height: 20px;
+}
+
+.itemBox3 .area-br .br
+{
+    width: 194px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    border-left: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+}
+
+.itemBox3 .price
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+}
+
+.itemBox3 .discount-year
+{
+    height: 20px;
+    line-height: 20px;
+    position: relative;
+    border-bottom: 1px #000 solid;
+}
+
+.itemBox3 .discount-year .discount
+{
+    width: 195px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 20px;
+    line-height: 20px;
+}
+
+.itemBox3 .discount-year .year
+{
+    width: 194px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    border-left: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+}
+
+.itemBox3 .discountprice
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+}
+
+.itemBox3 .discountprice-sale
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+    background-color: #00ffff
+}
+
+.itemBox3 .discountprice-da
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+    background-color: orange
+}
+
+.itemBox3 .discountprice-spa
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+    background-color: red;
+    color: #fff
+}
+
+.itemBox3 .status
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+}
+
+.itemBox3 .status-sale
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+    background-color: #00ffff
+}
+
+.itemBox3 .status-da
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+    background-color: orange
+}
+
+.itemBox3 .status-spa
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+    background-color: red;
+    color: #fff
+}
+
+.itemBox3 .customer
+{
+    border-bottom: 1px #000 solid;
+    height: 40px;
+    line-height: 40px;
+}
+
+.itemBox3 .customer-sale
+{
+    border-bottom: 1px #000 solid;
+    height: 40px;
+    line-height: 40px;
+    background-color: #00ffff
+}
+
+.itemBox3 .customer-da
+{
+    border-bottom: 1px #000 solid;
+    height: 40px;
+    line-height: 40px;
+    background-color: orange
+}
+
+.itemBox3 .customer-spa
+{
+    border-bottom: 1px #000 solid;
+    height: 40px;
+    line-height: 40px;
+    background-color: red;
+    color: #fff
+}
+
+.itemBox3 .cate-customer
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+}
+
+.itemBox3 .cate-customer-sale
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+    background-color: #00ffff
+}
+
+.itemBox3 .cate-customer-da
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+    background-color: orange
+}
+
+.itemBox3 .cate-customer-spa
+{
+    border-bottom: 1px #000 solid;
+    height: 20px;
+    line-height: 20px;
+    background-color: red;
+    color: #fff
+}
+
+.itemBox3 .not-use
+{
+    margin-top: 80px;
+    font-weight: bold
+}
+
+/*-------------Box not use Size 3--------------*/
+.itemBox-not-use3
+{
+    border: 1px solid #000;
+    behavior: url(PIE.htc);
+    text-align: left;
+    width: 398px;
+    height: 60px;
+    line-height: 60px;
+    float: left;
+    margin: 1px;
+    text-align: center;
+}
+
+.itemBox-not-use3 .not-use
+{
+    font-weight: bold
+}
+
+/*-------------Size 4--------------*/
+.itemBox4
+{
+    border: 1px solid #000;
+    behavior: url(PIE.htc);
+    text-align: left;
+    width: 532px;
+    height: 186px;
+    line-height: 30px;
+    float: left;
+    margin: 1px;
+    text-align: center;
+}
+
+.itemBox4 .not-use
+{
+    margin-top: 80px;
+    font-weight: bold
+}
+
+/*-------------Box not use Size 4--------------*/
+.itemBox-not-use4
+{
+    border: 1px solid #000;
+    behavior: url(PIE.htc);
+    text-align: left;
+    width: 532px;
+    height: 60px;
+    line-height: 60px;
+    float: left;
+    margin: 1px;
+    text-align: center;
+}
+
+.itemBox-not-use4 .not-use
+{
+    font-weight: bold
+}
