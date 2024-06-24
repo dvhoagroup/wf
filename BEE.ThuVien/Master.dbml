@@ -6024,6 +6024,17 @@
       <Association Name="mglMTCongViec_mglMTSanPham" Member="mglMTSanPhams" ThisKey="ID" OtherKey="MaCV" Type="mglMTSanPham" />
     </Type>
   </Table>
+  <Table Name="dbo.mglLichSuOtherMT" Member="mglLichSuOtherMTs">
+    <Type Name="mglLichSuOtherMT">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="NoiDung" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="MaNV" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="NgayNhap" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="MaMT" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MaCV" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="NgayXL" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
   <Table Name="dbo.mglMTSanPham" Member="mglMTSanPhams">
     <Type Name="mglMTSanPham">
       <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
@@ -6040,18 +6051,8 @@
       <Column Name="PhiMGCTMua" Type="System.Decimal" DbType="Decimal(16,2)" CanBeNull="true" />
       <Column Name="PhiMGDTMua" Type="System.Decimal" DbType="Decimal(16,2)" CanBeNull="true" />
       <Column Name="MaNV" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="endDateSatus" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
       <Association Name="mglMTCongViec_mglMTSanPham" Member="mglMTCongViec" ThisKey="MaCV" OtherKey="ID" Type="mglMTCongViec" IsForeignKey="true" />
-    </Type>
-  </Table>
-  <Table Name="dbo.mglLichSuOtherMT" Member="mglLichSuOtherMTs">
-    <Type Name="mglLichSuOtherMT">
-      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
-      <Column Name="NoiDung" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
-      <Column Name="MaNV" Type="System.Int32" DbType="Int" CanBeNull="true" />
-      <Column Name="NgayNhap" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
-      <Column Name="MaMT" Type="System.Int32" DbType="Int" CanBeNull="true" />
-      <Column Name="MaCV" Type="System.Int32" DbType="Int" CanBeNull="true" />
-      <Column Name="NgayXL" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
     </Type>
   </Table>
   <Function Name="dbo.mglDatCoc_TaoSoDC" Method="mglDatCoc_TaoSoDC">
@@ -12367,7 +12368,7 @@
       <Column Name="Color" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
       <Column Name="HoTenKH" Type="System.String" DbType="NVarChar(101)" CanBeNull="true" />
       <Column Name="HoTenNLH" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
-      <Column Name="DTDD" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="" Member="Column1" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
       <Column Name="DienThoai" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
       <Column Name="Phone2" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
       <Column Name="PhiMG" Type="System.Decimal" DbType="Decimal(18,2)" CanBeNull="true" />
@@ -12385,6 +12386,8 @@
       <Column Name="NgayNhap" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
       <Column Name="Code" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
       <Column Name="[Desc]" Member="Desc" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="endDateSatus" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="DTDD" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
     </ElementType>
   </Function>
 </Database>

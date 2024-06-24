@@ -2354,7 +2354,7 @@
             // 
             this.xtraTabPage2.Controls.Add(this.splitContainerControl2);
             this.xtraTabPage2.Name = "xtraTabPage2";
-            this.xtraTabPage2.Size = new System.Drawing.Size(831, 645);
+            this.xtraTabPage2.Size = new System.Drawing.Size(831, 646);
             this.xtraTabPage2.Text = "Khách hàng";
             // 
             // splitContainerControl2
@@ -2367,7 +2367,7 @@
             this.splitContainerControl2.Panel1.Text = "Panel1";
             this.splitContainerControl2.Panel2.Controls.Add(this.groupControl1);
             this.splitContainerControl2.Panel2.Text = "Panel2";
-            this.splitContainerControl2.Size = new System.Drawing.Size(831, 645);
+            this.splitContainerControl2.Size = new System.Drawing.Size(831, 646);
             this.splitContainerControl2.SplitterPosition = 289;
             this.splitContainerControl2.TabIndex = 65;
             this.splitContainerControl2.Text = "splitContainerControl2";
@@ -2378,7 +2378,7 @@
             this.groupControl1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.groupControl1.Location = new System.Drawing.Point(0, 0);
             this.groupControl1.Name = "groupControl1";
-            this.groupControl1.Size = new System.Drawing.Size(831, 346);
+            this.groupControl1.Size = new System.Drawing.Size(831, 347);
             this.groupControl1.TabIndex = 0;
             this.groupControl1.Text = "Người đại diện";
             // 
@@ -2390,7 +2390,7 @@
             this.gridControlAvatar.MainView = this.gridAvatar;
             this.gridControlAvatar.MenuManager = this.barManager1;
             this.gridControlAvatar.Name = "gridControlAvatar";
-            this.gridControlAvatar.Size = new System.Drawing.Size(827, 321);
+            this.gridControlAvatar.Size = new System.Drawing.Size(827, 322);
             this.gridControlAvatar.TabIndex = 1;
             this.gridControlAvatar.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gridAvatar});
@@ -2493,7 +2493,7 @@
             // 
             this.xtraTabGioiThieu.Controls.Add(this.txtGioiThieu);
             this.xtraTabGioiThieu.Name = "xtraTabGioiThieu";
-            this.xtraTabGioiThieu.Size = new System.Drawing.Size(831, 645);
+            this.xtraTabGioiThieu.Size = new System.Drawing.Size(831, 646);
             this.xtraTabGioiThieu.Text = "Giới thiệu";
             // 
             // txtGioiThieu
@@ -2503,14 +2503,14 @@
             this.txtGioiThieu.InnerText = null;
             this.txtGioiThieu.Location = new System.Drawing.Point(0, 0);
             this.txtGioiThieu.Name = "txtGioiThieu";
-            this.txtGioiThieu.Size = new System.Drawing.Size(831, 645);
+            this.txtGioiThieu.Size = new System.Drawing.Size(831, 646);
             this.txtGioiThieu.TabIndex = 5;
             // 
             // xtraTabTang
             // 
             this.xtraTabTang.Controls.Add(this.gcChiTiet);
             this.xtraTabTang.Name = "xtraTabTang";
-            this.xtraTabTang.Size = new System.Drawing.Size(831, 645);
+            this.xtraTabTang.Size = new System.Drawing.Size(831, 646);
             this.xtraTabTang.Text = "Thông tin tổng thế";
             // 
             // gcChiTiet
@@ -2525,7 +2525,7 @@
             this.spinEdit2,
             this.spinEdit3,
             this.spinEdit4});
-            this.gcChiTiet.Size = new System.Drawing.Size(831, 645);
+            this.gcChiTiet.Size = new System.Drawing.Size(831, 646);
             this.gcChiTiet.TabIndex = 0;
             this.gcChiTiet.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.grvChiTiet});

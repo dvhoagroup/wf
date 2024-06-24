@@ -178,3 +178,15 @@ C:\HOALAND\Source Code_winform\DEV19\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.dl
 C:\HOALAND\Source Code_winform\DEV19\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.pdb
 C:\HOALAND\Source Code_winform\DEV19\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.dll.licenses
 C:\HOALAND\Source Code_winform\DEV19\Source\BEE.ThuVien\obj\Debug\BEE.ThuVien.csprojAssemblyReference.cache
+C:\HOALAND\wf\app\BEE.ThuVien.dll.config
+C:\HOALAND\wf\app\BEE.ThuVien.dll
+C:\HOALAND\wf\app\BEE.ThuVien.pdb
+C:\HOALAND\wf\BEE.ThuVien\obj\Debug\BEE.ThuVien.csprojAssemblyReference.cache
+C:\HOALAND\wf\BEE.ThuVien\obj\Debug\BEE.ThuVien.ctlManager.resources
+C:\HOALAND\wf\BEE.ThuVien\obj\Debug\BEE.ThuVien.Properties.Resources.resources
+C:\HOALAND\wf\BEE.ThuVien\obj\Debug\BEE.ThuVien.csproj.GenerateResource.cache
+C:\HOALAND\wf\BEE.ThuVien\obj\Debug\BEE.ThuVien.dll.licenses
+C:\HOALAND\wf\BEE.ThuVien\obj\Debug\BEE.ThuVien.csproj.CoreCompileInputs.cache
+C:\HOALAND\wf\BEE.ThuVien\obj\Debug\BEE.ThuVien.csproj.CopyComplete
+C:\HOALAND\wf\BEE.ThuVien\obj\Debug\BEE.ThuVien.dll
+C:\HOALAND\wf\BEE.ThuVien\obj\Debug\BEE.ThuVien.pdb

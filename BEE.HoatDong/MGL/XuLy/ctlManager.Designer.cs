@@ -177,6 +177,7 @@
             this.gridColumn46 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.lkTrangThai = new DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit();
             this.popSanPham = new DevExpress.XtraBars.PopupMenu(this.components);
+            this.gridColumn47 = new DevExpress.XtraGrid.Columns.GridColumn();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainerControl1)).BeginInit();
             this.splitContainerControl1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.gcDaChao)).BeginInit();
@@ -304,7 +305,8 @@
             this.gridColumn16,
             this.gridColumn7,
             this.gridColumn29,
-            this.Code});
+            this.Code,
+            this.gridColumn47});
             this.grvDaChao.DetailHeight = 284;
             this.grvDaChao.GridControl = this.gcDaChao;
             this.grvDaChao.GroupPanelText = "Kéo cột lên đây để xem theo nhóm";
@@ -804,7 +806,7 @@
             this.gridColumn15.FieldName = "UpdateDate";
             this.gridColumn15.Name = "gridColumn15";
             this.gridColumn15.Visible = true;
-            this.gridColumn15.VisibleIndex = 26;
+            this.gridColumn15.VisibleIndex = 27;
             this.gridColumn15.Width = 106;
             // 
             // gridColumn16
@@ -829,7 +831,7 @@
             this.gridColumn29.FieldName = "HoTenNVN";
             this.gridColumn29.Name = "gridColumn29";
             this.gridColumn29.Visible = true;
-            this.gridColumn29.VisibleIndex = 27;
+            this.gridColumn29.VisibleIndex = 28;
             this.gridColumn29.Width = 130;
             // 
             // Code
@@ -1962,6 +1964,18 @@
             this.popSanPham.Manager = this.barManager1;
             this.popSanPham.Name = "popSanPham";
             // 
+            // gridColumn47
+            // 
+            this.gridColumn47.AppearanceHeader.Options.UseFont = true;
+            this.gridColumn47.Caption = "Ngày chuyển trạng thái cuối";
+            this.gridColumn47.DisplayFormat.FormatString = "d";
+            this.gridColumn47.DisplayFormat.FormatType = DevExpress.Utils.FormatType.DateTime;
+            this.gridColumn47.FieldName = "endDateSatus";
+            this.gridColumn47.Name = "gridColumn47";
+            this.gridColumn47.Visible = true;
+            this.gridColumn47.VisibleIndex = 26;
+            this.gridColumn47.Width = 155;
+            // 
             // ctlManager
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -2176,5 +2190,6 @@
         private DevExpress.XtraBars.BarEditItem itemNhanVien;
         private DevExpress.XtraEditors.Repository.RepositoryItemCheckedComboBoxEdit ckNhanVien;
         private TaiLieu.ctlTaiLieu ctlTaiLieu2;
+        private DevExpress.XtraGrid.Columns.GridColumn gridColumn47;
     }
 }

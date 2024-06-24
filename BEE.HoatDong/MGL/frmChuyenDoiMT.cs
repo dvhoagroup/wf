@@ -66,7 +66,8 @@ namespace BEE.HoatDong.MGL
             this.TieuDe = txtTieuDe.Text;
             this.MaPT = (byte?)lookPhuongThuc.EditValue;
             this.NgayXL = (DateTime)dateNgayXL.EditValue;
-            this.DialogResult = DialogResult.OK;
+          
+                this.DialogResult = DialogResult.OK;
         }
 
         private void btnCancel_Click(object sender, EventArgs e)
