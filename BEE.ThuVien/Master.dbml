@@ -6013,17 +6013,6 @@
       <Column Name="MaPT" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
     </Type>
   </Table>
-  <Table Name="dbo.mglMTCongViec" Member="mglMTCongViecs">
-    <Type Name="mglMTCongViec">
-      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
-      <Column Name="MaBC" Type="System.Int32" DbType="Int" CanBeNull="true" />
-      <Column Name="MaNV" Type="System.Int32" DbType="Int" CanBeNull="true" />
-      <Column Name="NgayNhap" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
-      <Column Name="DienGiai" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
-      <Column Name="MaTT" Type="System.Int32" DbType="Int" CanBeNull="true" />
-      <Association Name="mglMTCongViec_mglMTSanPham" Member="mglMTSanPhams" ThisKey="ID" OtherKey="MaCV" Type="mglMTSanPham" />
-    </Type>
-  </Table>
   <Table Name="dbo.mglLichSuOtherMT" Member="mglLichSuOtherMTs">
     <Type Name="mglLichSuOtherMT">
       <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
@@ -6033,6 +6022,17 @@
       <Column Name="MaMT" Type="System.Int32" DbType="Int" CanBeNull="true" />
       <Column Name="MaCV" Type="System.Int32" DbType="Int" CanBeNull="true" />
       <Column Name="NgayXL" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.mglMTCongViec" Member="mglMTCongViecs">
+    <Type Name="mglMTCongViec">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="MaBC" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MaNV" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="NgayNhap" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="DienGiai" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="MaTT" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="mglMTCongViec_mglMTSanPham" Member="mglMTSanPhams" ThisKey="ID" OtherKey="MaCV" Type="mglMTSanPham" />
     </Type>
   </Table>
   <Table Name="dbo.mglMTSanPham" Member="mglMTSanPhams">
@@ -6051,7 +6051,6 @@
       <Column Name="PhiMGCTMua" Type="System.Decimal" DbType="Decimal(16,2)" CanBeNull="true" />
       <Column Name="PhiMGDTMua" Type="System.Decimal" DbType="Decimal(16,2)" CanBeNull="true" />
       <Column Name="MaNV" Type="System.Int32" DbType="Int" CanBeNull="true" />
-      <Column Name="endDateSatus" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
       <Association Name="mglMTCongViec_mglMTSanPham" Member="mglMTCongViec" ThisKey="MaCV" OtherKey="ID" Type="mglMTCongViec" IsForeignKey="true" />
     </Type>
   </Table>
@@ -12386,8 +12385,58 @@
       <Column Name="NgayNhap" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
       <Column Name="Code" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
       <Column Name="[Desc]" Member="Desc" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
-      <Column Name="endDateSatus" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
       <Column Name="DTDD" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.gdGetManagerGiaoDichV3" Method="gdGetManagerGiaoDichV3">
+    <Parameter Name="TuNgay" Parameter="tuNgay" Type="System.DateTime" DbType="DateTime" />
+    <Parameter Name="DenNgay" Parameter="denNgay" Type="System.DateTime" DbType="DateTime" />
+    <Parameter Name="MaNVXem" Parameter="maNVXem" Type="System.Int32" DbType="Int" />
+    <Parameter Name="PerID" Parameter="perID" Type="System.Boolean" DbType="Bit" />
+    <Parameter Name="MaNVQL" Parameter="maNVQL" Type="System.Int32" DbType="Int" />
+    <Parameter Name="MaNKD" Parameter="maNKD" Type="System.Int32" DbType="Int" />
+    <Parameter Name="MaPB" Parameter="maPB" Type="System.Int32" DbType="Int" />
+    <Parameter Name="ListMaTT" Parameter="listMaTT" Type="System.String" DbType="NVarChar(MAX)" />
+    <Parameter Name="ListMaNV" Parameter="listMaNV" Type="System.String" DbType="NVarChar(MAX)" />
+    <ElementType Name="gdGetManagerGiaoDichV3Result">
+      <Column Name="MaLoai" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="STT" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="DiaChi" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="DacTrung" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="GhiChu" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="LinkAnh" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="ToaDo" Type="System.String" DbType="NVarChar(70) NOT NULL" CanBeNull="false" />
+      <Column Name="HoTenKHBC" Type="System.String" DbType="NVarChar(101) NOT NULL" CanBeNull="false" />
+      <Column Name="DienThoai1" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="DiDong2" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="PhiMoiGioi" Type="System.Decimal" DbType="Decimal(16,2)" CanBeNull="true" />
+      <Column Name="ThanhTienMG" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="TenTT" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="PhiMGCT" Type="System.Decimal" DbType="Decimal(16,2) NOT NULL" CanBeNull="false" />
+      <Column Name="PhiMGCL" Type="System.Decimal" DbType="Decimal(16,2)" CanBeNull="true" />
+      <Column Name="ThuongHieu" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Color" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="HoTenKH" Type="System.String" DbType="NVarChar(101) NOT NULL" CanBeNull="false" />
+      <Column Name="HoTenNLH" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="DienThoai" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Phone2" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="PhiMG" Type="System.Decimal" DbType="Decimal(18,2)" CanBeNull="true" />
+      <Column Name="ThanhTienMGMT" Type="System.Decimal" DbType="Decimal(18,2)" CanBeNull="true" />
+      <Column Name="TenNC" Type="System.String" DbType="NVarChar(8) NOT NULL" CanBeNull="false" />
+      <Column Name="MaMT" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MaBC" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="MaKH" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MaKHBC" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="StartDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="PhiMGCTMua" Type="System.Decimal" DbType="Decimal(16,2)" CanBeNull="true" />
+      <Column Name="PhiMGDTMua" Type="System.Decimal" DbType="Decimal(16,2)" CanBeNull="true" />
+      <Column Name="HoTenNVN" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="NgayNhap" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Code" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="[Desc]" Member="Desc" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="DTDD" Type="System.String" DbType="NVarChar(15) NOT NULL" CanBeNull="false" />
     </ElementType>
   </Function>
 </Database>

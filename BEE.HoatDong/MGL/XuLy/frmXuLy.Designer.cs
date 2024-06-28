@@ -36,7 +36,8 @@
             this.btnExit = new DevExpress.XtraEditors.SimpleButton();
             this.lookTrangThai = new DevExpress.XtraEditors.LookUpEdit();
             this.labelControl3 = new DevExpress.XtraEditors.LabelControl();
-            ((System.ComponentModel.ISupportInitialize)(this.dateNgayXL.Properties.VistaTimeProperties)).BeginInit();
+            this.btntestdata = new DevExpress.XtraEditors.SimpleButton();
+            ((System.ComponentModel.ISupportInitialize)(this.dateNgayXL.Properties.CalendarTimeProperties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dateNgayXL.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtNoiDung.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.lookTrangThai.Properties)).BeginInit();
@@ -57,13 +58,13 @@
             this.dateNgayXL.Name = "dateNgayXL";
             this.dateNgayXL.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.dateNgayXL.Properties.CalendarTimeProperties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton()});
             this.dateNgayXL.Properties.DisplayFormat.FormatString = "{0:dd/MM/yyy HH-mm-ss}";
             this.dateNgayXL.Properties.DisplayFormat.FormatType = DevExpress.Utils.FormatType.DateTime;
             this.dateNgayXL.Properties.EditFormat.FormatString = "{0:dd/MM/yyy HH-mm-ss}";
             this.dateNgayXL.Properties.EditFormat.FormatType = DevExpress.Utils.FormatType.DateTime;
             this.dateNgayXL.Properties.Mask.EditMask = "dd/MM/yyy HH-mm-ss";
-            this.dateNgayXL.Properties.VistaTimeProperties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
-            new DevExpress.XtraEditors.Controls.EditorButton()});
             this.dateNgayXL.Size = new System.Drawing.Size(142, 20);
             this.dateNgayXL.TabIndex = 1;
             // 
@@ -122,11 +123,22 @@
             this.labelControl3.TabIndex = 7;
             this.labelControl3.Text = "Trạng thái:";
             // 
+            // btntestdata
+            // 
+            this.btntestdata.Location = new System.Drawing.Point(74, 214);
+            this.btntestdata.Name = "btntestdata";
+            this.btntestdata.Size = new System.Drawing.Size(75, 23);
+            this.btntestdata.TabIndex = 8;
+            this.btntestdata.Text = "test data";
+            this.btntestdata.Visible = false;
+            this.btntestdata.Click += new System.EventHandler(this.btntestdata_Click);
+            // 
             // frmXuLy
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(482, 249);
+            this.Controls.Add(this.btntestdata);
             this.Controls.Add(this.labelControl3);
             this.Controls.Add(this.lookTrangThai);
             this.Controls.Add(this.btnExit);
@@ -135,15 +147,15 @@
             this.Controls.Add(this.dateNgayXL);
             this.Controls.Add(this.labelControl1);
             this.Controls.Add(this.txtNoiDung);
+            this.IconOptions.ShowIcon = false;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "frmXuLy";
-            this.ShowIcon = false;
             this.ShowInTaskbar = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Xử lý";
             this.Load += new System.EventHandler(this.frmXuLy_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.dateNgayXL.Properties.VistaTimeProperties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dateNgayXL.Properties.CalendarTimeProperties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dateNgayXL.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtNoiDung.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.lookTrangThai.Properties)).EndInit();
@@ -162,5 +174,6 @@
         private DevExpress.XtraEditors.SimpleButton btnExit;
         private DevExpress.XtraEditors.LookUpEdit lookTrangThai;
         private DevExpress.XtraEditors.LabelControl labelControl3;
+        private DevExpress.XtraEditors.SimpleButton btntestdata;
     }
 }

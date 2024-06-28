@@ -1,4 +1,4 @@
-﻿using System;
+﻿﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Drawing;
@@ -111,14 +111,12 @@ namespace BEE.HoatDong.MGL.XuLy
                     return;
                 }
                 db = new MasterDataContext();
-
-               
                 switch (GetAccessData())
                 {
                     case 1://Tat ca
                         if (obj.DienThoai == false)
                         {
-                            gcDaChao.DataSource = db.gdGetManagerGiaoDichV2(tuNgay, denNgay, MaNV, true, -1, -1, -1,arrMaTT,arrMaNV).Select(p => new
+                            gcDaChao.DataSource = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, -1, -1, -1, arrMaTT, arrMaNV).Select(p => new
                             {
                                 p.ID,
                                 p.STT,
@@ -141,10 +139,10 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.TenTT,
                                 p.ThuongHieu,
                                 p.HoTenKH,
-                               // p.DienThoai,
+                                // p.DienThoai,
                                 //p.Phone2,
-                               // DienThoai = Common.Right(p.DienThoai, 3), // không check thì ko dc xem 3 số 
-                               // Phone2 = Common.Right(p.Phone2, 3),
+                                // DienThoai = Common.Right(p.DienThoai, 3), // không check thì ko dc xem 3 số 
+                                // Phone2 = Common.Right(p.Phone2, 3),
                                 p.PhiMG,
                                 p.ThanhTienMGMT,
                                 p.TenNC,
@@ -162,13 +160,12 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenNLH,
                                 //DTDD = Common.Right(p.DTDD, 3),
                                 p.HoTenNVN,
-                                p.Code,
-                                p.endDateSatus
-                            }).ToList();
+                                p.Code
+                            });
                         }
                         else if (obj.DienThoai3Dau == false)
                         {
-                            gcDaChao.DataSource = db.gdGetManagerGiaoDichV2(tuNgay, denNgay, MaNV, true, -1, -1, -1, arrMaTT, arrMaNV).Select(p => new
+                            gcDaChao.DataSource = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, -1, -1, -1, arrMaTT, arrMaNV).Select(p => new
                             {
                                 p.ID,
                                 p.STT,
@@ -191,7 +188,7 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.TenTT,
                                 p.ThuongHieu,
                                 p.HoTenKH,
-                               // DienThoai = Common.Right1(p.DienThoai, 3), // không check thì ko dc xem 3 số 
+                                // DienThoai = Common.Right1(p.DienThoai, 3), // không check thì ko dc xem 3 số 
                                 //Phone2 = Common.Right1(p.Phone2, 3),
                                 p.PhiMG,
                                 p.ThanhTienMGMT,
@@ -208,16 +205,16 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.PhiMGDTMua,
                                 p.Color,
                                 p.HoTenNLH,
-                               // DTDD = Common.Right1(p.DTDD, 3),
+                                // DTDD = Common.Right1(p.DTDD, 3),
                                 p.HoTenNVN,
-                                p.Code,
-                                p.endDateSatus
-                            }).ToList();
+                                p.Code
+                            });
+                           
 
                         }
                         else if (obj.DienThoaiAn == false)
                         {
-                            gcDaChao.DataSource = db.gdGetManagerGiaoDichV2(tuNgay, denNgay, MaNV, true, -1, -1, -1, arrMaTT, arrMaNV).Select(p => new
+                            gcDaChao.DataSource = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, -1, -1, -1, arrMaTT, arrMaNV).Select(p => new
                             {
                                 p.ID,
                                 p.STT,
@@ -254,13 +251,12 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenNLH,
                                 DTDD = "",
                                 p.HoTenNVN,
-                                p.Code,
-                                p.endDateSatus
-                            }).ToList();
+                                p.Code
+                            });
                         }
                         else
                         {
-                            gcDaChao.DataSource = db.gdGetManagerGiaoDichV2(tuNgay, denNgay, MaNV, true, -1, -1, -1, arrMaTT, arrMaNV).Select(p => new
+                            gcDaChao.DataSource = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, -1, -1, -1, arrMaTT, arrMaNV).Select(p => new
                             {
                                 p.ID,
                                 p.STT,
@@ -297,15 +293,14 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenNLH,
                                 p.DTDD,
                                 p.HoTenNVN,
-                                p.Code,
-                                p.endDateSatus
-                            }).ToList();
+                                p.Code
+                            });
                         }
                         break;
                     case 2://Theo phong ban 
                         if (obj.DienThoai == false)
                         {
-                            gcDaChao.DataSource = db.gdGetManagerGiaoDichV2(tuNgay, denNgay, MaNV, true, -1, -1, Common.DepartmentID, arrMaTT, arrMaNV).Select(p => new
+                            gcDaChao.DataSource = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, -1, -1, Common.DepartmentID, arrMaTT, arrMaNV).Select(p => new
                             {
                                 p.ID,
                                 p.STT,
@@ -345,15 +340,14 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.PhiMGDTMua,
                                 p.Color,
                                 p.HoTenNLH,
-                               // DTDD = Common.Right(p.DTDD, 3),
+                                // DTDD = Common.Right(p.DTDD, 3),
                                 p.HoTenNVN,
-                                p.Code,
-                                p.endDateSatus
-                            }).ToList();
+                                p.Code
+                            });
                         }
                         else if (obj.DienThoai3Dau == false)
                         {
-                            gcDaChao.DataSource = db.gdGetManagerGiaoDichV2(tuNgay, denNgay, MaNV, true, -1, -1, Common.DepartmentID, arrMaTT, arrMaNV).Select(p => new
+                            gcDaChao.DataSource = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, -1, -1, Common.DepartmentID, arrMaTT, arrMaNV).Select(p => new
                             {
                                 p.ID,
                                 p.STT,
@@ -376,7 +370,7 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.TenTT,
                                 p.ThuongHieu,
                                 p.HoTenKH,
-                               // DienThoai = Common.Right1(p.DienThoai, 3), // không check thì ko dc xem 3 số 
+                                // DienThoai = Common.Right1(p.DienThoai, 3), // không check thì ko dc xem 3 số 
                                 //Phone2 = Common.Right1(p.Phone2, 3),
                                 p.PhiMG,
                                 p.ThanhTienMGMT,
@@ -393,16 +387,15 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.PhiMGDTMua,
                                 p.Color,
                                 p.HoTenNLH,
-                               // DTDD = Common.Right1(p.DTDD, 3),
+                                // DTDD = Common.Right1(p.DTDD, 3),
                                 p.HoTenNVN,
-                                p.Code,
-                                p.endDateSatus
-                            }).ToList();
+                                p.Code
+                            });
 
                         }
                         else if (obj.DienThoaiAn == false)
                         {
-                            gcDaChao.DataSource = db.gdGetManagerGiaoDichV2(tuNgay, denNgay, MaNV, true, -1, -1, Common.DepartmentID, arrMaTT, arrMaNV).Select(p => new
+                            gcDaChao.DataSource = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, -1, -1, Common.DepartmentID, arrMaTT, arrMaNV).Select(p => new
                             {
                                 p.ID,
                                 p.STT,
@@ -439,13 +432,12 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenNLH,
                                 DTDD = "",
                                 p.HoTenNVN,
-                                p.Code,
-                                p.endDateSatus
-                            }).ToList();
+                                p.Code
+                            });
                         }
                         else
                         {
-                            gcDaChao.DataSource = db.gdGetManagerGiaoDichV2(tuNgay, denNgay, MaNV, true, -1, -1, Common.DepartmentID, arrMaTT, arrMaNV).Select(p => new
+                            gcDaChao.DataSource = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, -1, -1, Common.DepartmentID, arrMaTT, arrMaNV).Select(p => new
                             {
                                 p.ID,
                                 p.STT,
@@ -482,15 +474,14 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenNLH,
                                 p.DTDD,
                                 p.HoTenNVN,
-                                p.Code,
-                                p.endDateSatus
-                            }).ToList();
+                                p.Code
+                            });
                         }
                         break;
                     case 3://Theo nhom
                         if (obj.DienThoai == false)
                         {
-                            gcDaChao.DataSource = db.gdGetManagerGiaoDichV2(tuNgay, denNgay, MaNV, true, -1, Common.GroupID, -1, arrMaTT, arrMaNV).Select(p => new
+                            gcDaChao.DataSource = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, -1, Common.GroupID, -1, arrMaTT, arrMaNV).Select(p => new
                             {
                                 p.ID,
                                 p.STT,
@@ -513,7 +504,7 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.TenTT,
                                 p.ThuongHieu,
                                 p.HoTenKH,
-                               // DienThoai = Common.Right(p.DienThoai, 3), // không check thì ko dc xem 3 số 
+                                // DienThoai = Common.Right(p.DienThoai, 3), // không check thì ko dc xem 3 số 
                                 //Phone2 = Common.Right(p.Phone2, 3),
                                 p.PhiMG,
                                 p.ThanhTienMGMT,
@@ -530,15 +521,14 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.PhiMGDTMua,
                                 p.Color,
                                 p.HoTenNLH,
-                               // DTDD = Common.Right(p.DTDD, 3),
+                                // DTDD = Common.Right(p.DTDD, 3),
                                 p.HoTenNVN,
-                                p.Code,
-                                p.endDateSatus
-                            }).ToList();
+                                p.Code
+                            });
                         }
                         else if (obj.DienThoai3Dau == false)
                         {
-                            gcDaChao.DataSource = db.gdGetManagerGiaoDichV2(tuNgay, denNgay, MaNV, true, -1, Common.GroupID, -1, arrMaTT, arrMaNV).Select(p => new
+                            gcDaChao.DataSource = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, -1, Common.GroupID, -1, arrMaTT, arrMaNV).Select(p => new
                             {
                                 p.ID,
                                 p.STT,
@@ -561,7 +551,7 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.TenTT,
                                 p.ThuongHieu,
                                 p.HoTenKH,
-                               // DienThoai = Common.Right1(p.DienThoai, 3), // không check thì ko dc xem 3 số 
+                                // DienThoai = Common.Right1(p.DienThoai, 3), // không check thì ko dc xem 3 số 
                                 //Phone2 = Common.Right1(p.Phone2, 3),
                                 p.PhiMG,
                                 p.ThanhTienMGMT,
@@ -580,14 +570,13 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenNLH,
                                 //DTDD = Common.Right1(p.DTDD, 3),
                                 p.HoTenNVN,
-                                p.Code,
-                                p.endDateSatus
-                            }).ToList();
+                                p.Code
+                            });
 
                         }
                         else if (obj.DienThoaiAn == false)
                         {
-                            gcDaChao.DataSource = db.gdGetManagerGiaoDichV2(tuNgay, denNgay, MaNV, true, -1, Common.GroupID, -1, arrMaTT, arrMaNV).Select(p => new
+                            gcDaChao.DataSource = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, -1, Common.GroupID, -1, arrMaTT, arrMaNV).Select(p => new
                             {
                                 p.ID,
                                 p.STT,
@@ -624,13 +613,12 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenNLH,
                                 DTDD = "",
                                 p.HoTenNVN,
-                                p.Code,
-                                p.endDateSatus
-                            }).ToList();
+                                p.Code
+                            });
                         }
                         else
                         {
-                            gcDaChao.DataSource = db.gdGetManagerGiaoDichV2(tuNgay, denNgay, MaNV, true, -1, Common.GroupID, -1, arrMaTT, arrMaNV).Select(p => new
+                            gcDaChao.DataSource = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, -1, Common.GroupID, -1, arrMaTT, arrMaNV).Select(p => new
                             {
                                 p.ID,
                                 p.STT,
@@ -667,15 +655,14 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenNLH,
                                 p.DTDD,
                                 p.HoTenNVN,
-                                p.Code,
-                                p.endDateSatus
-                            }).ToList();
+                                p.Code
+                            });
                         }
                         break;
                     case 4://Theo nhan vien
                         if (obj.DienThoai == false)
                         {
-                            gcDaChao.DataSource = db.gdGetManagerGiaoDichV2(tuNgay, denNgay, MaNV, true, MaNV, -1, -1, arrMaTT, arrMaNV).Select(p => new
+                            gcDaChao.DataSource = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, MaNV, -1, -1, arrMaTT, arrMaNV).Select(p => new
                             {
                                 p.ID,
                                 p.STT,
@@ -691,7 +678,7 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.DTDD,
                                 p.DienThoai,
                                 p.Phone2,
-                               // DienThoai1 = Common.Right(p.DienThoai1, 3),
+                                // DienThoai1 = Common.Right(p.DienThoai1, 3),
                                 //DiDong2 = Common.Right(p.DiDong2, 3),
                                 p.PhiMoiGioi,
                                 p.ThanhTienMG,
@@ -717,13 +704,12 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenNLH,
                                 //DTDD = Common.Right(p.DTDD, 3),
                                 p.HoTenNVN,
-                                p.Code,
-                                p.endDateSatus
-                            }).ToList();
+                                p.Code
+                            });
                         }
                         else if (obj.DienThoai3Dau == false)
                         {
-                            gcDaChao.DataSource = db.gdGetManagerGiaoDichV2(tuNgay, denNgay, MaNV, true, MaNV, -1, -1, arrMaTT, arrMaNV).Select(p => new
+                            gcDaChao.DataSource = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, MaNV, -1, -1, arrMaTT, arrMaNV).Select(p => new
                             {
                                 p.ID,
                                 p.STT,
@@ -739,8 +725,8 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.DTDD,
                                 p.DienThoai,
                                 p.Phone2,
-                               // DienThoai1 = Common.Right1(p.DienThoai1, 3),
-                               // DiDong2 = Common.Right1(p.DiDong2, 3),
+                                // DienThoai1 = Common.Right1(p.DienThoai1, 3),
+                                // DiDong2 = Common.Right1(p.DiDong2, 3),
                                 p.PhiMoiGioi,
                                 p.ThanhTienMG,
                                 p.TenTT,
@@ -765,14 +751,13 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenNLH,
                                 //DTDD = Common.Right1(p.DTDD, 3),
                                 p.HoTenNVN,
-                                p.Code,
-                                p.endDateSatus
-                            }).ToList();
+                                p.Code
+                            });
 
                         }
                         else if (obj.DienThoaiAn == false)
                         {
-                            gcDaChao.DataSource = db.gdGetManagerGiaoDichV2(tuNgay, denNgay, MaNV, true, MaNV, -1, -1, arrMaTT, arrMaNV).Select(p => new
+                            gcDaChao.DataSource = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, MaNV, -1, -1, arrMaTT, arrMaNV).Select(p => new
                             {
                                 p.ID,
                                 p.STT,
@@ -809,13 +794,12 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenNLH,
                                 DTDD = "",
                                 p.HoTenNVN,
-                                p.Code,
-                                p.endDateSatus
-                            }).ToList();
+                                p.Code
+                            });
                         }
                         else
                         {
-                            gcDaChao.DataSource = db.gdGetManagerGiaoDichV2(tuNgay, denNgay, MaNV, true, MaNV, -1, -1, arrMaTT, arrMaNV).Select(p => new
+                            gcDaChao.DataSource = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, MaNV, -1, -1, arrMaTT, arrMaNV).Select(p => new
                             {
                                 p.ID,
                                 p.STT,
@@ -852,9 +836,8 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenNLH,
                                 DTDD = p.DTDD,
                                 p.HoTenNVN,
-                                p.Code,
-                                p.endDateSatus
-                            }).ToList();
+                                p.Code
+                            });
                         }
                         break;
                     default:
@@ -1478,13 +1461,13 @@ namespace BEE.HoatDong.MGL.XuLy
                    else
                     {
                         obj.UpdateDate = DateTime.Now;
-                    }
-                    // cập nhật thời gian trạng thái cuối
-                    obj.endDateSatus = db.getDate();
+                    }    
+                   
+
                     obj.MaLoai = frm.MaLoai;
 
                     // người chào hoặc xử lý sau không được cập nhật là nhân viên viên cuối cùng (bỏ update manv)
-                    obj.MaNV = Common.StaffID;
+                   // obj.MaNV = Common.StaffID;
 
                     var objBC = db.mglbcBanChoThues.FirstOrDefault(p => p.MaBC == (int)grvDaChao.GetFocusedRowCellValue("MaBC"));
                     if (objBC != null)

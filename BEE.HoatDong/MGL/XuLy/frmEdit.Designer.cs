@@ -55,7 +55,7 @@
             this.repositoryItemSpinEdit3 = new DevExpress.XtraEditors.Repository.RepositoryItemSpinEdit();
             this.gridColumn5 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.repositoryItemMemoExEdit1 = new DevExpress.XtraEditors.Repository.RepositoryItemMemoExEdit();
-            ((System.ComponentModel.ISupportInitialize)(this.dateNgayXL.Properties.VistaTimeProperties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dateNgayXL.Properties.CalendarTimeProperties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dateNgayXL.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtNoiDung.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.spinTongTienMG.Properties)).BeginInit();
@@ -89,13 +89,13 @@
             this.dateNgayXL.Name = "dateNgayXL";
             this.dateNgayXL.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.dateNgayXL.Properties.CalendarTimeProperties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton()});
             this.dateNgayXL.Properties.DisplayFormat.FormatString = "{0:dd/MM/yyy HH-mm-ss}";
             this.dateNgayXL.Properties.DisplayFormat.FormatType = DevExpress.Utils.FormatType.DateTime;
             this.dateNgayXL.Properties.EditFormat.FormatString = "{0:dd/MM/yyy HH-mm-ss}";
             this.dateNgayXL.Properties.EditFormat.FormatType = DevExpress.Utils.FormatType.DateTime;
             this.dateNgayXL.Properties.Mask.EditMask = "dd/MM/yyy HH-mm-ss";
-            this.dateNgayXL.Properties.VistaTimeProperties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
-            new DevExpress.XtraEditors.Controls.EditorButton()});
             this.dateNgayXL.Size = new System.Drawing.Size(160, 20);
             this.dateNgayXL.TabIndex = 0;
             // 
@@ -237,14 +237,14 @@
             this.xtraTabPage1.Controls.Add(this.labelControl8);
             this.xtraTabPage1.Controls.Add(this.labelControl7);
             this.xtraTabPage1.Name = "xtraTabPage1";
-            this.xtraTabPage1.Size = new System.Drawing.Size(612, 339);
+            this.xtraTabPage1.Size = new System.Drawing.Size(616, 341);
             this.xtraTabPage1.Text = "Thông tin xử lý";
             // 
             // xtraTabPage2
             // 
             this.xtraTabPage2.Controls.Add(this.gcNhanVien);
             this.xtraTabPage2.Name = "xtraTabPage2";
-            this.xtraTabPage2.Size = new System.Drawing.Size(612, 339);
+            this.xtraTabPage2.Size = new System.Drawing.Size(616, 341);
             this.xtraTabPage2.Text = "Nhân viên tham gia";
             // 
             // gcNhanVien
@@ -259,7 +259,7 @@
             this.repositoryItemSpinEdit1,
             this.repositoryItemSpinEdit2,
             this.repositoryItemSpinEdit3});
-            this.gcNhanVien.Size = new System.Drawing.Size(612, 339);
+            this.gcNhanVien.Size = new System.Drawing.Size(616, 341);
             this.gcNhanVien.TabIndex = 1;
             this.gcNhanVien.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gvNhanVien});
@@ -396,15 +396,15 @@
             this.Controls.Add(this.xtraTabControl1);
             this.Controls.Add(this.btnExit);
             this.Controls.Add(this.btnSave);
+            this.IconOptions.ShowIcon = false;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "frmEdit";
-            this.ShowIcon = false;
             this.ShowInTaskbar = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Lập báo cáo";
             this.Load += new System.EventHandler(this.frmXuLy_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.dateNgayXL.Properties.VistaTimeProperties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dateNgayXL.Properties.CalendarTimeProperties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dateNgayXL.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtNoiDung.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.spinTongTienMG.Properties)).EndInit();

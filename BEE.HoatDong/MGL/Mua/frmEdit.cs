@@ -96,32 +96,34 @@ namespace BEE.HoatDong.MGL.Mua
 
             try
             {
-                DateTime now = DateTime.Now;
-                DateTime dstart = new DateTime(now.Year, now.Month, now.Day, 0, 0, 0);
-                DateTime dend = new DateTime(now.Year, now.Month, now.Day, 23, 59, 59);
+                //DateTime now = DateTime.Now;
+                //DateTime dstart = new DateTime(now.Year, now.Month, now.Day, 0, 0, 0);
+                //DateTime dend = new DateTime(now.Year, now.Month, now.Day, 23, 59, 59);
 
-                var data = db.mglmtMuaThues.Where(o => o.NgayNhap >= dstart && o.NgayNhap <= dend).OrderByDescending(o => o.NgayNhap).FirstOrDefault();
-                string sophieu = "";
-                if (data != null)
-                {
-                    if (string.IsNullOrEmpty(data.SoDK))
-                    {
-                        sophieu = String.Format("{0:yyyyMMdd}", now) + "00001";
+                //var data = db.mglmtMuaThues.Where(o => o.NgayNhap >= dstart && o.NgayNhap <= dend).OrderByDescending(o => o.NgayNhap).FirstOrDefault();
+                //string sophieu = "";
+                //if (data != null)
+                //{
+                //    if (string.IsNullOrEmpty(data.SoDK))
+                //    {
+                //        sophieu = String.Format("{0:yyyyMMdd}", now) + "00001";
 
-                    }
-                    else
-                    {
-                        sophieu = NextID(data.SoDK, String.Format("{0:yyyyMMdd}", now));
-                    }
-                }
-                else
-                {
-                    sophieu = String.Format("{0:yyyyMMdd}", now) + "00001";
-                }
+                //    }
+                //    else
+                //    {
+                //        sophieu = NextID(data.SoDK, String.Format("{0:yyyyMMdd}", now));
+                //    }
+                //}
+                //else
+                //{
+                //    sophieu = String.Format("{0:yyyyMMdd}", now) + "00001";
+                //}
 
-                txtSoDK.Text = "DKMT-" + sophieu;
+                //txtSoDK.Text = "DKMT-" + sophieu;
 
-
+                var formatDate = db.ExecuteQuery<DateTime>("SELECT GETDATE()").FirstOrDefault();
+                txtSoDK.Text = "DKMT-" + formatDate.ToString("yyyyMMddHHmmss");
+               // txtKyHieu.Text = "BC-" + formatDate.ToString("yyyyMMddHHmmss");
 
 
             }

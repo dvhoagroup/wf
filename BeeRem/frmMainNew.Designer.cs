@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmMainNew));
             DevExpress.Utils.SuperToolTip superToolTip1 = new DevExpress.Utils.SuperToolTip();
             DevExpress.Utils.ToolTipItem toolTipItem1 = new DevExpress.Utils.ToolTipItem();
@@ -37,8 +36,8 @@
             DevExpress.Utils.SuperToolTip superToolTip3 = new DevExpress.Utils.SuperToolTip();
             DevExpress.Utils.ToolTipItem toolTipItem3 = new DevExpress.Utils.ToolTipItem();
             this.itemThemMG = new DevExpress.XtraBars.Ribbon.RibbonControl();
-            this.applicationMenu1 = new DevExpress.XtraBars.Ribbon.ApplicationMenu(this.components);
-            this.imageCollection2 = new DevExpress.Utils.ImageCollection(this.components);
+            this.applicationMenu1 = new DevExpress.XtraBars.Ribbon.ApplicationMenu();
+            this.imageCollection2 = new DevExpress.Utils.ImageCollection();
             this.itemTG_Update = new DevExpress.XtraBars.BarButtonItem();
             this.itemTG_About = new DevExpress.XtraBars.BarButtonItem();
             this.itemBH_GC_Add = new DevExpress.XtraBars.BarButtonItem();
@@ -453,14 +452,14 @@
             this.ribbonPageHelp = new DevExpress.XtraBars.Ribbon.RibbonPage();
             this.ribbonPageGroup4 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
             this.ribbonStatusBar = new DevExpress.XtraBars.Ribbon.RibbonStatusBar();
-            this.imageCollection1 = new DevExpress.Utils.ImageCollection(this.components);
-            this.popupMenu1 = new DevExpress.XtraBars.PopupMenu(this.components);
+            this.imageCollection1 = new DevExpress.Utils.ImageCollection();
+            this.popupMenu1 = new DevExpress.XtraBars.PopupMenu();
             this.dropButton = new DevExpress.XtraEditors.DropDownButton();
-            this.ppWorkSchedule = new DevExpress.XtraBars.PopupMenu(this.components);
+            this.ppWorkSchedule = new DevExpress.XtraBars.PopupMenu();
             this.tabMain = new DevExpress.XtraTab.XtraTabControl();
-            this.defaultLookAndFeel1 = new DevExpress.LookAndFeel.DefaultLookAndFeel(this.components);
+            this.defaultLookAndFeel1 = new DevExpress.LookAndFeel.DefaultLookAndFeel();
             this.groupBH_CK = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
-            this.dockManager1 = new DevExpress.XtraBars.Docking.DockManager(this.components);
+            this.dockManager1 = new DevExpress.XtraBars.Docking.DockManager();
             this.hideContainerRight = new DevExpress.XtraBars.Docking.AutoHideContainer();
             this.dockPanel1 = new DevExpress.XtraBars.Docking.DockPanel();
             this.dockPanel1_Container = new DevExpress.XtraBars.Docking.ControlContainer();
@@ -476,18 +475,18 @@
             this.gvHistory = new DevExpress.XtraGrid.Views.Grid.GridView();
             this.gridColumn4 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.repositoryItemMemoEdit2 = new DevExpress.XtraEditors.Repository.RepositoryItemMemoEdit();
-            this.popupNotify = new DevExpress.XtraBars.PopupMenu(this.components);
-            this.timerCheckOnline = new System.Windows.Forms.Timer(this.components);
-            this.timerAlert = new System.Windows.Forms.Timer(this.components);
-            this.timerNewChat = new System.Windows.Forms.Timer(this.components);
-            this.timerNhacViec = new System.Windows.Forms.Timer(this.components);
-            this.alctAltert = new DevExpress.XtraBars.Alerter.AlertControl(this.components);
-            this.timerRequest = new System.Windows.Forms.Timer(this.components);
-            this.alertRequest = new DevExpress.XtraBars.Alerter.AlertControl(this.components);
-            this.timer1 = new System.Windows.Forms.Timer(this.components);
-            this.popupControlContainer1 = new DevExpress.XtraBars.PopupControlContainer(this.components);
+            this.popupNotify = new DevExpress.XtraBars.PopupMenu();
+            this.timerCheckOnline = new System.Windows.Forms.Timer();
+            this.timerAlert = new System.Windows.Forms.Timer();
+            this.timerNewChat = new System.Windows.Forms.Timer();
+            this.timerNhacViec = new System.Windows.Forms.Timer();
+            this.alctAltert = new DevExpress.XtraBars.Alerter.AlertControl();
+            this.timerRequest = new System.Windows.Forms.Timer();
+            this.alertRequest = new DevExpress.XtraBars.Alerter.AlertControl();
+            this.timer1 = new System.Windows.Forms.Timer();
+            this.popupControlContainer1 = new DevExpress.XtraBars.PopupControlContainer();
             this.ribbonPage1 = new DevExpress.XtraBars.Ribbon.RibbonPage();
-            this.timerTuLock = new System.Windows.Forms.Timer(this.components);
+            this.timerTuLock = new System.Windows.Forms.Timer();
             ((System.ComponentModel.ISupportInitialize)(this.itemThemMG)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.applicationMenu1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.imageCollection2)).BeginInit();

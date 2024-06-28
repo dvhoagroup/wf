@@ -1776,7 +1776,6 @@ C:\HOALAND\Source Code_winform\DEV19\Source\BEE.HoatDong\obj\Debug\BEE.HoatDong.
 C:\HOALAND\wf\app\BEE.HoatDong.dll.config
 C:\HOALAND\wf\app\BEE.HoatDong.dll
 C:\HOALAND\wf\app\BEE.HoatDong.pdb
-C:\HOALAND\wf\BEE.HoatDong\obj\Debug\BEE.HoatDong.csprojAssemblyReference.cache
 C:\HOALAND\wf\BEE.HoatDong\obj\Debug\Interop.WMPLib.dll
 C:\HOALAND\wf\BEE.HoatDong\obj\Debug\AxInterop.WMPLib.dll
 C:\HOALAND\wf\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.ResolveComReference.cache
@@ -1900,3 +1899,4 @@ C:\HOALAND\wf\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.CoreCompileInputs.cache
 C:\HOALAND\wf\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.CopyComplete
 C:\HOALAND\wf\BEE.HoatDong\obj\Debug\BEE.HoatDong.dll
 C:\HOALAND\wf\BEE.HoatDong\obj\Debug\BEE.HoatDong.pdb
+C:\HOALAND\wf\BEE.HoatDong\obj\Debug\BEE.HoatDong.csprojAssemblyReference.cache

@@ -34,7 +34,7 @@ namespace BEE.HoatDong.MGL.XuLy
                 {
                     var obj = new mglspNhatKyXuLy();
                     var objSP = db.mglBCSanPhams.FirstOrDefault(p => p.ID == maSP);
-                    var objCV = db.mglBCCongViecs.FirstOrDefault(p=>p.ID == objSP.MaCV);
+                    var objCV = db.mglBCCongViecs.FirstOrDefault(p => p.ID == objSP.MaCV);
                     objCV.NgayXuLy = db.GetSystemDate();
                     db.mglspNhatKyXuLies.InsertOnSubmit(obj);
                     obj.MaTT = (int?)lookTrangThai.EditValue;
@@ -43,11 +43,11 @@ namespace BEE.HoatDong.MGL.XuLy
                     obj.NgayXL = (DateTime?)dateNgayXL.EditValue;
                     obj.NoiDung = txtNoiDung.Text.Trim();
                     db.SubmitChanges();
-                    
+
                     DialogBox.Infomation("Dữ liệu đã được lưu!");
                     this.Close();
                 }
-                
+
             }
             catch (Exception ex)
             {
@@ -68,6 +68,43 @@ namespace BEE.HoatDong.MGL.XuLy
                 var objSP = db.mglBCSanPhams.FirstOrDefault(p => p.ID == maSP);
                 lookTrangThai.EditValue = objSP.MaTT;
             }
+        }
+
+        private void btntestdata_Click(object sender, EventArgs e)
+        {
+            MasterDataContext db = new MasterDataContext();
+            var obj = db.mglbcPhanQuyens.Single(p => p.MaNV == Common.StaffID);
+            var tuNgay = DateTime.Now.AddYears(-3);
+            var denNgay = DateTime.Now;
+
+            var arrMaTT = "," + ",";
+
+            var arrMaNV = "," + ",";
+            int MaNV = Common.StaffID;
+            var wait = DialogBox.WaitingForm();
+            try
+            {
+                
+
+                var data = db.gdGetManagerGiaoDichV2(tuNgay, denNgay, MaNV, true, -1, -1, -1, arrMaTT, arrMaNV).Select(p => new
+                {
+                    p.Code
+                }).AsEnumerable().ToList();
+
+
+
+
+            }
+            catch (Exception ex)
+            {
+                DialogBox.Error(ex.Message);
+            }
+            finally
+            {
+                wait.Close();
+            }
+
+
         }
     }
 }
