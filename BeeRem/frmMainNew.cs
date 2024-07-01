@@ -534,7 +534,7 @@ namespace BEEREMA
 
                 //  itemCopyright.EditValue = Properties.Resources.;
 
-                BEE.NgonNgu.Language.TranslateControl(this, null, itemThemMG);
+                BEE.NgonNgu.Language.TranslateControl(this, null, itemSettingState);
 
                 //   ShowUserControlInTab(new View_ctl());
                 ShowUserControlInTab(new ctlFirstView());
@@ -570,7 +570,7 @@ namespace BEEREMA
             wait.Close();
             wait.Dispose();
 
-            itemThemMG.SelectedPage = ribbonPageSystem;
+            itemSettingState.SelectedPage = ribbonPageSystem;
 
             SendKeys.Send("^{F1}");
         }
@@ -2136,6 +2136,22 @@ namespace BEEREMA
         {
             ShowUserControlInTab(new BEE.HoatDong.MGL.Setting.ctlTrangThaiMT() { Tag = "Trạng thái mua thuê" });
 
+        }
+
+        private void barButtonItem14_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            using (var frm = new BEE.HoatDong.MGL.Setting.frmTrangThaiBDSv2())
+            {
+                frm.ShowDialog();
+            }
+        }
+
+        private void frmSetSate_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            using (var frm = new BEE.HoatDong.MGL.Ban.frmSettingState())
+            {
+                frm.ShowDialog();
+            }
         }
 
         private void itemDanhSachHoaHong_ItemClick(object sender, ItemClickEventArgs e)

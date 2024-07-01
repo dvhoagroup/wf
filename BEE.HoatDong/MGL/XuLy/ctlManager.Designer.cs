@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ctlManager));
             this.splitContainerControl1 = new DevExpress.XtraEditors.SplitContainerControl();
             this.gcDaChao = new DevExpress.XtraGrid.GridControl();
@@ -71,7 +70,8 @@
             this.gridColumn7 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridColumn29 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.Code = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.barManager1 = new DevExpress.XtraBars.BarManager(this.components);
+            this.gridColumn47 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.barManager1 = new DevExpress.XtraBars.BarManager();
             this.bar1 = new DevExpress.XtraBars.Bar();
             this.itemKyBaoCao = new DevExpress.XtraBars.BarEditItem();
             this.cmbKyBaoCao = new DevExpress.XtraEditors.Repository.RepositoryItemComboBox();
@@ -92,7 +92,7 @@
             this.barDockControlBottom = new DevExpress.XtraBars.BarDockControl();
             this.barDockControlLeft = new DevExpress.XtraBars.BarDockControl();
             this.barDockControlRight = new DevExpress.XtraBars.BarDockControl();
-            this.imageCollection1 = new DevExpress.Utils.ImageCollection(this.components);
+            this.imageCollection1 = new DevExpress.Utils.ImageCollection();
             this.barEditItem1 = new DevExpress.XtraBars.BarEditItem();
             this.repositoryItemTextEdit1 = new DevExpress.XtraEditors.Repository.RepositoryItemTextEdit();
             this.itemXuLy_Them = new DevExpress.XtraBars.BarButtonItem();
@@ -112,18 +112,8 @@
             this.itemXuLySP = new DevExpress.XtraBars.BarButtonItem();
             this.itemXoaSP = new DevExpress.XtraBars.BarButtonItem();
             this.itemGDSP = new DevExpress.XtraBars.BarButtonItem();
+            this.itemAddLSXL = new DevExpress.XtraBars.BarButtonItem();
             this.lookTrangThai = new DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit();
-            this.repositoryItemLookUpEdit1 = new DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit();
-            this.repositoryItemLookUpEdit4 = new DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit();
-            this.repositoryItemLookUpEdit2 = new DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit();
-            this.repositoryItemMemoExEdit14 = new DevExpress.XtraEditors.Repository.RepositoryItemMemoExEdit();
-            this.repositoryItemMemoExEdit17 = new DevExpress.XtraEditors.Repository.RepositoryItemMemoExEdit();
-            this.repositoryItemMemoExEdit16 = new DevExpress.XtraEditors.Repository.RepositoryItemMemoExEdit();
-            this.repositoryItemMemoExEdit15 = new DevExpress.XtraEditors.Repository.RepositoryItemMemoExEdit();
-            this.repositoryItemMemoExEdit13 = new DevExpress.XtraEditors.Repository.RepositoryItemMemoExEdit();
-            this.repositoryItemMemoExEdit2 = new DevExpress.XtraEditors.Repository.RepositoryItemMemoExEdit();
-            this.diaChiMemo = new DevExpress.XtraEditors.Repository.RepositoryItemMemoExEdit();
-            this.tabMain = new DevExpress.XtraTab.XtraTabControl();
             this.xtraTabPage1 = new DevExpress.XtraTab.XtraTabPage();
             this.gcSanPham = new DevExpress.XtraGrid.GridControl();
             this.gvSanPham = new DevExpress.XtraGrid.Views.Grid.GridView();
@@ -136,6 +126,18 @@
             this.repositoryItemMemoExEdit1 = new DevExpress.XtraEditors.Repository.RepositoryItemMemoExEdit();
             this.gridColumn26 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridColumn27 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.popupLichSuXuLy = new DevExpress.XtraBars.PopupMenu();
+            this.repositoryItemLookUpEdit1 = new DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit();
+            this.repositoryItemLookUpEdit4 = new DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit();
+            this.repositoryItemLookUpEdit2 = new DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit();
+            this.repositoryItemMemoExEdit14 = new DevExpress.XtraEditors.Repository.RepositoryItemMemoExEdit();
+            this.repositoryItemMemoExEdit17 = new DevExpress.XtraEditors.Repository.RepositoryItemMemoExEdit();
+            this.repositoryItemMemoExEdit16 = new DevExpress.XtraEditors.Repository.RepositoryItemMemoExEdit();
+            this.repositoryItemMemoExEdit15 = new DevExpress.XtraEditors.Repository.RepositoryItemMemoExEdit();
+            this.repositoryItemMemoExEdit13 = new DevExpress.XtraEditors.Repository.RepositoryItemMemoExEdit();
+            this.repositoryItemMemoExEdit2 = new DevExpress.XtraEditors.Repository.RepositoryItemMemoExEdit();
+            this.diaChiMemo = new DevExpress.XtraEditors.Repository.RepositoryItemMemoExEdit();
+            this.tabMain = new DevExpress.XtraTab.XtraTabControl();
             this.xtraTabPage2 = new DevExpress.XtraTab.XtraTabPage();
             this.ctlTaiLieu2 = new BEE.TaiLieu.ctlTaiLieu();
             this.xtraTabPage3 = new DevExpress.XtraTab.XtraTabPage();
@@ -176,8 +178,7 @@
             this.repositoryItemMemoExEdit4 = new DevExpress.XtraEditors.Repository.RepositoryItemMemoExEdit();
             this.gridColumn46 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.lkTrangThai = new DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit();
-            this.popSanPham = new DevExpress.XtraBars.PopupMenu(this.components);
-            this.gridColumn47 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.popSanPham = new DevExpress.XtraBars.PopupMenu();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainerControl1)).BeginInit();
             this.splitContainerControl1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.gcDaChao)).BeginInit();
@@ -196,6 +197,11 @@
             ((System.ComponentModel.ISupportInitialize)(this.imageCollection1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.repositoryItemTextEdit1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.lookTrangThai)).BeginInit();
+            this.xtraTabPage1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.gcSanPham)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gvSanPham)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.repositoryItemMemoExEdit1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.popupLichSuXuLy)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.repositoryItemLookUpEdit1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.repositoryItemLookUpEdit4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.repositoryItemLookUpEdit2)).BeginInit();
@@ -208,10 +214,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.diaChiMemo)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.tabMain)).BeginInit();
             this.tabMain.SuspendLayout();
-            this.xtraTabPage1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.gcSanPham)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.gvSanPham)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.repositoryItemMemoExEdit1)).BeginInit();
             this.xtraTabPage2.SuspendLayout();
             this.xtraTabPage3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.gcNhatKy)).BeginInit();
@@ -806,7 +808,7 @@
             this.gridColumn15.FieldName = "UpdateDate";
             this.gridColumn15.Name = "gridColumn15";
             this.gridColumn15.Visible = true;
-            this.gridColumn15.VisibleIndex = 27;
+            this.gridColumn15.VisibleIndex = 26;
             this.gridColumn15.Width = 106;
             // 
             // gridColumn16
@@ -847,6 +849,15 @@
             this.Code.Visible = true;
             this.Code.VisibleIndex = 1;
             this.Code.Width = 36;
+            // 
+            // gridColumn47
+            // 
+            this.gridColumn47.Caption = "Ngày chuyển trạng thái cuối";
+            this.gridColumn47.FieldName = "StatusEndDate";
+            this.gridColumn47.Name = "gridColumn47";
+            this.gridColumn47.Visible = true;
+            this.gridColumn47.VisibleIndex = 27;
+            this.gridColumn47.Width = 143;
             // 
             // barManager1
             // 
@@ -890,8 +901,9 @@
             this.itemPhieuThuBan,
             this.itemPhieuThuMua,
             this.itemTrangThai,
-            this.itemNhanVien});
-            this.barManager1.MaxItemId = 39;
+            this.itemNhanVien,
+            this.itemAddLSXL});
+            this.barManager1.MaxItemId = 40;
             this.barManager1.RepositoryItems.AddRange(new DevExpress.XtraEditors.Repository.RepositoryItem[] {
             this.cmbKyBaoCao,
             this.repositoryItemTextEdit1,
@@ -1239,6 +1251,15 @@
             this.itemGDSP.Name = "itemGDSP";
             this.itemGDSP.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.itemGDSP_ItemClick);
             // 
+            // itemAddLSXL
+            // 
+            this.itemAddLSXL.Caption = "Thêm lịch sử xử lý";
+            this.itemAddLSXL.Id = 39;
+            this.itemAddLSXL.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("itemAddLSXL.ImageOptions.Image")));
+            this.itemAddLSXL.ImageOptions.LargeImage = ((System.Drawing.Image)(resources.GetObject("itemAddLSXL.ImageOptions.LargeImage")));
+            this.itemAddLSXL.Name = "itemAddLSXL";
+            this.itemAddLSXL.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.itemAddLSXL_ItemClick);
+            // 
             // lookTrangThai
             // 
             this.lookTrangThai.AutoHeight = false;
@@ -1252,121 +1273,12 @@
             this.lookTrangThai.ShowHeader = false;
             this.lookTrangThai.ValueMember = "MaTT";
             // 
-            // repositoryItemLookUpEdit1
-            // 
-            this.repositoryItemLookUpEdit1.AutoHeight = false;
-            this.repositoryItemLookUpEdit1.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
-            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
-            this.repositoryItemLookUpEdit1.Columns.AddRange(new DevExpress.XtraEditors.Controls.LookUpColumnInfo[] {
-            new DevExpress.XtraEditors.Controls.LookUpColumnInfo("TenLBDS", "Name1")});
-            this.repositoryItemLookUpEdit1.DisplayMember = "TenLBDS";
-            this.repositoryItemLookUpEdit1.Name = "repositoryItemLookUpEdit1";
-            this.repositoryItemLookUpEdit1.NullText = "";
-            this.repositoryItemLookUpEdit1.ShowHeader = false;
-            this.repositoryItemLookUpEdit1.ValueMember = "MaLBDS";
-            // 
-            // repositoryItemLookUpEdit4
-            // 
-            this.repositoryItemLookUpEdit4.AutoHeight = false;
-            this.repositoryItemLookUpEdit4.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
-            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
-            this.repositoryItemLookUpEdit4.Columns.AddRange(new DevExpress.XtraEditors.Controls.LookUpColumnInfo[] {
-            new DevExpress.XtraEditors.Controls.LookUpColumnInfo("TenTT", "Name1")});
-            this.repositoryItemLookUpEdit4.DisplayMember = "TenCD";
-            this.repositoryItemLookUpEdit4.Name = "repositoryItemLookUpEdit4";
-            this.repositoryItemLookUpEdit4.NullText = "";
-            this.repositoryItemLookUpEdit4.ShowHeader = false;
-            this.repositoryItemLookUpEdit4.ValueMember = "MaCD";
-            // 
-            // repositoryItemLookUpEdit2
-            // 
-            this.repositoryItemLookUpEdit2.AutoHeight = false;
-            this.repositoryItemLookUpEdit2.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
-            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
-            this.repositoryItemLookUpEdit2.Columns.AddRange(new DevExpress.XtraEditors.Controls.LookUpColumnInfo[] {
-            new DevExpress.XtraEditors.Controls.LookUpColumnInfo("TenNguon", "Name1")});
-            this.repositoryItemLookUpEdit2.DisplayMember = "TenNguon";
-            this.repositoryItemLookUpEdit2.Name = "repositoryItemLookUpEdit2";
-            this.repositoryItemLookUpEdit2.NullText = "";
-            this.repositoryItemLookUpEdit2.ShowHeader = false;
-            this.repositoryItemLookUpEdit2.ValueMember = "MaNguon";
-            // 
-            // repositoryItemMemoExEdit14
-            // 
-            this.repositoryItemMemoExEdit14.AutoHeight = false;
-            this.repositoryItemMemoExEdit14.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
-            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
-            this.repositoryItemMemoExEdit14.Name = "repositoryItemMemoExEdit14";
-            this.repositoryItemMemoExEdit14.ShowIcon = false;
-            // 
-            // repositoryItemMemoExEdit17
-            // 
-            this.repositoryItemMemoExEdit17.AutoHeight = false;
-            this.repositoryItemMemoExEdit17.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
-            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
-            this.repositoryItemMemoExEdit17.Name = "repositoryItemMemoExEdit17";
-            this.repositoryItemMemoExEdit17.ShowIcon = false;
-            // 
-            // repositoryItemMemoExEdit16
-            // 
-            this.repositoryItemMemoExEdit16.AutoHeight = false;
-            this.repositoryItemMemoExEdit16.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
-            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
-            this.repositoryItemMemoExEdit16.Name = "repositoryItemMemoExEdit16";
-            this.repositoryItemMemoExEdit16.ShowIcon = false;
-            // 
-            // repositoryItemMemoExEdit15
-            // 
-            this.repositoryItemMemoExEdit15.AutoHeight = false;
-            this.repositoryItemMemoExEdit15.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
-            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
-            this.repositoryItemMemoExEdit15.Name = "repositoryItemMemoExEdit15";
-            this.repositoryItemMemoExEdit15.ShowIcon = false;
-            // 
-            // repositoryItemMemoExEdit13
-            // 
-            this.repositoryItemMemoExEdit13.AutoHeight = false;
-            this.repositoryItemMemoExEdit13.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
-            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
-            this.repositoryItemMemoExEdit13.Name = "repositoryItemMemoExEdit13";
-            this.repositoryItemMemoExEdit13.ShowIcon = false;
-            // 
-            // repositoryItemMemoExEdit2
-            // 
-            this.repositoryItemMemoExEdit2.AutoHeight = false;
-            this.repositoryItemMemoExEdit2.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
-            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
-            this.repositoryItemMemoExEdit2.Name = "repositoryItemMemoExEdit2";
-            this.repositoryItemMemoExEdit2.ShowIcon = false;
-            // 
-            // diaChiMemo
-            // 
-            this.diaChiMemo.AutoHeight = false;
-            this.diaChiMemo.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
-            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
-            this.diaChiMemo.Name = "diaChiMemo";
-            this.diaChiMemo.ShowIcon = false;
-            // 
-            // tabMain
-            // 
-            this.tabMain.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tabMain.Location = new System.Drawing.Point(0, 0);
-            this.tabMain.Name = "tabMain";
-            this.tabMain.SelectedTabPage = this.xtraTabPage1;
-            this.tabMain.Size = new System.Drawing.Size(1088, 176);
-            this.tabMain.TabIndex = 0;
-            this.tabMain.TabPages.AddRange(new DevExpress.XtraTab.XtraTabPage[] {
-            this.xtraTabPage1,
-            this.xtraTabPage2,
-            this.xtraTabPage3,
-            this.xtraTabPage4});
-            this.tabMain.SelectedPageChanged += new DevExpress.XtraTab.TabPageChangedEventHandler(this.tabMain_SelectedPageChanged);
-            // 
             // xtraTabPage1
             // 
             this.xtraTabPage1.Controls.Add(this.gcSanPham);
             this.xtraTabPage1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.xtraTabPage1.Name = "xtraTabPage1";
+            this.barManager1.SetPopupContextMenu(this.xtraTabPage1, this.popupLichSuXuLy);
             this.xtraTabPage1.Size = new System.Drawing.Size(1086, 153);
             this.xtraTabPage1.Text = "1. Lịch sử xử lý";
             // 
@@ -1508,12 +1420,129 @@
             this.gridColumn27.VisibleIndex = 7;
             this.gridColumn27.Width = 164;
             // 
+            // popupLichSuXuLy
+            // 
+            this.popupLichSuXuLy.LinksPersistInfo.AddRange(new DevExpress.XtraBars.LinkPersistInfo[] {
+            new DevExpress.XtraBars.LinkPersistInfo(this.itemAddLSXL)});
+            this.popupLichSuXuLy.Manager = this.barManager1;
+            this.popupLichSuXuLy.Name = "popupLichSuXuLy";
+            // 
+            // repositoryItemLookUpEdit1
+            // 
+            this.repositoryItemLookUpEdit1.AutoHeight = false;
+            this.repositoryItemLookUpEdit1.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.repositoryItemLookUpEdit1.Columns.AddRange(new DevExpress.XtraEditors.Controls.LookUpColumnInfo[] {
+            new DevExpress.XtraEditors.Controls.LookUpColumnInfo("TenLBDS", "Name1")});
+            this.repositoryItemLookUpEdit1.DisplayMember = "TenLBDS";
+            this.repositoryItemLookUpEdit1.Name = "repositoryItemLookUpEdit1";
+            this.repositoryItemLookUpEdit1.NullText = "";
+            this.repositoryItemLookUpEdit1.ShowHeader = false;
+            this.repositoryItemLookUpEdit1.ValueMember = "MaLBDS";
+            // 
+            // repositoryItemLookUpEdit4
+            // 
+            this.repositoryItemLookUpEdit4.AutoHeight = false;
+            this.repositoryItemLookUpEdit4.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.repositoryItemLookUpEdit4.Columns.AddRange(new DevExpress.XtraEditors.Controls.LookUpColumnInfo[] {
+            new DevExpress.XtraEditors.Controls.LookUpColumnInfo("TenTT", "Name1")});
+            this.repositoryItemLookUpEdit4.DisplayMember = "TenCD";
+            this.repositoryItemLookUpEdit4.Name = "repositoryItemLookUpEdit4";
+            this.repositoryItemLookUpEdit4.NullText = "";
+            this.repositoryItemLookUpEdit4.ShowHeader = false;
+            this.repositoryItemLookUpEdit4.ValueMember = "MaCD";
+            // 
+            // repositoryItemLookUpEdit2
+            // 
+            this.repositoryItemLookUpEdit2.AutoHeight = false;
+            this.repositoryItemLookUpEdit2.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.repositoryItemLookUpEdit2.Columns.AddRange(new DevExpress.XtraEditors.Controls.LookUpColumnInfo[] {
+            new DevExpress.XtraEditors.Controls.LookUpColumnInfo("TenNguon", "Name1")});
+            this.repositoryItemLookUpEdit2.DisplayMember = "TenNguon";
+            this.repositoryItemLookUpEdit2.Name = "repositoryItemLookUpEdit2";
+            this.repositoryItemLookUpEdit2.NullText = "";
+            this.repositoryItemLookUpEdit2.ShowHeader = false;
+            this.repositoryItemLookUpEdit2.ValueMember = "MaNguon";
+            // 
+            // repositoryItemMemoExEdit14
+            // 
+            this.repositoryItemMemoExEdit14.AutoHeight = false;
+            this.repositoryItemMemoExEdit14.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.repositoryItemMemoExEdit14.Name = "repositoryItemMemoExEdit14";
+            this.repositoryItemMemoExEdit14.ShowIcon = false;
+            // 
+            // repositoryItemMemoExEdit17
+            // 
+            this.repositoryItemMemoExEdit17.AutoHeight = false;
+            this.repositoryItemMemoExEdit17.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.repositoryItemMemoExEdit17.Name = "repositoryItemMemoExEdit17";
+            this.repositoryItemMemoExEdit17.ShowIcon = false;
+            // 
+            // repositoryItemMemoExEdit16
+            // 
+            this.repositoryItemMemoExEdit16.AutoHeight = false;
+            this.repositoryItemMemoExEdit16.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.repositoryItemMemoExEdit16.Name = "repositoryItemMemoExEdit16";
+            this.repositoryItemMemoExEdit16.ShowIcon = false;
+            // 
+            // repositoryItemMemoExEdit15
+            // 
+            this.repositoryItemMemoExEdit15.AutoHeight = false;
+            this.repositoryItemMemoExEdit15.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.repositoryItemMemoExEdit15.Name = "repositoryItemMemoExEdit15";
+            this.repositoryItemMemoExEdit15.ShowIcon = false;
+            // 
+            // repositoryItemMemoExEdit13
+            // 
+            this.repositoryItemMemoExEdit13.AutoHeight = false;
+            this.repositoryItemMemoExEdit13.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.repositoryItemMemoExEdit13.Name = "repositoryItemMemoExEdit13";
+            this.repositoryItemMemoExEdit13.ShowIcon = false;
+            // 
+            // repositoryItemMemoExEdit2
+            // 
+            this.repositoryItemMemoExEdit2.AutoHeight = false;
+            this.repositoryItemMemoExEdit2.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.repositoryItemMemoExEdit2.Name = "repositoryItemMemoExEdit2";
+            this.repositoryItemMemoExEdit2.ShowIcon = false;
+            // 
+            // diaChiMemo
+            // 
+            this.diaChiMemo.AutoHeight = false;
+            this.diaChiMemo.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.diaChiMemo.Name = "diaChiMemo";
+            this.diaChiMemo.ShowIcon = false;
+            // 
+            // tabMain
+            // 
+            this.tabMain.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.tabMain.Location = new System.Drawing.Point(0, 0);
+            this.tabMain.Name = "tabMain";
+            this.tabMain.SelectedTabPage = this.xtraTabPage1;
+            this.tabMain.Size = new System.Drawing.Size(1088, 176);
+            this.tabMain.TabIndex = 0;
+            this.tabMain.TabPages.AddRange(new DevExpress.XtraTab.XtraTabPage[] {
+            this.xtraTabPage1,
+            this.xtraTabPage2,
+            this.xtraTabPage3,
+            this.xtraTabPage4});
+            this.tabMain.SelectedPageChanged += new DevExpress.XtraTab.TabPageChangedEventHandler(this.tabMain_SelectedPageChanged);
+            // 
             // xtraTabPage2
             // 
             this.xtraTabPage2.Controls.Add(this.ctlTaiLieu2);
             this.xtraTabPage2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.xtraTabPage2.Name = "xtraTabPage2";
-            this.xtraTabPage2.Size = new System.Drawing.Size(1086, 153);
+            this.xtraTabPage2.Size = new System.Drawing.Size(1086, 151);
             this.xtraTabPage2.Text = "2. Tài liệu";
             // 
             // ctlTaiLieu2
@@ -1524,14 +1553,14 @@
             this.ctlTaiLieu2.Location = new System.Drawing.Point(0, 0);
             this.ctlTaiLieu2.MaNV = null;
             this.ctlTaiLieu2.Name = "ctlTaiLieu2";
-            this.ctlTaiLieu2.Size = new System.Drawing.Size(1086, 153);
+            this.ctlTaiLieu2.Size = new System.Drawing.Size(1086, 151);
             this.ctlTaiLieu2.TabIndex = 0;
             // 
             // xtraTabPage3
             // 
             this.xtraTabPage3.Controls.Add(this.gcNhatKy);
             this.xtraTabPage3.Name = "xtraTabPage3";
-            this.xtraTabPage3.Size = new System.Drawing.Size(1086, 153);
+            this.xtraTabPage3.Size = new System.Drawing.Size(1086, 151);
             this.xtraTabPage3.Text = "Lịch sử Bán/Cho thuê";
             // 
             // gcNhatKy
@@ -1543,7 +1572,7 @@
             this.gcNhatKy.Name = "gcNhatKy";
             this.gcNhatKy.RepositoryItems.AddRange(new DevExpress.XtraEditors.Repository.RepositoryItem[] {
             this.btnDongBo});
-            this.gcNhatKy.Size = new System.Drawing.Size(1086, 153);
+            this.gcNhatKy.Size = new System.Drawing.Size(1086, 151);
             this.gcNhatKy.TabIndex = 2;
             this.gcNhatKy.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.grvNhatKy});
@@ -1791,7 +1820,7 @@
             // 
             this.xtraTabPage4.Controls.Add(this.gcNhatKyMT);
             this.xtraTabPage4.Name = "xtraTabPage4";
-            this.xtraTabPage4.Size = new System.Drawing.Size(1086, 153);
+            this.xtraTabPage4.Size = new System.Drawing.Size(1086, 151);
             this.xtraTabPage4.Text = "Lịch sử Mua/Thuê";
             // 
             // gcNhatKyMT
@@ -1805,7 +1834,7 @@
             this.repositoryItemMemoExEdit3,
             this.repositoryItemMemoExEdit4,
             this.lkTrangThai});
-            this.gcNhatKyMT.Size = new System.Drawing.Size(1086, 153);
+            this.gcNhatKyMT.Size = new System.Drawing.Size(1086, 151);
             this.gcNhatKyMT.TabIndex = 2;
             this.gcNhatKyMT.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.grvNhatKyMT});
@@ -1964,18 +1993,6 @@
             this.popSanPham.Manager = this.barManager1;
             this.popSanPham.Name = "popSanPham";
             // 
-            // gridColumn47
-            // 
-            this.gridColumn47.AppearanceHeader.Options.UseFont = true;
-            this.gridColumn47.Caption = "Ngày chuyển trạng thái cuối";
-            this.gridColumn47.DisplayFormat.FormatString = "d";
-            this.gridColumn47.DisplayFormat.FormatType = DevExpress.Utils.FormatType.DateTime;
-            this.gridColumn47.FieldName = "endDateSatus";
-            this.gridColumn47.Name = "gridColumn47";
-            this.gridColumn47.Visible = true;
-            this.gridColumn47.VisibleIndex = 26;
-            this.gridColumn47.Width = 155;
-            // 
             // ctlManager
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -2007,6 +2024,11 @@
             ((System.ComponentModel.ISupportInitialize)(this.imageCollection1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.repositoryItemTextEdit1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.lookTrangThai)).EndInit();
+            this.xtraTabPage1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.gcSanPham)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gvSanPham)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.repositoryItemMemoExEdit1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.popupLichSuXuLy)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.repositoryItemLookUpEdit1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.repositoryItemLookUpEdit4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.repositoryItemLookUpEdit2)).EndInit();
@@ -2019,10 +2041,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.diaChiMemo)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.tabMain)).EndInit();
             this.tabMain.ResumeLayout(false);
-            this.xtraTabPage1.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.gcSanPham)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.gvSanPham)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.repositoryItemMemoExEdit1)).EndInit();
             this.xtraTabPage2.ResumeLayout(false);
             this.xtraTabPage3.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.gcNhatKy)).EndInit();
@@ -2191,5 +2209,7 @@
         private DevExpress.XtraEditors.Repository.RepositoryItemCheckedComboBoxEdit ckNhanVien;
         private TaiLieu.ctlTaiLieu ctlTaiLieu2;
         private DevExpress.XtraGrid.Columns.GridColumn gridColumn47;
+        private DevExpress.XtraBars.PopupMenu popupLichSuXuLy;
+        private DevExpress.XtraBars.BarButtonItem itemAddLSXL;
     }
 }

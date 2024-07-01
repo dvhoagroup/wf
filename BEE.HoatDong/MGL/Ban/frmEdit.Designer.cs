@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
             DevExpress.XtraEditors.Controls.EditorButtonImageOptions editorButtonImageOptions2 = new DevExpress.XtraEditors.Controls.EditorButtonImageOptions();
             DevExpress.Utils.SerializableAppearanceObject serializableAppearanceObject5 = new DevExpress.Utils.SerializableAppearanceObject();
             DevExpress.Utils.SerializableAppearanceObject serializableAppearanceObject6 = new DevExpress.Utils.SerializableAppearanceObject();
@@ -95,7 +94,7 @@
             this.labelControl5 = new DevExpress.XtraEditors.LabelControl();
             this.grPhieu = new DevExpress.XtraEditors.GroupControl();
             this.lookDuong = new DevExpress.XtraEditors.SearchLookUpEdit();
-            this.barManager1 = new DevExpress.XtraBars.BarManager(this.components);
+            this.barManager1 = new DevExpress.XtraBars.BarManager();
             this.bar1 = new DevExpress.XtraBars.Bar();
             this.itemThem = new DevExpress.XtraBars.BarButtonItem();
             this.itemSua = new DevExpress.XtraBars.BarButtonItem();
@@ -109,7 +108,7 @@
             this.barDockControlBottom = new DevExpress.XtraBars.BarDockControl();
             this.barDockControlLeft = new DevExpress.XtraBars.BarDockControl();
             this.barDockControlRight = new DevExpress.XtraBars.BarDockControl();
-            this.imageCollection1 = new DevExpress.Utils.ImageCollection(this.components);
+            this.imageCollection1 = new DevExpress.Utils.ImageCollection();
             this.repositoryItemMemoExEdit1 = new DevExpress.XtraEditors.Repository.RepositoryItemMemoExEdit();
             this.searchLookUpEdit1View = new DevExpress.XtraGrid.Views.Grid.GridView();
             this.gridColumn3 = new DevExpress.XtraGrid.Columns.GridColumn();
@@ -254,9 +253,9 @@
             this.gridColumn9 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridColumn1 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridColumn2 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.timerGiaBan = new System.Windows.Forms.Timer(this.components);
-            this.timerThanhTien = new System.Windows.Forms.Timer(this.components);
-            this.timerCheckSoNha = new System.Windows.Forms.Timer(this.components);
+            this.timerGiaBan = new System.Windows.Forms.Timer();
+            this.timerThanhTien = new System.Windows.Forms.Timer();
+            this.timerCheckSoNha = new System.Windows.Forms.Timer();
             ((System.ComponentModel.ISupportInitialize)(this.grKhachHang)).BeginInit();
             this.grKhachHang.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.txtDiDong4.Properties)).BeginInit();
@@ -966,7 +965,7 @@
             this.barDockControlTop.Dock = System.Windows.Forms.DockStyle.Top;
             this.barDockControlTop.Location = new System.Drawing.Point(0, 0);
             this.barDockControlTop.Manager = this.barManager1;
-            this.barDockControlTop.Size = new System.Drawing.Size(833, 24);
+            this.barDockControlTop.Size = new System.Drawing.Size(833, 27);
             // 
             // barDockControlBottom
             // 
@@ -980,17 +979,17 @@
             // 
             this.barDockControlLeft.CausesValidation = false;
             this.barDockControlLeft.Dock = System.Windows.Forms.DockStyle.Left;
-            this.barDockControlLeft.Location = new System.Drawing.Point(0, 24);
+            this.barDockControlLeft.Location = new System.Drawing.Point(0, 27);
             this.barDockControlLeft.Manager = this.barManager1;
-            this.barDockControlLeft.Size = new System.Drawing.Size(0, 671);
+            this.barDockControlLeft.Size = new System.Drawing.Size(0, 668);
             // 
             // barDockControlRight
             // 
             this.barDockControlRight.CausesValidation = false;
             this.barDockControlRight.Dock = System.Windows.Forms.DockStyle.Right;
-            this.barDockControlRight.Location = new System.Drawing.Point(833, 24);
+            this.barDockControlRight.Location = new System.Drawing.Point(833, 27);
             this.barDockControlRight.Manager = this.barManager1;
-            this.barDockControlRight.Size = new System.Drawing.Size(0, 671);
+            this.barDockControlRight.Size = new System.Drawing.Size(0, 668);
             // 
             // imageCollection1
             // 
@@ -1802,7 +1801,7 @@
             this.grSanPham.Dock = System.Windows.Forms.DockStyle.Fill;
             this.grSanPham.Location = new System.Drawing.Point(0, 0);
             this.grSanPham.Name = "grSanPham";
-            this.grSanPham.Size = new System.Drawing.Size(831, 344);
+            this.grSanPham.Size = new System.Drawing.Size(831, 343);
             this.grSanPham.TabIndex = 7;
             this.grSanPham.Text = "Thông tin sản phẩm";
             // 
@@ -1920,7 +1919,7 @@
             this.chkThangMay.MenuManager = this.barManager1;
             this.chkThangMay.Name = "chkThangMay";
             this.chkThangMay.Properties.Caption = "Thang máy";
-            this.chkThangMay.Size = new System.Drawing.Size(81, 20);
+            this.chkThangMay.Size = new System.Drawing.Size(81, 18);
             this.chkThangMay.TabIndex = 92;
             // 
             // chkCanGoc
@@ -1929,7 +1928,7 @@
             this.chkCanGoc.MenuManager = this.barManager1;
             this.chkCanGoc.Name = "chkCanGoc";
             this.chkCanGoc.Properties.Caption = "Căn góc";
-            this.chkCanGoc.Size = new System.Drawing.Size(67, 20);
+            this.chkCanGoc.Size = new System.Drawing.Size(67, 18);
             this.chkCanGoc.TabIndex = 91;
             // 
             // spinPhongVS
@@ -1977,7 +1976,7 @@
             this.ckbCoTangHam.Location = new System.Drawing.Point(394, 120);
             this.ckbCoTangHam.Name = "ckbCoTangHam";
             this.ckbCoTangHam.Properties.Caption = "Có tầng hầm";
-            this.ckbCoTangHam.Size = new System.Drawing.Size(86, 20);
+            this.ckbCoTangHam.Size = new System.Drawing.Size(86, 18);
             this.ckbCoTangHam.TabIndex = 15;
             // 
             // ckbDoOto
@@ -1985,7 +1984,7 @@
             this.ckbDoOto.Location = new System.Drawing.Point(482, 120);
             this.ckbDoOto.Name = "ckbDoOto";
             this.ckbDoOto.Properties.Caption = "OTO vào nhà";
-            this.ckbDoOto.Size = new System.Drawing.Size(88, 20);
+            this.ckbDoOto.Size = new System.Drawing.Size(88, 18);
             this.ckbDoOto.TabIndex = 16;
             // 
             // lookHuongBC
@@ -2025,7 +2024,7 @@
             this.ckbThuongLuong.MenuManager = this.barManager1;
             this.ckbThuongLuong.Name = "ckbThuongLuong";
             this.ckbThuongLuong.Properties.Caption = "Giá thương lượng";
-            this.ckbThuongLuong.Size = new System.Drawing.Size(104, 20);
+            this.ckbThuongLuong.Size = new System.Drawing.Size(104, 18);
             this.ckbThuongLuong.TabIndex = 17;
             // 
             // cmbTienIch
@@ -2317,10 +2316,10 @@
             // xtraTabControl1
             // 
             this.xtraTabControl1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.xtraTabControl1.Location = new System.Drawing.Point(0, 24);
+            this.xtraTabControl1.Location = new System.Drawing.Point(0, 27);
             this.xtraTabControl1.Name = "xtraTabControl1";
             this.xtraTabControl1.SelectedTabPage = this.xtraTabPage1;
-            this.xtraTabControl1.Size = new System.Drawing.Size(833, 671);
+            this.xtraTabControl1.Size = new System.Drawing.Size(833, 668);
             this.xtraTabControl1.TabIndex = 12;
             this.xtraTabControl1.TabPages.AddRange(new DevExpress.XtraTab.XtraTabPage[] {
             this.xtraTabPage1,
@@ -2332,7 +2331,7 @@
             // 
             this.xtraTabPage1.Controls.Add(this.splitContainerControl1);
             this.xtraTabPage1.Name = "xtraTabPage1";
-            this.xtraTabPage1.Size = new System.Drawing.Size(831, 646);
+            this.xtraTabPage1.Size = new System.Drawing.Size(831, 645);
             this.xtraTabPage1.Text = "Thông tin chung";
             // 
             // splitContainerControl1
@@ -2345,7 +2344,7 @@
             this.splitContainerControl1.Panel1.Text = "Panel1";
             this.splitContainerControl1.Panel2.Controls.Add(this.grSanPham);
             this.splitContainerControl1.Panel2.Text = "Panel2";
-            this.splitContainerControl1.Size = new System.Drawing.Size(831, 646);
+            this.splitContainerControl1.Size = new System.Drawing.Size(831, 645);
             this.splitContainerControl1.SplitterPosition = 292;
             this.splitContainerControl1.TabIndex = 13;
             this.splitContainerControl1.Text = "splitContainerControl1";
@@ -2354,7 +2353,7 @@
             // 
             this.xtraTabPage2.Controls.Add(this.splitContainerControl2);
             this.xtraTabPage2.Name = "xtraTabPage2";
-            this.xtraTabPage2.Size = new System.Drawing.Size(831, 643);
+            this.xtraTabPage2.Size = new System.Drawing.Size(831, 646);
             this.xtraTabPage2.Text = "Khách hàng";
             // 
             // splitContainerControl2
@@ -2367,7 +2366,7 @@
             this.splitContainerControl2.Panel1.Text = "Panel1";
             this.splitContainerControl2.Panel2.Controls.Add(this.groupControl1);
             this.splitContainerControl2.Panel2.Text = "Panel2";
-            this.splitContainerControl2.Size = new System.Drawing.Size(831, 643);
+            this.splitContainerControl2.Size = new System.Drawing.Size(831, 646);
             this.splitContainerControl2.SplitterPosition = 289;
             this.splitContainerControl2.TabIndex = 65;
             this.splitContainerControl2.Text = "splitContainerControl2";
@@ -2378,7 +2377,7 @@
             this.groupControl1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.groupControl1.Location = new System.Drawing.Point(0, 0);
             this.groupControl1.Name = "groupControl1";
-            this.groupControl1.Size = new System.Drawing.Size(831, 344);
+            this.groupControl1.Size = new System.Drawing.Size(831, 347);
             this.groupControl1.TabIndex = 0;
             this.groupControl1.Text = "Người đại diện";
             // 
@@ -2390,7 +2389,7 @@
             this.gridControlAvatar.MainView = this.gridAvatar;
             this.gridControlAvatar.MenuManager = this.barManager1;
             this.gridControlAvatar.Name = "gridControlAvatar";
-            this.gridControlAvatar.Size = new System.Drawing.Size(827, 319);
+            this.gridControlAvatar.Size = new System.Drawing.Size(827, 322);
             this.gridControlAvatar.TabIndex = 1;
             this.gridControlAvatar.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gridAvatar});
@@ -2493,7 +2492,7 @@
             // 
             this.xtraTabGioiThieu.Controls.Add(this.txtGioiThieu);
             this.xtraTabGioiThieu.Name = "xtraTabGioiThieu";
-            this.xtraTabGioiThieu.Size = new System.Drawing.Size(831, 643);
+            this.xtraTabGioiThieu.Size = new System.Drawing.Size(831, 646);
             this.xtraTabGioiThieu.Text = "Giới thiệu";
             // 
             // txtGioiThieu
@@ -2503,14 +2502,14 @@
             this.txtGioiThieu.InnerText = null;
             this.txtGioiThieu.Location = new System.Drawing.Point(0, 0);
             this.txtGioiThieu.Name = "txtGioiThieu";
-            this.txtGioiThieu.Size = new System.Drawing.Size(831, 643);
+            this.txtGioiThieu.Size = new System.Drawing.Size(831, 646);
             this.txtGioiThieu.TabIndex = 5;
             // 
             // xtraTabTang
             // 
             this.xtraTabTang.Controls.Add(this.gcChiTiet);
             this.xtraTabTang.Name = "xtraTabTang";
-            this.xtraTabTang.Size = new System.Drawing.Size(831, 643);
+            this.xtraTabTang.Size = new System.Drawing.Size(831, 646);
             this.xtraTabTang.Text = "Thông tin tổng thế";
             // 
             // gcChiTiet
@@ -2525,7 +2524,7 @@
             this.spinEdit2,
             this.spinEdit3,
             this.spinEdit4});
-            this.gcChiTiet.Size = new System.Drawing.Size(831, 643);
+            this.gcChiTiet.Size = new System.Drawing.Size(831, 646);
             this.gcChiTiet.TabIndex = 0;
             this.gcChiTiet.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.grvChiTiet});

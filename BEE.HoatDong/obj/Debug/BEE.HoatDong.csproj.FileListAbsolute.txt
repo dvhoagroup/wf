@@ -1899,4 +1899,6 @@ C:\HOALAND\wf\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.CoreCompileInputs.cache
 C:\HOALAND\wf\BEE.HoatDong\obj\Debug\BEE.HoatDong.csproj.CopyComplete
 C:\HOALAND\wf\BEE.HoatDong\obj\Debug\BEE.HoatDong.dll
 C:\HOALAND\wf\BEE.HoatDong\obj\Debug\BEE.HoatDong.pdb
+C:\HOALAND\wf\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.frmLSXL.resources
 C:\HOALAND\wf\BEE.HoatDong\obj\Debug\BEE.HoatDong.csprojAssemblyReference.cache
+C:\HOALAND\wf\BEE.HoatDong\obj\Debug\BEE.HoatDong.MGL.Ban.frmSettingState.resources

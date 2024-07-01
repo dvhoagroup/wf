@@ -160,11 +160,13 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenNLH,
                                 //DTDD = Common.Right(p.DTDD, 3),
                                 p.HoTenNVN,
-                                p.Code
+                                p.Code,
+                                p.StatusEndDate
                             });
                         }
                         else if (obj.DienThoai3Dau == false)
                         {
+                            var data = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, -1, -1, -1, arrMaTT, arrMaNV).Where(p => p.ID == 47146).ToList();
                             gcDaChao.DataSource = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, -1, -1, -1, arrMaTT, arrMaNV).Select(p => new
                             {
                                 p.ID,
@@ -207,7 +209,8 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenNLH,
                                 // DTDD = Common.Right1(p.DTDD, 3),
                                 p.HoTenNVN,
-                                p.Code
+                                p.Code,
+                                p.StatusEndDate
                             });
                            
 
@@ -251,7 +254,8 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenNLH,
                                 DTDD = "",
                                 p.HoTenNVN,
-                                p.Code
+                                p.Code,
+                                p.StatusEndDate
                             });
                         }
                         else
@@ -293,7 +297,8 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenNLH,
                                 p.DTDD,
                                 p.HoTenNVN,
-                                p.Code
+                                p.Code,
+                                p.StatusEndDate
                             });
                         }
                         break;
@@ -342,7 +347,8 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenNLH,
                                 // DTDD = Common.Right(p.DTDD, 3),
                                 p.HoTenNVN,
-                                p.Code
+                                p.Code,
+                                p.StatusEndDate
                             });
                         }
                         else if (obj.DienThoai3Dau == false)
@@ -389,7 +395,8 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenNLH,
                                 // DTDD = Common.Right1(p.DTDD, 3),
                                 p.HoTenNVN,
-                                p.Code
+                                p.Code,
+                                p.StatusEndDate
                             });
 
                         }
@@ -432,7 +439,8 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenNLH,
                                 DTDD = "",
                                 p.HoTenNVN,
-                                p.Code
+                                p.Code,
+                                p.StatusEndDate
                             });
                         }
                         else
@@ -474,7 +482,8 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenNLH,
                                 p.DTDD,
                                 p.HoTenNVN,
-                                p.Code
+                                p.Code,
+                                p.StatusEndDate
                             });
                         }
                         break;
@@ -523,7 +532,8 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenNLH,
                                 // DTDD = Common.Right(p.DTDD, 3),
                                 p.HoTenNVN,
-                                p.Code
+                                p.Code,
+                                p.StatusEndDate
                             });
                         }
                         else if (obj.DienThoai3Dau == false)
@@ -570,7 +580,8 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenNLH,
                                 //DTDD = Common.Right1(p.DTDD, 3),
                                 p.HoTenNVN,
-                                p.Code
+                                p.Code,
+                                p.StatusEndDate
                             });
 
                         }
@@ -613,7 +624,8 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenNLH,
                                 DTDD = "",
                                 p.HoTenNVN,
-                                p.Code
+                                p.Code,
+                                p.StatusEndDate
                             });
                         }
                         else
@@ -655,7 +667,8 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenNLH,
                                 p.DTDD,
                                 p.HoTenNVN,
-                                p.Code
+                                p.Code,
+                                p.StatusEndDate
                             });
                         }
                         break;
@@ -704,7 +717,8 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenNLH,
                                 //DTDD = Common.Right(p.DTDD, 3),
                                 p.HoTenNVN,
-                                p.Code
+                                p.Code,
+                                p.StatusEndDate
                             });
                         }
                         else if (obj.DienThoai3Dau == false)
@@ -751,7 +765,8 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenNLH,
                                 //DTDD = Common.Right1(p.DTDD, 3),
                                 p.HoTenNVN,
-                                p.Code
+                                p.Code,
+                                p.StatusEndDate
                             });
 
                         }
@@ -794,7 +809,8 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenNLH,
                                 DTDD = "",
                                 p.HoTenNVN,
-                                p.Code
+                                p.Code,
+                                p.StatusEndDate
                             });
                         }
                         else
@@ -836,7 +852,8 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenNLH,
                                 DTDD = p.DTDD,
                                 p.HoTenNVN,
-                                p.Code
+                                p.Code,
+                                p.StatusEndDate
                             });
                         }
                         break;
@@ -1492,6 +1509,9 @@ namespace BEE.HoatDong.MGL.XuLy
                     objls.MaPT = frm.MaPT;
                     db.mglLichSuXuLyGiaoDich_MTs.InsertOnSubmit(objls);
 
+                    //  ghi nhận : ngày cập nhật trạng thái cuối cùng
+                    obj.StatusEndDate = db.getDate();
+
                     db.SubmitChanges();
                     DialogBox.Infomation("Thao thác thành công");
                     BaoCao_Load();
@@ -1598,6 +1618,24 @@ namespace BEE.HoatDong.MGL.XuLy
             frm.id = id;
             frm.didong = dd ?? "";
             frm.Show();
+        }
+
+        private void itemAddLSXL_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            if (gvSanPham.FocusedRowHandle < 0)
+            {
+                DialogBox.Infomation("Vui lòng chọn bất động sản để xử lý!");
+                gvSanPham.Focus();
+                return;
+            }
+            using (var frm = new frmLSXL()
+            {
+                ID = (int?)grvDaChao.GetFocusedRowCellValue("ID")
+            })
+            {
+                frm.ShowDialog();
+            }
+
         }
     }
 }

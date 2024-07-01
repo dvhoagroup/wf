@@ -82,28 +82,9 @@ namespace BEE.HoatDong.MGL.XuLy
             var arrMaNV = "," + ",";
             int MaNV = Common.StaffID;
             var wait = DialogBox.WaitingForm();
-            try
-            {
-                
+            
 
-                var data = db.gdGetManagerGiaoDichV2(tuNgay, denNgay, MaNV, true, -1, -1, -1, arrMaTT, arrMaNV).Select(p => new
-                {
-                    p.Code
-                }).AsEnumerable().ToList();
-
-
-
-
-            }
-            catch (Exception ex)
-            {
-                DialogBox.Error(ex.Message);
-            }
-            finally
-            {
-                wait.Close();
-            }
-
+       
 
         }
     }

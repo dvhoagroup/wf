@@ -124,8 +124,8 @@
             this.Controls.Add(this.btnHuy);
             this.Controls.Add(this.btnLuu);
             this.Controls.Add(this.gcCanBan);
+            this.IconOptions.ShowIcon = false;
             this.Name = "frmCaiDatThuTu";
-            this.ShowIcon = false;
             this.ShowInTaskbar = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Cài đặt thứ tự cột cần bán";

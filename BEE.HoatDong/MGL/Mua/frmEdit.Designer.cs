@@ -380,7 +380,7 @@
             this.barDockControlTop.Dock = System.Windows.Forms.DockStyle.Top;
             this.barDockControlTop.Location = new System.Drawing.Point(0, 0);
             this.barDockControlTop.Manager = this.barManager1;
-            this.barDockControlTop.Size = new System.Drawing.Size(1033, 27);
+            this.barDockControlTop.Size = new System.Drawing.Size(1033, 24);
             // 
             // barDockControlBottom
             // 
@@ -394,17 +394,17 @@
             // 
             this.barDockControlLeft.CausesValidation = false;
             this.barDockControlLeft.Dock = System.Windows.Forms.DockStyle.Left;
-            this.barDockControlLeft.Location = new System.Drawing.Point(0, 27);
+            this.barDockControlLeft.Location = new System.Drawing.Point(0, 24);
             this.barDockControlLeft.Manager = this.barManager1;
-            this.barDockControlLeft.Size = new System.Drawing.Size(0, 557);
+            this.barDockControlLeft.Size = new System.Drawing.Size(0, 560);
             // 
             // barDockControlRight
             // 
             this.barDockControlRight.CausesValidation = false;
             this.barDockControlRight.Dock = System.Windows.Forms.DockStyle.Right;
-            this.barDockControlRight.Location = new System.Drawing.Point(1033, 27);
+            this.barDockControlRight.Location = new System.Drawing.Point(1033, 24);
             this.barDockControlRight.Manager = this.barManager1;
-            this.barDockControlRight.Size = new System.Drawing.Size(0, 557);
+            this.barDockControlRight.Size = new System.Drawing.Size(0, 560);
             // 
             // imageCollection1
             // 
@@ -446,7 +446,7 @@
             // 
             this.pageCustomer.Controls.Add(this.grKhachHang);
             this.pageCustomer.Name = "pageCustomer";
-            this.pageCustomer.Size = new System.Drawing.Size(1031, 537);
+            this.pageCustomer.Size = new System.Drawing.Size(1031, 532);
             this.pageCustomer.Text = "Khách hàng";
             // 
             // grKhachHang
@@ -830,7 +830,7 @@
             this.pageGeneral.Controls.Add(this.grPhieuDK);
             this.pageGeneral.Controls.Add(this.grBDS);
             this.pageGeneral.Name = "pageGeneral";
-            this.pageGeneral.Size = new System.Drawing.Size(1031, 534);
+            this.pageGeneral.Size = new System.Drawing.Size(1031, 535);
             this.pageGeneral.Text = "Thông tin cơ bản";
             // 
             // grPhieuDK
@@ -1311,7 +1311,7 @@
             this.ckbCoTangHam.Location = new System.Drawing.Point(79, 291);
             this.ckbCoTangHam.Name = "ckbCoTangHam";
             this.ckbCoTangHam.Properties.Caption = "Có tầng hầm";
-            this.ckbCoTangHam.Size = new System.Drawing.Size(86, 18);
+            this.ckbCoTangHam.Size = new System.Drawing.Size(86, 20);
             this.ckbCoTangHam.TabIndex = 20;
             // 
             // ckbCoThangMay
@@ -1319,7 +1319,7 @@
             this.ckbCoThangMay.Location = new System.Drawing.Point(171, 291);
             this.ckbCoThangMay.Name = "ckbCoThangMay";
             this.ckbCoThangMay.Properties.Caption = "Thang máy";
-            this.ckbCoThangMay.Size = new System.Drawing.Size(86, 18);
+            this.ckbCoThangMay.Size = new System.Drawing.Size(86, 20);
             this.ckbCoThangMay.TabIndex = 22;
             // 
             // ckbDoOto
@@ -1327,7 +1327,7 @@
             this.ckbDoOto.Location = new System.Drawing.Point(366, 291);
             this.ckbDoOto.Name = "ckbDoOto";
             this.ckbDoOto.Properties.Caption = "OTO vào nhà";
-            this.ckbDoOto.Size = new System.Drawing.Size(86, 18);
+            this.ckbDoOto.Size = new System.Drawing.Size(86, 20);
             this.ckbDoOto.TabIndex = 23;
             // 
             // ckbCanGoc
@@ -1335,7 +1335,7 @@
             this.ckbCanGoc.Location = new System.Drawing.Point(274, 291);
             this.ckbCanGoc.Name = "ckbCanGoc";
             this.ckbCanGoc.Properties.Caption = "Căn góc";
-            this.ckbCanGoc.Size = new System.Drawing.Size(65, 18);
+            this.ckbCanGoc.Size = new System.Drawing.Size(65, 20);
             this.ckbCanGoc.TabIndex = 21;
             // 
             // cmbHuongBC
@@ -1769,10 +1769,10 @@
             // xtraTabControl1
             // 
             this.xtraTabControl1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.xtraTabControl1.Location = new System.Drawing.Point(0, 27);
+            this.xtraTabControl1.Location = new System.Drawing.Point(0, 24);
             this.xtraTabControl1.Name = "xtraTabControl1";
             this.xtraTabControl1.SelectedTabPage = this.pageGeneral;
-            this.xtraTabControl1.Size = new System.Drawing.Size(1033, 557);
+            this.xtraTabControl1.Size = new System.Drawing.Size(1033, 560);
             this.xtraTabControl1.TabIndex = 9;
             this.xtraTabControl1.TabPages.AddRange(new DevExpress.XtraTab.XtraTabPage[] {
             this.pageGeneral,
@@ -1783,7 +1783,7 @@
             // 
             this.xtraTabPage1.Controls.Add(this.txtGioiThieu);
             this.xtraTabPage1.Name = "xtraTabPage1";
-            this.xtraTabPage1.Size = new System.Drawing.Size(1031, 537);
+            this.xtraTabPage1.Size = new System.Drawing.Size(1031, 532);
             this.xtraTabPage1.Text = "Ghi chú";
             // 
             // txtGioiThieu
@@ -1793,7 +1793,7 @@
             this.txtGioiThieu.InnerText = null;
             this.txtGioiThieu.Location = new System.Drawing.Point(0, 0);
             this.txtGioiThieu.Name = "txtGioiThieu";
-            this.txtGioiThieu.Size = new System.Drawing.Size(1031, 537);
+            this.txtGioiThieu.Size = new System.Drawing.Size(1031, 532);
             this.txtGioiThieu.TabIndex = 6;
             // 
             // frmEdit

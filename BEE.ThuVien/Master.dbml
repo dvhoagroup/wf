@@ -5998,21 +5998,6 @@
       <Association Name="NhanVien_mglmtMuaThue" Member="NhanVien" ThisKey="MaNVKD" OtherKey="MaNV" Type="NhanVien" IsForeignKey="true" />
     </Type>
   </Table>
-  <Table Name="dbo.mglLichSuXuLyGiaoDich_MT" Member="mglLichSuXuLyGiaoDich_MTs">
-    <Type Name="mglLichSuXuLyGiaoDich_MT">
-      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
-      <Column Name="NoiDung" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
-      <Column Name="NgayXL" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
-      <Column Name="MaNV" Type="System.Int32" DbType="Int" CanBeNull="true" />
-      <Column Name="MaBC" Type="System.Int32" DbType="Int" CanBeNull="true" />
-      <Column Name="MaMT" Type="System.Int32" DbType="Int" CanBeNull="true" />
-      <Column Name="MaMTCV" Type="System.Int32" DbType="Int" CanBeNull="true" />
-      <Column Name="MaLoai" Type="System.Int32" DbType="Int" CanBeNull="true" />
-      <Column Name="Title" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
-      <Column Name="MaLoaiTruoc" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
-      <Column Name="MaPT" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
-    </Type>
-  </Table>
   <Table Name="dbo.mglLichSuOtherMT" Member="mglLichSuOtherMTs">
     <Type Name="mglLichSuOtherMT">
       <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
@@ -6035,6 +6020,42 @@
       <Association Name="mglMTCongViec_mglMTSanPham" Member="mglMTSanPhams" ThisKey="ID" OtherKey="MaCV" Type="mglMTSanPham" />
     </Type>
   </Table>
+  <Table Name="dbo.StateTransitions" Member="StateTransitions">
+    <Type Name="StateTransition">
+      <Column Name="tran_id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="first_state_id" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="last_state_id" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="max_duration" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="isactive" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.WanningLevel" Member="WanningLevels">
+    <Type Name="WanningLevel">
+      <Column Name="wn_id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="wn_level" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="wn_color" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="wn_risk" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="isactive" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.mglLichSuXuLyGiaoDich_MT" Member="mglLichSuXuLyGiaoDich_MTs">
+    <Type Name="mglLichSuXuLyGiaoDich_MT">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="NoiDung" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="NgayXL" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="MaNV" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MaBC" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MaMT" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MaMTCV" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MaLoai" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Title" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="MaLoaiTruoc" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="MaPT" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="tran_id" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="start_time" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="end_time" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
   <Table Name="dbo.mglMTSanPham" Member="mglMTSanPhams">
     <Type Name="mglMTSanPham">
       <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
@@ -6051,6 +6072,10 @@
       <Column Name="PhiMGCTMua" Type="System.Decimal" DbType="Decimal(16,2)" CanBeNull="true" />
       <Column Name="PhiMGDTMua" Type="System.Decimal" DbType="Decimal(16,2)" CanBeNull="true" />
       <Column Name="MaNV" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="StatusEndDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="wn_id" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="wn_name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="alert" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
       <Association Name="mglMTCongViec_mglMTSanPham" Member="mglMTCongViec" ThisKey="MaCV" OtherKey="ID" Type="mglMTCongViec" IsForeignKey="true" />
     </Type>
   </Table>
@@ -12437,6 +12462,7 @@
       <Column Name="Code" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
       <Column Name="[Desc]" Member="Desc" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
       <Column Name="DTDD" Type="System.String" DbType="NVarChar(15) NOT NULL" CanBeNull="false" />
+      <Column Name="StatusEndDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
     </ElementType>
   </Function>
 </Database>

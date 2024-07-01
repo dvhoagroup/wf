@@ -28,16 +28,17 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmMainNew));
-            DevExpress.Utils.SuperToolTip superToolTip1 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipItem toolTipItem1 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip2 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipItem toolTipItem2 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip3 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipItem toolTipItem3 = new DevExpress.Utils.ToolTipItem();
-            this.itemThemMG = new DevExpress.XtraBars.Ribbon.RibbonControl();
-            this.applicationMenu1 = new DevExpress.XtraBars.Ribbon.ApplicationMenu();
-            this.imageCollection2 = new DevExpress.Utils.ImageCollection();
+            DevExpress.Utils.SuperToolTip superToolTip7 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipItem toolTipItem7 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip8 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipItem toolTipItem8 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip9 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipItem toolTipItem9 = new DevExpress.Utils.ToolTipItem();
+            this.itemSettingState = new DevExpress.XtraBars.Ribbon.RibbonControl();
+            this.applicationMenu1 = new DevExpress.XtraBars.Ribbon.ApplicationMenu(this.components);
+            this.imageCollection2 = new DevExpress.Utils.ImageCollection(this.components);
             this.itemTG_Update = new DevExpress.XtraBars.BarButtonItem();
             this.itemTG_About = new DevExpress.XtraBars.BarButtonItem();
             this.itemBH_GC_Add = new DevExpress.XtraBars.BarButtonItem();
@@ -389,6 +390,7 @@
             this.barSubItem8 = new DevExpress.XtraBars.BarSubItem();
             this.itemSaveCodePass = new DevExpress.XtraBars.BarButtonItem();
             this.itemExpiredDate = new DevExpress.XtraBars.BarButtonItem();
+            this.frmSetSate = new DevExpress.XtraBars.BarButtonItem();
             this.itemKhachChoXoa = new DevExpress.XtraBars.BarButtonItem();
             this.itemChoXoaCB = new DevExpress.XtraBars.BarButtonItem();
             this.itemDuyetXoaCCT = new DevExpress.XtraBars.BarButtonItem();
@@ -452,14 +454,14 @@
             this.ribbonPageHelp = new DevExpress.XtraBars.Ribbon.RibbonPage();
             this.ribbonPageGroup4 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
             this.ribbonStatusBar = new DevExpress.XtraBars.Ribbon.RibbonStatusBar();
-            this.imageCollection1 = new DevExpress.Utils.ImageCollection();
-            this.popupMenu1 = new DevExpress.XtraBars.PopupMenu();
+            this.imageCollection1 = new DevExpress.Utils.ImageCollection(this.components);
+            this.popupMenu1 = new DevExpress.XtraBars.PopupMenu(this.components);
             this.dropButton = new DevExpress.XtraEditors.DropDownButton();
-            this.ppWorkSchedule = new DevExpress.XtraBars.PopupMenu();
+            this.ppWorkSchedule = new DevExpress.XtraBars.PopupMenu(this.components);
             this.tabMain = new DevExpress.XtraTab.XtraTabControl();
-            this.defaultLookAndFeel1 = new DevExpress.LookAndFeel.DefaultLookAndFeel();
+            this.defaultLookAndFeel1 = new DevExpress.LookAndFeel.DefaultLookAndFeel(this.components);
             this.groupBH_CK = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
-            this.dockManager1 = new DevExpress.XtraBars.Docking.DockManager();
+            this.dockManager1 = new DevExpress.XtraBars.Docking.DockManager(this.components);
             this.hideContainerRight = new DevExpress.XtraBars.Docking.AutoHideContainer();
             this.dockPanel1 = new DevExpress.XtraBars.Docking.DockPanel();
             this.dockPanel1_Container = new DevExpress.XtraBars.Docking.ControlContainer();
@@ -475,19 +477,19 @@
             this.gvHistory = new DevExpress.XtraGrid.Views.Grid.GridView();
             this.gridColumn4 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.repositoryItemMemoEdit2 = new DevExpress.XtraEditors.Repository.RepositoryItemMemoEdit();
-            this.popupNotify = new DevExpress.XtraBars.PopupMenu();
-            this.timerCheckOnline = new System.Windows.Forms.Timer();
-            this.timerAlert = new System.Windows.Forms.Timer();
-            this.timerNewChat = new System.Windows.Forms.Timer();
-            this.timerNhacViec = new System.Windows.Forms.Timer();
-            this.alctAltert = new DevExpress.XtraBars.Alerter.AlertControl();
-            this.timerRequest = new System.Windows.Forms.Timer();
-            this.alertRequest = new DevExpress.XtraBars.Alerter.AlertControl();
-            this.timer1 = new System.Windows.Forms.Timer();
-            this.popupControlContainer1 = new DevExpress.XtraBars.PopupControlContainer();
+            this.popupNotify = new DevExpress.XtraBars.PopupMenu(this.components);
+            this.timerCheckOnline = new System.Windows.Forms.Timer(this.components);
+            this.timerAlert = new System.Windows.Forms.Timer(this.components);
+            this.timerNewChat = new System.Windows.Forms.Timer(this.components);
+            this.timerNhacViec = new System.Windows.Forms.Timer(this.components);
+            this.alctAltert = new DevExpress.XtraBars.Alerter.AlertControl(this.components);
+            this.timerRequest = new System.Windows.Forms.Timer(this.components);
+            this.alertRequest = new DevExpress.XtraBars.Alerter.AlertControl(this.components);
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.popupControlContainer1 = new DevExpress.XtraBars.PopupControlContainer(this.components);
             this.ribbonPage1 = new DevExpress.XtraBars.Ribbon.RibbonPage();
-            this.timerTuLock = new System.Windows.Forms.Timer();
-            ((System.ComponentModel.ISupportInitialize)(this.itemThemMG)).BeginInit();
+            this.timerTuLock = new System.Windows.Forms.Timer(this.components);
+            ((System.ComponentModel.ISupportInitialize)(this.itemSettingState)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.applicationMenu1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.imageCollection2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.repositoryItemPictureEdit1)).BeginInit();
@@ -511,17 +513,16 @@
             ((System.ComponentModel.ISupportInitialize)(this.popupControlContainer1)).BeginInit();
             this.SuspendLayout();
             // 
-            // itemThemMG
+            // itemSettingState
             // 
-            this.itemThemMG.ApplicationButtonDropDownControl = this.applicationMenu1;
-            this.itemThemMG.ApplicationButtonImageOptions.Image = global::BEEREMA.Properties.Resources.logo_hoaland;
-            this.itemThemMG.ApplicationButtonText = null;
-            this.itemThemMG.AutoSizeItems = true;
-            this.itemThemMG.ExpandCollapseItem.Id = 0;
-            this.itemThemMG.Images = this.imageCollection2;
-            this.itemThemMG.Items.AddRange(new DevExpress.XtraBars.BarItem[] {
-            this.itemThemMG.ExpandCollapseItem,
-            this.itemThemMG.SearchEditItem,
+            this.itemSettingState.ApplicationButtonDropDownControl = this.applicationMenu1;
+            this.itemSettingState.ApplicationButtonImageOptions.Image = global::BEEREMA.Properties.Resources.logo_hoaland;
+            this.itemSettingState.ApplicationButtonText = null;
+            this.itemSettingState.AutoSizeItems = true;
+            this.itemSettingState.ExpandCollapseItem.Id = 0;
+            this.itemSettingState.Images = this.imageCollection2;
+            this.itemSettingState.Items.AddRange(new DevExpress.XtraBars.BarItem[] {
+            this.itemSettingState.ExpandCollapseItem,
             this.itemTG_Update,
             this.itemTG_About,
             this.itemBH_GC_Add,
@@ -900,29 +901,31 @@
             this.itemSyncKafka,
             this.itemTrangThaiBDS,
             this.itemTrangThaiBatDongSan,
-            this.itemTrangThaiMuaThue});
-            this.itemThemMG.Location = new System.Drawing.Point(0, 0);
-            this.itemThemMG.MaxItemId = 456;
-            this.itemThemMG.Name = "itemThemMG";
-            this.itemThemMG.Pages.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPage[] {
+            this.itemTrangThaiMuaThue,
+            this.frmSetSate,
+            this.itemSettingState.SearchEditItem});
+            this.itemSettingState.Location = new System.Drawing.Point(0, 0);
+            this.itemSettingState.MaxItemId = 457;
+            this.itemSettingState.Name = "itemSettingState";
+            this.itemSettingState.Pages.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPage[] {
             this.ribbonPageSystem,
             this.pageNhanVien,
             this.ribbonPageKhachHang,
             this.ribbonPage2,
             this.ribbonPageMarketing,
             this.ribbonPageHelp});
-            this.itemThemMG.RepositoryItems.AddRange(new DevExpress.XtraEditors.Repository.RepositoryItem[] {
+            this.itemSettingState.RepositoryItems.AddRange(new DevExpress.XtraEditors.Repository.RepositoryItem[] {
             this.repositoryItemPictureEdit1});
-            this.itemThemMG.ShowExpandCollapseButton = DevExpress.Utils.DefaultBoolean.True;
-            this.itemThemMG.ShowToolbarCustomizeItem = false;
-            this.itemThemMG.Size = new System.Drawing.Size(1298, 157);
-            this.itemThemMG.StatusBar = this.ribbonStatusBar;
-            this.itemThemMG.Toolbar.ShowCustomizeItem = false;
+            this.itemSettingState.ShowExpandCollapseButton = DevExpress.Utils.DefaultBoolean.True;
+            this.itemSettingState.ShowToolbarCustomizeItem = false;
+            this.itemSettingState.Size = new System.Drawing.Size(1298, 157);
+            this.itemSettingState.StatusBar = this.ribbonStatusBar;
+            this.itemSettingState.Toolbar.ShowCustomizeItem = false;
             // 
             // applicationMenu1
             // 
             this.applicationMenu1.Name = "applicationMenu1";
-            this.applicationMenu1.Ribbon = this.itemThemMG;
+            this.applicationMenu1.Ribbon = this.itemSettingState;
             // 
             // imageCollection2
             // 
@@ -2206,9 +2209,9 @@
             this.itemCRM_Customer_List.Caption = "Danh sách";
             this.itemCRM_Customer_List.Id = 51;
             this.itemCRM_Customer_List.Name = "itemCRM_Customer_List";
-            toolTipItem1.Text = "Customer List";
-            superToolTip1.Items.Add(toolTipItem1);
-            this.itemCRM_Customer_List.SuperTip = superToolTip1;
+            toolTipItem7.Text = "Customer List";
+            superToolTip7.Items.Add(toolTipItem7);
+            this.itemCRM_Customer_List.SuperTip = superToolTip7;
             this.itemCRM_Customer_List.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.itemCRM_Customer_List_ItemClick);
             // 
             // itemCRM_Demand_Add
@@ -2224,9 +2227,9 @@
             this.itemCRM_Demand_List.Enabled = false;
             this.itemCRM_Demand_List.Id = 53;
             this.itemCRM_Demand_List.Name = "itemCRM_Demand_List";
-            toolTipItem2.Text = "Demand List";
-            superToolTip2.Items.Add(toolTipItem2);
-            this.itemCRM_Demand_List.SuperTip = superToolTip2;
+            toolTipItem8.Text = "Demand List";
+            superToolTip8.Items.Add(toolTipItem8);
+            this.itemCRM_Demand_List.SuperTip = superToolTip8;
             // 
             // itemCRM_Dictionary_DanhXung
             // 
@@ -2728,9 +2731,9 @@
             this.itemCRM_Quotation.Enabled = false;
             this.itemCRM_Quotation.Id = 145;
             this.itemCRM_Quotation.Name = "itemCRM_Quotation";
-            toolTipItem3.Text = "Quotation List";
-            superToolTip3.Items.Add(toolTipItem3);
-            this.itemCRM_Quotation.SuperTip = superToolTip3;
+            toolTipItem9.Text = "Quotation List";
+            superToolTip9.Items.Add(toolTipItem9);
+            this.itemCRM_Quotation.SuperTip = superToolTip9;
             // 
             // itemCRM_RP_DBQues
             // 
@@ -3735,7 +3738,8 @@
             this.barSubItem8.Id = 446;
             this.barSubItem8.LinksPersistInfo.AddRange(new DevExpress.XtraBars.LinkPersistInfo[] {
             new DevExpress.XtraBars.LinkPersistInfo(this.itemSaveCodePass),
-            new DevExpress.XtraBars.LinkPersistInfo(this.itemExpiredDate)});
+            new DevExpress.XtraBars.LinkPersistInfo(this.itemExpiredDate),
+            new DevExpress.XtraBars.LinkPersistInfo(this.frmSetSate)});
             this.barSubItem8.Name = "barSubItem8";
             // 
             // itemSaveCodePass
@@ -3751,6 +3755,13 @@
             this.itemExpiredDate.Id = 448;
             this.itemExpiredDate.Name = "itemExpiredDate";
             this.itemExpiredDate.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.itemExpiredDate_ItemClick);
+            // 
+            // frmSetSate
+            // 
+            this.frmSetSate.Caption = "Cài đặt thời gian chuyển trạng thái GDXL";
+            this.frmSetSate.Id = 456;
+            this.frmSetSate.Name = "frmSetSate";
+            this.frmSetSate.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.frmSetSate_ItemClick);
             // 
             // itemKhachChoXoa
             // 
@@ -4290,7 +4301,7 @@
             this.ribbonStatusBar.ItemLinks.Add(this.barStaticItem2);
             this.ribbonStatusBar.Location = new System.Drawing.Point(0, 667);
             this.ribbonStatusBar.Name = "ribbonStatusBar";
-            this.ribbonStatusBar.Ribbon = this.itemThemMG;
+            this.ribbonStatusBar.Ribbon = this.itemSettingState;
             this.ribbonStatusBar.Size = new System.Drawing.Size(1298, 22);
             // 
             // imageCollection1
@@ -4346,7 +4357,7 @@
             this.popupMenu1.MenuAppearance.MenuCaption.Options.UseFont = true;
             this.popupMenu1.MenuCaption = "MENU";
             this.popupMenu1.Name = "popupMenu1";
-            this.popupMenu1.Ribbon = this.itemThemMG;
+            this.popupMenu1.Ribbon = this.itemSettingState;
             this.popupMenu1.ShowCaption = true;
             // 
             // dropButton
@@ -4354,7 +4365,7 @@
             this.dropButton.AllowDrop = true;
             this.dropButton.DropDownControl = this.ppWorkSchedule;
             this.dropButton.Location = new System.Drawing.Point(3, 2);
-            this.dropButton.MenuManager = this.itemThemMG;
+            this.dropButton.MenuManager = this.itemSettingState;
             this.dropButton.Name = "dropButton";
             this.dropButton.Size = new System.Drawing.Size(84, 23);
             this.dropButton.TabIndex = 0;
@@ -4366,7 +4377,7 @@
             this.ppWorkSchedule.ItemLinks.Add(this.itemStop);
             this.ppWorkSchedule.ItemLinks.Add(this.itemMute);
             this.ppWorkSchedule.Name = "ppWorkSchedule";
-            this.ppWorkSchedule.Ribbon = this.itemThemMG;
+            this.ppWorkSchedule.Ribbon = this.itemSettingState;
             // 
             // tabMain
             // 
@@ -4464,7 +4475,7 @@
             this.gcReminder.Dock = System.Windows.Forms.DockStyle.Fill;
             this.gcReminder.Location = new System.Drawing.Point(0, 0);
             this.gcReminder.MainView = this.gvReminder;
-            this.gcReminder.MenuManager = this.itemThemMG;
+            this.gcReminder.MenuManager = this.itemSettingState;
             this.gcReminder.Name = "gcReminder";
             this.gcReminder.RepositoryItems.AddRange(new DevExpress.XtraEditors.Repository.RepositoryItem[] {
             this.repositoryItemMemoEdit1});
@@ -4539,7 +4550,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.gcHistory.Location = new System.Drawing.Point(0, 26);
             this.gcHistory.MainView = this.gvHistory;
-            this.gcHistory.MenuManager = this.itemThemMG;
+            this.gcHistory.MenuManager = this.itemSettingState;
             this.gcHistory.Name = "gcHistory";
             this.gcHistory.RepositoryItems.AddRange(new DevExpress.XtraEditors.Repository.RepositoryItem[] {
             this.repositoryItemMemoEdit2});
@@ -4626,7 +4637,7 @@
             this.popupControlContainer1.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.NoBorder;
             this.popupControlContainer1.Location = new System.Drawing.Point(401, 91);
             this.popupControlContainer1.Name = "popupControlContainer1";
-            this.popupControlContainer1.Ribbon = this.itemThemMG;
+            this.popupControlContainer1.Ribbon = this.itemSettingState;
             this.popupControlContainer1.ShowCloseButton = true;
             this.popupControlContainer1.ShowSizeGrip = true;
             this.popupControlContainer1.Size = new System.Drawing.Size(484, 245);
@@ -4650,11 +4661,11 @@
             this.Controls.Add(this.tabMain);
             this.Controls.Add(this.hideContainerRight);
             this.Controls.Add(this.ribbonStatusBar);
-            this.Controls.Add(this.itemThemMG);
+            this.Controls.Add(this.itemSettingState);
             this.IconOptions.Icon = ((System.Drawing.Icon)(resources.GetObject("frmMainNew.IconOptions.Icon")));
             this.KeyPreview = true;
             this.Name = "frmMainNew";
-            this.Ribbon = this.itemThemMG;
+            this.Ribbon = this.itemSettingState;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.StatusBar = this.ribbonStatusBar;
             this.Text = " - PHẦN MỀM QUẢN LÝ SÀN GIAO DỊCH BẤT ĐỘNG SẢN BEEREMA DEMO";
@@ -4662,7 +4673,7 @@
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmMainNew_FormClosing);
             this.Load += new System.EventHandler(this.frmMainNew_Load);
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.frmMainNew_KeyDown);
-            ((System.ComponentModel.ISupportInitialize)(this.itemThemMG)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.itemSettingState)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.applicationMenu1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.imageCollection2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.repositoryItemPictureEdit1)).EndInit();
@@ -4691,7 +4702,7 @@
 
         #endregion
 
-        private DevExpress.XtraBars.Ribbon.RibbonControl itemThemMG;
+        private DevExpress.XtraBars.Ribbon.RibbonControl itemSettingState;
         private DevExpress.XtraBars.Ribbon.RibbonPage ribbonPageSystem;
         private DevExpress.XtraBars.Ribbon.RibbonPageGroup groupAccount;
         private DevExpress.XtraBars.Ribbon.RibbonStatusBar ribbonStatusBar;
@@ -5143,5 +5154,6 @@
         private DevExpress.XtraBars.BarButtonItem itemTrangThaiBDS;
         private DevExpress.XtraBars.BarButtonItem itemTrangThaiBatDongSan;
         private DevExpress.XtraBars.BarButtonItem itemTrangThaiMuaThue;
+        private DevExpress.XtraBars.BarButtonItem frmSetSate;
     }
 }
