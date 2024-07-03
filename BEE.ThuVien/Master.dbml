@@ -5899,16 +5899,6 @@
       <Association Name="mglbcTrangThai_mglbcBanChoThue" Member="mglbcTrangThai" ThisKey="MaTT" OtherKey="MaTT" Type="mglbcTrangThai" IsForeignKey="true" />
     </Type>
   </Table>
-  <Table Name="dbo.mglTrangThaiGiaoDich" Member="mglTrangThaiGiaoDiches">
-    <Type Name="mglTrangThaiGiaoDich">
-      <Column Name="MaLoai" Type="System.Byte" DbType="TinyInt NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
-      <Column Name="TenTT" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
-      <Column Name="Ord" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
-      <Column Name="Color" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
-      <Column Name="Code" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
-      <Column Name="[Desc]" Member="Desc" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
-    </Type>
-  </Table>
   <Table Name="dbo.mglbcTrangThai" Member="mglbcTrangThais">
     <Type Name="mglbcTrangThai">
       <Column Name="MaTT" Type="System.Byte" DbType="TinyInt NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
@@ -6077,6 +6067,17 @@
       <Column Name="wn_name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
       <Column Name="alert" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
       <Association Name="mglMTCongViec_mglMTSanPham" Member="mglMTCongViec" ThisKey="MaCV" OtherKey="ID" Type="mglMTCongViec" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.mglTrangThaiGiaoDich" Member="mglTrangThaiGiaoDiches">
+    <Type Name="mglTrangThaiGiaoDich">
+      <Column Name="MaLoai" Type="System.Byte" DbType="TinyInt NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenTT" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Ord" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Color" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Code" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="[Desc]" Member="Desc" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="OverTime" Type="System.Int32" DbType="Int" CanBeNull="true" />
     </Type>
   </Table>
   <Function Name="dbo.mglDatCoc_TaoSoDC" Method="mglDatCoc_TaoSoDC">
@@ -12462,6 +12463,8 @@
       <Column Name="Code" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
       <Column Name="[Desc]" Member="Desc" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
       <Column Name="DTDD" Type="System.String" DbType="NVarChar(15) NOT NULL" CanBeNull="false" />
+      <Column Name="OverTime" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="StatusOverTime" Type="System.String" DbType="NVarChar(43) NOT NULL" CanBeNull="false" />
       <Column Name="StatusEndDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
     </ElementType>
   </Function>

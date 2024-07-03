@@ -161,7 +161,9 @@ namespace BEE.HoatDong.MGL.XuLy
                                 //DTDD = Common.Right(p.DTDD, 3),
                                 p.HoTenNVN,
                                 p.Code,
-                                p.StatusEndDate
+                                p.StatusEndDate,
+                                p.OverTime,
+                                p.StatusOverTime
                             });
                         }
                         else if (obj.DienThoai3Dau == false)
@@ -210,7 +212,9 @@ namespace BEE.HoatDong.MGL.XuLy
                                 // DTDD = Common.Right1(p.DTDD, 3),
                                 p.HoTenNVN,
                                 p.Code,
-                                p.StatusEndDate
+                                p.StatusEndDate,
+                                p.OverTime,
+                                p.StatusOverTime
                             });
                            
 
@@ -255,7 +259,9 @@ namespace BEE.HoatDong.MGL.XuLy
                                 DTDD = "",
                                 p.HoTenNVN,
                                 p.Code,
-                                p.StatusEndDate
+                                p.StatusEndDate,
+                                p.OverTime,
+                                p.StatusOverTime
                             });
                         }
                         else
@@ -298,7 +304,9 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.DTDD,
                                 p.HoTenNVN,
                                 p.Code,
-                                p.StatusEndDate
+                                p.StatusEndDate,
+                                p.OverTime,
+                                p.StatusOverTime
                             });
                         }
                         break;
@@ -348,7 +356,9 @@ namespace BEE.HoatDong.MGL.XuLy
                                 // DTDD = Common.Right(p.DTDD, 3),
                                 p.HoTenNVN,
                                 p.Code,
-                                p.StatusEndDate
+                                p.StatusEndDate,
+                                p.OverTime,
+                                p.StatusOverTime
                             });
                         }
                         else if (obj.DienThoai3Dau == false)
@@ -396,7 +406,9 @@ namespace BEE.HoatDong.MGL.XuLy
                                 // DTDD = Common.Right1(p.DTDD, 3),
                                 p.HoTenNVN,
                                 p.Code,
-                                p.StatusEndDate
+                                p.StatusEndDate,
+                                p.OverTime,
+                                p.StatusOverTime
                             });
 
                         }
@@ -440,7 +452,9 @@ namespace BEE.HoatDong.MGL.XuLy
                                 DTDD = "",
                                 p.HoTenNVN,
                                 p.Code,
-                                p.StatusEndDate
+                                p.StatusEndDate,
+                                p.OverTime,
+                                p.StatusOverTime
                             });
                         }
                         else
@@ -483,7 +497,9 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.DTDD,
                                 p.HoTenNVN,
                                 p.Code,
-                                p.StatusEndDate
+                                p.StatusEndDate,
+                                p.OverTime,
+                                p.StatusOverTime
                             });
                         }
                         break;
@@ -533,7 +549,9 @@ namespace BEE.HoatDong.MGL.XuLy
                                 // DTDD = Common.Right(p.DTDD, 3),
                                 p.HoTenNVN,
                                 p.Code,
-                                p.StatusEndDate
+                                p.StatusEndDate,
+                                p.OverTime,
+                                p.StatusOverTime
                             });
                         }
                         else if (obj.DienThoai3Dau == false)
@@ -581,7 +599,9 @@ namespace BEE.HoatDong.MGL.XuLy
                                 //DTDD = Common.Right1(p.DTDD, 3),
                                 p.HoTenNVN,
                                 p.Code,
-                                p.StatusEndDate
+                                p.StatusEndDate,
+                                p.OverTime,
+                                p.StatusOverTime
                             });
 
                         }
@@ -625,7 +645,9 @@ namespace BEE.HoatDong.MGL.XuLy
                                 DTDD = "",
                                 p.HoTenNVN,
                                 p.Code,
-                                p.StatusEndDate
+                                p.StatusEndDate,
+                                p.OverTime,
+                                p.StatusOverTime
                             });
                         }
                         else
@@ -668,7 +690,9 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.DTDD,
                                 p.HoTenNVN,
                                 p.Code,
-                                p.StatusEndDate
+                                p.StatusEndDate,
+                                p.OverTime,
+                                p.StatusOverTime
                             });
                         }
                         break;
@@ -718,7 +742,9 @@ namespace BEE.HoatDong.MGL.XuLy
                                 //DTDD = Common.Right(p.DTDD, 3),
                                 p.HoTenNVN,
                                 p.Code,
-                                p.StatusEndDate
+                                p.StatusEndDate,
+                                p.OverTime,
+                                p.StatusOverTime
                             });
                         }
                         else if (obj.DienThoai3Dau == false)
@@ -766,7 +792,9 @@ namespace BEE.HoatDong.MGL.XuLy
                                 //DTDD = Common.Right1(p.DTDD, 3),
                                 p.HoTenNVN,
                                 p.Code,
-                                p.StatusEndDate
+                                p.StatusEndDate,
+                                p.OverTime,
+                                p.StatusOverTime
                             });
 
                         }
@@ -810,7 +838,9 @@ namespace BEE.HoatDong.MGL.XuLy
                                 DTDD = "",
                                 p.HoTenNVN,
                                 p.Code,
-                                p.StatusEndDate
+                                p.StatusEndDate,
+                                p.OverTime,
+                                p.StatusOverTime
                             });
                         }
                         else
@@ -853,7 +883,9 @@ namespace BEE.HoatDong.MGL.XuLy
                                 DTDD = p.DTDD,
                                 p.HoTenNVN,
                                 p.Code,
-                                p.StatusEndDate
+                                p.StatusEndDate,
+                                p.OverTime,
+                                p.StatusOverTime
                             });
                         }
                         break;
@@ -1129,9 +1161,10 @@ namespace BEE.HoatDong.MGL.XuLy
         private void ctlManager_Load(object sender, EventArgs e)
         {
             lookTrangThai.DataSource = db.mglmtTrangThais;
-            ckTrangThai.DataSource = db.mglTrangThaiGiaoDiches.Select(p=> new { p.Ord, p.MaLoai,TenTT = p.Code == null? p.TenTT :  "("+p.Code.ToString()+") "+p.TenTT}).OrderBy(p=>p.Ord);
+           ckTrangThai.DataSource = db.mglTrangThaiGiaoDiches.Select(p=> new { p.Ord, p.MaLoai,TenTT = p.Code == null? p.TenTT :  "("+p.Code.ToString()+") "+p.TenTT}).OrderBy(p=>p.Ord);
             ckNhanVien.DataSource = db.NhanViens.Select(p => new { p.MaNV, HoTen = p.MaSo == null ? p.HoTen : p.HoTen + " (" + p.MaSo.ToString() + ")" });
-            it.KyBaoCaoCls objKBC = new it.KyBaoCaoCls();
+            lkTrangThaiv1.DataSource = db.mglbcTrangThais;
+           it.KyBaoCaoCls objKBC = new it.KyBaoCaoCls();
             objKBC.Initialize(cmbKyBaoCao);
             SetDate(0);
             //itemTuNgay.EditValue = new DateTime(2012, 5, 28);
@@ -1544,6 +1577,24 @@ namespace BEE.HoatDong.MGL.XuLy
                         }
 
                     }
+
+                }
+                if (e.Column.FieldName == "StatusOverTime")
+                {
+                    var OverTime = (int?)grvDaChao.GetRowCellValue(e.RowHandle, "OverTime");
+                    if (OverTime <= 0)
+                    {
+
+                        e.Appearance.BackColor = System.Drawing.Color.Red;
+
+                       
+                    }
+
+                    else
+                    {
+                        e.Appearance.BackColor = System.Drawing.Color.Green;
+                    }
+
 
                 }
             }

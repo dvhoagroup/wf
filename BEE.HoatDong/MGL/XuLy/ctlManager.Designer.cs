@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ctlManager));
             this.splitContainerControl1 = new DevExpress.XtraEditors.SplitContainerControl();
             this.gcDaChao = new DevExpress.XtraGrid.GridControl();
@@ -71,7 +72,9 @@
             this.gridColumn29 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.Code = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridColumn47 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.barManager1 = new DevExpress.XtraBars.BarManager();
+            this.gridColumn48 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gridColumn49 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.barManager1 = new DevExpress.XtraBars.BarManager(this.components);
             this.bar1 = new DevExpress.XtraBars.Bar();
             this.itemKyBaoCao = new DevExpress.XtraBars.BarEditItem();
             this.cmbKyBaoCao = new DevExpress.XtraEditors.Repository.RepositoryItemComboBox();
@@ -92,7 +95,7 @@
             this.barDockControlBottom = new DevExpress.XtraBars.BarDockControl();
             this.barDockControlLeft = new DevExpress.XtraBars.BarDockControl();
             this.barDockControlRight = new DevExpress.XtraBars.BarDockControl();
-            this.imageCollection1 = new DevExpress.Utils.ImageCollection();
+            this.imageCollection1 = new DevExpress.Utils.ImageCollection(this.components);
             this.barEditItem1 = new DevExpress.XtraBars.BarEditItem();
             this.repositoryItemTextEdit1 = new DevExpress.XtraEditors.Repository.RepositoryItemTextEdit();
             this.itemXuLy_Them = new DevExpress.XtraBars.BarButtonItem();
@@ -126,7 +129,7 @@
             this.repositoryItemMemoExEdit1 = new DevExpress.XtraEditors.Repository.RepositoryItemMemoExEdit();
             this.gridColumn26 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridColumn27 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.popupLichSuXuLy = new DevExpress.XtraBars.PopupMenu();
+            this.popupLichSuXuLy = new DevExpress.XtraBars.PopupMenu(this.components);
             this.repositoryItemLookUpEdit1 = new DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit();
             this.repositoryItemLookUpEdit4 = new DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit();
             this.repositoryItemLookUpEdit2 = new DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit();
@@ -178,7 +181,8 @@
             this.repositoryItemMemoExEdit4 = new DevExpress.XtraEditors.Repository.RepositoryItemMemoExEdit();
             this.gridColumn46 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.lkTrangThai = new DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit();
-            this.popSanPham = new DevExpress.XtraBars.PopupMenu();
+            this.popSanPham = new DevExpress.XtraBars.PopupMenu(this.components);
+            this.lkTrangThaiv1 = new DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainerControl1)).BeginInit();
             this.splitContainerControl1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.gcDaChao)).BeginInit();
@@ -226,6 +230,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.repositoryItemMemoExEdit4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.lkTrangThai)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.popSanPham)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lkTrangThaiv1)).BeginInit();
             this.SuspendLayout();
             // 
             // splitContainerControl1
@@ -308,7 +313,9 @@
             this.gridColumn7,
             this.gridColumn29,
             this.Code,
-            this.gridColumn47});
+            this.gridColumn47,
+            this.gridColumn48,
+            this.gridColumn49});
             this.grvDaChao.DetailHeight = 284;
             this.grvDaChao.GridControl = this.gcDaChao;
             this.grvDaChao.GroupPanelText = "Kéo cột lên đây để xem theo nhóm";
@@ -797,7 +804,7 @@
             this.gridColumn2.FieldName = "StartDate";
             this.gridColumn2.Name = "gridColumn2";
             this.gridColumn2.Visible = true;
-            this.gridColumn2.VisibleIndex = 25;
+            this.gridColumn2.VisibleIndex = 26;
             this.gridColumn2.Width = 162;
             // 
             // gridColumn15
@@ -808,7 +815,7 @@
             this.gridColumn15.FieldName = "UpdateDate";
             this.gridColumn15.Name = "gridColumn15";
             this.gridColumn15.Visible = true;
-            this.gridColumn15.VisibleIndex = 26;
+            this.gridColumn15.VisibleIndex = 27;
             this.gridColumn15.Width = 106;
             // 
             // gridColumn16
@@ -833,7 +840,7 @@
             this.gridColumn29.FieldName = "HoTenNVN";
             this.gridColumn29.Name = "gridColumn29";
             this.gridColumn29.Visible = true;
-            this.gridColumn29.VisibleIndex = 28;
+            this.gridColumn29.VisibleIndex = 29;
             this.gridColumn29.Width = 130;
             // 
             // Code
@@ -856,8 +863,27 @@
             this.gridColumn47.FieldName = "StatusEndDate";
             this.gridColumn47.Name = "gridColumn47";
             this.gridColumn47.Visible = true;
-            this.gridColumn47.VisibleIndex = 27;
+            this.gridColumn47.VisibleIndex = 28;
             this.gridColumn47.Width = 143;
+            // 
+            // gridColumn48
+            // 
+            this.gridColumn48.AppearanceHeader.BackColor = System.Drawing.Color.Red;
+            this.gridColumn48.AppearanceHeader.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Bold);
+            this.gridColumn48.AppearanceHeader.Options.UseBackColor = true;
+            this.gridColumn48.AppearanceHeader.Options.UseFont = true;
+            this.gridColumn48.Caption = "Quá hạn";
+            this.gridColumn48.FieldName = "StatusOverTime";
+            this.gridColumn48.Name = "gridColumn48";
+            this.gridColumn48.Visible = true;
+            this.gridColumn48.VisibleIndex = 25;
+            this.gridColumn48.Width = 102;
+            // 
+            // gridColumn49
+            // 
+            this.gridColumn49.Caption = "OverTime";
+            this.gridColumn49.FieldName = "OverTime";
+            this.gridColumn49.Name = "gridColumn49";
             // 
             // barManager1
             // 
@@ -1542,7 +1568,7 @@
             this.xtraTabPage2.Controls.Add(this.ctlTaiLieu2);
             this.xtraTabPage2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.xtraTabPage2.Name = "xtraTabPage2";
-            this.xtraTabPage2.Size = new System.Drawing.Size(1086, 151);
+            this.xtraTabPage2.Size = new System.Drawing.Size(1086, 153);
             this.xtraTabPage2.Text = "2. Tài liệu";
             // 
             // ctlTaiLieu2
@@ -1553,14 +1579,14 @@
             this.ctlTaiLieu2.Location = new System.Drawing.Point(0, 0);
             this.ctlTaiLieu2.MaNV = null;
             this.ctlTaiLieu2.Name = "ctlTaiLieu2";
-            this.ctlTaiLieu2.Size = new System.Drawing.Size(1086, 151);
+            this.ctlTaiLieu2.Size = new System.Drawing.Size(1086, 153);
             this.ctlTaiLieu2.TabIndex = 0;
             // 
             // xtraTabPage3
             // 
             this.xtraTabPage3.Controls.Add(this.gcNhatKy);
             this.xtraTabPage3.Name = "xtraTabPage3";
-            this.xtraTabPage3.Size = new System.Drawing.Size(1086, 151);
+            this.xtraTabPage3.Size = new System.Drawing.Size(1086, 153);
             this.xtraTabPage3.Text = "Lịch sử Bán/Cho thuê";
             // 
             // gcNhatKy
@@ -1571,8 +1597,9 @@
             this.gcNhatKy.MenuManager = this.barManager1;
             this.gcNhatKy.Name = "gcNhatKy";
             this.gcNhatKy.RepositoryItems.AddRange(new DevExpress.XtraEditors.Repository.RepositoryItem[] {
-            this.btnDongBo});
-            this.gcNhatKy.Size = new System.Drawing.Size(1086, 151);
+            this.btnDongBo,
+            this.lkTrangThaiv1});
+            this.gcNhatKy.Size = new System.Drawing.Size(1086, 153);
             this.gcNhatKy.TabIndex = 2;
             this.gcNhatKy.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.grvNhatKy});
@@ -1710,6 +1737,7 @@
             // gridColumn238
             // 
             this.gridColumn238.Caption = "Trạng thái trước";
+            this.gridColumn238.ColumnEdit = this.lkTrangThaiv1;
             this.gridColumn238.FieldName = "MaTTBefore";
             this.gridColumn238.MinWidth = 17;
             this.gridColumn238.Name = "gridColumn238";
@@ -1720,6 +1748,7 @@
             // gridColumn31
             // 
             this.gridColumn31.Caption = "Trạng thái sau";
+            this.gridColumn31.ColumnEdit = this.lkTrangThaiv1;
             this.gridColumn31.FieldName = "MaTT";
             this.gridColumn31.MinWidth = 17;
             this.gridColumn31.Name = "gridColumn31";
@@ -1820,7 +1849,7 @@
             // 
             this.xtraTabPage4.Controls.Add(this.gcNhatKyMT);
             this.xtraTabPage4.Name = "xtraTabPage4";
-            this.xtraTabPage4.Size = new System.Drawing.Size(1086, 151);
+            this.xtraTabPage4.Size = new System.Drawing.Size(1086, 153);
             this.xtraTabPage4.Text = "Lịch sử Mua/Thuê";
             // 
             // gcNhatKyMT
@@ -1834,7 +1863,7 @@
             this.repositoryItemMemoExEdit3,
             this.repositoryItemMemoExEdit4,
             this.lkTrangThai});
-            this.gcNhatKyMT.Size = new System.Drawing.Size(1086, 151);
+            this.gcNhatKyMT.Size = new System.Drawing.Size(1086, 153);
             this.gcNhatKyMT.TabIndex = 2;
             this.gcNhatKyMT.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.grvNhatKyMT});
@@ -1993,6 +2022,19 @@
             this.popSanPham.Manager = this.barManager1;
             this.popSanPham.Name = "popSanPham";
             // 
+            // lkTrangThaiv1
+            // 
+            this.lkTrangThaiv1.AutoHeight = false;
+            this.lkTrangThaiv1.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.lkTrangThaiv1.Columns.AddRange(new DevExpress.XtraEditors.Controls.LookUpColumnInfo[] {
+            new DevExpress.XtraEditors.Controls.LookUpColumnInfo("TenTT", ""),
+            new DevExpress.XtraEditors.Controls.LookUpColumnInfo("MaTT", "MaTT")});
+            this.lkTrangThaiv1.DisplayMember = "TenTT";
+            this.lkTrangThaiv1.Name = "lkTrangThaiv1";
+            this.lkTrangThaiv1.NullText = "";
+            this.lkTrangThaiv1.ValueMember = "MaTT";
+            // 
             // ctlManager
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -2053,6 +2095,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.repositoryItemMemoExEdit4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.lkTrangThai)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.popSanPham)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lkTrangThaiv1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -2211,5 +2254,8 @@
         private DevExpress.XtraGrid.Columns.GridColumn gridColumn47;
         private DevExpress.XtraBars.PopupMenu popupLichSuXuLy;
         private DevExpress.XtraBars.BarButtonItem itemAddLSXL;
+        private DevExpress.XtraGrid.Columns.GridColumn gridColumn48;
+        private DevExpress.XtraGrid.Columns.GridColumn gridColumn49;
+        private DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit lkTrangThaiv1;
     }
 }
