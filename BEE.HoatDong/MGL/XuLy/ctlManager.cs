@@ -10,6 +10,8 @@ using System.Linq;
 using System.Data.Linq.SqlClient;
 using BEE.ThuVien;
 using BEEREMA;
+using DevExpress.XtraBars;
+using DevExpress.XtraEditors.Repository;
 
 namespace BEE.HoatDong.MGL.XuLy
 {
@@ -20,7 +22,42 @@ namespace BEE.HoatDong.MGL.XuLy
         public ctlManager()
         {
             InitializeComponent();
+            //    // Tạo BarEditItem cho ô tìm kiếm
+            //    BarEditItem searchItem = new BarEditItem(barManager1);
+            //    searchItem.Caption = "Search:";
+            //    searchItem.Edit = new RepositoryItemTextEdit(); // Hoặc có thể sử dụng RepositoryItemSearchControl để có trải nghiệm tìm kiếm tốt hơn
+            //    searchItem.Width = 150;
+            //    bar1.AddItem(searchItem);
+
+            //    // Tạo BarEditItem cho `ckNhanVien`
+            //    BarEditItem nhanVienItem = new BarEditItem(barManager1);
+            //    nhanVienItem.Caption = "Nhân viên 1:";
+            //    nhanVienItem.Edit = new RepositoryItemCheckedComboBoxEdit();
+            //    nhanVienItem.EditWidth = 200; // Thiết lập độ rộng cho `ckNhanVien`
+            //    bar1.AddItem(nhanVienItem);
+
+            //    // Đưa BarControl vào giao diện người dùng
+            //    barManager1.MainMenu = bar1;
+
+            //    // Xử lý sự kiện để tìm kiếm trong `ckNhanVien`
+            //    ((RepositoryItemTextEdit)searchItem.Edit).KeyDown += (sender, e) =>
+            //    {
+            //        if (e.KeyCode == Keys.Enter)
+            //        {
+            //            string searchText = searchItem.EditValue.ToString().ToLower(); // Lấy giá trị từ ô tìm kiếm và chuyển về chữ thường để so sánh không phân biệt hoa thường
+            //            List<ThuVien.NhanVien> nhanViens =db.NhanViens.ToList(); // Hàm này để lấy danh sách nhân viên, thay bằng cách lấy dữ liệu thực tế của bạn
+
+            //            // Lọc danh sách nhân viên dựa trên searchText
+            //            List<ThuVien.NhanVien> filteredNhanViens = db.NhanViens.Where(nv => nv.HoTen.ToLower().Contains(searchText)).ToList();
+
+            //            // Cập nhật dữ liệu trong `ckNhanVien`
+            //            ((RepositoryItemCheckedComboBoxEdit)nhanVienItem.Edit).DataSource = filteredNhanViens;
+            //        }
+            //    };
+            //}
         }
+       
+
 
         void LoadPermission()
         {
@@ -1160,6 +1197,7 @@ namespace BEE.HoatDong.MGL.XuLy
 
         private void ctlManager_Load(object sender, EventArgs e)
         {
+            cklNhanVien2.DataSource = db.NhanViens;
             lookTrangThai.DataSource = db.mglmtTrangThais;
            ckTrangThai.DataSource = db.mglTrangThaiGiaoDiches.Select(p=> new { p.Ord, p.MaLoai,TenTT = p.Code == null? p.TenTT :  "("+p.Code.ToString()+") "+p.TenTT}).OrderBy(p=>p.Ord);
             ckNhanVien.DataSource = db.NhanViens.Select(p => new { p.MaNV, HoTen = p.MaSo == null ? p.HoTen : p.HoTen + " (" + p.MaSo.ToString() + ")" });

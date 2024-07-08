@@ -3,17 +3,24 @@ using System.Collections.Generic;
 using System.Text;
 using System.Windows.Forms;
 using BEE.ThuVien;
+using StackExchange.Redis;
 
 namespace BEEREMA
 {
+
     static class Program
     {
+
         /// <summary>
         /// The main entry point for the application.
-        /// </summary>
+        /// </summary>\
+        /// 
+
+
         [STAThread]
         static void Main()
         {
+
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 

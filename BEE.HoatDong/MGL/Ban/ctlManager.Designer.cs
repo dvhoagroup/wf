@@ -29,12 +29,12 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            DevExpress.XtraEditors.Controls.EditorButtonImageOptions editorButtonImageOptions12 = new DevExpress.XtraEditors.Controls.EditorButtonImageOptions();
+            DevExpress.XtraEditors.Controls.EditorButtonImageOptions editorButtonImageOptions1 = new DevExpress.XtraEditors.Controls.EditorButtonImageOptions();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ctlManager));
-            DevExpress.Utils.SerializableAppearanceObject serializableAppearanceObject45 = new DevExpress.Utils.SerializableAppearanceObject();
-            DevExpress.Utils.SerializableAppearanceObject serializableAppearanceObject46 = new DevExpress.Utils.SerializableAppearanceObject();
-            DevExpress.Utils.SerializableAppearanceObject serializableAppearanceObject47 = new DevExpress.Utils.SerializableAppearanceObject();
-            DevExpress.Utils.SerializableAppearanceObject serializableAppearanceObject48 = new DevExpress.Utils.SerializableAppearanceObject();
+            DevExpress.Utils.SerializableAppearanceObject serializableAppearanceObject1 = new DevExpress.Utils.SerializableAppearanceObject();
+            DevExpress.Utils.SerializableAppearanceObject serializableAppearanceObject2 = new DevExpress.Utils.SerializableAppearanceObject();
+            DevExpress.Utils.SerializableAppearanceObject serializableAppearanceObject3 = new DevExpress.Utils.SerializableAppearanceObject();
+            DevExpress.Utils.SerializableAppearanceObject serializableAppearanceObject4 = new DevExpress.Utils.SerializableAppearanceObject();
             this.splitContainerControl1 = new DevExpress.XtraEditors.SplitContainerControl();
             this.gcBan = new DevExpress.XtraGrid.GridControl();
             this.grvBan = new DevExpress.XtraGrid.Views.Grid.GridView();
@@ -680,9 +680,9 @@
             // btnCall
             // 
             this.btnCall.AutoHeight = false;
-            editorButtonImageOptions12.Image = ((System.Drawing.Image)(resources.GetObject("editorButtonImageOptions12.Image")));
+            editorButtonImageOptions1.Image = ((System.Drawing.Image)(resources.GetObject("editorButtonImageOptions1.Image")));
             this.btnCall.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
-            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Glyph, "", -1, true, true, false, editorButtonImageOptions12, new DevExpress.Utils.KeyShortcut(System.Windows.Forms.Keys.None), serializableAppearanceObject45, serializableAppearanceObject46, serializableAppearanceObject47, serializableAppearanceObject48, "", null, null, DevExpress.Utils.ToolTipAnchor.Default)});
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Glyph, "", -1, true, true, false, editorButtonImageOptions1, new DevExpress.Utils.KeyShortcut(System.Windows.Forms.Keys.None), serializableAppearanceObject1, serializableAppearanceObject2, serializableAppearanceObject3, serializableAppearanceObject4, "", null, null, DevExpress.Utils.ToolTipAnchor.Default)});
             this.btnCall.Name = "btnCall";
             this.btnCall.ButtonClick += new DevExpress.XtraEditors.Controls.ButtonPressedEventHandler(this.btnCall_ButtonClick);
             // 
@@ -2095,7 +2095,7 @@
             this.xtraTabPage2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.xtraTabPage2.Name = "xtraTabPage2";
             this.barManager1.SetPopupContextMenu(this.xtraTabPage2, this.menuXuLy);
-            this.xtraTabPage2.Size = new System.Drawing.Size(1302, 127);
+            this.xtraTabPage2.Size = new System.Drawing.Size(1302, 129);
             this.xtraTabPage2.Text = "2. Lịch sử làm việc";
             // 
             // gcNhatKy
@@ -2108,7 +2108,7 @@
             this.gcNhatKy.RepositoryItems.AddRange(new DevExpress.XtraEditors.Repository.RepositoryItem[] {
             this.repositoryItemMemoExEdit1,
             this.repositoryItemMemoExEdit2});
-            this.gcNhatKy.Size = new System.Drawing.Size(1302, 127);
+            this.gcNhatKy.Size = new System.Drawing.Size(1302, 129);
             this.gcNhatKy.TabIndex = 1;
             this.gcNhatKy.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.grvNhatKy});
@@ -2806,7 +2806,7 @@
             this.xtraTabNguoiLH.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.xtraTabNguoiLH.Name = "xtraTabNguoiLH";
             this.barManager1.SetPopupContextMenu(this.xtraTabNguoiLH, this.popupNguoiLH);
-            this.xtraTabNguoiLH.Size = new System.Drawing.Size(1302, 127);
+            this.xtraTabNguoiLH.Size = new System.Drawing.Size(1302, 129);
             this.xtraTabNguoiLH.Text = "7. Người liên hệ";
             // 
             // gridControlAvatar
@@ -2816,7 +2816,7 @@
             this.gridControlAvatar.MainView = this.gridAvatar;
             this.gridControlAvatar.MenuManager = this.barManager1;
             this.gridControlAvatar.Name = "gridControlAvatar";
-            this.gridControlAvatar.Size = new System.Drawing.Size(1302, 127);
+            this.gridControlAvatar.Size = new System.Drawing.Size(1302, 129);
             this.gridControlAvatar.TabIndex = 1;
             this.gridControlAvatar.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gridAvatar});
@@ -3030,7 +3030,7 @@
             this.paging1.CurrentPage = 1;
             this.paging1.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.paging1.Location = new System.Drawing.Point(0, 303);
-            this.paging1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.paging1.Margin = new System.Windows.Forms.Padding(4);
             this.paging1.Name = "paging1";
             this.paging1.PageRows = 10;
             this.paging1.Size = new System.Drawing.Size(1304, 25);
@@ -3063,7 +3063,7 @@
             this.xtraTabPage4.Controls.Add(this.ctlTaiLieu1);
             this.xtraTabPage4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.xtraTabPage4.Name = "xtraTabPage4";
-            this.xtraTabPage4.Size = new System.Drawing.Size(1302, 127);
+            this.xtraTabPage4.Size = new System.Drawing.Size(1302, 129);
             this.xtraTabPage4.Text = "3. Tài liệu";
             // 
             // ctlTaiLieu1
@@ -3075,7 +3075,7 @@
             this.ctlTaiLieu1.MaNV = null;
             this.ctlTaiLieu1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.ctlTaiLieu1.Name = "ctlTaiLieu1";
-            this.ctlTaiLieu1.Size = new System.Drawing.Size(1302, 127);
+            this.ctlTaiLieu1.Size = new System.Drawing.Size(1302, 129);
             this.ctlTaiLieu1.TabIndex = 0;
             // 
             // xtraTabPage5
@@ -3083,7 +3083,7 @@
             this.xtraTabPage5.Controls.Add(this.gcKhachMua);
             this.xtraTabPage5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.xtraTabPage5.Name = "xtraTabPage5";
-            this.xtraTabPage5.Size = new System.Drawing.Size(1302, 127);
+            this.xtraTabPage5.Size = new System.Drawing.Size(1302, 129);
             this.xtraTabPage5.Text = "4. Khách hàng giao dịch";
             // 
             // gcKhachMua
@@ -3094,7 +3094,7 @@
             this.gcKhachMua.MenuManager = this.barManager1;
             this.gcKhachMua.Name = "gcKhachMua";
             this.gcKhachMua.ShowOnlyPredefinedDetails = true;
-            this.gcKhachMua.Size = new System.Drawing.Size(1302, 127);
+            this.gcKhachMua.Size = new System.Drawing.Size(1302, 129);
             this.gcKhachMua.TabIndex = 2;
             this.gcKhachMua.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gvKhachMua});
@@ -3190,7 +3190,7 @@
             this.xtraTabPage6.Controls.Add(this.gcKhachXem);
             this.xtraTabPage6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.xtraTabPage6.Name = "xtraTabPage6";
-            this.xtraTabPage6.Size = new System.Drawing.Size(1302, 127);
+            this.xtraTabPage6.Size = new System.Drawing.Size(1302, 129);
             this.xtraTabPage6.Text = "5. Khách đã xem";
             // 
             // gcKhachXem
@@ -3201,7 +3201,7 @@
             this.gcKhachXem.MenuManager = this.barManager1;
             this.gcKhachXem.Name = "gcKhachXem";
             this.gcKhachXem.ShowOnlyPredefinedDetails = true;
-            this.gcKhachXem.Size = new System.Drawing.Size(1302, 127);
+            this.gcKhachXem.Size = new System.Drawing.Size(1302, 129);
             this.gcKhachXem.TabIndex = 3;
             this.gcKhachXem.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gvKhachXem});
@@ -3297,7 +3297,7 @@
             this.xtraTabGioiThieu.Controls.Add(this.txtGioiThieu);
             this.xtraTabGioiThieu.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.xtraTabGioiThieu.Name = "xtraTabGioiThieu";
-            this.xtraTabGioiThieu.Size = new System.Drawing.Size(1302, 127);
+            this.xtraTabGioiThieu.Size = new System.Drawing.Size(1302, 129);
             this.xtraTabGioiThieu.Text = "6. Giới thiệu";
             // 
             // txtGioiThieu
@@ -3307,7 +3307,7 @@
             this.txtGioiThieu.InnerText = null;
             this.txtGioiThieu.Location = new System.Drawing.Point(0, 0);
             this.txtGioiThieu.Name = "txtGioiThieu";
-            this.txtGioiThieu.Size = new System.Drawing.Size(1302, 127);
+            this.txtGioiThieu.Size = new System.Drawing.Size(1302, 129);
             this.txtGioiThieu.TabIndex = 6;
             // 
             // xtraTabLichSu
@@ -3315,7 +3315,7 @@
             this.xtraTabLichSu.Controls.Add(this.gcGhiNhan);
             this.xtraTabLichSu.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.xtraTabLichSu.Name = "xtraTabLichSu";
-            this.xtraTabLichSu.Size = new System.Drawing.Size(1302, 127);
+            this.xtraTabLichSu.Size = new System.Drawing.Size(1302, 129);
             this.xtraTabLichSu.Text = "8. Ghi nhận thay đổi";
             // 
             // gcGhiNhan
@@ -3325,7 +3325,7 @@
             this.gcGhiNhan.MainView = this.grvGhiNhan;
             this.gcGhiNhan.MenuManager = this.barManager1;
             this.gcGhiNhan.Name = "gcGhiNhan";
-            this.gcGhiNhan.Size = new System.Drawing.Size(1302, 127);
+            this.gcGhiNhan.Size = new System.Drawing.Size(1302, 129);
             this.gcGhiNhan.TabIndex = 0;
             this.gcGhiNhan.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.grvGhiNhan});
@@ -3529,7 +3529,7 @@
             this.xtraTabThongTinTT.Controls.Add(this.gcChiTiet);
             this.xtraTabThongTinTT.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.xtraTabThongTinTT.Name = "xtraTabThongTinTT";
-            this.xtraTabThongTinTT.Size = new System.Drawing.Size(1302, 127);
+            this.xtraTabThongTinTT.Size = new System.Drawing.Size(1302, 129);
             this.xtraTabThongTinTT.Text = "9. Thông tin tổng thế";
             // 
             // gcChiTiet
@@ -3544,7 +3544,7 @@
             this.spinEdit2,
             this.spinEdit3,
             this.spinEdit4});
-            this.gcChiTiet.Size = new System.Drawing.Size(1302, 127);
+            this.gcChiTiet.Size = new System.Drawing.Size(1302, 129);
             this.gcChiTiet.TabIndex = 1;
             this.gcChiTiet.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.grvChiTiet});

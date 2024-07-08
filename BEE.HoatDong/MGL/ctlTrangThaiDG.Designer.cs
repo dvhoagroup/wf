@@ -37,6 +37,7 @@
             this.gridColumn1 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.repositoryItemColorEdit1 = new DevExpress.XtraEditors.Repository.RepositoryItemColorEdit();
             this.gridColumn2 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gridColumn3 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.bar1 = new DevExpress.XtraBars.Bar();
             this.bar2 = new DevExpress.XtraBars.Bar();
             this.bar3 = new DevExpress.XtraBars.Bar();
@@ -55,7 +56,9 @@
             this.barStaticItem2 = new DevExpress.XtraBars.BarStaticItem();
             this.repositoryItemTextEdit1 = new DevExpress.XtraEditors.Repository.RepositoryItemTextEdit();
             this.repositoryItemTextEdit2 = new DevExpress.XtraEditors.Repository.RepositoryItemTextEdit();
-            this.gridColumn3 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gridColumn4 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.spinOverTime = new DevExpress.XtraEditors.Repository.RepositoryItemSpinEdit();
+            this.gridColumn5 = new DevExpress.XtraGrid.Columns.GridColumn();
             ((System.ComponentModel.ISupportInitialize)(this.gridControl1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.grvTrangThaiGD)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.repositoryItemColorEdit1)).BeginInit();
@@ -63,6 +66,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.imageCollection1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.repositoryItemTextEdit1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.repositoryItemTextEdit2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spinOverTime)).BeginInit();
             this.SuspendLayout();
             // 
             // gridControl1
@@ -72,7 +76,8 @@
             this.gridControl1.MainView = this.grvTrangThaiGD;
             this.gridControl1.Name = "gridControl1";
             this.gridControl1.RepositoryItems.AddRange(new DevExpress.XtraEditors.Repository.RepositoryItem[] {
-            this.repositoryItemColorEdit1});
+            this.repositoryItemColorEdit1,
+            this.spinOverTime});
             this.gridControl1.Size = new System.Drawing.Size(800, 573);
             this.gridControl1.TabIndex = 3;
             this.gridControl1.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
@@ -85,7 +90,9 @@
             this.colTenHuong,
             this.gridColumn1,
             this.gridColumn2,
-            this.gridColumn3});
+            this.gridColumn3,
+            this.gridColumn4,
+            this.gridColumn5});
             this.grvTrangThaiGD.GridControl = this.gridControl1;
             this.grvTrangThaiGD.Name = "grvTrangThaiGD";
             this.grvTrangThaiGD.OptionsView.ShowAutoFilterRow = true;
@@ -107,6 +114,7 @@
             this.colTenHuong.OptionsColumn.AllowFocus = false;
             this.colTenHuong.Visible = true;
             this.colTenHuong.VisibleIndex = 0;
+            this.colTenHuong.Width = 150;
             // 
             // gridColumn1
             // 
@@ -119,6 +127,7 @@
             this.gridColumn1.OptionsColumn.AllowFocus = false;
             this.gridColumn1.Visible = true;
             this.gridColumn1.VisibleIndex = 1;
+            this.gridColumn1.Width = 158;
             // 
             // repositoryItemColorEdit1
             // 
@@ -135,6 +144,16 @@
             this.gridColumn2.Name = "gridColumn2";
             this.gridColumn2.Visible = true;
             this.gridColumn2.VisibleIndex = 2;
+            this.gridColumn2.Width = 158;
+            // 
+            // gridColumn3
+            // 
+            this.gridColumn3.Caption = "Code";
+            this.gridColumn3.FieldName = "Code";
+            this.gridColumn3.Name = "gridColumn3";
+            this.gridColumn3.Visible = true;
+            this.gridColumn3.VisibleIndex = 3;
+            this.gridColumn3.Width = 134;
             // 
             // bar1
             // 
@@ -315,13 +334,29 @@
             this.repositoryItemTextEdit2.AutoHeight = false;
             this.repositoryItemTextEdit2.Name = "repositoryItemTextEdit2";
             // 
-            // gridColumn3
+            // gridColumn4
             // 
-            this.gridColumn3.Caption = "Code";
-            this.gridColumn3.FieldName = "Code";
-            this.gridColumn3.Name = "gridColumn3";
-            this.gridColumn3.Visible = true;
-            this.gridColumn3.VisibleIndex = 3;
+            this.gridColumn4.Caption = "Hết hạn (giờ)";
+            this.gridColumn4.ColumnEdit = this.spinOverTime;
+            this.gridColumn4.FieldName = "OverTime";
+            this.gridColumn4.Name = "gridColumn4";
+            this.gridColumn4.Visible = true;
+            this.gridColumn4.VisibleIndex = 4;
+            this.gridColumn4.Width = 165;
+            // 
+            // spinOverTime
+            // 
+            this.spinOverTime.AutoHeight = false;
+            this.spinOverTime.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.spinOverTime.Name = "spinOverTime";
+            // 
+            // gridColumn5
+            // 
+            this.gridColumn5.Name = "gridColumn5";
+            this.gridColumn5.Visible = true;
+            this.gridColumn5.VisibleIndex = 5;
+            this.gridColumn5.Width = 278;
             // 
             // ctlTrangThaiDG
             // 
@@ -342,6 +377,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.imageCollection1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.repositoryItemTextEdit1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.repositoryItemTextEdit2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.spinOverTime)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -375,5 +411,8 @@
         private DevExpress.XtraEditors.Repository.RepositoryItemColorEdit repositoryItemColorEdit1;
         private DevExpress.XtraGrid.Columns.GridColumn gridColumn2;
         private DevExpress.XtraGrid.Columns.GridColumn gridColumn3;
+        private DevExpress.XtraGrid.Columns.GridColumn gridColumn4;
+        private DevExpress.XtraEditors.Repository.RepositoryItemSpinEdit spinOverTime;
+        private DevExpress.XtraGrid.Columns.GridColumn gridColumn5;
     }
 }

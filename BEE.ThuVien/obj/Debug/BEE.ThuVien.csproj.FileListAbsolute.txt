@@ -189,3 +189,4 @@ C:\HOALAND\wf\BEE.ThuVien\obj\Debug\BEE.ThuVien.csproj.CoreCompileInputs.cache
 C:\HOALAND\wf\BEE.ThuVien\obj\Debug\BEE.ThuVien.csproj.CopyComplete
 C:\HOALAND\wf\BEE.ThuVien\obj\Debug\BEE.ThuVien.dll
 C:\HOALAND\wf\BEE.ThuVien\obj\Debug\BEE.ThuVien.pdb
+C:\HOALAND\wf\BEE.ThuVien\obj\Debug\BEE.ThuVien.csprojAssemblyReference.cache

@@ -40,6 +40,7 @@ namespace BEE.HoatDong.MGL
                     txtColor.Text = objT.Color;
                     spinOder.EditValue = objT.Ord;
                     txtCode.Text = objT.Code;
+                    spinOverTime.EditValue = objT.OverTime;
                 }
             }
             txtTenHuong.Focus();
@@ -66,6 +67,11 @@ namespace BEE.HoatDong.MGL
                     objT.Color = txtColor.Text;
                     objT.Code = txtCode.Text;
                     objT.MaLoai = _matt;
+                    if (spinOverTime.EditValue != null)
+                    {
+                        objT.OverTime = Convert.ToInt32(spinOverTime.EditValue);
+                    }
+
                     if (spinOder.EditValue != null)
                     {
                         objT.Ord = Convert.ToByte(spinOder.EditValue);
@@ -81,6 +87,11 @@ namespace BEE.HoatDong.MGL
                     objT.TenTT = txtTenHuong.Text;
                     objT.Color = txtColor.Text;
                     objT.Code = txtCode.Text;
+                    if(spinOverTime.EditValue != null)
+                    {
+                        objT.OverTime = Convert.ToInt32(spinOverTime.EditValue);
+                    }
+                   
                     if (spinOder.EditValue != null)
                     {
                         objT.Ord = Convert.ToByte(spinOder.EditValue);
@@ -92,6 +103,26 @@ namespace BEE.HoatDong.MGL
             IsUpdate = true;
             DialogBox.Infomation("Dữ liệu đã cập nhật thành công.");
             this.Close();
+        }
+
+        private void spinOverTime_EditValueChanged(object sender, EventArgs e)
+        {
+           
+            var ng = Convert.ToInt32(spinOverTime.EditValue) / 24;
+            if (ng >= 1)
+            {
+                lbNgay.Visible = true;
+                try
+                {
+                    lbNgay.Text = (ng).ToString() + " Ngày";
+                }
+                catch
+                {
+
+                }
+            }
+            else
+                lbNgay.Visible = false;
         }
     }
 }

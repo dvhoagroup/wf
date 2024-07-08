@@ -36,19 +36,23 @@
             this.txtTenHuong = new DevExpress.XtraEditors.TextEdit();
             this.labelControl1 = new DevExpress.XtraEditors.LabelControl();
             this.panelControl1 = new DevExpress.XtraEditors.PanelControl();
+            this.lbNgay = new DevExpress.XtraEditors.LabelControl();
+            this.labelControl5 = new DevExpress.XtraEditors.LabelControl();
+            this.spinOverTime = new DevExpress.XtraEditors.SpinEdit();
+            this.labelControl4 = new DevExpress.XtraEditors.LabelControl();
+            this.txtCode = new DevExpress.XtraEditors.TextEdit();
             this.labelControl3 = new DevExpress.XtraEditors.LabelControl();
             this.spinOder = new DevExpress.XtraEditors.SpinEdit();
             this.txtColor = new DevExpress.XtraEditors.ColorEdit();
             this.labelControl2 = new DevExpress.XtraEditors.LabelControl();
-            this.txtCode = new DevExpress.XtraEditors.TextEdit();
-            this.labelControl4 = new DevExpress.XtraEditors.LabelControl();
             ((System.ComponentModel.ISupportInitialize)(this.imageCollection1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtTenHuong.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.panelControl1)).BeginInit();
             this.panelControl1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.spinOverTime.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtCode.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.spinOder.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtColor.Properties)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txtCode.Properties)).BeginInit();
             this.SuspendLayout();
             // 
             // btnHuy
@@ -56,7 +60,7 @@
             this.btnHuy.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnHuy.ImageOptions.ImageIndex = 4;
             this.btnHuy.ImageOptions.ImageList = this.imageCollection1;
-            this.btnHuy.Location = new System.Drawing.Point(287, 134);
+            this.btnHuy.Location = new System.Drawing.Point(287, 200);
             this.btnHuy.Name = "btnHuy";
             this.btnHuy.Size = new System.Drawing.Size(79, 23);
             this.btnHuy.TabIndex = 3;
@@ -90,7 +94,7 @@
             // 
             this.btnDongY.ImageOptions.ImageIndex = 6;
             this.btnDongY.ImageOptions.ImageList = this.imageCollection1;
-            this.btnDongY.Location = new System.Drawing.Point(190, 134);
+            this.btnDongY.Location = new System.Drawing.Point(190, 200);
             this.btnDongY.Name = "btnDongY";
             this.btnDongY.Size = new System.Drawing.Size(91, 23);
             this.btnDongY.TabIndex = 2;
@@ -114,6 +118,9 @@
             // 
             // panelControl1
             // 
+            this.panelControl1.Controls.Add(this.lbNgay);
+            this.panelControl1.Controls.Add(this.labelControl5);
+            this.panelControl1.Controls.Add(this.spinOverTime);
             this.panelControl1.Controls.Add(this.labelControl4);
             this.panelControl1.Controls.Add(this.txtCode);
             this.panelControl1.Controls.Add(this.labelControl3);
@@ -124,8 +131,55 @@
             this.panelControl1.Controls.Add(this.labelControl1);
             this.panelControl1.Location = new System.Drawing.Point(12, 10);
             this.panelControl1.Name = "panelControl1";
-            this.panelControl1.Size = new System.Drawing.Size(354, 118);
+            this.panelControl1.Size = new System.Drawing.Size(354, 169);
             this.panelControl1.TabIndex = 9;
+            // 
+            // lbNgay
+            // 
+            this.lbNgay.Location = new System.Drawing.Point(293, 138);
+            this.lbNgay.Name = "lbNgay";
+            this.lbNgay.Size = new System.Drawing.Size(8, 13);
+            this.lbNgay.TabIndex = 18;
+            this.lbNgay.Text = "[]";
+            // 
+            // labelControl5
+            // 
+            this.labelControl5.Location = new System.Drawing.Point(8, 111);
+            this.labelControl5.Name = "labelControl5";
+            this.labelControl5.Size = new System.Drawing.Size(63, 13);
+            this.labelControl5.TabIndex = 17;
+            this.labelControl5.Text = "Hết hạn (giờ)";
+            // 
+            // spinOverTime
+            // 
+            this.spinOverTime.EditValue = new decimal(new int[] {
+            0,
+            0,
+            0,
+            0});
+            this.spinOverTime.Location = new System.Drawing.Point(107, 108);
+            this.spinOverTime.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.spinOverTime.Name = "spinOverTime";
+            this.spinOverTime.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.spinOverTime.Size = new System.Drawing.Size(242, 20);
+            this.spinOverTime.TabIndex = 16;
+            this.spinOverTime.EditValueChanged += new System.EventHandler(this.spinOverTime_EditValueChanged);
+            // 
+            // labelControl4
+            // 
+            this.labelControl4.Location = new System.Drawing.Point(8, 86);
+            this.labelControl4.Name = "labelControl4";
+            this.labelControl4.Size = new System.Drawing.Size(25, 13);
+            this.labelControl4.TabIndex = 15;
+            this.labelControl4.Text = "Code";
+            // 
+            // txtCode
+            // 
+            this.txtCode.Location = new System.Drawing.Point(107, 83);
+            this.txtCode.Name = "txtCode";
+            this.txtCode.Size = new System.Drawing.Size(242, 20);
+            this.txtCode.TabIndex = 14;
             // 
             // labelControl3
             // 
@@ -169,28 +223,13 @@
             this.labelControl2.TabIndex = 10;
             this.labelControl2.Text = "Màu";
             // 
-            // txtCode
-            // 
-            this.txtCode.Location = new System.Drawing.Point(107, 83);
-            this.txtCode.Name = "txtCode";
-            this.txtCode.Size = new System.Drawing.Size(242, 20);
-            this.txtCode.TabIndex = 14;
-            // 
-            // labelControl4
-            // 
-            this.labelControl4.Location = new System.Drawing.Point(8, 86);
-            this.labelControl4.Name = "labelControl4";
-            this.labelControl4.Size = new System.Drawing.Size(25, 13);
-            this.labelControl4.TabIndex = 15;
-            this.labelControl4.Text = "Code";
-            // 
             // frmTrangThaiGD
             // 
             this.AcceptButton = this.btnDongY;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.CancelButton = this.btnHuy;
-            this.ClientSize = new System.Drawing.Size(397, 177);
+            this.ClientSize = new System.Drawing.Size(397, 249);
             this.Controls.Add(this.panelControl1);
             this.Controls.Add(this.btnHuy);
             this.Controls.Add(this.btnDongY);
@@ -207,9 +246,10 @@
             ((System.ComponentModel.ISupportInitialize)(this.panelControl1)).EndInit();
             this.panelControl1.ResumeLayout(false);
             this.panelControl1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.spinOverTime.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtCode.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.spinOder.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtColor.Properties)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txtCode.Properties)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -228,5 +268,8 @@
         private DevExpress.XtraEditors.SpinEdit spinOder;
         private DevExpress.XtraEditors.LabelControl labelControl4;
         private DevExpress.XtraEditors.TextEdit txtCode;
+        private DevExpress.XtraEditors.LabelControl labelControl5;
+        private DevExpress.XtraEditors.SpinEdit spinOverTime;
+        private DevExpress.XtraEditors.LabelControl lbNgay;
     }
 }

@@ -16,11 +16,13 @@ using DevExpress.XtraBars.Alerter;
 using DevExpress.XtraGrid.Views.Grid;
 using BEE.KhachHang;
 using System.Threading;
+using StackExchange.Redis;
 
 namespace BEEREMA
 {
     public partial class frmMainNew : DevExpress.XtraBars.Ribbon.RibbonForm
     {
+
         [DllImport("user32.dll", CharSet = CharSet.Auto, ExactSpelling = true, CallingConvention = CallingConvention.Winapi)]
         public static extern short GetKeyState(int keyCode);
         bool isCapsLock = false, isNumLock = false, isInsert = false;
@@ -36,6 +38,9 @@ namespace BEEREMA
         public string HoTen { get; set; }
 
         MasterDataContext db = new MasterDataContext();
+
+        private ConnectionMultiplexer redis;
+        private ISubscriber subscriber;
 
         public frmMainNew()
         {
@@ -564,6 +569,7 @@ namespace BEEREMA
                 LoadCapsLock();
                 LoadNumLock();
                 LoadInsert();
+                Redis();
             }
             catch { }
 
@@ -573,6 +579,68 @@ namespace BEEREMA
             itemSettingState.SelectedPage = ribbonPageSystem;
 
             SendKeys.Send("^{F1}");
+        }
+
+        public void Redis()
+        {
+            try
+            {
+                // Kết nối đến Redis
+                redis = ConnectionMultiplexer.Connect("27.72.103.223:6379");
+
+                // Lấy đối tượng subscriber từ kết nối
+                subscriber = redis.GetSubscriber();
+
+                // Đăng ký handler cho sự kiện message
+                subscriber.Subscribe("channel-notify", (channel, message) =>
+                {
+
+                    // Xử lý message nhận được ở đây
+                    string msg = message.ToString().ToUpper();
+                    var type = msg.Split('.');
+
+                    switch (type[0])
+                    {
+                        case "KILLAPP":
+                            {
+                                Application.Exit();
+                            }
+                            break;
+                        case "OPENAPP":
+                            {
+                                // Đường dẫn tới chương trình cần mở
+                                string programPath = @"C:\Program Files (x86)\HOALAND\BEEREMA_HOALAND19\BEEREMAHOALAND.exe";
+
+                                // Kiểm tra nếu file tồn tại trước khi mở
+                                if (System.IO.File.Exists(programPath))
+                                {
+                                    // Mở chương trình
+                                    System.Diagnostics.Process.Start(programPath);
+                                }
+                                else
+                                {
+                                   
+                                }
+                            }
+                            break;
+                        case "ALERT":
+                            {
+                                DialogBox.Infomation(type[1]);
+                            }
+                            break;
+                        default:
+                            {
+                              
+                            }
+                            break;
+
+                    }
+                });
+            }
+            catch (Exception ex)
+            {
+
+            }
         }
 
         private void itemSkins_GalleryItemClick(object sender, DevExpress.XtraBars.Ribbon.GalleryItemClickEventArgs e)
@@ -1856,7 +1924,16 @@ namespace BEEREMA
 
         private void frmMainNew_FormClosing(object sender, FormClosingEventArgs e)
         {
+            try
+            {
+                redis.Close();
+            }
+            catch 
+            {
 
+            
+            }
+         
         }
 
         private void itemDuyetXoaCCT_ItemClick(object sender, ItemClickEventArgs e)
@@ -1987,7 +2064,7 @@ namespace BEEREMA
                     frC.LoaiCG = 1; // gọi vào
                 }
                 frC.type = this.type;
-             
+
                 var x1 = x + 20;
                 var y1 = y + 20;
                 frC.Location = new Point(x1, y1);
@@ -2124,7 +2201,7 @@ namespace BEEREMA
 
         private void itemTTBDSv2_ItemClick(object sender, ItemClickEventArgs e)
         {
-          //  ShowUserControlInTab(new BEE.HoatDong.MGL.Setting.ctlTrangThaiBDSv2() { Tag = "Trạng thái" });
+            //  ShowUserControlInTab(new BEE.HoatDong.MGL.Setting.ctlTrangThaiBDSv2() { Tag = "Trạng thái" });
             using (var frm = new BEE.HoatDong.MGL.Setting.frmTrangThaiBDSv2())
             {
                 frm.ShowDialog();
