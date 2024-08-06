@@ -103,7 +103,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.lookUpNhomKD.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.lookUpQuyDanh.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.lookUpPhongBan.Properties)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dateNgaySinh.Properties.VistaTimeProperties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dateNgaySinh.Properties.CalendarTimeProperties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dateNgaySinh.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtEmail.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtSoTaiKhoan.Properties)).BeginInit();
@@ -120,9 +120,9 @@
             ((System.ComponentModel.ISupportInitialize)(this.xtraTabControl1)).BeginInit();
             this.xtraTabControl1.SuspendLayout();
             this.xtraTabPage1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dateNgayNghiViec.Properties.VistaTimeProperties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dateNgayNghiViec.Properties.CalendarTimeProperties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dateNgayNghiViec.Properties)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dateNgayVaoLam.Properties.VistaTimeProperties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dateNgayVaoLam.Properties.CalendarTimeProperties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dateNgayVaoLam.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.lookTinhTrang.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtDienThoai3.Properties)).BeginInit();
@@ -135,8 +135,8 @@
             // btnHuy
             // 
             this.btnHuy.DialogResult = System.Windows.Forms.DialogResult.Cancel;
-            this.btnHuy.ImageIndex = 4;
-            this.btnHuy.ImageList = this.imageCollection1;
+            this.btnHuy.ImageOptions.ImageIndex = 4;
+            this.btnHuy.ImageOptions.ImageList = this.imageCollection1;
             this.btnHuy.Location = new System.Drawing.Point(578, 348);
             this.btnHuy.Name = "btnHuy";
             this.btnHuy.Size = new System.Drawing.Size(79, 23);
@@ -182,8 +182,8 @@
             // 
             // btnDongY
             // 
-            this.btnDongY.ImageIndex = 6;
-            this.btnDongY.ImageList = this.imageCollection1;
+            this.btnDongY.ImageOptions.ImageIndex = 6;
+            this.btnDongY.ImageOptions.ImageList = this.imageCollection1;
             this.btnDongY.Location = new System.Drawing.Point(481, 348);
             this.btnDongY.Name = "btnDongY";
             this.btnDongY.Size = new System.Drawing.Size(91, 23);
@@ -237,7 +237,7 @@
             this.chkClock.Location = new System.Drawing.Point(546, 273);
             this.chkClock.Name = "chkClock";
             this.chkClock.Properties.Caption = "Khóa tài khoản";
-            this.chkClock.Size = new System.Drawing.Size(102, 19);
+            this.chkClock.Size = new System.Drawing.Size(102, 18);
             this.chkClock.TabIndex = 0;
             this.chkClock.ToolTip = "Khóa tài khoản của nhân viên này lại.";
             this.chkClock.ToolTipController = this.toolTipController1;
@@ -347,13 +347,13 @@
             this.dateNgaySinh.Name = "dateNgaySinh";
             this.dateNgaySinh.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.dateNgaySinh.Properties.CalendarTimeProperties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton()});
             this.dateNgaySinh.Properties.DisplayFormat.FormatString = "{0:dd/MM/yyyy}";
             this.dateNgaySinh.Properties.DisplayFormat.FormatType = DevExpress.Utils.FormatType.DateTime;
             this.dateNgaySinh.Properties.EditFormat.FormatString = "{0:dd/MM/yyyy}";
             this.dateNgaySinh.Properties.EditFormat.FormatType = DevExpress.Utils.FormatType.DateTime;
             this.dateNgaySinh.Properties.Mask.EditMask = "dd/MM/yyyy";
-            this.dateNgaySinh.Properties.VistaTimeProperties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
-            new DevExpress.XtraEditors.Controls.EditorButton()});
             this.dateNgaySinh.Size = new System.Drawing.Size(131, 20);
             this.dateNgaySinh.TabIndex = 3;
             // 
@@ -666,7 +666,7 @@
             this.xtraTabPage1.Controls.Add(this.txtHoTen);
             this.xtraTabPage1.Controls.Add(this.txtMaSo);
             this.xtraTabPage1.Name = "xtraTabPage1";
-            this.xtraTabPage1.Size = new System.Drawing.Size(683, 303);
+            this.xtraTabPage1.Size = new System.Drawing.Size(687, 307);
             this.xtraTabPage1.Text = "Thông tin chung";
             // 
             // labelControl27
@@ -684,13 +684,13 @@
             this.dateNgayNghiViec.Name = "dateNgayNghiViec";
             this.dateNgayNghiViec.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.dateNgayNghiViec.Properties.CalendarTimeProperties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton()});
             this.dateNgayNghiViec.Properties.DisplayFormat.FormatString = "{0:dd/MM/yyyy}";
             this.dateNgayNghiViec.Properties.DisplayFormat.FormatType = DevExpress.Utils.FormatType.DateTime;
             this.dateNgayNghiViec.Properties.EditFormat.FormatString = "{0:dd/MM/yyyy}";
             this.dateNgayNghiViec.Properties.EditFormat.FormatType = DevExpress.Utils.FormatType.DateTime;
             this.dateNgayNghiViec.Properties.Mask.EditMask = "dd/MM/yyyy";
-            this.dateNgayNghiViec.Properties.VistaTimeProperties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
-            new DevExpress.XtraEditors.Controls.EditorButton()});
             this.dateNgayNghiViec.Size = new System.Drawing.Size(131, 20);
             this.dateNgayNghiViec.TabIndex = 17;
             // 
@@ -709,13 +709,13 @@
             this.dateNgayVaoLam.Name = "dateNgayVaoLam";
             this.dateNgayVaoLam.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.dateNgayVaoLam.Properties.CalendarTimeProperties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton()});
             this.dateNgayVaoLam.Properties.DisplayFormat.FormatString = "{0:dd/MM/yyyy}";
             this.dateNgayVaoLam.Properties.DisplayFormat.FormatType = DevExpress.Utils.FormatType.DateTime;
             this.dateNgayVaoLam.Properties.EditFormat.FormatString = "{0:dd/MM/yyyy}";
             this.dateNgayVaoLam.Properties.EditFormat.FormatType = DevExpress.Utils.FormatType.DateTime;
             this.dateNgayVaoLam.Properties.Mask.EditMask = "dd/MM/yyyy";
-            this.dateNgayVaoLam.Properties.VistaTimeProperties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
-            new DevExpress.XtraEditors.Controls.EditorButton()});
             this.dateNgayVaoLam.Size = new System.Drawing.Size(140, 20);
             this.dateNgayVaoLam.TabIndex = 16;
             // 
@@ -799,7 +799,7 @@
             // 
             this.xtraTabPage2.Controls.Add(this.txtGhiChu);
             this.xtraTabPage2.Name = "xtraTabPage2";
-            this.xtraTabPage2.Size = new System.Drawing.Size(683, 303);
+            this.xtraTabPage2.Size = new System.Drawing.Size(687, 307);
             this.xtraTabPage2.Text = "Ghi chú";
             // 
             // txtGhiChu
@@ -837,7 +837,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.lookUpNhomKD.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.lookUpQuyDanh.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.lookUpPhongBan.Properties)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dateNgaySinh.Properties.VistaTimeProperties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dateNgaySinh.Properties.CalendarTimeProperties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dateNgaySinh.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtEmail.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtSoTaiKhoan.Properties)).EndInit();
@@ -855,9 +855,9 @@
             this.xtraTabControl1.ResumeLayout(false);
             this.xtraTabPage1.ResumeLayout(false);
             this.xtraTabPage1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dateNgayNghiViec.Properties.VistaTimeProperties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dateNgayNghiViec.Properties.CalendarTimeProperties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dateNgayNghiViec.Properties)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dateNgayVaoLam.Properties.VistaTimeProperties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dateNgayVaoLam.Properties.CalendarTimeProperties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dateNgayVaoLam.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.lookTinhTrang.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtDienThoai3.Properties)).EndInit();

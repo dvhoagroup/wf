@@ -580,6 +580,12 @@ namespace BEEREMA
 
             SendKeys.Send("^{F1}");
         }
+        public void RegisterClient(int staffID, string clientInfo)
+        {
+            var db = redis.GetDatabase();
+            db.HashSet("clientInfo:" + staffID, "info", clientInfo);
+        }
+
 
         public void Redis()
         {
@@ -590,14 +596,15 @@ namespace BEEREMA
 
                 // Lấy đối tượng subscriber từ kết nối
                 subscriber = redis.GetSubscriber();
-
+                RegisterClient(Common.StaffID, Common.StaffName);
                 // Đăng ký handler cho sự kiện message
                 subscriber.Subscribe("channel-notify", (channel, message) =>
                 {
-
-                    // Xử lý message nhận được ở đây
-                    string msg = message.ToString().ToUpper();
+                    var msg = message.ToString().ToUpper();
                     var type = msg.Split('.');
+
+                    // Lấy staffID từ message nếu cần
+                    //int staffID = ExtractStaffIDFromMessage(message); // Implement this method based on your message format
 
                     switch (type[0])
                     {
@@ -608,18 +615,14 @@ namespace BEEREMA
                             break;
                         case "OPENAPP":
                             {
-                                // Đường dẫn tới chương trình cần mở
                                 string programPath = @"C:\Program Files (x86)\HOALAND\BEEREMA_HOALAND19\BEEREMAHOALAND.exe";
-
-                                // Kiểm tra nếu file tồn tại trước khi mở
                                 if (System.IO.File.Exists(programPath))
                                 {
-                                    // Mở chương trình
                                     System.Diagnostics.Process.Start(programPath);
                                 }
                                 else
                                 {
-                                   
+                                    // Handle file not found case
                                 }
                             }
                             break;
@@ -630,17 +633,24 @@ namespace BEEREMA
                             break;
                         default:
                             {
-                              
+                                // Handle unknown message type
                             }
                             break;
-
                     }
+
+                    // Optionally, perform actions based on staffID
                 });
             }
             catch (Exception ex)
             {
 
             }
+        }
+        public void DeregisterClient(int staffID)
+        {
+            var db = redis.GetDatabase();
+            db.SetRemove("subscribedClients", staffID);
+            db.KeyDelete("clientInfo:" + staffID); // If using HASH
         }
 
         private void itemSkins_GalleryItemClick(object sender, DevExpress.XtraBars.Ribbon.GalleryItemClickEventArgs e)
@@ -1926,6 +1936,7 @@ namespace BEEREMA
         {
             try
             {
+                DeregisterClient(Common.StaffID);
                 redis.Close();
             }
             catch 

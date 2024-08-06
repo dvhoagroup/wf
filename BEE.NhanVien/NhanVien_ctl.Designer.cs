@@ -403,7 +403,7 @@
             // 
             this.xtraTabPage3.Controls.Add(this.gcKhuVuc);
             this.xtraTabPage3.Name = "xtraTabPage3";
-            this.xtraTabPage3.Size = new System.Drawing.Size(1240, 161);
+            this.xtraTabPage3.Size = new System.Drawing.Size(1240, 163);
             this.xtraTabPage3.Text = "2. Khu vực quản lý";
             // 
             // gcKhuVuc
@@ -416,7 +416,7 @@
             this.gcKhuVuc.RepositoryItems.AddRange(new DevExpress.XtraEditors.Repository.RepositoryItem[] {
             this.repositoryItemMemoExEdit1,
             this.slookHuyen});
-            this.gcKhuVuc.Size = new System.Drawing.Size(1240, 161);
+            this.gcKhuVuc.Size = new System.Drawing.Size(1240, 163);
             this.gcKhuVuc.TabIndex = 1;
             this.gcKhuVuc.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gvKhuVuc});

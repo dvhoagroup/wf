@@ -1,4 +1,4 @@
-﻿﻿using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Drawing;
@@ -12,13 +12,86 @@ using BEE.ThuVien;
 using BEEREMA;
 using DevExpress.XtraBars;
 using DevExpress.XtraEditors.Repository;
+using StackExchange.Redis;
+using Newtonsoft.Json;
+using System.Data.SqlClient;
 
 namespace BEE.HoatDong.MGL.XuLy
 {
     public partial class ctlManager : DevExpress.XtraEditors.XtraUserControl
     {
         MasterDataContext db = new MasterDataContext();
+        private static readonly ConnectionMultiplexer _redis = ConnectionMultiplexer.Connect("27.72.103.223:6379"); // Thay đổi địa chỉ Redis nếu cần
+        private readonly IDatabase _cache = _redis.GetDatabase();
+        // Cài đặt thời gian hết hạn cache (1 phút)
+        private static readonly TimeSpan CacheDuration = TimeSpan.FromMinutes(1);
+        public void LoadData(DateTime tuNgay, DateTime denNgay, int MaNV, string arrMaTT, string arrMaNV)
+        {
+            // Tạo khóa cache dựa trên tham số
+            string cacheKey = $"{tuNgay:yyyyMMdd}-{denNgay:yyyyMMdd}-{MaNV.ToString()}-{string.Join("-", arrMaTT)}";
 
+            // Kiểm tra dữ liệu có trong cache không
+            var cachedData = _cache.StringGet(cacheKey);
+            if (cachedData.HasValue)
+            {
+                // Dữ liệu có trong cache, giải mã từ JSON
+                var data = JsonConvert.DeserializeObject<List<gdGetManagerGiaoDichV3Result>>(cachedData);
+                gcDaChao.DataSource = data;
+            }
+            else
+            {
+                // Nếu dữ liệu không có trong cache, lấy dữ liệu từ cơ sở dữ liệu
+                var data = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, -1, -1, -1, arrMaTT, arrMaNV)
+                               .Select(p => new gdGetManagerGiaoDichV3Result
+                               {
+                                   ID = p.ID,
+                                   STT = p.STT,
+                                   MaLoai = p.MaLoai,
+                                   DiaChi = p.DiaChi,
+                                   DacTrung = p.DacTrung,
+                                   GhiChu = p.GhiChu,
+                                   LinkAnh = "",
+                                   ToaDo = p.ToaDo,
+                                   HoTenKHBC = p.HoTenKHBC,
+                                   DienThoai1 = p.DienThoai1,
+                                   DiDong2 = p.DiDong2,
+                                   DienThoai = p.DienThoai,
+                                   Phone2 = p.Phone2,
+                                   PhiMoiGioi = p.PhiMoiGioi,
+                                   ThanhTienMG = p.ThanhTienMG,
+                                   TenTT = p.TenTT,
+                                   ThuongHieu = p.ThuongHieu,
+                                   HoTenKH = p.HoTenKH,
+                                   PhiMG = p.PhiMG,
+                                   ThanhTienMGMT = p.ThanhTienMGMT,
+                                   TenNC = p.TenNC,
+                                   MaBC = p.MaBC,
+                                   MaMT = p.MaMT,
+                                   MaKH = p.MaKH,
+                                   MaKHBC = p.MaKHBC,
+                                   StartDate = p.StartDate,
+                                   UpdateDate = p.UpdateDate,
+                                   PhiMGCT = p.PhiMGCT,
+                                   PhiMGCL = p.PhiMGCL,
+                                   PhiMGCTMua = p.PhiMGCTMua,
+                                   PhiMGDTMua = p.PhiMGDTMua,
+                                   Color = p.Color,
+                                   HoTenNLH = p.HoTenNLH,
+                                   DTDD = Common.Right(p.DTDD, 3),
+                                   HoTenNVN = p.HoTenNVN,
+                                   Code = p.Code,
+                                   StatusEndDate = p.StatusEndDate,
+                                   OverTime = p.OverTime,
+                                   StatusOverTime = p.StatusOverTime
+                               }).ToList();
+
+                // Lưu dữ liệu vào cache
+                _cache.StringSet(cacheKey, JsonConvert.SerializeObject(data), CacheDuration);
+
+                // Gán dữ liệu vào DataSource
+                gcDaChao.DataSource = data;
+            }
+        }
         public ctlManager()
         {
             InitializeComponent();
@@ -55,8 +128,10 @@ namespace BEE.HoatDong.MGL.XuLy
             //        }
             //    };
             //}
+            itemTTNhanVien.EditValueChanged += new EventHandler(itemTTNhanVien_EditValueChanged);
+            itemNhanVien.EditValueChanged += new EventHandler(itemNhanVien_EditValueChanged);
         }
-       
+
 
 
         void LoadPermission()
@@ -116,7 +191,7 @@ namespace BEE.HoatDong.MGL.XuLy
             {
                 return null;
             }
-           
+
         }
 
         private string GetAdress(int? MaBC)
@@ -127,6 +202,945 @@ namespace BEE.HoatDong.MGL.XuLy
             var tinh = obj.MaTinh == null ? "" : db.Tinhs.First(p => p.MaTinh == obj.MaTinh).TenTinh;
             string DiaChi = string.Format("{0} - {1} - {2} - {3} - {4}", obj.SoNha, obj.TenDuong, xa, huyen, tinh);
             return DiaChi;
+        }
+
+
+        void BaoCao_Load_Cache()
+        {
+            var obj = db.mglbcPhanQuyens.Single(p => p.MaNV == Common.StaffID);
+            var tuNgay = (DateTime?)itemTuNgay.EditValue ?? DateTime.Now;
+            var denNgay = (DateTime?)itemDenNgay.EditValue ?? DateTime.Now;
+            var strMaTT = (itemTrangThai.EditValue ?? "").ToString().Replace(" ", "");
+            var arrMaTT = "," + strMaTT + ",";
+            var strMaNV = (itemNhanVien.EditValue ?? "").ToString().Replace(" ", "");
+            var arrMaNV = "," + strMaNV + ",";
+            int MaNV = Common.StaffID;
+            var wait = DialogBox.WaitingForm();
+
+
+            string cacheKey = "";
+            cacheKey = $"DataCache_{Common.StaffID}_{tuNgay:yyyyMMdd}_{denNgay:yyyyMMdd}_{strMaTT}_{strMaNV}_{GetAccessData()}";
+            if (obj.DienThoai == false)
+            {
+                cacheKey += "_DienThoai";
+            }
+            else if (obj.DienThoai3Dau == false)
+            {
+                cacheKey += "_DienThoai3Dau";
+            }
+            else if (obj.DienThoaiAn == false)
+            {
+                cacheKey += "_DienThoaiAn";
+            }
+            else
+            { cacheKey += "_HienThi"; }
+
+            // Kết nối Redis
+            var cache = _redis.GetDatabase();
+
+            // Kiểm tra cache
+            string cachedData = cache.StringGet(cacheKey);
+
+            if (!string.IsNullOrEmpty(cachedData))
+            {
+                // Dữ liệu có trong cache
+                var data = JsonConvert.DeserializeObject<List<GiaoDichV3Result>>(cachedData);
+                gcDaChao.DataSource = data;
+                wait.Close();
+                return;
+            }
+            else
+            {
+                // Tạo danh sách chứa kết quả từ stored procedure
+                List<GiaoDichV3Result> data = new List<GiaoDichV3Result>();
+
+                db = new MasterDataContext();
+                switch (GetAccessData())
+                {
+
+                    case 1://Tat ca
+
+                        if (obj.DienThoai == false)
+                        {
+                            data = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, -1, -1, -1, arrMaTT, arrMaNV).Select(p => new GiaoDichV3Result
+                            {
+                                ID = p.ID,
+                                STT = p.STT,
+                                MaLoai = p.MaLoai,
+                                DiaChi = p.DiaChi,
+                                DacTrung = p.DacTrung,
+                                GhiChu = p.GhiChu,
+                                LinkAnh = p.LinkAnh, //== "Không có ảnh" ? BEE.HoatDong.Properties.Resources.white : BEE.HoatDong.Properties.Resources._58_image,
+                                ToaDo = p.ToaDo,
+                                HoTenKHBC = p.HoTenKHBC,
+                                DienThoai1 = p.DienThoai1,
+                                DiDong2 = p.DiDong2,
+                                // p.DTDD,
+                                DienThoai = p.DienThoai,
+                                Phone2 = p.Phone2,
+                                //  DienThoai1 = Common.Right(p.DienThoai1, 3),
+                                // DiDong2 = Common.Right(p.DiDong2, 3),
+                                PhiMoiGioi = p.PhiMoiGioi,
+                                ThanhTienMG = p.ThanhTienMG,
+                                TenTT = p.TenTT,
+                                ThuongHieu = p.ThuongHieu,
+                                HoTenKH = p.HoTenKH,
+                                // p.DienThoai,
+                                //p.Phone2,
+                                // DienThoai = Common.Right(p.DienThoai, 3), // không check thì ko dc xem 3 số 
+                                // Phone2 = Common.Right(p.Phone2, 3),
+                                PhiMG = p.PhiMG,
+                                ThanhTienMGMT = p.ThanhTienMGMT,
+                                TenNC = p.TenNC,
+                                MaBC = p.MaBC,
+                                MaMT = p.MaMT,
+                                MaKH = p.MaKH,
+                                MaKHBC = p.MaKHBC,
+                                StartDate = p.StartDate,
+                                UpdateDate = p.UpdateDate,
+                                PhiMGCT = p.PhiMGCT,
+                                PhiMGCL = p.PhiMGCL,
+                                PhiMGCTMua = p.PhiMGCTMua,
+                                PhiMGDTMua = p.PhiMGDTMua,
+                                Color = p.Color,
+                                HoTenNLH = p.HoTenNLH,
+                                DTDD = Common.Right(p.DTDD, 3),
+                                HoTenNVN = p.HoTenNVN,
+                                Code = p.Code,
+                                StatusEndDate = p.StatusEndDate,
+                                OverTime = p.OverTime,
+                                StatusOverTime = p.StatusOverTime
+                            }).ToList();
+
+                           
+                        }
+                        else if (obj.DienThoai3Dau == false)
+                        {
+
+                            data = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, -1, -1, -1, arrMaTT, arrMaNV).Select(p => new GiaoDichV3Result
+                            {
+
+                                ID = p.ID,
+                                STT = p.STT,
+                                MaLoai = p.MaLoai,
+                                DiaChi = p.DiaChi,
+                                DacTrung = p.DacTrung,
+                                GhiChu = p.GhiChu,
+                                LinkAnh = p.LinkAnh, //== "Không có ảnh" ? BEE.HoatDong.Properties.Resources.white : BEE.HoatDong.Properties.Resources._58_image,
+                                ToaDo = p.ToaDo,
+                                HoTenKHBC = p.HoTenKHBC,
+                                DienThoai1 = p.DienThoai1,
+                                DiDong2 = p.DiDong2,
+                                // p.DTDD,
+                                DienThoai = p.DienThoai,
+                                Phone2 = p.Phone2,
+                                //  DienThoai1 = Common.Right(p.DienThoai1, 3),
+                                // DiDong2 = Common.Right(p.DiDong2, 3),
+                                PhiMoiGioi = p.PhiMoiGioi,
+                                ThanhTienMG = p.ThanhTienMG,
+                                TenTT = p.TenTT,
+                                ThuongHieu = p.ThuongHieu,
+                                HoTenKH = p.HoTenKH,
+                                // p.DienThoai,
+                                //p.Phone2,
+                                // DienThoai = Common.Right(p.DienThoai, 3), // không check thì ko dc xem 3 số 
+                                // Phone2 = Common.Right(p.Phone2, 3),
+                                PhiMG = p.PhiMG,
+                                ThanhTienMGMT = p.ThanhTienMGMT,
+                                TenNC = p.TenNC,
+                                MaBC = p.MaBC,
+                                MaMT = p.MaMT,
+                                MaKH = p.MaKH,
+                                MaKHBC = p.MaKHBC,
+                                StartDate = p.StartDate,
+                                UpdateDate = p.UpdateDate,
+                                PhiMGCT = p.PhiMGCT,
+                                PhiMGCL = p.PhiMGCL,
+                                PhiMGCTMua = p.PhiMGCTMua,
+                                PhiMGDTMua = p.PhiMGDTMua,
+                                Color = p.Color,
+                                HoTenNLH = p.HoTenNLH,
+                                DTDD = Common.Right1(p.DTDD, 3),
+                                HoTenNVN = p.HoTenNVN,
+                                Code = p.Code,
+                                StatusEndDate = p.StatusEndDate,
+                                OverTime = p.OverTime,
+                                StatusOverTime = p.StatusOverTime
+
+                            }).ToList();
+                          
+
+                        }
+                        else if (obj.DienThoaiAn == false)
+                        {
+                            data = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, -1, -1, -1, arrMaTT, arrMaNV).Select(p => new GiaoDichV3Result
+                            {
+                                ID = p.ID,
+                                STT = p.STT,
+                                MaLoai = p.MaLoai,
+                                DiaChi = p.DiaChi,
+                                DacTrung = p.DacTrung,
+                                GhiChu = p.GhiChu,
+                                LinkAnh = p.LinkAnh, //== "Không có ảnh" ? BEE.HoatDong.Properties.Resources.white : BEE.HoatDong.Properties.Resources._58_image,
+                                ToaDo = p.ToaDo,
+                                HoTenKHBC = p.HoTenKHBC,
+                                DienThoai1 = p.DienThoai1,
+                                DiDong2 = p.DiDong2,
+                                // p.DTDD,
+                                DienThoai = p.DienThoai,
+                                Phone2 = p.Phone2,
+                                //  DienThoai1 = Common.Right(p.DienThoai1, 3),
+                                // DiDong2 = Common.Right(p.DiDong2, 3),
+                                PhiMoiGioi = p.PhiMoiGioi,
+                                ThanhTienMG = p.ThanhTienMG,
+                                TenTT = p.TenTT,
+                                ThuongHieu = p.ThuongHieu,
+                                HoTenKH = p.HoTenKH,
+                                // p.DienThoai,
+                                //p.Phone2,
+                                // DienThoai = Common.Right(p.DienThoai, 3), // không check thì ko dc xem 3 số 
+                                // Phone2 = Common.Right(p.Phone2, 3),
+                                PhiMG = p.PhiMG,
+                                ThanhTienMGMT = p.ThanhTienMGMT,
+                                TenNC = p.TenNC,
+                                MaBC = p.MaBC,
+                                MaMT = p.MaMT,
+                                MaKH = p.MaKH,
+                                MaKHBC = p.MaKHBC,
+                                StartDate = p.StartDate,
+                                UpdateDate = p.UpdateDate,
+                                PhiMGCT = p.PhiMGCT,
+                                PhiMGCL = p.PhiMGCL,
+                                PhiMGCTMua = p.PhiMGCTMua,
+                                PhiMGDTMua = p.PhiMGDTMua,
+                                Color = p.Color,
+                                HoTenNLH = p.HoTenNLH,
+                                DTDD = "",
+                                HoTenNVN = p.HoTenNVN,
+                                Code = p.Code,
+                                StatusEndDate = p.StatusEndDate,
+                                OverTime = p.OverTime,
+                                StatusOverTime = p.StatusOverTime
+
+                            }).ToList();
+                        }
+                        else
+                        {
+                            gcDaChao.DataSource = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, -1, -1, -1, arrMaTT, arrMaNV).Select(p => new GiaoDichV3Result
+                            {
+                                ID = p.ID,
+                                STT = p.STT,
+                                MaLoai = p.MaLoai,
+                                DiaChi = p.DiaChi,
+                                DacTrung = p.DacTrung,
+                                GhiChu = p.GhiChu,
+                                LinkAnh = p.LinkAnh, //== "Không có ảnh" ? BEE.HoatDong.Properties.Resources.white : BEE.HoatDong.Properties.Resources._58_image,
+                                ToaDo = p.ToaDo,
+                                HoTenKHBC = p.HoTenKHBC,
+                                DienThoai1 = p.DienThoai1,
+                                DiDong2 = p.DiDong2,
+                                // p.DTDD,
+                                DienThoai = p.DienThoai,
+                                Phone2 = p.Phone2,
+                                //  DienThoai1 = Common.Right(p.DienThoai1, 3),
+                                // DiDong2 = Common.Right(p.DiDong2, 3),
+                                PhiMoiGioi = p.PhiMoiGioi,
+                                ThanhTienMG = p.ThanhTienMG,
+                                TenTT = p.TenTT,
+                                ThuongHieu = p.ThuongHieu,
+                                HoTenKH = p.HoTenKH,
+                                // p.DienThoai,
+                                //p.Phone2,
+                                // DienThoai = Common.Right(p.DienThoai, 3), // không check thì ko dc xem 3 số 
+                                // Phone2 = Common.Right(p.Phone2, 3),
+                                PhiMG = p.PhiMG,
+                                ThanhTienMGMT = p.ThanhTienMGMT,
+                                TenNC = p.TenNC,
+                                MaBC = p.MaBC,
+                                MaMT = p.MaMT,
+                                MaKH = p.MaKH,
+                                MaKHBC = p.MaKHBC,
+                                StartDate = p.StartDate,
+                                UpdateDate = p.UpdateDate,
+                                PhiMGCT = p.PhiMGCT,
+                                PhiMGCL = p.PhiMGCL,
+                                PhiMGCTMua = p.PhiMGCTMua,
+                                PhiMGDTMua = p.PhiMGDTMua,
+                                Color = p.Color,
+                                HoTenNLH = p.HoTenNLH,
+                                DTDD = p.DTDD,
+                                HoTenNVN = p.HoTenNVN,
+                                Code = p.Code,
+                                StatusEndDate = p.StatusEndDate,
+                                OverTime = p.OverTime,
+                                StatusOverTime = p.StatusOverTime
+
+                            }).ToList();
+                        }
+                        break;
+                    case 2://Theo phong ban 
+                        if (obj.DienThoai == false)
+                        {
+                            data = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, -1, -1, Common.DepartmentID, arrMaTT, arrMaNV).Select(p => new GiaoDichV3Result
+                            {
+                                ID = p.ID,
+                                STT = p.STT,
+                                MaLoai = p.MaLoai,
+                                DiaChi = p.DiaChi,
+                                DacTrung = p.DacTrung,
+                                GhiChu = p.GhiChu,
+                                LinkAnh = p.LinkAnh, //== "Không có ảnh" ? BEE.HoatDong.Properties.Resources.white : BEE.HoatDong.Properties.Resources._58_image,
+                                ToaDo = p.ToaDo,
+                                HoTenKHBC = p.HoTenKHBC,
+                                DienThoai1 = p.DienThoai1,
+                                DiDong2 = p.DiDong2,
+                                // p.DTDD,
+                                DienThoai = p.DienThoai,
+                                Phone2 = p.Phone2,
+                                //  DienThoai1 = Common.Right(p.DienThoai1, 3),
+                                // DiDong2 = Common.Right(p.DiDong2, 3),
+                                PhiMoiGioi = p.PhiMoiGioi,
+                                ThanhTienMG = p.ThanhTienMG,
+                                TenTT = p.TenTT,
+                                ThuongHieu = p.ThuongHieu,
+                                HoTenKH = p.HoTenKH,
+                                // p.DienThoai,
+                                //p.Phone2,
+                                // DienThoai = Common.Right(p.DienThoai, 3), // không check thì ko dc xem 3 số 
+                                // Phone2 = Common.Right(p.Phone2, 3),
+                                PhiMG = p.PhiMG,
+                                ThanhTienMGMT = p.ThanhTienMGMT,
+                                TenNC = p.TenNC,
+                                MaBC = p.MaBC,
+                                MaMT = p.MaMT,
+                                MaKH = p.MaKH,
+                                MaKHBC = p.MaKHBC,
+                                StartDate = p.StartDate,
+                                UpdateDate = p.UpdateDate,
+                                PhiMGCT = p.PhiMGCT,
+                                PhiMGCL = p.PhiMGCL,
+                                PhiMGCTMua = p.PhiMGCTMua,
+                                PhiMGDTMua = p.PhiMGDTMua,
+                                Color = p.Color,
+                                HoTenNLH = p.HoTenNLH,
+                                DTDD = Common.Right(p.DTDD, 3),
+                                HoTenNVN = p.HoTenNVN,
+                                Code = p.Code,
+                                StatusEndDate = p.StatusEndDate,
+                                OverTime = p.OverTime,
+                                StatusOverTime = p.StatusOverTime
+
+                            }).ToList();
+                        }
+                        else if (obj.DienThoai3Dau == false)
+                        {
+
+                            data = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, -1, -1, Common.DepartmentID, arrMaTT, arrMaNV).Select(p => new GiaoDichV3Result
+                            {
+                                ID = p.ID,
+                                STT = p.STT,
+                                MaLoai = p.MaLoai,
+                                DiaChi = p.DiaChi,
+                                DacTrung = p.DacTrung,
+                                GhiChu = p.GhiChu,
+                                LinkAnh = p.LinkAnh, //== "Không có ảnh" ? BEE.HoatDong.Properties.Resources.white : BEE.HoatDong.Properties.Resources._58_image,
+                                ToaDo = p.ToaDo,
+                                HoTenKHBC = p.HoTenKHBC,
+                                DienThoai1 = p.DienThoai1,
+                                DiDong2 = p.DiDong2,
+                                // p.DTDD,
+                                DienThoai = p.DienThoai,
+                                Phone2 = p.Phone2,
+                                //  DienThoai1 = Common.Right(p.DienThoai1, 3),
+                                // DiDong2 = Common.Right(p.DiDong2, 3),
+                                PhiMoiGioi = p.PhiMoiGioi,
+                                ThanhTienMG = p.ThanhTienMG,
+                                TenTT = p.TenTT,
+                                ThuongHieu = p.ThuongHieu,
+                                HoTenKH = p.HoTenKH,
+                                // p.DienThoai,
+                                //p.Phone2,
+                                // DienThoai = Common.Right(p.DienThoai, 3), // không check thì ko dc xem 3 số 
+                                // Phone2 = Common.Right(p.Phone2, 3),
+                                PhiMG = p.PhiMG,
+                                ThanhTienMGMT = p.ThanhTienMGMT,
+                                TenNC = p.TenNC,
+                                MaBC = p.MaBC,
+                                MaMT = p.MaMT,
+                                MaKH = p.MaKH,
+                                MaKHBC = p.MaKHBC,
+                                StartDate = p.StartDate,
+                                UpdateDate = p.UpdateDate,
+                                PhiMGCT = p.PhiMGCT,
+                                PhiMGCL = p.PhiMGCL,
+                                PhiMGCTMua = p.PhiMGCTMua,
+                                PhiMGDTMua = p.PhiMGDTMua,
+                                Color = p.Color,
+                                HoTenNLH = p.HoTenNLH,
+                                DTDD = Common.Right1(p.DTDD, 3),
+                                HoTenNVN = p.HoTenNVN,
+                                Code = p.Code,
+                                StatusEndDate = p.StatusEndDate,
+                                OverTime = p.OverTime,
+                                StatusOverTime = p.StatusOverTime
+
+                            }).ToList();
+
+
+                        }
+                        else if (obj.DienThoaiAn == false)
+                        {
+                            data = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, -1, -1, Common.DepartmentID, arrMaTT, arrMaNV).Select(p => new GiaoDichV3Result
+                            {
+                                ID = p.ID,
+                                STT = p.STT,
+                                MaLoai = p.MaLoai,
+                                DiaChi = p.DiaChi,
+                                DacTrung = p.DacTrung,
+                                GhiChu = p.GhiChu,
+                                LinkAnh = p.LinkAnh, //== "Không có ảnh" ? BEE.HoatDong.Properties.Resources.white : BEE.HoatDong.Properties.Resources._58_image,
+                                ToaDo = p.ToaDo,
+                                HoTenKHBC = p.HoTenKHBC,
+                                DienThoai1 = p.DienThoai1,
+                                DiDong2 = p.DiDong2,
+                                // p.DTDD,
+                                DienThoai = p.DienThoai,
+                                Phone2 = p.Phone2,
+                                //  DienThoai1 = Common.Right(p.DienThoai1, 3),
+                                // DiDong2 = Common.Right(p.DiDong2, 3),
+                                PhiMoiGioi = p.PhiMoiGioi,
+                                ThanhTienMG = p.ThanhTienMG,
+                                TenTT = p.TenTT,
+                                ThuongHieu = p.ThuongHieu,
+                                HoTenKH = p.HoTenKH,
+                                // p.DienThoai,
+                                //p.Phone2,
+                                // DienThoai = Common.Right(p.DienThoai, 3), // không check thì ko dc xem 3 số 
+                                // Phone2 = Common.Right(p.Phone2, 3),
+                                PhiMG = p.PhiMG,
+                                ThanhTienMGMT = p.ThanhTienMGMT,
+                                TenNC = p.TenNC,
+                                MaBC = p.MaBC,
+                                MaMT = p.MaMT,
+                                MaKH = p.MaKH,
+                                MaKHBC = p.MaKHBC,
+                                StartDate = p.StartDate,
+                                UpdateDate = p.UpdateDate,
+                                PhiMGCT = p.PhiMGCT,
+                                PhiMGCL = p.PhiMGCL,
+                                PhiMGCTMua = p.PhiMGCTMua,
+                                PhiMGDTMua = p.PhiMGDTMua,
+                                Color = p.Color,
+                                HoTenNLH = p.HoTenNLH,
+                                DTDD = "",
+                                HoTenNVN = p.HoTenNVN,
+                                Code = p.Code,
+                                StatusEndDate = p.StatusEndDate,
+                                OverTime = p.OverTime,
+                                StatusOverTime = p.StatusOverTime
+
+                            }).ToList();
+                        }
+                        else
+                        {
+                            data = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, -1, -1, Common.DepartmentID, arrMaTT, arrMaNV).Select(p => new GiaoDichV3Result
+                            {
+
+                                ID = p.ID,
+                                STT = p.STT,
+                                MaLoai = p.MaLoai,
+                                DiaChi = p.DiaChi,
+                                DacTrung = p.DacTrung,
+                                GhiChu = p.GhiChu,
+                                LinkAnh = p.LinkAnh, //== "Không có ảnh" ? BEE.HoatDong.Properties.Resources.white : BEE.HoatDong.Properties.Resources._58_image,
+                                ToaDo = p.ToaDo,
+                                HoTenKHBC = p.HoTenKHBC,
+                                DienThoai1 = p.DienThoai1,
+                                DiDong2 = p.DiDong2,
+                                // p.DTDD,
+                                DienThoai = p.DienThoai,
+                                Phone2 = p.Phone2,
+                                //  DienThoai1 = Common.Right(p.DienThoai1, 3),
+                                // DiDong2 = Common.Right(p.DiDong2, 3),
+                                PhiMoiGioi = p.PhiMoiGioi,
+                                ThanhTienMG = p.ThanhTienMG,
+                                TenTT = p.TenTT,
+                                ThuongHieu = p.ThuongHieu,
+                                HoTenKH = p.HoTenKH,
+                                // p.DienThoai,
+                                //p.Phone2,
+                                // DienThoai = Common.Right(p.DienThoai, 3), // không check thì ko dc xem 3 số 
+                                // Phone2 = Common.Right(p.Phone2, 3),
+                                PhiMG = p.PhiMG,
+                                ThanhTienMGMT = p.ThanhTienMGMT,
+                                TenNC = p.TenNC,
+                                MaBC = p.MaBC,
+                                MaMT = p.MaMT,
+                                MaKH = p.MaKH,
+                                MaKHBC = p.MaKHBC,
+                                StartDate = p.StartDate,
+                                UpdateDate = p.UpdateDate,
+                                PhiMGCT = p.PhiMGCT,
+                                PhiMGCL = p.PhiMGCL,
+                                PhiMGCTMua = p.PhiMGCTMua,
+                                PhiMGDTMua = p.PhiMGDTMua,
+                                Color = p.Color,
+                                HoTenNLH = p.HoTenNLH,
+                                DTDD = Common.Right1(p.DTDD, 3),
+                                HoTenNVN = p.HoTenNVN,
+                                Code = p.Code,
+                                StatusEndDate = p.StatusEndDate,
+                                OverTime = p.OverTime,
+                                StatusOverTime = p.StatusOverTime
+
+                            }).ToList();
+                        }
+                        break;
+                    case 3://Theo nhom
+                        if (obj.DienThoai == false)
+                        {
+                            data = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, -1, Common.GroupID, -1, arrMaTT, arrMaNV).Select(p => new GiaoDichV3Result
+                            {
+
+                                ID = p.ID,
+                                STT = p.STT,
+                                MaLoai = p.MaLoai,
+                                DiaChi = p.DiaChi,
+                                DacTrung = p.DacTrung,
+                                GhiChu = p.GhiChu,
+                                LinkAnh = p.LinkAnh, //== "Không có ảnh" ? BEE.HoatDong.Properties.Resources.white : BEE.HoatDong.Properties.Resources._58_image,
+                                ToaDo = p.ToaDo,
+                                HoTenKHBC = p.HoTenKHBC,
+                                DienThoai1 = p.DienThoai1,
+                                DiDong2 = p.DiDong2,
+                                // p.DTDD,
+                                DienThoai = p.DienThoai,
+                                Phone2 = p.Phone2,
+                                //  DienThoai1 = Common.Right(p.DienThoai1, 3),
+                                // DiDong2 = Common.Right(p.DiDong2, 3),
+                                PhiMoiGioi = p.PhiMoiGioi,
+                                ThanhTienMG = p.ThanhTienMG,
+                                TenTT = p.TenTT,
+                                ThuongHieu = p.ThuongHieu,
+                                HoTenKH = p.HoTenKH,
+                                // p.DienThoai,
+                                //p.Phone2,
+                                // DienThoai = Common.Right(p.DienThoai, 3), // không check thì ko dc xem 3 số 
+                                // Phone2 = Common.Right(p.Phone2, 3),
+                                PhiMG = p.PhiMG,
+                                ThanhTienMGMT = p.ThanhTienMGMT,
+                                TenNC = p.TenNC,
+                                MaBC = p.MaBC,
+                                MaMT = p.MaMT,
+                                MaKH = p.MaKH,
+                                MaKHBC = p.MaKHBC,
+                                StartDate = p.StartDate,
+                                UpdateDate = p.UpdateDate,
+                                PhiMGCT = p.PhiMGCT,
+                                PhiMGCL = p.PhiMGCL,
+                                PhiMGCTMua = p.PhiMGCTMua,
+                                PhiMGDTMua = p.PhiMGDTMua,
+                                Color = p.Color,
+                                HoTenNLH = p.HoTenNLH,
+                                DTDD = Common.Right(p.DTDD, 3),
+                                HoTenNVN = p.HoTenNVN,
+                                Code = p.Code,
+                                StatusEndDate = p.StatusEndDate,
+                                OverTime = p.OverTime,
+                                StatusOverTime = p.StatusOverTime
+
+                            }).ToList();
+                        }
+                        else if (obj.DienThoai3Dau == false)
+                        {
+                            data = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, -1, Common.GroupID, -1, arrMaTT, arrMaNV).Select(p => new GiaoDichV3Result
+                            {
+
+                                ID = p.ID,
+                                STT = p.STT,
+                                MaLoai = p.MaLoai,
+                                DiaChi = p.DiaChi,
+                                DacTrung = p.DacTrung,
+                                GhiChu = p.GhiChu,
+                                LinkAnh = p.LinkAnh, //== "Không có ảnh" ? BEE.HoatDong.Properties.Resources.white : BEE.HoatDong.Properties.Resources._58_image,
+                                ToaDo = p.ToaDo,
+                                HoTenKHBC = p.HoTenKHBC,
+                                DienThoai1 = p.DienThoai1,
+                                DiDong2 = p.DiDong2,
+                                // p.DTDD,
+                                DienThoai = p.DienThoai,
+                                Phone2 = p.Phone2,
+                                //  DienThoai1 = Common.Right(p.DienThoai1, 3),
+                                // DiDong2 = Common.Right(p.DiDong2, 3),
+                                PhiMoiGioi = p.PhiMoiGioi,
+                                ThanhTienMG = p.ThanhTienMG,
+                                TenTT = p.TenTT,
+                                ThuongHieu = p.ThuongHieu,
+                                HoTenKH = p.HoTenKH,
+                                // p.DienThoai,
+                                //p.Phone2,
+                                // DienThoai = Common.Right(p.DienThoai, 3), // không check thì ko dc xem 3 số 
+                                // Phone2 = Common.Right(p.Phone2, 3),
+                                PhiMG = p.PhiMG,
+                                ThanhTienMGMT = p.ThanhTienMGMT,
+                                TenNC = p.TenNC,
+                                MaBC = p.MaBC,
+                                MaMT = p.MaMT,
+                                MaKH = p.MaKH,
+                                MaKHBC = p.MaKHBC,
+                                StartDate = p.StartDate,
+                                UpdateDate = p.UpdateDate,
+                                PhiMGCT = p.PhiMGCT,
+                                PhiMGCL = p.PhiMGCL,
+                                PhiMGCTMua = p.PhiMGCTMua,
+                                PhiMGDTMua = p.PhiMGDTMua,
+                                Color = p.Color,
+                                HoTenNLH = p.HoTenNLH,
+                                DTDD = Common.Right1(p.DTDD, 3),
+                                HoTenNVN = p.HoTenNVN,
+                                Code = p.Code,
+                                StatusEndDate = p.StatusEndDate,
+                                OverTime = p.OverTime,
+                                StatusOverTime = p.StatusOverTime
+
+                            }).ToList();
+
+                        }
+                        else if (obj.DienThoaiAn == false)
+                        {
+                            data = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, -1, Common.GroupID, -1, arrMaTT, arrMaNV).Select(p => new GiaoDichV3Result
+                            {
+
+                                ID = p.ID,
+                                STT = p.STT,
+                                MaLoai = p.MaLoai,
+                                DiaChi = p.DiaChi,
+                                DacTrung = p.DacTrung,
+                                GhiChu = p.GhiChu,
+                                LinkAnh = p.LinkAnh, //== "Không có ảnh" ? BEE.HoatDong.Properties.Resources.white : BEE.HoatDong.Properties.Resources._58_image,
+                                ToaDo = p.ToaDo,
+                                HoTenKHBC = p.HoTenKHBC,
+                                DienThoai1 = p.DienThoai1,
+                                DiDong2 = p.DiDong2,
+                                // p.DTDD,
+                                DienThoai = p.DienThoai,
+                                Phone2 = p.Phone2,
+                                //  DienThoai1 = Common.Right(p.DienThoai1, 3),
+                                // DiDong2 = Common.Right(p.DiDong2, 3),
+                                PhiMoiGioi = p.PhiMoiGioi,
+                                ThanhTienMG = p.ThanhTienMG,
+                                TenTT = p.TenTT,
+                                ThuongHieu = p.ThuongHieu,
+                                HoTenKH = p.HoTenKH,
+                                // p.DienThoai,
+                                //p.Phone2,
+                                // DienThoai = Common.Right(p.DienThoai, 3), // không check thì ko dc xem 3 số 
+                                // Phone2 = Common.Right(p.Phone2, 3),
+                                PhiMG = p.PhiMG,
+                                ThanhTienMGMT = p.ThanhTienMGMT,
+                                TenNC = p.TenNC,
+                                MaBC = p.MaBC,
+                                MaMT = p.MaMT,
+                                MaKH = p.MaKH,
+                                MaKHBC = p.MaKHBC,
+                                StartDate = p.StartDate,
+                                UpdateDate = p.UpdateDate,
+                                PhiMGCT = p.PhiMGCT,
+                                PhiMGCL = p.PhiMGCL,
+                                PhiMGCTMua = p.PhiMGCTMua,
+                                PhiMGDTMua = p.PhiMGDTMua,
+                                Color = p.Color,
+                                HoTenNLH = p.HoTenNLH,
+                                DTDD = "",
+                                HoTenNVN = p.HoTenNVN,
+                                Code = p.Code,
+                                StatusEndDate = p.StatusEndDate,
+                                OverTime = p.OverTime,
+                                StatusOverTime = p.StatusOverTime
+
+
+                            }).ToList();
+                        }
+                        else
+                        {
+                            data = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, -1, Common.GroupID, -1, arrMaTT, arrMaNV).Select(p => new GiaoDichV3Result
+                            {
+                                ID = p.ID,
+                                STT = p.STT,
+                                MaLoai = p.MaLoai,
+                                DiaChi = p.DiaChi,
+                                DacTrung = p.DacTrung,
+                                GhiChu = p.GhiChu,
+                                LinkAnh = p.LinkAnh, //== "Không có ảnh" ? BEE.HoatDong.Properties.Resources.white : BEE.HoatDong.Properties.Resources._58_image,
+                                ToaDo = p.ToaDo,
+                                HoTenKHBC = p.HoTenKHBC,
+                                DienThoai1 = p.DienThoai1,
+                                DiDong2 = p.DiDong2,
+                                // p.DTDD,
+                                DienThoai = p.DienThoai,
+                                Phone2 = p.Phone2,
+                                //  DienThoai1 = Common.Right(p.DienThoai1, 3),
+                                // DiDong2 = Common.Right(p.DiDong2, 3),
+                                PhiMoiGioi = p.PhiMoiGioi,
+                                ThanhTienMG = p.ThanhTienMG,
+                                TenTT = p.TenTT,
+                                ThuongHieu = p.ThuongHieu,
+                                HoTenKH = p.HoTenKH,
+                                // p.DienThoai,
+                                //p.Phone2,
+                                // DienThoai = Common.Right(p.DienThoai, 3), // không check thì ko dc xem 3 số 
+                                // Phone2 = Common.Right(p.Phone2, 3),
+                                PhiMG = p.PhiMG,
+                                ThanhTienMGMT = p.ThanhTienMGMT,
+                                TenNC = p.TenNC,
+                                MaBC = p.MaBC,
+                                MaMT = p.MaMT,
+                                MaKH = p.MaKH,
+                                MaKHBC = p.MaKHBC,
+                                StartDate = p.StartDate,
+                                UpdateDate = p.UpdateDate,
+                                PhiMGCT = p.PhiMGCT,
+                                PhiMGCL = p.PhiMGCL,
+                                PhiMGCTMua = p.PhiMGCTMua,
+                                PhiMGDTMua = p.PhiMGDTMua,
+                                Color = p.Color,
+                                HoTenNLH = p.HoTenNLH,
+                                DTDD = Common.Right1(p.DTDD, 3),
+                                HoTenNVN = p.HoTenNVN,
+                                Code = p.Code,
+                                StatusEndDate = p.StatusEndDate,
+                                OverTime = p.OverTime,
+                                StatusOverTime = p.StatusOverTime
+
+                            }).ToList();
+                        }
+                        break;
+                    case 4://Theo nhan vien
+                        if (obj.DienThoai == false)
+                        {
+                            data = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, MaNV, -1, -1, arrMaTT, arrMaNV).Select(p => new GiaoDichV3Result
+                            {
+                                ID = p.ID,
+                                STT = p.STT,
+                                MaLoai = p.MaLoai,
+                                DiaChi = p.DiaChi,
+                                DacTrung = p.DacTrung,
+                                GhiChu = p.GhiChu,
+                                LinkAnh = p.LinkAnh, //== "Không có ảnh" ? BEE.HoatDong.Properties.Resources.white : BEE.HoatDong.Properties.Resources._58_image,
+                                ToaDo = p.ToaDo,
+                                HoTenKHBC = p.HoTenKHBC,
+                                DienThoai1 = p.DienThoai1,
+                                DiDong2 = p.DiDong2,
+                                // p.DTDD,
+                                DienThoai = p.DienThoai,
+                                Phone2 = p.Phone2,
+                                //  DienThoai1 = Common.Right(p.DienThoai1, 3),
+                                // DiDong2 = Common.Right(p.DiDong2, 3),
+                                PhiMoiGioi = p.PhiMoiGioi,
+                                ThanhTienMG = p.ThanhTienMG,
+                                TenTT = p.TenTT,
+                                ThuongHieu = p.ThuongHieu,
+                                HoTenKH = p.HoTenKH,
+                                // p.DienThoai,
+                                //p.Phone2,
+                                // DienThoai = Common.Right(p.DienThoai, 3), // không check thì ko dc xem 3 số 
+                                // Phone2 = Common.Right(p.Phone2, 3),
+                                PhiMG = p.PhiMG,
+                                ThanhTienMGMT = p.ThanhTienMGMT,
+                                TenNC = p.TenNC,
+                                MaBC = p.MaBC,
+                                MaMT = p.MaMT,
+                                MaKH = p.MaKH,
+                                MaKHBC = p.MaKHBC,
+                                StartDate = p.StartDate,
+                                UpdateDate = p.UpdateDate,
+                                PhiMGCT = p.PhiMGCT,
+                                PhiMGCL = p.PhiMGCL,
+                                PhiMGCTMua = p.PhiMGCTMua,
+                                PhiMGDTMua = p.PhiMGDTMua,
+                                Color = p.Color,
+                                HoTenNLH = p.HoTenNLH,
+                                DTDD = Common.Right(p.DTDD, 3),
+                                HoTenNVN = p.HoTenNVN,
+                                Code = p.Code,
+                                StatusEndDate = p.StatusEndDate,
+                                OverTime = p.OverTime,
+                                StatusOverTime = p.StatusOverTime
+
+
+                            }).ToList();
+                        }
+                        else if (obj.DienThoai3Dau == false)
+                        {
+                            data = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, MaNV, -1, -1, arrMaTT, arrMaNV).Select(p => new GiaoDichV3Result
+                            {
+                                ID = p.ID,
+                                STT = p.STT,
+                                MaLoai = p.MaLoai,
+                                DiaChi = p.DiaChi,
+                                DacTrung = p.DacTrung,
+                                GhiChu = p.GhiChu,
+                                LinkAnh = p.LinkAnh, //== "Không có ảnh" ? BEE.HoatDong.Properties.Resources.white : BEE.HoatDong.Properties.Resources._58_image,
+                                ToaDo = p.ToaDo,
+                                HoTenKHBC = p.HoTenKHBC,
+                                DienThoai1 = p.DienThoai1,
+                                DiDong2 = p.DiDong2,
+                                // p.DTDD,
+                                DienThoai = p.DienThoai,
+                                Phone2 = p.Phone2,
+                                //  DienThoai1 = Common.Right(p.DienThoai1, 3),
+                                // DiDong2 = Common.Right(p.DiDong2, 3),
+                                PhiMoiGioi = p.PhiMoiGioi,
+                                ThanhTienMG = p.ThanhTienMG,
+                                TenTT = p.TenTT,
+                                ThuongHieu = p.ThuongHieu,
+                                HoTenKH = p.HoTenKH,
+                                // p.DienThoai,
+                                //p.Phone2,
+                                // DienThoai = Common.Right(p.DienThoai, 3), // không check thì ko dc xem 3 số 
+                                // Phone2 = Common.Right(p.Phone2, 3),
+                                PhiMG = p.PhiMG,
+                                ThanhTienMGMT = p.ThanhTienMGMT,
+                                TenNC = p.TenNC,
+                                MaBC = p.MaBC,
+                                MaMT = p.MaMT,
+                                MaKH = p.MaKH,
+                                MaKHBC = p.MaKHBC,
+                                StartDate = p.StartDate,
+                                UpdateDate = p.UpdateDate,
+                                PhiMGCT = p.PhiMGCT,
+                                PhiMGCL = p.PhiMGCL,
+                                PhiMGCTMua = p.PhiMGCTMua,
+                                PhiMGDTMua = p.PhiMGDTMua,
+                                Color = p.Color,
+                                HoTenNLH = p.HoTenNLH,
+                                DTDD = Common.Right1(p.DTDD, 3),
+                                HoTenNVN = p.HoTenNVN,
+                                Code = p.Code,
+                                StatusEndDate = p.StatusEndDate,
+                                OverTime = p.OverTime,
+                                StatusOverTime = p.StatusOverTime
+
+                            }).ToList();
+
+                        }
+                        else if (obj.DienThoaiAn == false)
+                        {
+                            data = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, MaNV, -1, -1, arrMaTT, arrMaNV).Select(p => new GiaoDichV3Result
+                            {
+                                ID = p.ID,
+                                STT = p.STT,
+                                MaLoai = p.MaLoai,
+                                DiaChi = p.DiaChi,
+                                DacTrung = p.DacTrung,
+                                GhiChu = p.GhiChu,
+                                LinkAnh = p.LinkAnh, //== "Không có ảnh" ? BEE.HoatDong.Properties.Resources.white : BEE.HoatDong.Properties.Resources._58_image,
+                                ToaDo = p.ToaDo,
+                                HoTenKHBC = p.HoTenKHBC,
+                                DienThoai1 = p.DienThoai1,
+                                DiDong2 = p.DiDong2,
+                                // p.DTDD,
+                                DienThoai = p.DienThoai,
+                                Phone2 = p.Phone2,
+                                //  DienThoai1 = Common.Right(p.DienThoai1, 3),
+                                // DiDong2 = Common.Right(p.DiDong2, 3),
+                                PhiMoiGioi = p.PhiMoiGioi,
+                                ThanhTienMG = p.ThanhTienMG,
+                                TenTT = p.TenTT,
+                                ThuongHieu = p.ThuongHieu,
+                                HoTenKH = p.HoTenKH,
+                                // p.DienThoai,
+                                //p.Phone2,
+                                // DienThoai = Common.Right(p.DienThoai, 3), // không check thì ko dc xem 3 số 
+                                // Phone2 = Common.Right(p.Phone2, 3),
+                                PhiMG = p.PhiMG,
+                                ThanhTienMGMT = p.ThanhTienMGMT,
+                                TenNC = p.TenNC,
+                                MaBC = p.MaBC,
+                                MaMT = p.MaMT,
+                                MaKH = p.MaKH,
+                                MaKHBC = p.MaKHBC,
+                                StartDate = p.StartDate,
+                                UpdateDate = p.UpdateDate,
+                                PhiMGCT = p.PhiMGCT,
+                                PhiMGCL = p.PhiMGCL,
+                                PhiMGCTMua = p.PhiMGCTMua,
+                                PhiMGDTMua = p.PhiMGDTMua,
+                                Color = p.Color,
+                                HoTenNLH = p.HoTenNLH,
+                                DTDD = "",
+                                HoTenNVN = p.HoTenNVN,
+                                Code = p.Code,
+                                StatusEndDate = p.StatusEndDate,
+                                OverTime = p.OverTime,
+                                StatusOverTime = p.StatusOverTime
+
+                            }).ToList();
+                        }
+                        else
+                        {
+                            data = db.gdGetManagerGiaoDichV3(tuNgay, denNgay, MaNV, true, MaNV, -1, -1, arrMaTT, arrMaNV).Select(p => new GiaoDichV3Result
+                            {
+                                ID = p.ID,
+                                STT = p.STT,
+                                MaLoai = p.MaLoai,
+                                DiaChi = p.DiaChi,
+                                DacTrung = p.DacTrung,
+                                GhiChu = p.GhiChu,
+                                LinkAnh = p.LinkAnh, //== "Không có ảnh" ? BEE.HoatDong.Properties.Resources.white : BEE.HoatDong.Properties.Resources._58_image,
+                                ToaDo = p.ToaDo,
+                                HoTenKHBC = p.HoTenKHBC,
+                                DienThoai1 = p.DienThoai1,
+                                DiDong2 = p.DiDong2,
+                                // p.DTDD,
+                                DienThoai = p.DienThoai,
+                                Phone2 = p.Phone2,
+                                //  DienThoai1 = Common.Right(p.DienThoai1, 3),
+                                // DiDong2 = Common.Right(p.DiDong2, 3),
+                                PhiMoiGioi = p.PhiMoiGioi,
+                                ThanhTienMG = p.ThanhTienMG,
+                                TenTT = p.TenTT,
+                                ThuongHieu = p.ThuongHieu,
+                                HoTenKH = p.HoTenKH,
+                                // p.DienThoai,
+                                //p.Phone2,
+                                // DienThoai = Common.Right(p.DienThoai, 3), // không check thì ko dc xem 3 số 
+                                // Phone2 = Common.Right(p.Phone2, 3),
+                                PhiMG = p.PhiMG,
+                                ThanhTienMGMT = p.ThanhTienMGMT,
+                                TenNC = p.TenNC,
+                                MaBC = p.MaBC,
+                                MaMT = p.MaMT,
+                                MaKH = p.MaKH,
+                                MaKHBC = p.MaKHBC,
+                                StartDate = p.StartDate,
+                                UpdateDate = p.UpdateDate,
+                                PhiMGCT = p.PhiMGCT,
+                                PhiMGCL = p.PhiMGCL,
+                                PhiMGCTMua = p.PhiMGCTMua,
+                                PhiMGDTMua = p.PhiMGDTMua,
+                                Color = p.Color,
+                                HoTenNLH = p.HoTenNLH,
+                                DTDD = Common.Right1(p.DTDD, 3),
+                                HoTenNVN = p.HoTenNVN,
+                                Code = p.Code,
+                                StatusEndDate = p.StatusEndDate,
+                                OverTime = p.OverTime,
+                                StatusOverTime = p.StatusOverTime
+
+                            }).ToList();
+                        }
+                        break;
+
+                    default:
+                        gcDaChao.DataSource = null;
+                        break;
+
+                }
+                _cache.StringSet(cacheKey, JsonConvert.SerializeObject(data), CacheDuration);
+                gcDaChao.DataSource = data;
+                wait.Close();
+            }
         }
 
         void BaoCao_Load()
@@ -140,6 +1154,9 @@ namespace BEE.HoatDong.MGL.XuLy
             var arrMaNV = "," + strMaNV + ",";
             int MaNV = Common.StaffID;
             var wait = DialogBox.WaitingForm();
+
+
+
             try
             {
                 if (itemTuNgay.EditValue == null || itemDenNgay.EditValue == null)
@@ -166,7 +1183,7 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenKHBC,
                                 p.DienThoai1,
                                 p.DiDong2,
-                                p.DTDD,
+                                // p.DTDD,
                                 p.DienThoai,
                                 p.Phone2,
                                 //  DienThoai1 = Common.Right(p.DienThoai1, 3),
@@ -195,7 +1212,7 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.PhiMGDTMua,
                                 p.Color,
                                 p.HoTenNLH,
-                                //DTDD = Common.Right(p.DTDD, 3),
+                                DTDD = Common.Right(p.DTDD, 3),
                                 p.HoTenNVN,
                                 p.Code,
                                 p.StatusEndDate,
@@ -219,7 +1236,7 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenKHBC,
                                 p.DienThoai1,
                                 p.DiDong2,
-                                p.DTDD,
+                                // p.DTDD,
                                 p.DienThoai,
                                 p.Phone2,
                                 // DienThoai1 = Common.Right1(p.DienThoai1, 3),
@@ -246,14 +1263,14 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.PhiMGDTMua,
                                 p.Color,
                                 p.HoTenNLH,
-                                // DTDD = Common.Right1(p.DTDD, 3),
+                                DTDD = Common.Right1(p.DTDD, 3),
                                 p.HoTenNVN,
                                 p.Code,
                                 p.StatusEndDate,
                                 p.OverTime,
                                 p.StatusOverTime
                             });
-                           
+
 
                         }
                         else if (obj.DienThoaiAn == false)
@@ -363,7 +1380,7 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenKHBC,
                                 p.DienThoai1,
                                 p.DiDong2,
-                                p.DTDD,
+                                // p.DTDD,
                                 p.DienThoai,
                                 p.Phone2,
                                 // DienThoai1 = Common.Right(p.DienThoai1, 3),
@@ -390,7 +1407,7 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.PhiMGDTMua,
                                 p.Color,
                                 p.HoTenNLH,
-                                // DTDD = Common.Right(p.DTDD, 3),
+                                DTDD = Common.Right(p.DTDD, 3),
                                 p.HoTenNVN,
                                 p.Code,
                                 p.StatusEndDate,
@@ -413,7 +1430,7 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenKHBC,
                                 p.DienThoai1,
                                 p.DiDong2,
-                                p.DTDD,
+                                // p.DTDD,
                                 p.DienThoai,
                                 p.Phone2,
                                 // DienThoai1 = Common.Right1(p.DienThoai1, 3),
@@ -440,7 +1457,7 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.PhiMGDTMua,
                                 p.Color,
                                 p.HoTenNLH,
-                                // DTDD = Common.Right1(p.DTDD, 3),
+                                DTDD = Common.Right1(p.DTDD, 3),
                                 p.HoTenNVN,
                                 p.Code,
                                 p.StatusEndDate,
@@ -531,7 +1548,7 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.PhiMGDTMua,
                                 p.Color,
                                 p.HoTenNLH,
-                                p.DTDD,
+                                DTDD = Common.Right1(p.DTDD, 3),
                                 p.HoTenNVN,
                                 p.Code,
                                 p.StatusEndDate,
@@ -556,7 +1573,7 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenKHBC,
                                 p.DienThoai1,
                                 p.DiDong2,
-                                p.DTDD,
+                                // p.DTDD,
                                 p.DienThoai,
                                 p.Phone2,
                                 // DienThoai1 = Common.Right(p.DienThoai1, 3),
@@ -583,7 +1600,7 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.PhiMGDTMua,
                                 p.Color,
                                 p.HoTenNLH,
-                                // DTDD = Common.Right(p.DTDD, 3),
+                                DTDD = Common.Right(p.DTDD, 3),
                                 p.HoTenNVN,
                                 p.Code,
                                 p.StatusEndDate,
@@ -606,7 +1623,7 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenKHBC,
                                 p.DienThoai1,
                                 p.DiDong2,
-                                p.DTDD,
+                                // p.DTDD,
                                 p.DienThoai,
                                 p.Phone2,
                                 // DienThoai1 = Common.Right1(p.DienThoai1, 3),
@@ -633,7 +1650,7 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.PhiMGDTMua,
                                 p.Color,
                                 p.HoTenNLH,
-                                //DTDD = Common.Right1(p.DTDD, 3),
+                                DTDD = Common.Right1(p.DTDD, 3),
                                 p.HoTenNVN,
                                 p.Code,
                                 p.StatusEndDate,
@@ -724,7 +1741,8 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.PhiMGDTMua,
                                 p.Color,
                                 p.HoTenNLH,
-                                p.DTDD,
+                                // p.DTDD,
+                                DTDD = Common.Right1(p.DTDD, 3),
                                 p.HoTenNVN,
                                 p.Code,
                                 p.StatusEndDate,
@@ -749,7 +1767,7 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenKHBC,
                                 p.DienThoai1,
                                 p.DiDong2,
-                                p.DTDD,
+                                // p.DTDD,
                                 p.DienThoai,
                                 p.Phone2,
                                 // DienThoai1 = Common.Right(p.DienThoai1, 3),
@@ -776,7 +1794,7 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.PhiMGDTMua,
                                 p.Color,
                                 p.HoTenNLH,
-                                //DTDD = Common.Right(p.DTDD, 3),
+                                DTDD = Common.Right(p.DTDD, 3),
                                 p.HoTenNVN,
                                 p.Code,
                                 p.StatusEndDate,
@@ -799,7 +1817,7 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.HoTenKHBC,
                                 p.DienThoai1,
                                 p.DiDong2,
-                                p.DTDD,
+                                // p.DTDD,
                                 p.DienThoai,
                                 p.Phone2,
                                 // DienThoai1 = Common.Right1(p.DienThoai1, 3),
@@ -826,7 +1844,7 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.PhiMGDTMua,
                                 p.Color,
                                 p.HoTenNLH,
-                                //DTDD = Common.Right1(p.DTDD, 3),
+                                DTDD = Common.Right1(p.DTDD, 3),
                                 p.HoTenNVN,
                                 p.Code,
                                 p.StatusEndDate,
@@ -917,7 +1935,7 @@ namespace BEE.HoatDong.MGL.XuLy
                                 p.PhiMGDTMua,
                                 p.Color,
                                 p.HoTenNLH,
-                                DTDD = p.DTDD,
+                                DTDD = Common.Right1(p.DTDD, 3),
                                 p.HoTenNVN,
                                 p.Code,
                                 p.StatusEndDate,
@@ -1162,32 +2180,32 @@ namespace BEE.HoatDong.MGL.XuLy
                         #endregion
                         break;
                     case 3:
-                        
+
 
                         var listNhatKyMT = (from p in db.mglmtNhatKyXuLies
-                                          join nv in db.NhanViens on p.MaNVG equals nv.MaNV into nhanvien
-                                          from nv in nhanvien.DefaultIfEmpty()
-                                          join nv1 in db.NhanViens on p.MaNVN equals nv1.MaNV into nhanvien1
-                                          from nv1 in nhanvien1.DefaultIfEmpty()
-                                          join pt in db.PhuongThucXuLies on p.MaPT equals pt.MaPT into phuongthuc
-                                          from pt in phuongthuc.DefaultIfEmpty()
-                                          where p.MaMT == maMT
-                                          orderby p.NgayXL descending
+                                            join nv in db.NhanViens on p.MaNVG equals nv.MaNV into nhanvien
+                                            from nv in nhanvien.DefaultIfEmpty()
+                                            join nv1 in db.NhanViens on p.MaNVN equals nv1.MaNV into nhanvien1
+                                            from nv1 in nhanvien1.DefaultIfEmpty()
+                                            join pt in db.PhuongThucXuLies on p.MaPT equals pt.MaPT into phuongthuc
+                                            from pt in phuongthuc.DefaultIfEmpty()
+                                            where p.MaMT == maMT
+                                            orderby p.NgayXL descending
 
-                                          select new
-                                          {
-                                              p.ID,
-                                              p.NgayXL,
-                                              p.TieuDe,
-                                              p.MaTT,
-                                              p.NoiDung,
-                                              //p.PhuongThucXuLy.TenPT,
-                                              p.MaNVG,
-                                              HoTenNVG = nv.HoTen,
-                                              HoTenNVN = nv1.HoTen,
-                                              p.KetQua,
-                                              pt.TenPT
-                                          }).ToList();
+                                            select new
+                                            {
+                                                p.ID,
+                                                p.NgayXL,
+                                                p.TieuDe,
+                                                p.MaTT,
+                                                p.NoiDung,
+                                                //p.PhuongThucXuLy.TenPT,
+                                                p.MaNVG,
+                                                HoTenNVG = nv.HoTen,
+                                                HoTenNVN = nv1.HoTen,
+                                                p.KetQua,
+                                                pt.TenPT
+                                            }).ToList();
                         gcNhatKyMT.DataSource = listNhatKyMT;
                         break;
                 }
@@ -1199,17 +2217,30 @@ namespace BEE.HoatDong.MGL.XuLy
         {
             cklNhanVien2.DataSource = db.NhanViens;
             lookTrangThai.DataSource = db.mglmtTrangThais;
-           ckTrangThai.DataSource = db.mglTrangThaiGiaoDiches.Select(p=> new { p.Ord, p.MaLoai,TenTT = p.Code == null? p.TenTT :  "("+p.Code.ToString()+") "+p.TenTT}).OrderBy(p=>p.Ord);
-            ckNhanVien.DataSource = db.NhanViens.Select(p => new { p.MaNV, HoTen = p.MaSo == null ? p.HoTen : p.HoTen + " (" + p.MaSo.ToString() + ")" });
+            var tt = db.mglTrangThaiGiaoDiches.Select(p => new { p.Ord, p.isSelect, p.MaLoai, TenTT = p.Code == null ? p.TenTT : "(" + p.Code.ToString() + ") " + p.TenTT }).OrderBy(p => p.Ord);
+            ckTrangThai.DataSource = tt;
+            ckTTNhanVien.DataSource = db.NhanVien_TinhTrangs.Select(p => new { p.MaTT, p.TenTT });
             lkTrangThaiv1.DataSource = db.mglbcTrangThais;
-           it.KyBaoCaoCls objKBC = new it.KyBaoCaoCls();
+            it.KyBaoCaoCls objKBC = new it.KyBaoCaoCls();
             objKBC.Initialize(cmbKyBaoCao);
             SetDate(0);
             //itemTuNgay.EditValue = new DateTime(2012, 5, 28);
             itemTuNgay.EditValue = DateTime.Now.AddDays(-1);
             itemNhanVien.EditValue = Common.StaffID.ToString();
-           // ckNhanVien.value = Common.StaffID;
+            // ckNhanVien.value = Common.StaffID;
             LoadPermission();
+
+            itemTTNhanVien.EditValue = "1";
+            var select = tt.Where(p => p.isSelect == true).Select(p => p.MaLoai);
+
+            // Biến đổi danh sách select thành chuỗi cách nhau bởi dấu phẩy
+            string result = string.Join(", ", select);
+
+            // Gán chuỗi kết quả vào control itemTrangThai
+            itemTrangThai.EditValue = result;
+
+
+
         }
 
         private void itemNap_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
@@ -1541,21 +2572,21 @@ namespace BEE.HoatDong.MGL.XuLy
 
 
                     // nếu trạng thái đã chào ghi nhận cả ngày bđ và update, còn các trạng thái sau thì chỉ cần update
-                   if(frm.MaLoai == 1)
+                    if (frm.MaLoai == 1)
                     {
                         obj.StartDate = DateTime.Now;
                         obj.UpdateDate = DateTime.Now;
                     }
-                   else
+                    else
                     {
                         obj.UpdateDate = DateTime.Now;
-                    }    
-                   
+                    }
+
 
                     obj.MaLoai = frm.MaLoai;
 
                     // người chào hoặc xử lý sau không được cập nhật là nhân viên viên cuối cùng (bỏ update manv)
-                   // obj.MaNV = Common.StaffID;
+                    obj.MaNV = Common.StaffID;
 
                     var objBC = db.mglbcBanChoThues.FirstOrDefault(p => p.MaBC == (int)grvDaChao.GetFocusedRowCellValue("MaBC"));
                     if (objBC != null)
@@ -1625,7 +2656,7 @@ namespace BEE.HoatDong.MGL.XuLy
 
                         e.Appearance.BackColor = System.Drawing.Color.Red;
 
-                       
+
                     }
 
                     else
@@ -1676,7 +2707,7 @@ namespace BEE.HoatDong.MGL.XuLy
                 var total = db.pgcPhieuThus.Where(p => p.GDId == id && p.MaMT != null).Sum(p => p.SoTien);
                 var objMt = db.mglmtMuaThues.FirstOrDefault(p => p.MaMT == (int?)grvDaChao.GetFocusedRowCellValue("MaMT"));
                 var objData = db.mglMTSanPhams.FirstOrDefault(p => p.ID == id);
-                
+
                 if (objData != null && objMt != null)
                 {
                     objData.PhiMGDTMua = total;
@@ -1725,6 +2756,82 @@ namespace BEE.HoatDong.MGL.XuLy
                 frm.ShowDialog();
             }
 
+        }
+
+        private void itemTTNhanVien_EditValueChanged(object sender, EventArgs e)
+        {
+            using (var db = new MasterDataContext())
+            {
+                var st = itemTTNhanVien.EditValue?.ToString(); // Kiểm tra null trước khi gọi ToString()
+                if (!string.IsNullOrEmpty(st))
+                {
+                    var maTTList = st.Split(new[] { ',' }, StringSplitOptions.RemoveEmptyEntries);
+
+                    // Kiểm tra xem maTTList có phần tử nào không
+                    if (maTTList.Any())
+                    {
+                        var maTinhTrangIntList = maTTList.Select(mt => byte.Parse(mt.Trim())).ToList(); // Chuyển đổi sang List<int>
+
+                        var data = db.NhanViens
+                            .Where(p => maTinhTrangIntList.Contains(p.MaTinhTrang ?? 0)) // Sử dụng danh sách int để so sánh trực tiếp
+                            .Select(p => new
+                            {
+                                p.MaNV,
+                                HoTen = p.MaSo == null ? p.HoTen : p.HoTen + " (" + p.MaSo.ToString() + ")"
+                            })
+                            .ToList();
+
+                        ckNhanVien.DataSource = data;
+                    }
+                    else
+                    {
+                        // Xử lý trường hợp maTTList không có phần tử
+                        ckNhanVien.DataSource = null;
+                    }
+                }
+                //try
+                //{
+                //    var st = itemTTNhanVien.EditValue.ToString();
+                //    var maTTList = st.Split(new[] { ',' }, StringSplitOptions.RemoveEmptyEntries);
+                //    // Lấy danh sách nhân viên
+                //    var data = db.NhanViens
+                //         .Where(p => maTTList.Contains(p.MaTinhTrang.ToString()))
+                //         .Select(p => new {
+                //             p.MaNV,
+                //             HoTen = p.MaSo == null ? p.HoTen : p.HoTen + " (" + p.MaSo.ToString() + ")"
+                //         })
+                //         .ToList();
+                //    ckNhanVien.DataSource = data;
+                //}
+                //catch
+                //{
+
+                //}
+
+            }
+
+
+        }
+
+        private void itemNhanVien_EditValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnLoad2_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            var obj = db.mglbcPhanQuyens.Single(p => p.MaNV == Common.StaffID);
+            var tuNgay = (DateTime?)itemTuNgay.EditValue ?? DateTime.Now;
+            var denNgay = (DateTime?)itemDenNgay.EditValue ?? DateTime.Now;
+            var strMaTT = (itemTrangThai.EditValue ?? "").ToString().Replace(" ", "");
+            var arrMaTT = "," + strMaTT + ",";
+            var strMaNV = (itemNhanVien.EditValue ?? "").ToString().Replace(" ", "");
+            var arrMaNV = "," + strMaNV + ",";
+            int MaNV = Common.StaffID;
+            var wait = DialogBox.WaitingForm();
+            //oadData(tuNgay, denNgay, MaNV, arrMaTT, arrMaNV);
+            BaoCao_Load_Cache();
+            wait.Close();
         }
     }
 }

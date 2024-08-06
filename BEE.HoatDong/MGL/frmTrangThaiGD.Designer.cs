@@ -45,6 +45,7 @@
             this.spinOder = new DevExpress.XtraEditors.SpinEdit();
             this.txtColor = new DevExpress.XtraEditors.ColorEdit();
             this.labelControl2 = new DevExpress.XtraEditors.LabelControl();
+            this.ckSelect = new System.Windows.Forms.CheckBox();
             ((System.ComponentModel.ISupportInitialize)(this.imageCollection1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtTenHuong.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.panelControl1)).BeginInit();
@@ -60,7 +61,7 @@
             this.btnHuy.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnHuy.ImageOptions.ImageIndex = 4;
             this.btnHuy.ImageOptions.ImageList = this.imageCollection1;
-            this.btnHuy.Location = new System.Drawing.Point(287, 200);
+            this.btnHuy.Location = new System.Drawing.Point(287, 208);
             this.btnHuy.Name = "btnHuy";
             this.btnHuy.Size = new System.Drawing.Size(79, 23);
             this.btnHuy.TabIndex = 3;
@@ -94,7 +95,7 @@
             // 
             this.btnDongY.ImageOptions.ImageIndex = 6;
             this.btnDongY.ImageOptions.ImageList = this.imageCollection1;
-            this.btnDongY.Location = new System.Drawing.Point(190, 200);
+            this.btnDongY.Location = new System.Drawing.Point(190, 208);
             this.btnDongY.Name = "btnDongY";
             this.btnDongY.Size = new System.Drawing.Size(91, 23);
             this.btnDongY.TabIndex = 2;
@@ -118,6 +119,7 @@
             // 
             // panelControl1
             // 
+            this.panelControl1.Controls.Add(this.ckSelect);
             this.panelControl1.Controls.Add(this.lbNgay);
             this.panelControl1.Controls.Add(this.labelControl5);
             this.panelControl1.Controls.Add(this.spinOverTime);
@@ -131,12 +133,12 @@
             this.panelControl1.Controls.Add(this.labelControl1);
             this.panelControl1.Location = new System.Drawing.Point(12, 10);
             this.panelControl1.Name = "panelControl1";
-            this.panelControl1.Size = new System.Drawing.Size(354, 169);
+            this.panelControl1.Size = new System.Drawing.Size(354, 192);
             this.panelControl1.TabIndex = 9;
             // 
             // lbNgay
             // 
-            this.lbNgay.Location = new System.Drawing.Point(293, 138);
+            this.lbNgay.Location = new System.Drawing.Point(296, 167);
             this.lbNgay.Name = "lbNgay";
             this.lbNgay.Size = new System.Drawing.Size(8, 13);
             this.lbNgay.TabIndex = 18;
@@ -223,13 +225,23 @@
             this.labelControl2.TabIndex = 10;
             this.labelControl2.Text = "Màu";
             // 
+            // ckSelect
+            // 
+            this.ckSelect.AutoSize = true;
+            this.ckSelect.Location = new System.Drawing.Point(107, 133);
+            this.ckSelect.Name = "ckSelect";
+            this.ckSelect.Size = new System.Drawing.Size(68, 17);
+            this.ckSelect.TabIndex = 19;
+            this.ckSelect.Text = "Mặc định";
+            this.ckSelect.UseVisualStyleBackColor = true;
+            // 
             // frmTrangThaiGD
             // 
             this.AcceptButton = this.btnDongY;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.CancelButton = this.btnHuy;
-            this.ClientSize = new System.Drawing.Size(397, 249);
+            this.ClientSize = new System.Drawing.Size(397, 248);
             this.Controls.Add(this.panelControl1);
             this.Controls.Add(this.btnHuy);
             this.Controls.Add(this.btnDongY);
@@ -271,5 +283,6 @@
         private DevExpress.XtraEditors.LabelControl labelControl5;
         private DevExpress.XtraEditors.SpinEdit spinOverTime;
         private DevExpress.XtraEditors.LabelControl lbNgay;
+        private System.Windows.Forms.CheckBox ckSelect;
     }
 }

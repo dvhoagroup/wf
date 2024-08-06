@@ -30,12 +30,12 @@
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmMainNew));
-            DevExpress.Utils.SuperToolTip superToolTip7 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipItem toolTipItem7 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip8 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipItem toolTipItem8 = new DevExpress.Utils.ToolTipItem();
-            DevExpress.Utils.SuperToolTip superToolTip9 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipItem toolTipItem9 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip1 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipItem toolTipItem1 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip2 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipItem toolTipItem2 = new DevExpress.Utils.ToolTipItem();
+            DevExpress.Utils.SuperToolTip superToolTip3 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipItem toolTipItem3 = new DevExpress.Utils.ToolTipItem();
             this.itemSettingState = new DevExpress.XtraBars.Ribbon.RibbonControl();
             this.applicationMenu1 = new DevExpress.XtraBars.Ribbon.ApplicationMenu(this.components);
             this.imageCollection2 = new DevExpress.Utils.ImageCollection(this.components);
@@ -523,6 +523,7 @@
             this.itemSettingState.Images = this.imageCollection2;
             this.itemSettingState.Items.AddRange(new DevExpress.XtraBars.BarItem[] {
             this.itemSettingState.ExpandCollapseItem,
+            this.itemSettingState.SearchEditItem,
             this.itemTG_Update,
             this.itemTG_About,
             this.itemBH_GC_Add,
@@ -902,8 +903,7 @@
             this.itemTrangThaiBDS,
             this.itemTrangThaiBatDongSan,
             this.itemTrangThaiMuaThue,
-            this.frmSetSate,
-            this.itemSettingState.SearchEditItem});
+            this.frmSetSate});
             this.itemSettingState.Location = new System.Drawing.Point(0, 0);
             this.itemSettingState.MaxItemId = 457;
             this.itemSettingState.Name = "itemSettingState";
@@ -2209,9 +2209,9 @@
             this.itemCRM_Customer_List.Caption = "Danh sách";
             this.itemCRM_Customer_List.Id = 51;
             this.itemCRM_Customer_List.Name = "itemCRM_Customer_List";
-            toolTipItem7.Text = "Customer List";
-            superToolTip7.Items.Add(toolTipItem7);
-            this.itemCRM_Customer_List.SuperTip = superToolTip7;
+            toolTipItem1.Text = "Customer List";
+            superToolTip1.Items.Add(toolTipItem1);
+            this.itemCRM_Customer_List.SuperTip = superToolTip1;
             this.itemCRM_Customer_List.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.itemCRM_Customer_List_ItemClick);
             // 
             // itemCRM_Demand_Add
@@ -2227,9 +2227,9 @@
             this.itemCRM_Demand_List.Enabled = false;
             this.itemCRM_Demand_List.Id = 53;
             this.itemCRM_Demand_List.Name = "itemCRM_Demand_List";
-            toolTipItem8.Text = "Demand List";
-            superToolTip8.Items.Add(toolTipItem8);
-            this.itemCRM_Demand_List.SuperTip = superToolTip8;
+            toolTipItem2.Text = "Demand List";
+            superToolTip2.Items.Add(toolTipItem2);
+            this.itemCRM_Demand_List.SuperTip = superToolTip2;
             // 
             // itemCRM_Dictionary_DanhXung
             // 
@@ -2731,9 +2731,9 @@
             this.itemCRM_Quotation.Enabled = false;
             this.itemCRM_Quotation.Id = 145;
             this.itemCRM_Quotation.Name = "itemCRM_Quotation";
-            toolTipItem9.Text = "Quotation List";
-            superToolTip9.Items.Add(toolTipItem9);
-            this.itemCRM_Quotation.SuperTip = superToolTip9;
+            toolTipItem3.Text = "Quotation List";
+            superToolTip3.Items.Add(toolTipItem3);
+            this.itemCRM_Quotation.SuperTip = superToolTip3;
             // 
             // itemCRM_RP_DBQues
             // 
@@ -4434,7 +4434,7 @@
             this.dockPanel1.FloatSize = new System.Drawing.Size(250, 200);
             this.dockPanel1.ID = new System.Guid("3d05a8e9-94aa-481f-b2eb-c0891b39b490");
             this.dockPanel1.ImageOptions.ImageIndex = 17;
-            this.dockPanel1.Location = new System.Drawing.Point(1025, 157);
+            this.dockPanel1.Location = new System.Drawing.Point(0, 0);
             this.dockPanel1.Name = "dockPanel1";
             this.dockPanel1.OriginalSize = new System.Drawing.Size(243, 200);
             this.dockPanel1.SavedDock = DevExpress.XtraBars.Docking.DockingStyle.Right;

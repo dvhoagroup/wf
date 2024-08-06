@@ -237,7 +237,7 @@
             this.xtraTabPage1.Controls.Add(this.labelControl8);
             this.xtraTabPage1.Controls.Add(this.labelControl7);
             this.xtraTabPage1.Name = "xtraTabPage1";
-            this.xtraTabPage1.Size = new System.Drawing.Size(616, 341);
+            this.xtraTabPage1.Size = new System.Drawing.Size(616, 343);
             this.xtraTabPage1.Text = "Thông tin xử lý";
             // 
             // xtraTabPage2

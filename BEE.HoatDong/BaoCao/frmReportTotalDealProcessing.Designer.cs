@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
             this.gcDealProccesing = new DevExpress.XtraGrid.GridControl();
             this.grvDealProccesing = new DevExpress.XtraGrid.Views.Grid.GridView();
             this.colSTT = new DevExpress.XtraGrid.Columns.GridColumn();
@@ -48,7 +47,7 @@
             this.gridColumn9 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.repositoryItemMemoExEdit3 = new DevExpress.XtraEditors.Repository.RepositoryItemMemoExEdit();
             this.chkCheck = new DevExpress.XtraEditors.Repository.RepositoryItemCheckEdit();
-            this.barManager1 = new DevExpress.XtraBars.BarManager(this.components);
+            this.barManager1 = new DevExpress.XtraBars.BarManager();
             this.bar1 = new DevExpress.XtraBars.Bar();
             this.itemKyBaoCao = new DevExpress.XtraBars.BarEditItem();
             this.cmbKyBaoCao = new DevExpress.XtraEditors.Repository.RepositoryItemComboBox();
@@ -92,7 +91,7 @@
             this.gcDealProccesing.RepositoryItems.AddRange(new DevExpress.XtraEditors.Repository.RepositoryItem[] {
             this.repositoryItemMemoExEdit3,
             this.chkCheck});
-            this.gcDealProccesing.Size = new System.Drawing.Size(1180, 648);
+            this.gcDealProccesing.Size = new System.Drawing.Size(1180, 646);
             this.gcDealProccesing.TabIndex = 1;
             this.gcDealProccesing.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.grvDealProccesing});
@@ -436,31 +435,31 @@
             this.barDockControlTop.Dock = System.Windows.Forms.DockStyle.Top;
             this.barDockControlTop.Location = new System.Drawing.Point(0, 0);
             this.barDockControlTop.Manager = this.barManager1;
-            this.barDockControlTop.Size = new System.Drawing.Size(1184, 24);
+            this.barDockControlTop.Size = new System.Drawing.Size(1184, 27);
             // 
             // barDockControlBottom
             // 
             this.barDockControlBottom.CausesValidation = false;
             this.barDockControlBottom.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.barDockControlBottom.Location = new System.Drawing.Point(0, 676);
+            this.barDockControlBottom.Location = new System.Drawing.Point(0, 677);
             this.barDockControlBottom.Manager = this.barManager1;
-            this.barDockControlBottom.Size = new System.Drawing.Size(1184, 20);
+            this.barDockControlBottom.Size = new System.Drawing.Size(1184, 19);
             // 
             // barDockControlLeft
             // 
             this.barDockControlLeft.CausesValidation = false;
             this.barDockControlLeft.Dock = System.Windows.Forms.DockStyle.Left;
-            this.barDockControlLeft.Location = new System.Drawing.Point(0, 24);
+            this.barDockControlLeft.Location = new System.Drawing.Point(0, 27);
             this.barDockControlLeft.Manager = this.barManager1;
-            this.barDockControlLeft.Size = new System.Drawing.Size(0, 652);
+            this.barDockControlLeft.Size = new System.Drawing.Size(0, 650);
             // 
             // barDockControlRight
             // 
             this.barDockControlRight.CausesValidation = false;
             this.barDockControlRight.Dock = System.Windows.Forms.DockStyle.Right;
-            this.barDockControlRight.Location = new System.Drawing.Point(1184, 24);
+            this.barDockControlRight.Location = new System.Drawing.Point(1184, 27);
             this.barDockControlRight.Manager = this.barManager1;
-            this.barDockControlRight.Size = new System.Drawing.Size(0, 652);
+            this.barDockControlRight.Size = new System.Drawing.Size(0, 650);
             // 
             // chkTrangThai
             // 
@@ -476,9 +475,9 @@
             // 
             this.panelControl1.Controls.Add(this.gcDealProccesing);
             this.panelControl1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panelControl1.Location = new System.Drawing.Point(0, 24);
+            this.panelControl1.Location = new System.Drawing.Point(0, 27);
             this.panelControl1.Name = "panelControl1";
-            this.panelControl1.Size = new System.Drawing.Size(1184, 652);
+            this.panelControl1.Size = new System.Drawing.Size(1184, 650);
             this.panelControl1.TabIndex = 6;
             // 
             // frmReportTotalDealProcessing

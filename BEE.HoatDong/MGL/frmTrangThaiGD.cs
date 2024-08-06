@@ -41,6 +41,7 @@ namespace BEE.HoatDong.MGL
                     spinOder.EditValue = objT.Ord;
                     txtCode.Text = objT.Code;
                     spinOverTime.EditValue = objT.OverTime;
+                    ckSelect.Checked = objT.isSelect ?? false;
                 }
             }
             txtTenHuong.Focus();
@@ -67,6 +68,7 @@ namespace BEE.HoatDong.MGL
                     objT.Color = txtColor.Text;
                     objT.Code = txtCode.Text;
                     objT.MaLoai = _matt;
+                    objT.isSelect = ckSelect.Checked;
                     if (spinOverTime.EditValue != null)
                     {
                         objT.OverTime = Convert.ToInt32(spinOverTime.EditValue);
@@ -87,7 +89,8 @@ namespace BEE.HoatDong.MGL
                     objT.TenTT = txtTenHuong.Text;
                     objT.Color = txtColor.Text;
                     objT.Code = txtCode.Text;
-                    if(spinOverTime.EditValue != null)
+                    objT.isSelect = ckSelect.Checked;
+                    if (spinOverTime.EditValue != null)
                     {
                         objT.OverTime = Convert.ToInt32(spinOverTime.EditValue);
                     }

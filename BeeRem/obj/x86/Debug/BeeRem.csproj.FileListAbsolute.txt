@@ -280,7 +280,6 @@ C:\HOALAND\Source Code_winform\DEV19\Source\BeeRem\obj\x86\Debug\BeeRem.csprojAs
 C:\HOALAND\wf\app\BEEREMAHOALAND.exe.config
 C:\HOALAND\wf\app\BEEREMAHOALAND.exe
 C:\HOALAND\wf\app\BEEREMAHOALAND.pdb
-C:\HOALAND\wf\BeeRem\obj\x86\Debug\BeeRem.csprojAssemblyReference.cache
 C:\HOALAND\wf\BeeRem\obj\x86\Debug\BEEREMA.Bank.ctlManager.resources
 C:\HOALAND\wf\BeeRem\obj\x86\Debug\BEEREMA.Bank.frmEditBank.resources
 C:\HOALAND\wf\BeeRem\obj\x86\Debug\BEEREMA.Bank.frmEditCN.resources

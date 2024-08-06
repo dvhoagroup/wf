@@ -6078,6 +6078,7 @@
       <Column Name="Code" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
       <Column Name="[Desc]" Member="Desc" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
       <Column Name="OverTime" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="isSelect" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
     </Type>
   </Table>
   <Function Name="dbo.mglDatCoc_TaoSoDC" Method="mglDatCoc_TaoSoDC">
